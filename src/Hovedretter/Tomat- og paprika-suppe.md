@@ -13,7 +13,7 @@ ingredients:
   - "[[Fetaost]]"
   - "[[Chorizo]]"
   - "[[Paprika]]"
-  - "[[Hvitløksfedd]]"
+  - "[[Hvitløk]]"
   - "[[Rødløk]]"
   - "[[Hakkede tomater]]"
   - "[[Grønnsaksbuljong]]"
@@ -42,7 +42,7 @@ ingredients:
 #ingredient 
 
 - [x] 2 [[Paprika]]
-- [x] 1 [[Hvitløksfedd]]
+- [x] 1 [[Hvitløk]]
 - [x] 1 [[Rødløk]]
 - [x] 1 pk [[Hakkede tomater]]
 - [x] 1 [[Grønnsaksbuljong]]
@@ -56,7 +56,7 @@ ingredients:
 ## Steg
 
 1. Stek hele paprikaer i ovnen ved 210°C i ca. 15 minutter.
-2. Imens kan du kutte opp [[Rødløk]] og [[Hvitløksfedd|hvitløk]] og la dette surre i en gryte sammen med litt
+2. Imens kan du kutte opp [[Rødløk]] og [[Hvitløk|hvitløk]] og la dette surre i en gryte sammen med litt
    olje eller [[smør]] til løken har blitt blank.
 3. Ta paprikaene ut av ovnen, kutt av stilkene med frøene og dra av skinnet langs hele
    paprikaen (bruk gjerne papir). Kutt paprikaene opp i biter og legg til side.

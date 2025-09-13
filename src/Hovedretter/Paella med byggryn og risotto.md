@@ -29,7 +29,7 @@ authors:
 
 #ingredient 
 
-- [x] 1 fedd [[Hvitløksfedd|hvitløk]]
+- [x] 1 fedd [[Hvitløk|hvitløk]]
 - [x] 1 stk [[løk]]
 - [x] 3 stk [[gulrot]]
 - [x] 400 g [[hakkede tomater]]
@@ -43,7 +43,7 @@ authors:
 
 ## Steg
 
-1. Kutt opp [[Hvitløksfedd|hvitløk]], [[løk]] og [[Gulrot|gulrøtter]], og stek [[Hvitløksfedd|hvitløk]] og [[løk]] i ei stekepanne til [[Løk|løken]]
+1. Kutt opp [[Hvitløk|hvitløk]], [[løk]] og [[Gulrot|gulrøtter]], og stek [[Hvitløk|hvitløk]] og [[løk]] i ei stekepanne til [[Løk|løken]]
    er blitt blank. Tilsett [[Gulrot|gulrøttene]] og stek i cirka et minutt til.
 2. Kok opp [[vann]] og [[grønnsaksbuljong]] i en separat kjele.
 3. Tilsett [[Byggryn|byggrynet]] og én fjerdedel av grønnsakskraften i stekepannen. La [[Byggryn|byggrynet]]

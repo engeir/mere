@@ -6,7 +6,7 @@ tags:
   - vegansk
   - vegetar
 authors:
-  - Eirik Rolland Enger
+  - "[[Eirik Rolland Enger]]"
 category:
   - Eirik Rolland Enger
   - HelloFresh
@@ -15,11 +15,11 @@ date: 2024-06-23
 description: 40 | Enkel
 ingredients:
   - "[[Brokkoli]]"
-  - "[[Chilisaus, søt]]"
+  - "[[Chilisaus]]"
   - "[[Gulrot]]"
   - "[[Hoisinsaus]]"
   - "[[Hvetemel]]"
-  - "[[Jasminris]]"
+  - "[[Ris|Jasminris]]"
   - "[[Olivenolje]]"
   - "[[Salt]]"
   - "[[Saltede peanøtter]]"

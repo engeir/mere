@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dejligbakst.md",
+                "file": "HelloFresh.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,20 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dejligbakst"
+              "title": "HelloFresh"
             }
           },
           {
             "id": "b15eb15fd0835d62",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Kjøleskap.base",
-                "viewName": "New"
+                "file": "Hovedretter/Vegetarwok med kebab og ris.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-layout-grid",
-              "title": "Kjøleskap"
+              "icon": "lucide-file",
+              "title": "Vegetarwok med kebab og ris"
             }
           },
           {
@@ -166,8 +177,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,12 +216,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kjøleskap.base",
+                "file": "Hovedretter/Vegetarwok med kebab og ris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Kjøleskap"
+              "title": "Outgoing links from Vegetarwok med kebab og ris"
             }
           },
           {
@@ -305,11 +315,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 463
+    "width": 463,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,40 +338,42 @@
   },
   "active": "b15eb15fd0835d62",
   "lastOpenFiles": [
-    "Hovedretter/Couscoussalat med halloumi.md",
-    "Ingredienser/Halloumi.md",
-    "Hovedretter/Paella med byggryn og risotto.md",
-    "Bakst/Bananpannekaker.md",
-    "bakstt/bananbrod.md",
-    "Ingredienser/Banan.md",
-    "Ingredienser/Havregryn.md",
-    "Ingredienser/Melk.md",
-    "Appelsinboller.md",
-    "Bakst",
-    "bakstt/tante-wallys-hveteboller.md",
-    "bakstt/eltefritt-brod.md",
-    "bakstt",
-    "Ingredienser/Chorizo.md",
     "Hovedretter/Tomat- og paprika-suppe.md",
+    "Hovedretter/Spicy pasta med grønnkål.md",
     "Hovedretter/Spagetti med chorizo.md",
-    "Ingredienser/Spinat.md",
-    "Ingredienser/Rødløk.md",
-    "Ingredienser/Pizzakrydder.md",
-    "Ingredienser/Paprika.md",
-    "Ingredienser/Pepper.md",
-    "Ingredienser/Hvitløksfedd.md",
-    "Ingredienser/Hakkede tomater.md",
-    "Ingredienser/Grønnsaksbuljong.md",
-    "Ingredienser/Fetaost.md",
-    "Ingredienser/Byggryn.md",
-    "Ingredienser/Kruspersille.md",
-    "Ingredienser/Chilikrydder.md",
-    "Kjøleskap.base",
-    "enkel-servering",
-    "Meals",
-    "Ingredienser",
-    "Enkel servering/index.yml",
-    "Enkel servering",
+    "Hovedretter/Rask vietnamesisk-glasert ørret med pak choi-salat og srirachamajones.md",
+    "Hovedretter/Rask kyllingbowl med tabbouleh og tranebær.md",
+    "Hovedretter/Rask kylling i kremete gressløksaus med potetmos og pæresalat.md",
+    "Ingredienser/Kylling.md",
+    "Hovedretter/Pizzatopping pære og spekeskinke.md",
+    "Hovedretter/Pizzadeig.md",
+    "Hovedretter/Pasta Cacio e Pepe.md",
+    "Hovedretter/Pasta à la Vodka.md",
+    "Ingredienser/Fløte.md",
+    "Ingredienser/Hvitløk.md",
+    "Hovedretter/Paella med byggryn og risotto.md",
+    "Hovedretter/Nakkekotelett med ovnsbakte grønnsaker og fetaost.md",
+    "Hovedretter/Minestronesuppe.md",
+    "Hovedretter/Middelhavsinspirert rekegryte med hvitløksris og fersk basilikum.md",
+    "Ingredienser/Pesto.md",
+    "Ingredienser/Reker.md",
+    "Hovedretter/Middelhavsinspirert kylling.md",
+    "Hovedretter/Meksikansk fisketaco med syrlig kålsalat og krydret cajunmajones.md",
+    "Hovedretter/Malaysisk kyllinglaksa med hvitløksris og karristekt pak choi.md",
+    "Ingredienser/Pak choi.md",
+    "Hovedretter/Løksuppe.md",
+    "Ingredienser/Ost.md",
+    "Ingredienser/Brød.md",
+    "Hovedretter/Rask vietnamesisk-glasert ørret med pak choi-salat og srirachamajones.md.tmp.535122.1757788710036",
+    "Hovedretter/Rask kylling i kremete gressløksaus med potetmos og pæresalat.md.tmp.535122.1757788653965",
+    "Hovedretter/Pizzatopping pære og spekeskinke.md.tmp.535122.1757788602205",
+    "Hovedretter/Spicy pasta med grønnkål.md.tmp.535122.1757788436627",
+    "Hovedretter/Pasta Cacio e Pepe.md.tmp.535122.1757788410515",
+    "Hovedretter/Pasta à la Vodka.md.tmp.535122.1757788394515",
+    "Hovedretter/Nakkekotelett med ovnsbakte grønnsaker og fetaost.md.tmp.535122.1757788318652",
+    "Hovedretter/Minestronesuppe.md.tmp.535122.1757788276781",
+    "Hovedretter/Middelhavsinspirert rekegryte med hvitløksris og fersk basilikum.md.tmp.535122.1757788252213",
+    "Hovedretter/Middelhavsinspirert kylling.md.tmp.535122.1757788195166",
     "Attachments/asiatiske-reketacos-med-bang-bang-saus-og-syrlig-pico-de-gallo/asiatiske-reketacos-med-bang-bang-saus-og-syrlig-pico-de-gallo.webp",
     "Attachments/appelsinboller/sjokoladefyll.webp",
     "Attachments/appelsinboller/kjevlet-deig.webp",
@@ -369,8 +382,6 @@
     "Attachments/appelsinboller/appelsinboller2.webp",
     "Attachments/appelsinboller/appelsinboller.webp",
     "Attachments/tomat-paprika-suppe.webp",
-    "Attachments/asiatiske-reketacos-med-bang-bang-saus-og-syrlig-pico-de-gallo",
-    "Attachments/appelsinboller",
     "assets/asiatiske-reketacos-med-bang-bang-saus-og-syrlig-pico-de-gallo/asiatiske-reketacos-med-bang-bang-saus-og-syrlig-pico-de-gallo.webp",
     "assets/appelsinboller/sjokoladefyll.webp",
     "Untitled 1.canvas",
