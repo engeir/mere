@@ -1,13 +1,13 @@
 ---
-description: "20 min | Enkel"
-tag:
+description: 20 min | Enkel
+tags:
   - pasta
 category:
   - middag
   - vegetar
 authors:
-  - name: "Meny"
-    link: "https://meny.no/oppskrifter/Pasta/Spicy-pasta-med-gronnkal/?utm_source=whisk&utm_medium=webapp&utm_campaign=spicy_pasta_med_gr%C3%B8nnk%C3%A5l"
+  - name: Meny
+    link: https://meny.no/oppskrifter/Pasta/Spicy-pasta-med-gronnkal/?utm_source=whisk&utm_medium=webapp&utm_campaign=spicy_pasta_med_gr%C3%B8nnk%C3%A5l
     avatar: ":cook:"
 ---
 

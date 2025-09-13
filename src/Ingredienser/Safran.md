@@ -1,0 +1,1 @@
+Safran er et krydder fra Iran.

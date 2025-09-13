@@ -1,14 +1,14 @@
 ---
-description: "50 | Enkel"
+description: 50 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - hovedrett
-tag:
+tags:
   - fisk
   - ost
   - potet
@@ -57,20 +57,20 @@ Enkel
 
 1. Forvarm ovnen til 240°C/220°C (varmluft). Skjær poteter (uskrelt) i 2 cm båter. Del
    sitron i to. Overfør potetbåter til et stekebrett med bakepapir. Drypp over en skvett
-   olivenolje og sitronsaft. Krydre med oregano og en klype salt og pepper. Bland godt.
+   olivenolje og sitronsaft. Krydre med oregano og en klype salt og [[Pepper]]. Bland godt.
    Bak i ovnen i 25-35 min, eller til møre.
 2. I mellomtiden, skrell og riv hvitløk fint. Riv agurk. Pakk agurk inn i et
    kjøkkenhåndkle og press ut væske. Bland agurk, yoghurt, hvitløk og en klype salt og
-   pepper i en skål.
+   [[Pepper]] i en skål.
 3. Smuldre gresk salatost i en liten skål. Bland inn Middelhavsdrøm, olivenolje og en
-   klype pepper. TIPS: Smuldre gresk salatost så godt som mulig slik at den kan dekke
+   klype [[Pepper]]. TIPS: Smuldre gresk salatost så godt som mulig slik at den kan dekke
    laksen jevnt.
 4. Tørk fisk lett med kjøkkenpapir. Overfør fisk med skinnsiden ned på et stekebrett med
    bakepapir. Topp fisk med gresk salatost. Når potetbåtene har 10 min igjen, sett fisk
    inn i ovnen og bak i 9-10 min, eller til gjennomstekt. TIPS: Fisken er ferdig når
    kjøttet får en matt farge i midten.
 5. Grovhakk tomat. Finhakk rødløk. Bland rødløk, tomat, balsamico, olivenolje, salt og
-   en klype pepper i en skål.
+   en klype [[Pepper]] i en skål.
 6. Anrett fisk, potetbåter og tomatsalat på tallerkener. Anrett en klatt tzatziki på
    siden.
 

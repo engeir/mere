@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - kylling
   - potet
   - vin
@@ -59,10 +59,10 @@ Enkel
 
 1. Kok opp en kjele med lettsaltet vann. Skjær poteter (uskrellet) i 2 cm terninger. Kok
    poteter i 11-13 min, eller til de enkelt kan deles med en kniv. Hell av vannet.
-   Tilsett melk [3 ss | 6 ss], salt [¼ ts | ½ ts] og en klype pepper. Mos med en gaffel
+   Tilsett melk [3 ss | 6 ss], salt [¼ ts | ½ ts] og en klype [[Pepper]]. Mos med en gaffel
    og sett til side under lokk for å holde på varmen.
 2. Bland sennep, honning [1/2 pakke, 2P], olivenolje [1 ss | 2 ss] og en klype salt og
-   pepper i en stor skål.
+   [[Pepper]] i en stor skål.
 3. Grovhakk grønnkål. Tilsett grønnkål og rødkål i skålen med dressing. Masser med
    hendene i 30 sek, til møre.
 4. Skjær kylling i 3 stk biter per person på et eget skjærebrett. Krydre med klype salt.
@@ -72,7 +72,7 @@ Enkel
    rødt.
 5. Finhakk eller press hvitløk. Varm opp stekepannen til middels varme. Tilsett smør [1
    ss | 2 ss], hvitløk, timian [1/2 pakke, 2P] rødvinssaus, kyllingbuljong, vann [1/2 dl
-   | 1 dl] og en klype salt og pepper. Kok i 2-3 min. Tilsett evt. kraft fra kyllingen i
+   | 1 dl] og en klype salt og [[Pepper]]. Kok i 2-3 min. Tilsett evt. kraft fra kyllingen i
    stekepannen. Bland inn kylling.
 6. Anrett potetmos på tallerkener. Topp med kylling og kålsalat. Drypp over rødvinssaus.
 

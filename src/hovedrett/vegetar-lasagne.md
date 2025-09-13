@@ -1,6 +1,6 @@
 ---
-description: "65 min | Enkel"
-tag:
+description: 65 min | Enkel
+tags:
   - pasta
   - sunn
   - enkel
@@ -35,13 +35,13 @@ Enkel
 - 100 g paprika (ca. en hel)
 - 1 ss extra virgin olivenolje
 - Salt
-- Pepper
+- [[Pepper]]
 
 +++ Béchamelsaus
 
 - 5 dl melk
 - 30 g smør
-- 30 g hvetemel
+- 30 g [[hvetemel]]
 - 1 klype muskat
 - 1 klype salt
 
@@ -60,13 +60,13 @@ Enkel
 - 100 g paprika (ca. en hel)
 - 5 dl melk
 - 30 g smør
-- 30 g hvetemel
+- 30 g [[hvetemel]]
 - 1 klype muskat
 - 10 plater Barilla Lasagne
 - 60 g parmesanost
 - 1 ss extra virgin olivenolje
 - Salt
-- Pepper
+- [[Pepper]]
 
 ===
 
@@ -78,12 +78,12 @@ Enkel
 2. Skjær squash, brokkoli og paprika i små biter.
 3. Fres grønnsakene i extra virgin olivenolje i en stekepanne. Grønnsakene skal bli litt
    myke, men fremdeles ha tyggemotstand.
-4. Tilsett Barilla Classicosaus og kok opp under omrøring. Smak til med salt og pepper.
+4. Tilsett Barilla Classicosaus og kok opp under omrøring. Smak til med salt og [[Pepper]].
    Sett til siden.
 
 === Béchamelsaus
 
-5. Smelt smør i en kjele, tilsett hvetemel og rør. La det putre i noen minutter på svak
+5. Smelt smør i en kjele, tilsett [[hvetemel]] og rør. La det putre i noen minutter på svak
    varme.
 6. Varm opp, i en ny kjele, melk med en klype salt og revet muskat.
 7. Tilsett den varme melken i smøret og melet, rør forsiktig og kok opp under omrøring.

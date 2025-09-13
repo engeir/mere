@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - fisk
   - tomat
   - taco
@@ -50,7 +50,7 @@ Enkel
 - 5 g Tex-Mex
 - 50 g Majones
 - ¼ ts Salt (steg 2)
-- 2 ss Hvetemel (steg 2)
+- 2 ss [[Hvetemel]] (steg 2)
 
 ## Steg
 
@@ -58,7 +58,7 @@ Enkel
    tomat. Finhakk rødløk [1/2 stk, 2P]. Skjær jalapeño [1/2 stk, 2P] i tynne skiver.
    Grovhakk koriander. Skjær lime i båter. Skjær sei i 2 cm strimler på et eget
    skjærebrett.
-2. Bland hvetemel [2 ss | 4 ss], Tex-Mex og salt [1/4 ts | 1/2 ts] i en dyp tallerken.
+2. Bland [[hvetemel]] [2 ss | 4 ss], Tex-Mex og salt [1/4 ts | 1/2 ts] i en dyp tallerken.
    Vend sei i paneringen, og overfør til en ren tallerken.
 3. Varm opp en skvett olivenolje i en stekepanne på middels høy varme. Stek sei i 2-3
    min på hver side. TIPS: Fisken er ferdig når kjøttet er melkehvitt og matt.

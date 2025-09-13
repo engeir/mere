@@ -3,6 +3,9 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "authors": "text"
+    "authors": "multitext",
+    "date": "date",
+    "lastmod": "date",
+    "new": "checkbox"
   }
 }

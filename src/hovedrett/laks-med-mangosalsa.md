@@ -1,6 +1,6 @@
 ---
-description: "40 min | Enkel"
-tag:
+description: 40 min | Enkel
+tags:
   - enkel
   - sunn
   - fisk

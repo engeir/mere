@@ -1,14 +1,14 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-25
 category:
   - Eirik Rolland Enger
   - hovedrett
-tag:
+tags:
   - basilikum
   - fløte
   - kylling

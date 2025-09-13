@@ -1,13 +1,13 @@
 ---
-description: "65 min | Middels"
-tag:
+description: 65 min | Middels
+tags:
   - pasta
   - vodka
 category:
   - middag
 authors:
   - name: "@matlagningmedmammsen"
-    link: "https://www.instagram.com/matlagningmedmammsen/"
+    link: https://www.instagram.com/matlagningmedmammsen/
     avatar: ":cook:"
 ---
 
@@ -75,7 +75,7 @@ Middels
     - Kommer det ingen sting på tunga kan du ha i mer chilipulver, men pass på.
     - Er det for beskt, ha i litt sukker (1 ts).
     - Savner du salt så vent til pastaen er i.
-    - Savner du pepper, vent til servering.
+    - Savner du [[Pepper]], vent til servering.
     - Det skal smake mye tomat, er det for lite så ha i litt tomatpuré (1 ss).
     - Det skal smake mye basilikum og persille, hakk opp litt mer om den ikke kjennes.
       Dette skal toppe pastaen, så avvent litt om du er usikker.

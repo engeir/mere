@@ -1,0 +1,14 @@
+formulas:
+  Untitled: ""
+views:
+  - type: table
+    name: Table
+  - type: cards
+    name: New
+    filters:
+      and:
+        - "!ingredients.isEmpty()"
+    order:
+      - file.basename
+    image: note.cover
+    imageFit: contain

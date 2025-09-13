@@ -1,6 +1,6 @@
 ---
-description: "60 min | Middels"
-tag:
+description: 60 min | Middels
+tags:
   - enkel
 category:
   - kake

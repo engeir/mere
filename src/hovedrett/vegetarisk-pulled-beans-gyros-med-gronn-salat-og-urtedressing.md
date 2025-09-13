@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - tomat
   - vegansk
   - vegetar
@@ -57,12 +57,12 @@ Enkel
 1. Dersom du ikke har mikro, forvarm ovnen til 220°C/200°C (varmluft). Del rødløk i to
    og skjær i tynne skiver.
 2. Varm opp en skvett olivenolje i en stekepanne på middels høy varme. Stek pulled
-   beans, rødløk, Hvitløksflørt, salt [1/4 ts | 1/2 ts] og en klype pepper i 3-4 min,
+   beans, rødløk, Hvitløksflørt, salt [1/4 ts | 1/2 ts] og en klype [[Pepper]] i 3-4 min,
    til løken er blank og pulled beans er brunet. Fjern fra varmen.
 3. Plukk blader av salat og riv i mindre stykker. Skjær tomat i tynne skiver. Finhakk
    persille. Finhakk eller press hvitløk [1/2 stk, 2P].
 4. Bland rømme [1/2 pakke, 2P], persille, majones, hvitløk og en skvett vann i en skål.
-   Krydre med en klype salt og pepper.
+   Krydre med en klype salt og [[Pepper]].
 5. Har du mikro, legg tortillabrød på en tallerken og varm i 30-60 sek. Bruker du ovn,
    pakk tortillabrød i folie og varm i 4-5 min.
 6. Fyll tortillabrød med pulled beans, løk, salat og tomat. Drypp over urtedressing.

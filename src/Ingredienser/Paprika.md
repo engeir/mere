@@ -1,0 +1,4 @@
+---
+permalink: paprika
+---
+# Paprika

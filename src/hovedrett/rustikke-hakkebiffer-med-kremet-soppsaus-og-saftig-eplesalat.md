@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - fløte
   - kjøttdeig
   - potet
@@ -59,7 +59,7 @@ Enkel
 
 1. Kok opp saltet vann i en kjele. Skjær poteter (uskrelt) i 3 cm biter. Kok poteter i
    12-15 min, eller til de lett kan stikkes i med en kniv. Hell ut vannet. Krydre med en
-   klype salt og pepper. Sett på lokk og sett til side.
+   klype salt og [[Pepper]]. Sett på lokk og sett til side.
 2. Riv løk [1/2 stk, 2P] grovt. Bland kjøttdeig, løk, egg [1 stk | 2 stk], brødrasp,
    ketchup [1 ss | 2 ss] og salt [1/2 ts | 1 ts] i en skål. Varm opp olivenolje [1 ss |
    2 ss] i en stekepanne på middels høy varme. Form hakkebiffer (3 per person) med en
@@ -73,7 +73,7 @@ Enkel
    Grovhakk persille. Bland eple, selleri, persille og en klype salt i en skål. Tilsett
    en skvett olivenolje om ønskelig.
 5. Senk varmen på stekepannen til lav og tilsett matfløte [1/2 pakke, 2P], soyasaus [1/2
-   pakke, 2P], salt [1/4 ts | 1/2 ts] og en stor klype pepper med soppen. La småkoke til
+   pakke, 2P], salt [1/4 ts | 1/2 ts] og en stor klype [[Pepper]] med soppen. La småkoke til
    servering, ca. 1-2 min. Rett før servering, tilsett smør [1 ss | 2 ss] til kjelen med
    poteter. Bland godt.
 6. Anrett hakkebiff, poteter og salat på tallerkener. Hell soppsaus over hakkebiffene.

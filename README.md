@@ -1,5 +1,7 @@
 # Simple Recipes Cookbook
 
+> Obsidian version follows <https://forum.obsidian.md/t/obsidian-as-recipe-manager-and-shopping-list-tutorial/40799/15>
+
 > _Create your own online cookbook with minimal effort_
 
 This cookbook is generated with the [retype](https://retype.com/) framework. It is
@@ -51,7 +53,7 @@ their website for instructions on how to
 ```bash
 # Use the URL of your fork:
 git clone https://github.com/engeir/simple-recipes-cookbook
-cd simple-recipes-cookbook
+cd simple-recipes-cookbook || exit
 # Installing retype CLI with npm should be as simple as
 # npm install retypeapp --global
 retype start

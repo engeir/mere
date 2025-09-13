@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - fløte
   - ris
   - sjømat
@@ -72,7 +72,7 @@ Enkel
    smak - det er sterkt.
 4. Krydre reker med en klype salt. Tilsett calabresepesto, reker, matfløte [1/2 pakke,
    2P], grønnsaksbuljong og vann [1 dl | 2 dl] til stekepannen. Kok i 3-4 min, eller til
-   sausen har tyknet og rekene er gjennomkokt. Smak til med en klype salt og pepper.
+   sausen har tyknet og rekene er gjennomkokt. Smak til med en klype salt og [[Pepper]].
    TIPS: Rekene er ferdige når de er rosa utenpå og matt i midten.
 5. Rett før servering, rør spinat inn i sausen.
 6. Anrett hvitløksris i dype tallerkener. Topp med kremet rekegryte. Pynt med basilikum

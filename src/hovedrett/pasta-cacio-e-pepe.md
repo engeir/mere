@@ -1,13 +1,13 @@
 ---
-description: "20 min | Middels"
-tag:
+description: 20 min | Middels
+tags:
   - pasta
   - ost
 category:
   - middag
 authors:
-  - name: "Eirik Enger"
-    link: "https://eirik.re"
+  - name: Eirik Enger
+    link: https://eirik.re
     avatar: ":cook:"
 ---
 
@@ -31,12 +31,12 @@ Middels
 - Ca 1 dl kremfløte (kan sløyfes)
 - 50 g vellagret ost, gjerne Holtefjell
 - 50 g parmesan
-- 1 ss pepper
+- 1 ss [[Pepper]]
 - basilikum (kan sløyfes)
 
 ## Steg
 
-1. Kok opp godt saltet vann, og varm imens pepper i en panne.
+1. Kok opp godt saltet vann, og varm imens [[Pepper]] i en panne.
 2. Ha nesten ferdig kokt pasta med litt pastavann i pannen sammen med pepperet, og ha i
    fløten om ønskelig.
 3. Rør inn revet ost og la blandingen stå til den har en kremet konsistens.

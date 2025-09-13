@@ -1,6 +1,6 @@
 ---
-description: "60 min | Middels"
-tag:
+description: 60 min | Middels
+tags:
   - kaffe
   - kake
   - sjokolade
@@ -8,7 +8,7 @@ category:
   - bakst
 authors:
   - name: Lingås
-    link: "http://twitter.com/onlyeirik"
+    link: http://twitter.com/onlyeirik
     avatar: ":cook:"
 ---
 
@@ -36,7 +36,7 @@ Middels
 - 8 dl sukker
 - 2 ts bakepulver
 - 1 ts salt
-- 9 dl hvetemel
+- 9 dl [[hvetemel]]
 - 4 egg
 - 2.5 dl rømme
 
@@ -53,7 +53,7 @@ Middels
 
 ==- Alle ingredienser samlet
 
-- 9 dl hvetemel
+- 9 dl [[hvetemel]]
 - 8 dl sukker
 - 6 ss kremfløte
 - 550 g usaltet smør

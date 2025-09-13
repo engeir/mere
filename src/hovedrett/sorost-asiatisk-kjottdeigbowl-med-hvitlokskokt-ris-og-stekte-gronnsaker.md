@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - kjøttdeig
   - ris
 ---
@@ -63,13 +63,13 @@ Enkel
    tynne halvmåner. Grovhakk pak choi.
 3. Varm opp olivenolje [1/2 ss | 1 ss] i en stekepanne på middels høy varme. Stek gulrot
    i 3-4 min. Tilsett pak choi og stek i 2 min, eller til pak choi faller litt sammen.
-   Krydre med en klype salt og pepper. Overfør til en skål.
+   Krydre med en klype salt og [[Pepper]]. Overfør til en skål.
 4. Tilsett en skvett olivenolje om nødvendig i stekepannen og varm opp på middels høy
    varme. Stek kjøttdeig krydret med Ga-Laksa og salt [¼ ts | ½ ts] i 3-4 min. VIKTIG:
    Kjøttdeigen er ferdig når den er uten antydninger av rødt.
 5. Tilsett grønnsaker tilbake i stekepannen og tilsett soyasaus [½ pakke, 2P] og sukker
    [1 ts | 2 ts]. Rør godt og stek i 1-2 min, til gjennomvarmt. Krydre med en klype salt
-   og pepper.
+   og [[Pepper]].
 6. Anrett hvitløksris i dype tallerkener. Topp med kjøttdeig og stekte grønnsaker. Drypp
    sesammajones over. Pynt med agurk.
 

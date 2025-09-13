@@ -1,6 +1,6 @@
 ---
-description: "25 min | Enkel"
-tag:
+description: 25 min | Enkel
+tags:
   - pasta
   - fløte
   - prosciutto
@@ -9,8 +9,8 @@ tag:
 category:
   - middag
 authors:
-  - name: "Hello Fresh"
-    link: "https://www.hellofresh.no/"
+  - name: Hello Fresh
+    link: https://www.hellofresh.no/
     avatar: ":cook:"
 ---
 

@@ -1,14 +1,14 @@
 ---
-description: "30 min | Enkel"
+description: 30 min | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - ost
   - pasta
   - vegetar
@@ -56,11 +56,11 @@ Enkel
 1. Kok opp godt saltet vann, og kok pasta ca 2 min kortere enn anvist på pakken.
 2. Husk å ta vare på en kopp, ca 2.5 dl pastavann når pastaen er ferdig kokt.
 3. Når pastaen koker lager du pangrattato. Varm først olivenolje i en panne og rist
-   panko i 4 min. Ha i salt og pepper og sett til side i en skål.
+   panko i 4 min. Ha i salt og [[Pepper]] og sett til side i en skål.
 4. I samme pannen, stek sopp oppskåret i tynne skiver, sammen med løk og hvitløk.
 5. Finhakk gressløk og bland den inn med pankoen for å fullføre pangrattatoen.
 6. Rør mornaysaus, grønnsaksbuljong og pastavann inn i soppblandingen.
-7. Ha i pasta og spinat. Krydre med salt og pepper.
+7. Ha i pasta og spinat. Krydre med salt og [[Pepper]].
 8. Serveres med finrevet ost og trøffelolje.
 
 <script type="application/ld+json">

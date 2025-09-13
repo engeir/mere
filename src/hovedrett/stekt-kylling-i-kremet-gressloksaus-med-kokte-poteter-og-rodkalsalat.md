@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - kylling
   - potet
 ---
@@ -64,11 +64,11 @@ Enkel
 4. Varm opp en ny skvett olivenolje (ved behov) i stekepannen på middels høy varme. Stek
    hvitløk og chili i 1 min. Tilsett vann [1/2 dl | 1 dl], kyllingbuljong og salt [1/4
    ts | 1/2 ts]. La putre i 1-2 min. Rør inn creme fraiche [1/2 pakke, 2P], gressløk
-   (spar litt til pynt) og kylling. Varm opp i 1 min. Smak til med salt og pepper. TIPS:
+   (spar litt til pynt) og kylling. Varm opp i 1 min. Smak til med salt og [[Pepper]]. TIPS:
    Tilsett en skvett vann hvis sausen er for tykk.
-5. Bland rødkål med en klype salt og pepper i en skål. Tilsett eventuelt en skvett
+5. Bland rødkål med en klype salt og [[Pepper]] i en skål. Tilsett eventuelt en skvett
    olivenolje. Masser i 1 min. Tilsett eple og bland godt. Hell vannet av kjelen med
-   poteter og bland inn spinat. Smak til med salt og pepper.
+   poteter og bland inn spinat. Smak til med salt og [[Pepper]].
 6. Anrett poteter med spinat, kylling og rødkålsalat på tallerkener. Øs gressløksaus
    over kylling. Pynt med resterende gressløk.
 

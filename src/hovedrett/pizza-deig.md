@@ -1,12 +1,12 @@
 ---
-description: "40 min | Vanskelig"
-tag:
+description: 40 min | Vanskelig
+tags:
   - pizza
 category:
   - middag
 authors:
   - name: "@eirikjoh"
-    link: "https://github.com/eirikjoh"
+    link: https://github.com/eirikjoh
     avatar: ":cook:"
 ---
 

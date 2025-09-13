@@ -1,15 +1,15 @@
 ---
-description: "30 | Enkel"
+description: 30 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - fløte
   - mais
   - pasta
@@ -66,7 +66,7 @@ Enkel
 3. Tilsett grønnsaksbuljong, matfløte [1/2 pakke, 2P] og pastavann. Bland godt. Senk
    varmen til middels. Tilsett tortelloni, spinat og finrevet ost. Riv basilikumblad
    grovt og rør inn. Varm opp i 1-2 min, eller til spinat har trukket seg sammen. Krydre
-   med salt [1/2 ts | 1 ts] og en klype pepper.
+   med salt [1/2 ts | 1 ts] og en klype [[Pepper]].
 4. Anrett tortelloni og saus i skåler. Strø over chiliflak [1/2 pose, 2P] og
    gresskarkjerner. TIPS: Tilsett chili etter smak - det er sterkt!
 

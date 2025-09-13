@@ -1,6 +1,6 @@
 ---
-description: "20 min | Enkel"
-tag:
+description: 20 min | Enkel
+tags:
   - enkel
   - sunn
   - sjømat
@@ -33,7 +33,7 @@ Enkel
 - 3 ss soyasaus
 - 1/2 lime
 - 1 vårløk
-- pepper
+- [[Pepper]]
 
 ## Steg
 

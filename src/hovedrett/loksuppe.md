@@ -1,6 +1,6 @@
 ---
-description: "20 min | Enkel"
-tag:
+description: 20 min | Enkel
+tags:
   - suppe
   - sunn
   - rask

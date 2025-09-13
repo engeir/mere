@@ -1,6 +1,6 @@
 ---
-description: "45 min | Enkel"
-tag:
+description: 45 min | Enkel
+tags:
   - enkel
   - sunn
   - vegetar
@@ -37,7 +37,7 @@ Enkel
 - 2.5 dl / 1 kopp pasta, f.eks. makaroni
 - 1 boks hermetiske kikerter eller bønner
 - 100 g spinat eller grønnkål
-- Salt og pepper etter smak
+- Salt og [[Pepper]] etter smak
 - Revet parmesan til servering (kan sløyfes)
 
 ## Steg
@@ -57,7 +57,7 @@ Enkel
    ![](/static/minestronesuppe/pasta.webp)
 
 5. Rør inn hakket spinat eller grønnkål, og la det koke ut tiden til pastaen.
-6. Smak til med salt og pepper etter smak.
+6. Smak til med salt og [[Pepper]] etter smak.
 7. Server suppen varm, gjerne med litt revet parmesan på toppen.
 
 <script type="application/ld+json">

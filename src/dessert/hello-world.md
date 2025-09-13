@@ -1,5 +1,5 @@
 ---
-tag:
+tags:
   - delicious
   - good
 category:
@@ -7,12 +7,12 @@ category:
 authors:
   - name: Mike Worth
     email: frank@example.com
-    link: "http://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/"
+    link: http://www.mike-worth.com/2013/03/31/baking-a-hello-world-cake/
     avatar: ":cook:"
   - name: Eirik Enger
     avatar: ":writing_hand:"
 description: Hello, World in Chef
-foo: "baz"
+foo: baz
 ---
 
 # Hello, World!

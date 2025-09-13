@@ -1,6 +1,6 @@
 ---
-description: "20 min | Enkel"
-tag:
+description: 20 min | Enkel
+tags:
   - kjøttdeig
   - nudler
   - enkel
@@ -8,8 +8,8 @@ tag:
 category:
   - middag
 authors:
-  - name: "Hello Fresh"
-    link: "https://www.hellofresh.no/"
+  - name: Hello Fresh
+    link: https://www.hellofresh.no/
     avatar: ":cook:"
 ---
 

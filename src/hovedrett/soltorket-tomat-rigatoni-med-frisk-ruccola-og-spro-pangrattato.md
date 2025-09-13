@@ -1,15 +1,15 @@
 ---
-description: "30 | Enkel"
+description: 30 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-26
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - fløte
   - pasta
   - rask
@@ -62,11 +62,11 @@ Enkel
    Spar litt pastavann i en kopp og hell av resten. TIPS: Kokevannet bør være like salt
    som sjøvann. TIPS: 'Al dente' betyr at pastaen er myk med litt tyggemotstand.
 2. I mellomtiden, smelt smør i en stor stekepanne på middels høy varme. Rist panko i 3-4
-   min, eller til gyllent og sprøtt. Krydre med en klype salt og pepper, og sett til
+   min, eller til gyllent og sprøtt. Krydre med en klype salt og [[Pepper]], og sett til
    side. Grovhakk soltørkede tomater, squash og oregano. Skyll ruccola.
 3. Varm opp olivenolje i samme stekepanne brukt til panko på middels høy varme. Tilsett
    squash, soltørkerede tomater, oregano og Mamas Favoritt. Stek i 2-3 min. Rør inn
-   pastavann, matfløte, grønnsaksbuljong, cherrytomat, salt, en klype pepper og sukker.
+   pastavann, matfløte, grønnsaksbuljong, cherrytomat, salt, en klype [[Pepper]] og sukker.
    La putre i 1-2 min, eller til tyknet. Rør inn pasta når den er ferdigkokt. TIPS:
    Tilsett mer pastavann om sausen føles for tykk.
 4. Anrett pasta i skåler. Topp med pangrattato, ruccola og finrevet ost.

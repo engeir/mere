@@ -1,6 +1,6 @@
 ---
-description: "80 min | Middels"
-tag:
+description: 80 min | Middels
+tags:
   - sjokolade
   - gelatin
   - krem
@@ -8,8 +8,8 @@ tag:
 category:
   - dessert
 authors:
-  - name: "Kristine"
-    link: "https://www.detsoteliv.no/om-det-sote-liv"
+  - name: Kristine
+    link: https://www.detsoteliv.no/om-det-sote-liv
     avatar: ":cook:"
 ---
 

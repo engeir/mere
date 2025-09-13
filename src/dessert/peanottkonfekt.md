@@ -1,6 +1,6 @@
 ---
-description: "45 min | Enkel"
-tag:
+description: 45 min | Enkel
+tags:
   - peanøtt
   - sjokolade
   - enkel
@@ -9,7 +9,7 @@ category:
   - konfekt
   - turmat
 authors:
-  - name: "Lise Finckenhagen"
+  - name: Lise Finckenhagen
     avatar: ":cook:"
 ---
 

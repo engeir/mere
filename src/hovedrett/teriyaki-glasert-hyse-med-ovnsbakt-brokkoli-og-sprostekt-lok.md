@@ -1,15 +1,15 @@
 ---
-description: "40 | Enkel"
+description: 40 | Enkel
 authors:
-  - name: "Eirik Rolland Enger (@engeir)"
-    link: "https://github.com/engeir"
-    avatar: "https://avatars.githubusercontent.com/u/38856990?v=4"
+  - name: Eirik Rolland Enger (@engeir)
+    link: https://github.com/engeir
+    avatar: https://avatars.githubusercontent.com/u/38856990?v=4
 date: 2024-06-23
 category:
   - Eirik Rolland Enger
   - HelloFresh
   - hovedrett
-tag:
+tags:
   - fisk
   - ris
 ---
@@ -48,7 +48,7 @@ Enkel
 - ½ ss Smør (steg 1)
 - 3 dl Vann (steg 1)
 - ½ ts Salt (steg 1)
-- 2 ss Hvetemel (steg 3)
+- 2 ss [[Hvetemel]] (steg 3)
 - ½ ts Salt (steg 3)
 - 1 ss Olivenolje (steg 4)
 - 1 ss Smør (steg 5)
@@ -63,10 +63,10 @@ Enkel
    til middels lav varme og la småkoke under lokk i 12 min. Ta kjelen av varmen og la
    hvile i 10 min, eller til risen er myk. TIPS: Ikke fjern lokket mens risen hviler.
 2. I mellomtiden, skjær brokkoli i 2 cm buketter. Skjær stilken i 2 cm biter. Fordel
-   brokkoli på et stekebrett med bakepapir. Krydre med en klype salt og pepper. Drypp
+   brokkoli på et stekebrett med bakepapir. Krydre med en klype salt og [[Pepper]]. Drypp
    over en skvett olivenolje og bland godt. Bak i ovnen i 10-12 min, eller til myke.
-3. Imens brokkoli er i ovnen, bland hvetemel [2 ss | 4 ss], salt [1/ 2 ts | 1 ts] og en
-   klype pepper i en dyp tallerken. Tørk fisken lett med kjøkkenpapir. Dypp fisk i
+3. Imens brokkoli er i ovnen, bland [[hvetemel]] [2 ss | 4 ss], salt [1/ 2 ts | 1 ts] og en
+   klype [[Pepper]] i en dyp tallerken. Tørk fisken lett med kjøkkenpapir. Dypp fisk i
    melblanding på alle sider, til dekket.
 4. Varm opp olivenolje [1 ss | 2 ss] i en stor stekepanne på middels høy varme. Stek
    fisk i 2-3 min på hver side, til gyllen. Sett til side på en tallerken. Imens fisken
