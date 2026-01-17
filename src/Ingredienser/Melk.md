@@ -1,5 +1,5 @@
 ---
-id: Helmelk
+id: Melk
 aliases:
   - melk
   - helmelk
@@ -7,5 +7,4 @@ tags: []
 permalink: melk
 ---
 
-# Helmelk
-
+# Melk

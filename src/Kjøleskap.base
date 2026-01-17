@@ -7,7 +7,7 @@ views:
     name: New
     filters:
       and:
-        - "!ingredients.isEmpty()"
+        - ingredients.containsAny(link("Appelsin"), link("Reker"))
     order:
       - file.basename
     image: note.cover

@@ -26,18 +26,18 @@ permalink: bondelapper
 
 ![](bondelapper/bondelapper.webp)
 
-
 > [!NOTE]
 >
-> [Denne oppskriften](https://norsktradisjonsmat.no/oppskrift/bondelapper-fra-ovre-eiker) er originalt fra [norsk tradisjonsmat](https://norsktradisjonsmat.no).
+> [Denne oppskriften](https://norsktradisjonsmat.no/oppskrift/bondelapper-fra-ovre-eiker)
+> er originalt fra [norsk tradisjonsmat](https://norsktradisjonsmat.no).
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 35 min | 8             | Enkel                   |
+| ------ | ------------ | -------------------- |
+| 35 min | 8            | Enkel                |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 4 stk kokte poteter
 - [x] 1 ts salt
@@ -64,7 +64,8 @@ permalink: bondelapper
 
 > [!success] Tilbehør
 >
-> Om du ønsker tilbehør ved siden av retten kan [[Avokadokrem]] med røkelaks være et godt alternativ.
+> Om du ønsker tilbehør ved siden av retten kan [[Avokadokrem]] med røkelaks være et
+> godt alternativ.
 
 <script type="application/ld+json">
 {

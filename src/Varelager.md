@@ -22,9 +22,11 @@ tags: []
 
 #ingredient
 
+- [x] Melk ^melk
 - [x] Vin ^vin
 - [x] Vodka ^vodka
 - [x] Saft ^saft
+- [x] Øl ^ol
 
 ## Elektronikk
 
@@ -33,10 +35,12 @@ tags: []
 #ingredient
 
 - [x] Appelsin ^appelsin
+- [x] Agurk ^agurk
 - [x] Avokado ^avokado
 - [x] [[Banan]] ^banan
 - [x] Basilikum ^basilikum
 - [x] Mango ^mango
+- [x] Paprika ^paprika
 - [x] Potet ^potet
 - [x] Pære ^paere
 - [x] Salat ^salat
@@ -55,6 +59,11 @@ tags: []
 
 ## Hygiene
 
+#ingredient
+
+- [x] Dorens ^dorens
+- [x] Dopapir ^dopapir
+
 ## I fryseren
 
 #ingredient
@@ -66,6 +75,8 @@ tags: []
 #ingredient
 
 - [x] Bolle ^bolle
+- [x] Oppvaskmaskintabletter ^oppvaskmaskintablett
+- [x] Kjøkkenrull ^kjokkenrull
 
 ## Kjølevarer
 
@@ -75,6 +86,7 @@ tags: []
 
 - [x] Bacon ^bacon
 - [x] Fisk ^fisk
+- [x] Fiskekaker ^fiskekaker
 - [x] Kjøttdeig ^kjottdeig
 - [x] Kylling ^kylling
 - [x] Prosciutto ^prosciutto
@@ -87,7 +99,7 @@ tags: []
 #ingredient
 
 - [x] Byggryn ^byggryn
-- [x] Havregryn ^havregryn
+- [x] [[Havregryn]] ^havregryn
 - [x] [[Hvetemel]] ^hvetemel
 
 ## Meieri
@@ -95,6 +107,7 @@ tags: []
 #ingredient
 
 - [x] Blåmuggost ^blamuggost
+- [x] Brunost ^brunost
 - [x] Egg ^egg
 - [x] Fløte ^flote
 - [x] Halloumi ^halloumi
@@ -132,6 +145,8 @@ tags: []
 - [x] Kaffe ^kaffe
 - [x] Kardemomme ^kardemomme
 - [x] [[Safran]] ^safran
+- [x] Soyasaus ^soyasaus
+- [x] Tacosalsa ^tacosalsa
 
 ---
 

@@ -1,6 +1,9 @@
 ---
 id: Hvetemel
 aliases: []
+permalink: hvetemel
+up:
+  - "[[Mel]]"
 tags: []
 ---
 
@@ -9,4 +12,3 @@ tags: []
 ## Ingredienser
 
 - Hvetemel
-

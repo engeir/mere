@@ -1,42 +1,45 @@
 ---
-description: 5 min | Enkel
+id: Tomat- og mozzarellasalat
+aliases: []
 tags:
+  - tilbehør/enkel
+  - tilbehør/tomat
+  - tilbehør/ost
+  - tilbehør/pasta
+  - tilbehør/basilikum
   - enkel
-  - tomat
-  - ost
-  - pasta
-  - basilikum
-category:
-  - tilbehør
-  - salat
-  - grillmat
-authors:
-  - name: Eirik Enger
-    link: https://eirik.re
-    avatar: ":cook:"
+author:
+  - "[[Eirik Enger]]"
+cover:
+  - static/tomat-salat/tomat-salat.webp
+description: 5 min | Enkel
+ingredients:
+  - "[[Eller en håndfull små tomater|eller en håndfull små tomater]]"
+  - "[[Basilikum|basilikum]]"
+  - "[[Salt og papper|salt og papper]]"
+  - "[[Litt olje|litt olje]]"
+permalink: tomat-og-mozzarellasalat
+up:
+  - Enkel servering
 ---
 
 # Tomat- og mozzarellasalat
 
-![](/static/tomat-salat/tomat-salat.webp)
+![](static/tomat-salat/tomat-salat.webp)
 
-<!-- dprint-ignore-start -->
-||| :timer_clock: Tid
-5 min
-||| :knife_fork_plate: Porsjoner
-2
-||| :cook: Vanskelighetsgrad
-Enkel
-|||
-<!-- dprint-ignore-end -->
+| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ------------ | -------------------- |
+| 5 min  | 2            | Enkel                |
 
 ## Ingredienser
 
-- 2 store eller en håndfull små tomater
-- 2 mozzarella
-- basilikum
-- salt og papper
-- litt olje
+#ingredient
+
+- [x] 2 store eller en håndfull små tomater
+- [x] 2 mozzarella
+- [x] basilikum
+- [x] salt og papper
+- [x] litt olje
 
 ## Steg
 
@@ -46,11 +49,7 @@ Enkel
 
 ## Notater
 
-!!!info
-
-Del gjerne tomatene i skiver slik at stilken står normalt på snittene!
-
-!!!
+> [!info] Del gjerne tomatene i skiver slik at stilken står normalt på snittene!
 
 <script type="application/ld+json">
 {

@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# mise description="Fix misrepresented characters"
+#MISE description="Fix misrepresented characters"
 
 import pathlib
 

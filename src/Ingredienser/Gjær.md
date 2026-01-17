@@ -1,9 +1,10 @@
 ---
 id: Gjær
-aliases: []
+aliases:
+  - fersk gjær
+  - tørrgjær
 tags: []
 permalink: gjaer
 ---
 
 # Gjær
-

@@ -1,8 +1,9 @@
 ---
 id: Jasminris
 aliases: []
+up:
+  - "[[Ris]]"
 tags: []
-permalink: jasminris
 ---
 
 # Jasminris

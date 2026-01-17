@@ -39,8 +39,8 @@ up:
 > er originalt fra [[HelloFresh|Hello Fresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 20 min | 2 | Enkel |
+| ------ | ------------ | -------------------- |
+| 20 min | 2            | Enkel                |
 
 ## Ingredienser
 
@@ -60,13 +60,13 @@ up:
 
 ## Steg
 
-1. Kok opp saltet [[vann]] i en kjele. Kok nudler i 4–6 minutter, eller til de er møre. Spar
-   litt nudelvann og bland tilbake i nudlene sammen med [[hoisinsaus]] når nudlene er
-   ferdig kokt.
-2. Finhakk [[Hvitløk|hvitløk]], skjær [[rødløk]] i tynne skiver, riv uskrelt [[gulrot]] med et rivjern og
-   grovhakk pak choi.
-3. Varm opp en panne med [[olivenolje]] og stek kjøttdeig i to omganger sammen med [[løk]],
-   [[Hvitløk|hvitløk]] og ginger ninja i 4–5 minutter.
+1. Kok opp saltet [[vann]] i en kjele. Kok nudler i 4–6 minutter, eller til de er møre.
+   Spar litt nudelvann og bland tilbake i nudlene sammen med [[hoisinsaus]] når nudlene
+   er ferdig kokt.
+2. Finhakk [[Hvitløk|hvitløk]], skjær [[rødløk]] i tynne skiver, riv uskrelt [[gulrot]]
+   med et rivjern og grovhakk pak choi.
+3. Varm opp en panne med [[olivenolje]] og stek kjøttdeig i to omganger sammen med
+   [[løk]], [[Hvitløk|hvitløk]] og ginger ninja i 4–5 minutter.
 4. Tilsett [[gulrot]], ingefærpasta og litt [[salt]] og stek videre i 2 minutter.
 5. Rør inn pak choi og stek videre til den faller sammen.
 6. Senk varmen og tilsett [[soyasaus]], hoisinnudlene og chiliflak.

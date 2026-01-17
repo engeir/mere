@@ -34,13 +34,13 @@ up:
 
 ![](static/minestronesuppe/minestronesuppe.webp)
 
-| Tid | Porsjoner | Vanskelighetsgrad |
-|-----|-----------|-------------------|
-| 45 min | 3 | Enkel |
+| Tid    | Porsjoner | Vanskelighetsgrad |
+| ------ | --------- | ----------------- |
+| 45 min | 3         | Enkel             |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 2 ss [[olivenolje]]
 - [x] 1 [[løk]]
@@ -58,15 +58,20 @@ up:
 
 ## Steg
 
-1. Varm [[olivenolje]] i en stor gryte over middels varme. Tilsett [[løk]] og [[hvitløk]], og stek til de er myke og gjenomsiktige i ca. 5 minutter.
+1. Varm [[olivenolje]] i en stor gryte over middels varme. Tilsett [[løk]] og
+   [[hvitløk]], og stek til de er myke og gjenomsiktige i ca. 5 minutter.
 
-2. Tilsett [[gulrøtter]], [[selleri]] og [[paprika]], og la det surre i ca. 5 minutter til grønnsakene er litt myke.
+2. Tilsett [[gulrøtter]], [[selleri]] og [[paprika]], og la det surre i ca. 5 minutter
+   til grønnsakene er litt myke.
 
 ![](static/minestronesuppe/i-kjelen.webp)
 
-3. Tilsett [[hermetiske tomater]] og [[grønsaksbuljong]]. Kok opp suppen, reduser varmen og la det småkoke i hvertfall 10 minutter, avhengig av hvor myke grønnsaker du ønsker.
+3. Tilsett [[hermetiske tomater]] og [[grønsaksbuljong]]. Kok opp suppen, reduser varmen
+   og la det småkoke i hvertfall 10 minutter, avhengig av hvor myke grønnsaker du
+   ønsker.
 
-4. Tilsett [[pasta]] og hermetiske [[bønner]], og kok suppen videre til pastaen er al dente, gjerne 1-2 minutter kortere enn anvist på pakken.
+4. Tilsett [[pasta]] og hermetiske [[bønner]], og kok suppen videre til pastaen er al
+   dente, gjerne 1-2 minutter kortere enn anvist på pakken.
 
 ![](static/minestronesuppe/pasta.webp)
 

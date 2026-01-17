@@ -32,8 +32,8 @@ up:
 # Laks med mangosalsa
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 40 min | 2 porsjoner | Enkel |
+| ------ | ------------ | -------------------- |
+| 40 min | 2 porsjoner  | Enkel                |
 
 > [!info]
 >
@@ -41,9 +41,9 @@ up:
 
 ## Ingredienser
 
-#ingredient
-
 ### Laks
+
+#ingredient
 
 - [x] 500 g [[laks]]
 - [x] 2 dl [[ris]]
@@ -52,6 +52,8 @@ up:
 - [x] 1 ts hel [[pepper]]
 
 ### Mangosalsa
+
+#ingredient
 
 - [x] 1/2 [[mango]]
 - [x] 1/2 [[rødløk]]
@@ -69,8 +71,10 @@ up:
 
 1. Sett ovnen på 200°C, og kok opp lettsaltet vann til [[Ris|risen]].
 2. Pensle/ringle litt [[olivenolje]] på [[laks|laksefiletene]].
-3. Støt [[pepper|pepperen]] grovt i en morter og strø over [[laks|laksen]] sammen med litt [[maldonsalt]].
-4. Stek [[laks|laksen]] i ovn i omlag 10 minutter til den såvidt faller fra hverandre. La heller fisken være litt rå enn for mye stekt.
+3. Støt [[pepper|pepperen]] grovt i en morter og strø over [[laks|laksen]] sammen med
+   litt [[maldonsalt]].
+4. Stek [[laks|laksen]] i ovn i omlag 10 minutter til den såvidt faller fra hverandre.
+   La heller fisken være litt rå enn for mye stekt.
 5. Kok opp [[ris]].
 
 ### Mangosalsa

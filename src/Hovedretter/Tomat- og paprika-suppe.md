@@ -24,7 +24,7 @@ ingredients:
   - "[[Spinat]]"
 ---
 
-# Tomat- og paprikasuppe
+# [[Tomat]]- og paprikasuppe
 
 ![[tomat-paprika-suppe.webp]]
 
@@ -33,13 +33,13 @@ ingredients:
 > Denne oppskriften er originalt fra
 > [Sulten](https://sulten.app/recipes/tomat-og-paprikasuppe-med-chorizo-og-fetaost-06f7).
 
-| ⏲️ Tid   | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ----------- | ---------------------- |
-| 35 mins | 2           | Enkel                  |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------- | ------------ | -------------------- |
+| 35 mins | 2            | Enkel                |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 2 [[Paprika]]
 - [x] 1 [[Hvitløk]]
@@ -56,16 +56,16 @@ ingredients:
 ## Steg
 
 1. Stek hele paprikaer i ovnen ved 210°C i ca. 15 minutter.
-2. Imens kan du kutte opp [[Rødløk]] og [[Hvitløk|hvitløk]] og la dette surre i en gryte sammen med litt
-   olje eller [[smør]] til løken har blitt blank.
+2. Imens kan du kutte opp [[Rødløk]] og [[Hvitløk|hvitløk]] og la dette surre i en gryte
+   sammen med litt olje eller [[smør]] til løken har blitt blank.
 3. Ta paprikaene ut av ovnen, kutt av stilkene med frøene og dra av skinnet langs hele
    paprikaen (bruk gjerne papir). Kutt paprikaene opp i biter og legg til side.
-4. Tilsett [[Paprika]], [[Pizzakrydder]], hahakkede tomater, [[vann]] og buljong. La suppen koke i
-   ca. 10–15 minutter.
-5. I mellomtiden kan du kutte opp [[Chorizo]] i terninger og steke dette i ei panne, først
-   alene (gjerne opp mot 10 min. på lav varme), og så mot slutten sammen med [[Spinat]] til
-   spinaten har krympet sammen. Når chorizoen steker passer det også fint å rydde opp
-   alt rotet du har stelt i stand.
+4. Tilsett [[Paprika]], [[Pizzakrydder]], hahakkede tomater, [[vann]] og buljong. La
+   suppen koke i ca. 10–15 minutter.
+5. I mellomtiden kan du kutte opp [[Chorizo]] i terninger og steke dette i ei panne,
+   først alene (gjerne opp mot 10 min. på lav varme), og så mot slutten sammen med
+   [[Spinat]] til spinaten har krympet sammen. Når chorizoen steker passer det også fint
+   å rydde opp alt rotet du har stelt i stand.
 6. Mos suppen med en stavmikser. Smak til med [[salt]] og [[Pepper]].
 7. Server suppen med [[Spinat]]- og chorizoblandinen, og topp med [[Fetaost]].
 
@@ -73,7 +73,8 @@ ingredients:
 
 > [!success]
 >
-> Har du rester igjen? Perfekt! Da kan du lage [[Spagetti med chorizo|spagetti med Chorizo]]!
+> Har du rester igjen? Perfekt! Da kan du lage
+> [[Spagetti med chorizo|spagetti med Chorizo]]!
 
 <script type="application/ld+json">
 {

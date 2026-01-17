@@ -23,13 +23,13 @@ up:
 
 ![](static/pasta-ost-e-pepe/pasta-ost-e-pepe.webp)
 
-| Tid | Porsjoner | Vanskelighetsgrad |
-|-----|-----------|-------------------|
-| 20 min | 2 | Middels |
+| Tid    | Porsjoner | Vanskelighetsgrad |
+| ------ | --------- | ----------------- |
+| 20 min | 2         | Middels           |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 200 g fersk [[pasta]] tagliatelle
 - [x] Ca 1 dl [[kremfløte]] (kan sløyfes)
@@ -42,7 +42,8 @@ up:
 
 1. Kok opp godt saltet vann, og varm imens [[pepper]] i en panne.
 
-2. Ha nesten ferdig kokt [[pasta]] med litt pastavann i pannen sammen med [[pepperet]], og ha i [[fløten]] om ønskelig.
+2. Ha nesten ferdig kokt [[pasta]] med litt pastavann i pannen sammen med [[pepperet]],
+   og ha i [[fløten]] om ønskelig.
 
 3. Rør inn revet [[Ost]] og la blandingen stå til den har en kremet konsistens.
 

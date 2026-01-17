@@ -34,13 +34,13 @@ up:
 > [Denne oppskriften](https://meny.no/oppskrifter/Pasta/Spicy-pasta-med-gronnkal/?utm_source=whisk&utm_medium=webapp&utm_campaign=spicy_pasta_med_gr%C3%B8nnk%C3%A5l)
 > er originalt fra [[Meny]].
 
-| Tid | Porsjoner | Vanskelighetsgrad |
-|-----|-----------|-------------------|
-| 20 min | 2 | Enkel |
+| Tid    | Porsjoner | Vanskelighetsgrad |
+| ------ | --------- | ----------------- |
+| 20 min | 2         | Enkel             |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 200 g [[pasta]] tagliatelle
 - [x] 8 stk kvaster [[grønnkål]]
@@ -59,11 +59,17 @@ up:
 
 1. Forvarm stekeovnen til 180°C.
 
-2. Kle et stekebrett med bakepapir. Dra bladene av [[grønnkålkvastene]], prøv å få med så lite harde stilker som mulig. Fordel halvparten av [[grønnkålbladene]] på stekebrettet. Dryss [[olivenolje]] og [[havsalt]] over. Stek i 8-10 minutter til [[grønnkålen]] begynner å bli mørkere. Pass på at den ikke blir brent.
+2. Kle et stekebrett med bakepapir. Dra bladene av [[grønnkålkvastene]], prøv å få med
+   så lite harde stilker som mulig. Fordel halvparten av [[grønnkålbladene]] på
+   stekebrettet. Dryss [[olivenolje]] og [[havsalt]] over. Stek i 8-10 minutter til
+   [[grønnkålen]] begynner å bli mørkere. Pass på at den ikke blir brent.
 
-3. Finhakk [[chipotle]], [[hvitløk]], [[rosmarin]] og [[sjalottløk]]. Varm opp litt mer [[olivenolje]] i en panne. Ha i [[chipotle]], [[hvitløk]] og [[sjalottløk]], la surre noen minutter. Tilsett [[rosmarin]], la det stå noen minutter til.
+3. Finhakk [[chipotle]], [[hvitløk]], [[rosmarin]] og [[sjalottløk]]. Varm opp litt mer
+   [[olivenolje]] i en panne. Ha i [[chipotle]], [[hvitløk]] og [[sjalottløk]], la surre
+   noen minutter. Tilsett [[rosmarin]], la det stå noen minutter til.
 
-4. Hell i [[tomatene]] og la det koke opp. Ha i [[sukker]] og [[eddik]], skru ned varmen og la småkoke i fem min.
+4. Hell i [[tomatene]] og la det koke opp. Ha i [[sukker]] og [[eddik]], skru ned varmen
+   og la småkoke i fem min.
 
 5. Kok [[pastaen]] etter anvisning på pakken.
 

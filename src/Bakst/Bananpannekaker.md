@@ -1,29 +1,30 @@
 ---
-description: 20 min | Enkel
+id: Bananpannekaker
+aliases: []
 tags:
-  - banan
   - sunn
   - rask
-category:
-  - frokost
-  - turmat
+author:
+  - "[[Eirik Rolland Enger]]"
+cover: []
+description: 20 min | Enkel
+ingredients: []
 permalink: bananpannekaker
-ingredients:
-  - "[[Banan]]"
-  - "[[Havregryn]]"
-  - "[[melk]]"
-  - "[[egg]]"
+up:
+  - Hovedretter
 ---
 
 # Bananpannekaker
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 20 min | 12 små pannekaker |  Enkel          |
+| ⏲️ Tid | 🍽️ Porsjoner      | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------------- | -------------------- |
+| 20 min | 12 små pannekaker | Enkel                |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
+
+#ingredient
 
 - [x] 2 dl lettkokt [[havregryn]]
 - [x] 2 stk. [[Banan|bananer]]

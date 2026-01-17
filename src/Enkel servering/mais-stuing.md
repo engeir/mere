@@ -1,40 +1,47 @@
 ---
-description: 15 min | Enkel
+id: Maisstuing
+aliases: []
 tags:
+  - tilbehør/enkel
+  - tilbehør/mais
   - enkel
-  - mais
-category:
-  - tilbehør
-  - grillmat
-authors:
-  - name: Lise Finckenhagen
-    link: https://www.godt.no/bruker/15/lise-finckenhagen
-    avatar: ":cook:"
+author:
+  - "[[Lise Finckenhagen]]"
+cover:
+  - static/mais-stuing/mais-stuing.webp
+description: 15 min | Enkel
+ingredients:
+  - "[[Eller 1 stor boks mais|eller 1 stor boks mais]]"
+  - "[[Kremfløte|kremfløte]]"
+  - "[[Hvitløk|hvitløk]]"
+  - "[[Salt og papper|salt og papper]]"
+  - "[[Smør|smør]]"
+permalink: maisstuing
+up:
+  - Enkel servering
 ---
 
 # Maisstuing
 
-![](/static/mais-stuing/mais-stuing.webp)
+![](static/mais-stuing/mais-stuing.webp)
 
-[!ref target="blank" text="Originaloppskrift"](https://www.godt.no/oppskrifter/groennsaker/6944/maispure-kremet-mais)
+> [!info]
+>
+> [Originaloppskrift](https://www.godt.no/oppskrifter/groennsaker/6944/maispure-kremet-mais)
 
-<!-- dprint-ignore-start -->
-||| :timer_clock: Tid
-15 min
-||| :knife_fork_plate: Porsjoner
-4
-||| :cook: Vanskelighetsgrad
-Enkel
-|||
-<!-- dprint-ignore-end -->
+| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ------------ | -------------------- |
+| 15 min | 4            | Enkel                |
 
 ## Ingredienser
 
-- 2 små eller 1 stor boks mais
-- 1 dl kremfløte
-- 2 fedd hvitløk
-- salt og papper
-- 2 ss smør
+#ingredient
+
+- [x] 2 små eller 1 stor boks mais
+- [x] 1 dl kremfløte
+- [x] 2 fedd hvitløk
+- [x] salt og papper
+- [x] 2 ss smør
 
 ## Steg
 

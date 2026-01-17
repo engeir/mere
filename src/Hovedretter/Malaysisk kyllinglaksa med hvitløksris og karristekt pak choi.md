@@ -37,13 +37,13 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/malaysisk-kyllinglaksa-63ea00ecca6c1c4ae32f59da)
 > er originalt fra [[HelloFresh]].
 
-| Tid | Porsjoner | Vanskelighetsgrad |
-|-----|-----------|-------------------|
-| 40 | 2 servings | Enkel |
+| Tid | Porsjoner  | Vanskelighetsgrad |
+| --- | ---------- | ----------------- |
+| 40  | 2 servings | Enkel             |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 150 g [[Jasminris]]
 - [x] 25 ml [[Soyasaus]]
@@ -62,26 +62,35 @@ up:
 
 ## Steg
 
-1. Press eller finhakk [[Hvitløk|hvitløk]]. Smelt [[smør]] [1 ss | 2 ss] i en stor kjele på middels høy varme. Stek [[Hvitløk|hvitløk]] i 1-2 min. Tilsett [[vann]] [3 dl | 6 dl] og kok opp. Tilsett [[ris]] og [[salt]] [1/2 ts | 1 ts] og kok under lokk på lav varme i 12 min. Skru av varmen og la hvile under lokk i 10 min, eller til vannet er absorbert.
+1. Press eller finhakk [[Hvitløk|hvitløk]]. Smelt [[smør]] [1 ss | 2 ss] i en stor kjele
+   på middels høy varme. Stek [[Hvitløk|hvitløk]] i 1-2 min. Tilsett [[vann]] [3 dl | 6
+   dl] og kok opp. Tilsett [[ris]] og [[salt]] [1/2 ts | 1 ts] og kok under lokk på lav
+   varme i 12 min. Skru av varmen og la hvile under lokk i 10 min, eller til vannet er
+   absorbert.
 
    > [!tip]
-   > 
+   >
    > Ikke fjern lokket, risen skal dampes.
 
 2. Grovhakk [[paprika]] (uten frø) og [[pak choi]]. Skjær [[lime]] i båter.
 
-3. Varm opp [[olivenolje]] [1 ss | 2 ss] i en stekepanne på middels høy varme. Stek [[kylling]] i 2-3 min, til brunet. Krydre med en klype [[salt]] og [[pepper]]. Sett til side på en tallerken.
+3. Varm opp [[olivenolje]] [1 ss | 2 ss] i en stekepanne på middels høy varme. Stek
+   [[kylling]] i 2-3 min, til brunet. Krydre med en klype [[salt]] og [[pepper]]. Sett
+   til side på en tallerken.
 
    > [!tip]
-   > 
+   >
    > Kyllingen blir stekt ferdig i steg 5.
 
 4. Tilsett [[paprika]], [[curry-on]] og [[ga-Laksa]] og stek i 2-3 min.
 
-5. Tilsett [[kokosmelk]], [[soyasaus]], en skvett [[lime|limesaft]] og [[kylling]]. La putre i 3-4 min. Tilsett [[pak choi]] det siste minuttet. Smak til med [[salt]] og [[pepper]].
+5. Tilsett [[kokosmelk]], [[soyasaus]], en skvett [[lime|limesaft]] og [[kylling]]. La
+   putre i 3-4 min. Tilsett [[pak choi]] det siste minuttet. Smak til med [[salt]] og
+   [[pepper]].
 
    > [!tip]
-   > 
+   >
    > Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
 
-6. Anrett [[ris]] og kyllinglaksa i dype tallerkener. Server resterende limebåter på siden og press en skvett [[Lime|limesaft]] over.
+6. Anrett [[ris]] og kyllinglaksa i dype tallerkener. Server resterende limebåter på
+   siden og press en skvett [[Lime|limesaft]] over.

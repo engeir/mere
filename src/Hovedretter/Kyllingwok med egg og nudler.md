@@ -30,8 +30,8 @@ up:
 # Kyllingwok med egg og nudler
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 20 min | 2 porsjoner | Enkel |
+| ------ | ------------ | -------------------- |
+| 20 min | 2 porsjoner  | Enkel                |
 
 ## Ingredienser
 
@@ -52,8 +52,12 @@ up:
 
 1. Stek [[Kylling|kyllingen]] i en panne til den er ferdig stekt og legg til side.
 2. Begynn å koke opp [[nudler]].
-3. I den samme pannen woker du alle [[wokgrønnsaker|grønnsakene]] (spar [[vårløk|vårløken]] til slutt). Når grønnsakene begynner å bli ferdig tilsetter du [[Kylling|kyllingen]] tilbake igjen. Deretter tilsetter du [[egg|eggene]] og rører om.
-4. Ha [[nudler|nudlene]] sammen med resten av [[Kylling|kyllingen]] og grønnsakene, og smak til med [[soyasaus]], [[Lime]] og [[pepper]]. Topp med [[vårløk]].
+3. I den samme pannen woker du alle [[wokgrønnsaker|grønnsakene]] (spar
+   [[vårløk|vårløken]] til slutt). Når grønnsakene begynner å bli ferdig tilsetter du
+   [[Kylling|kyllingen]] tilbake igjen. Deretter tilsetter du [[egg|eggene]] og rører
+   om.
+4. Ha [[nudler|nudlene]] sammen med resten av [[Kylling|kyllingen]] og grønnsakene, og
+   smak til med [[soyasaus]], [[Lime]] og [[pepper]]. Topp med [[vårløk]].
 
 <script type="application/ld+json">
 {

@@ -26,15 +26,16 @@ up:
 
 ![](static/pizza/pizza-paere.webp)
 
-| Tid | Porsjoner | Vanskelighetsgrad |
-|-----|-----------|-------------------|
-| 5 min | 1 pizza | Enkel |
+| Tid   | Porsjoner | Vanskelighetsgrad |
+| ----- | --------- | ----------------- |
+| 5 min | 1 pizza   | Enkel             |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
-- [x] [[Pære]] (gjerne litt tørre og syrlige, f.eks. en Barlett/Williams, se [her](https://www.frukt.no/ravarer/frukt/parer/))
+- [x] [[Pære]] (gjerne litt tørre og syrlige, f.eks. en Barlett/Williams, se
+      [her](https://www.frukt.no/ravarer/frukt/parer/))
 - [x] [[Spekeskinke]]
 - [x] [[Mozzarella]]
 - [x] [[Blåmuggost]]
@@ -44,12 +45,12 @@ up:
 
 1. Skjær [[pæren]] i ganske tynne skiver, og forsten bunnen med kun pæreskivene.
 
-2. Legg på [[spinat]], litt [[blåmuggost]] og [[mozzarellaen]] mot slutten av steketiden, så blir osten litt fastere.
+2. Legg på [[spinat]], litt [[blåmuggost]] og [[mozzarellaen]] mot slutten av
+   steketiden, så blir osten litt fastere.
 
 3. Når pizzaen er ferdig stekt har du på litt mer [[blåmuggost]] og [[spekeskinken]].
 
-> [!tip]
-> Prøv gjerne å flambere spekeskinken.
+> [!tip] Prøv gjerne å flambere spekeskinken.
 
 > [!info]
 >

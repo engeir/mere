@@ -2,8 +2,10 @@
 id: Chilisaus, søt
 aliases:
   - søt chilisaus
-tags: []
+up:
+  - "[[Chili]]"
 permalink: sot-chilisaus
+tags: []
 ---
 
 # Chilisaus, søt

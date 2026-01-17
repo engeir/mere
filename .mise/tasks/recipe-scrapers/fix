@@ -1,5 +1,5 @@
 #!./.venv/bin/python
-# mise description="Fix misrepresented characters"
+#MISE description="Fix misrepresented characters"
 
 from recipe_scrapers import scrape_me
 import argparse

@@ -1,9 +1,10 @@
 ---
 id: Egg
-aliases: []
+aliases:
+  - eggeplommer
+  - eggehvite
 tags: []
 permalink: egg
 ---
 
 # Egg
-

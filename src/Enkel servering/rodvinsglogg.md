@@ -1,44 +1,44 @@
 ---
-description: 25 min | Enkel
+id: Rødvinsgløgg
+aliases: []
 tags:
+  - tilbehør/enkel
+  - tilbehør/drink
+  - tilbehør/punch
+  - tilbehør/jul
+  - tilbehør/vin
   - enkel
-  - drink
-  - punch
-  - jul
-  - vin
-category:
-  - tilbehør
-  - drikke
-authors:
-  - name: Lise Finckenhagen
-    link: https://www.godt.no/bruker/15/lise-finckenhagen
-    avatar: ":cook:"
+author:
+  - "[[Lise Finckenhagen]]"
+cover:
+  - static/rodvinsglogg/rodvinsglogg.webp
+description: 25 min | Enkel
+ingredients: []
+permalink: rodvinsglogg
+up:
+  - Enkel servering
 ---
 
 # Rødvinsgløgg
 
-![](/static/rodvinsglogg/rodvinsglogg.webp)
+![](static/rodvinsglogg/rodvinsglogg.webp)
 
-[!ref target="blank" text="Originaloppskrift"](https://www.godt.no/oppskrifter/drikke/drinker/1412/roedvinsgloegg)
+> [!info]
+>
+> [Originaloppskrift](https://www.godt.no/oppskrifter/drikke/drinker/1412/roedvinsgloegg)
 
-<!-- dprint-ignore-start -->
-||| :timer_clock: Tid
-25 min
-||| :knife_fork_plate: Porsjoner
-4
-||| :cook: Vanskelighetsgrad
-Enkel
-|||
-<!-- dprint-ignore-end -->
+| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ------------ | -------------------- |
+| 25 min | 4            | Enkel                |
 
 ## Ingredienser
 
-!!!info
+#ingredient
 
-Om du ikke finner krydderne i hel form, prøv deg frem med den malte varianten og filtrer
-det med et kaffefilter. Går an det!
-
-!!!
+> [!info] Om du ikke finner krydderne i hel form, prøv deg frem med den malte varianten
+> og filtrer
+>
+> det med et kaffefilter. Går an det!
 
 - 2.5 dl vann
 - 1 dl sukker, kan bruke lys brunt sukker også

@@ -3,7 +3,7 @@ id: Saltede peanøtter
 aliases:
   - peanøtter
 tags: []
-permalink: saltede-peanøtter
+permalink: saltede-peanotter
 ---
 
 # Saltede peanøtter

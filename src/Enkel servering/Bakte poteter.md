@@ -1,14 +1,17 @@
 ---
-description: 30 min | Middels
+id: Ovnsbakte [[Potet|poteter]]
+aliases: []
 tags:
-  - potet
-category:
-  - tilbehør
-ingredients:
-  - "[[Parmesan]]"
-  - "[[Potet]]"
-  - "[[Olivenolje]]"
-permalink: bakte-poteter
+  - tilbehør/potet
+author:
+  - "[[Eirik Rolland Enger]]"
+cover:
+  - tilbehor/stekt-potet-parmesan.webp
+description: 30 min | Middels
+ingredients: []
+permalink: ovnsbakte-potetpoteter
+up:
+  - Enkel servering
 ---
 
 # Ovnsbakte [[Potet|poteter]]
@@ -16,13 +19,14 @@ permalink: bakte-poteter
 ![](tilbehor/stekt-potet-parmesan.webp)
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 30 min | 2             | Middels                 |
-
+| ------ | ------------ | -------------------- |
+| 30 min | 2            | Middels              |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
+
+#ingredient
 
 - [x] [[Potet|Poteter]]
 - [x] [[Olivenolje]]
@@ -32,8 +36,8 @@ permalink: bakte-poteter
 
 1. Forvarm stekeovnen til 230°C.
 2. Kutt potetene i to på langs.
-3. Ha [[olivenolje]] og eventuelt [[parmesan]] i en form og legg potetene med den flate siden
-   ned.
+3. Ha [[olivenolje]] og eventuelt [[parmesan]] i en form og legg potetene med den flate
+   siden ned.
 4. Stek i 20 minutter.
 
 <script type="application/ld+json">

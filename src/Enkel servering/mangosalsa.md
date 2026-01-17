@@ -1,41 +1,44 @@
 ---
-description: 15 min | Enkel
+id: Mangosalsa
+aliases: []
 tags:
+  - tilbehør/enkel
+  - tilbehør/mango
+  - tilbehør/avokado
   - enkel
-  - mango
-  - avokado
-category:
-  - tilbehør
-  - salat
-authors:
-  - name: Eirik Enger
-    link: https://eirik.re
-    avatar: ":cook:"
+author:
+  - "[[Eirik Enger]]"
+cover: []
+description: 15 min | Enkel
+ingredients:
+  - "[[Olivenolje|olivenolje]]"
+  - "[[Hvitvinseddik|hvitvinseddik]]"
+  - "[[Litt koriander|litt koriander]]"
+  - "[[Salt og papper|salt og papper]]"
+permalink: mangosalsa
+up:
+  - Enkel servering
 ---
 
 # Mangosalsa
 
-<!-- dprint-ignore-start -->
-||| :timer_clock: Tid
-15 min
-||| :knife_fork_plate: Porsjoner
-2
-||| :cook: Vanskelighetsgrad
-Enkel
-|||
-<!-- dprint-ignore-end -->
+| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ------------ | -------------------- |
+| 15 min | 2            | Enkel                |
 
 ## Ingredienser
 
-- 1/2 mango
-- 1/2 rødløk
-- 1/2 avokado
-- 1/4 chili
-- 2 ss olivenolje
-- 1 ss hvitvinseddik (ikke så viktig)
-- 1/2 lime
-- litt koriander
-- salt og papper
+#ingredient
+
+- [x] 1/2 mango
+- [x] 1/2 rødløk
+- [x] 1/2 avokado
+- [x] 1/4 chili
+- [x] 2 ss olivenolje
+- [x] 1 ss hvitvinseddik (ikke så viktig)
+- [x] 1/2 lime
+- [x] litt koriander
+- [x] salt og papper
 
 ## Steg
 

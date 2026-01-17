@@ -41,8 +41,8 @@ up:
 > er originalt fra [[Hello Fresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 25 min | 2 | Enkel |
+| ------ | ------------ | -------------------- |
+| 25 min | 2            | Enkel                |
 
 ## Ingredienser
 

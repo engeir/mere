@@ -34,13 +34,13 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/rask-kylling-i-kremete-gressloksaus-65f8532e1d9f403b835b491f)
 > er originalt fra [[HelloFresh]].
 
-| Tid | Porsjoner | Vanskelighetsgrad |
-|-----|-----------|-------------------|
-| 30 | 2 servings | Enkel |
+| Tid | Porsjoner  | Vanskelighetsgrad |
+| --- | ---------- | ----------------- |
+| 30  | 2 servings | Enkel             |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 300 g [[Kylling|kyllingbryst]]
 - [x] 1 stk [[Potetterninger]], ferdigkokte
@@ -60,16 +60,24 @@ up:
 
 ## Steg
 
-1. Tilsett [[potet]], [[melk]] [1/2 dl | 1 dl], [[vann]] [1/2 dl | 1 dl] og [[salt]] [1 ts | 2 ts] i en mellomstor kjele. Kok på middels varme i 5 min. Mos [[potet]] og sett til side under lokk.
+1. Tilsett [[potet]], [[melk]] [1/2 dl | 1 dl], [[vann]] [1/2 dl | 1 dl] og [[salt]] [1
+   ts | 2 ts] i en mellomstor kjele. Kok på middels varme i 5 min. Mos [[potet]] og sett
+   til side under lokk.
 
-> [!tip]
-> Tilsett en klatt smør om ønskelig.
+> [!tip] Tilsett en klatt smør om ønskelig.
 
-2. Skjær [[kyllingbryst]] i tre skiver på eget skjærebrett. Finhakk [[gressløk]]. Varm opp [[olivenolje]] [1/2 ss | 1 ss] i en stor stekepanne på middels høy varme. Tilsett [[Kylling]] og krydre med [[salt]] [1/4 ts | 1/2 ts]. Stek i 3-4 min per side, eller til brunet og gjennomstekt.
+2. Skjær [[kyllingbryst]] i tre skiver på eget skjærebrett. Finhakk [[gressløk]]. Varm
+   opp [[olivenolje]] [1/2 ss | 1 ss] i en stor stekepanne på middels høy varme. Tilsett
+   [[Kylling]] og krydre med [[salt]] [1/4 ts | 1/2 ts]. Stek i 3-4 min per side, eller
+   til brunet og gjennomstekt.
 
-> [!tip]
-> Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
+> [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
 
-3. Senk til middels varme, og tilsett [[kyllingbuljong]], [[vann]] [1/2 dl | 1 dl], [[matfløte]] [1/2 pakke, 2P] og [[gressløk]] i pannen. La putre i 1-2 min, til gjennomvarmt. Skyll [[ruccola]]. Halver [[pære]], fjern kjerne og skjær i tynne skiver. Bland [[ruccola]], [[pære]], [[olivenolje]] [1/2 ss | 1 ss] og [[salt]] [1/4 ts | 1/2 ts] i en stor skål rett før servering.
+3. Senk til middels varme, og tilsett [[kyllingbuljong]], [[vann]] [1/2 dl | 1 dl],
+   [[matfløte]] [1/2 pakke, 2P] og [[gressløk]] i pannen. La putre i 1-2 min, til
+   gjennomvarmt. Skyll [[ruccola]]. Halver [[pære]], fjern kjerne og skjær i tynne
+   skiver. Bland [[ruccola]], [[pære]], [[olivenolje]] [1/2 ss | 1 ss] og [[salt]] [1/4
+   ts | 1/2 ts] i en stor skål rett før servering.
 
-4. Anrett [[Kylling]], potetmos og salat på tallerkener. Hell resterende saus over kyllingen.
+4. Anrett [[Kylling]], potetmos og salat på tallerkener. Hell resterende saus over
+   kyllingen.

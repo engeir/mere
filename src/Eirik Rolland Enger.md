@@ -6,5 +6,8 @@ permalink: eirik-rolland-enger
 aliases:
   - Eirik
   - Eirik Enger
+id: Eirik Rolland Enger
+tags: []
 ---
+
 # Eirik Rolland Enger

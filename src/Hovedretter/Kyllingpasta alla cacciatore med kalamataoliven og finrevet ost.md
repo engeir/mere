@@ -42,8 +42,8 @@ up:
 > er originalt fra [[HelloFresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 50 min | 2 porsjoner | Enkel |
+| ------ | ------------ | -------------------- |
+| 50 min | 2 porsjoner  | Enkel                |
 
 ## Ingredienser
 
@@ -67,12 +67,20 @@ up:
 
 ## Steg
 
-1. Kok opp en stor kjele med saltet vann. Kok [[spaghetti|pasta]] i 8-9 min, til 'al dente'. Spar litt pastavann, og hell av resten. Kokevannet skal være like salt som sjøvann. 'Al dente' betyr at pastaen er myk med litt tyggemotstand.
+1. Kok opp en stor kjele med saltet vann. Kok [[spaghetti|pasta]] i 8-9 min, til 'al
+   dente'. Spar litt pastavann, og hell av resten. Kokevannet skal være like salt som
+   sjøvann. 'Al dente' betyr at pastaen er myk med litt tyggemotstand.
 2. I mellomtiden, finhakk [[løk]]. Riv [[gulrot]] (uskrelt) grovt.
-3. Varm opp [[olivenolje]] i en stor stekepanne på middels høy varme. Stek [[Kylling]], [[løk]], [[gulrot]] og [[salt]] under omrøring i 4-5 min, til brunet. Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
+3. Varm opp [[olivenolje]] i en stor stekepanne på middels høy varme. Stek [[Kylling]],
+   [[løk]], [[gulrot]] og [[salt]] under omrøring i 4-5 min, til brunet. Kyllingen er
+   ferdig når kjøttet er hvitt og uten antydninger av rødt.
 4. I mellomtiden, grovhakk [[oliven]]. Grovhakk [[basilikum]].
-5. Tilsett [[tomat|hakkede tomater]], pastavann, [[hvitløksflørt]], [[middelhavsdrøm]], [[sukker]] og [[smør]] i pannen med [[Kylling]]. Krydre med [[salt]] og en klype pepper. La putre i 3-4 min, eller til sausen tykner. Bland inn [[pasta]]. Tilsett mer pastavann om pastaen virker tørr.
-6. Fordel [[pasta]] i skåler. Topp med [[Ost|finrevet ost]], [[oliven]] og [[basilikum]]. Reduser eller dropp [[oliven]], hvis du ikke liker det.
+5. Tilsett [[tomat|hakkede tomater]], pastavann, [[hvitløksflørt]], [[middelhavsdrøm]],
+   [[sukker]] og [[smør]] i pannen med [[Kylling]]. Krydre med [[salt]] og en klype
+   pepper. La putre i 3-4 min, eller til sausen tykner. Bland inn [[pasta]]. Tilsett mer
+   pastavann om pastaen virker tørr.
+6. Fordel [[pasta]] i skåler. Topp med [[Ost|finrevet ost]], [[oliven]] og
+   [[basilikum]]. Reduser eller dropp [[oliven]], hvis du ikke liker det.
 
 ## Notater
 

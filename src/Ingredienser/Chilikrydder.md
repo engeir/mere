@@ -1,4 +1,0 @@
----
-permalink: chilikrydder
----
-# Chilikrydder

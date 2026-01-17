@@ -1,6 +1,7 @@
 # Simple Recipes Cookbook
 
-> Obsidian version follows <https://forum.obsidian.md/t/obsidian-as-recipe-manager-and-shopping-list-tutorial/40799/15>
+> Obsidian version follows
+> <https://forum.obsidian.md/t/obsidian-as-recipe-manager-and-shopping-list-tutorial/40799/15>
 
 > _Create your own online cookbook with minimal effort_
 

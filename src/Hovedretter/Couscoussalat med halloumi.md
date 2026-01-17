@@ -21,21 +21,21 @@ ingredients:
 
 > [!NOTE]
 >
-> [Denne oppskriften](https://sulten.app/recipes/couscous-salat-med-grillet-halloumi-be81) er originalt fra [[fattig-student]].
+> [Denne oppskriften](https://sulten.app/recipes/couscous-salat-med-grillet-halloumi-be81)
+> er originalt fra [[fattig-student]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-|   30 min     |    2           |      Enkel                   |
-
+| ------ | ------------ | -------------------- |
+| 30 min | 2            | Enkel                |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 2 dl couscous
 - [x] 2 ss olivenolje
 - [x] 1/2 ts gurkemeie
-- [ ] 1 ts spisskummen
+- [x] 1 ts spisskummen
 - [x] 1/2 pk persille
 - [x] 200 g halloumi
 - [x] 1/2 stk agurk

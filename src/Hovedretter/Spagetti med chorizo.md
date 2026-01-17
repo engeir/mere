@@ -33,13 +33,13 @@ visibility: hidden
 > Denne oppskriften er originalt fra
 > [Sulten](https://sulten.app/recipes/spagetti-med-chorizo-egqk).
 
-| ⏲️ Tid   | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ----------- | ---------------------- |
-| 10 mins | 2           | Enkel                  |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------- | ------------ | -------------------- |
+| 10 mins | 2            | Enkel                |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 100 g [[spagetti]]
 - [x] 40 g [[Chorizo]]
@@ -50,10 +50,10 @@ visibility: hidden
 
 1. I denne middagen bruker vi tomat– og paprikasuppe som ble laget tidligere i
    ukemenyen.
-2. Kok opp [[spagetti]] etter anvisning på pakken, men la det være igjen et par minutter av
-   koketiden.
-3. Kutt opp [[Chorizo]] i terninger og stek i ei stekepanne. Tilsett paprikasuppen, og la
-   det putre i noen minutter til spagettien er ferdig.
+2. Kok opp [[spagetti]] etter anvisning på pakken, men la det være igjen et par minutter
+   av koketiden.
+3. Kutt opp [[Chorizo]] i terninger og stek i ei stekepanne. Tilsett paprikasuppen, og
+   la det putre i noen minutter til spagettien er ferdig.
 4. Tilsett spagettien i sausen og topp med [[Fetaost]].
 
 <script type="application/ld+json">

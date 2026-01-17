@@ -39,13 +39,13 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/middelhavsinspirert-rekegryte-65e087288eaa0461729efb22)
 > er originalt fra [[HelloFresh]].
 
-| Tid | Porsjoner | Vanskelighetsgrad |
-|-----|-----------|-------------------|
-| 40 | 2 servings | Enkel |
+| Tid | Porsjoner  | Vanskelighetsgrad |
+| --- | ---------- | ----------------- |
+| 40  | 2 servings | Enkel             |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
 
 - [x] 150 g [[reker]]
 - [x] 1 pose [[basilikum]]
@@ -68,23 +68,30 @@ up:
 
 ## Steg
 
-1. Finhakk eller press [[hvitløk]]. Varm opp [[olivenolje]] [1/2 ss | 1 ss] i en kjele på middels varme. Stek [[hvitløk]] i 30 sek, til velduftende. Tilsett [[vann]] [3 dl | 5,5 dl] og kok opp. Tilsett [[Ris]] og [[salt]] [1/2 ts | 1 ts] og rør godt. Senk til middels lav varme og la putre under lokk i 14 min. Fjern fra varmen og la stå med lokk i ytterligere 10 min.
+1. Finhakk eller press [[hvitløk]]. Varm opp [[olivenolje]] [1/2 ss | 1 ss] i en kjele
+   på middels varme. Stek [[hvitløk]] i 30 sek, til velduftende. Tilsett [[vann]] [3 dl
+   | 5,5 dl] og kok opp. Tilsett [[Ris]] og [[salt]] [1/2 ts | 1 ts] og rør godt. Senk
+   til middels lav varme og la putre under lokk i 14 min. Fjern fra varmen og la stå med
+   lokk i ytterligere 10 min.
 
-> [!tip]
-> Ikke fjern lokket mens risen hviler.
+> [!tip] Ikke fjern lokket mens risen hviler.
 
 2. I mellomtiden, grovhakk [[tomat]] og [[basilikumblader]]. Skyll [[spinat]].
 
-3. Varm opp [[olivenolje]] [1 ss | 2 ss] i en stor stekepanne på middels høy varme. Tilsett [[tomat]], [[Mamas Favoritt]], [[Hvitløksflørt]], [[chiliflak]] [1/2 pakke, 2P] og [[salt]] [1/2 ts | 1 ts], og stek videre i 2-3 min, til tomatene er myke.
+3. Varm opp [[olivenolje]] [1 ss | 2 ss] i en stor stekepanne på middels høy varme.
+   Tilsett [[tomat]], [[Mamas Favoritt]], [[Hvitløksflørt]], [[chiliflak]] [1/2 pakke,
+   2P] og [[salt]] [1/2 ts | 1 ts], og stek videre i 2-3 min, til tomatene er myke.
 
-> [!tip]
-> Tilsett chiliflak etter smak - det er sterkt.
+> [!tip] Tilsett chiliflak etter smak - det er sterkt.
 
-4. Krydre [[Reker]] med en klype [[salt]]. Tilsett [[calabresepesto]], [[Reker]], [[matfløte]] [1/2 pakke, 2P], [[grønnsaksbuljong]] og [[vann]] [1 dl | 2 dl] til stekepannen. Kok i 3-4 min, eller til sausen har tyknet og rekene er gjennomkokt. Smak til med en klype [[salt]] og [[pepper]].
+4. Krydre [[Reker]] med en klype [[salt]]. Tilsett [[calabresepesto]], [[Reker]],
+   [[matfløte]] [1/2 pakke, 2P], [[grønnsaksbuljong]] og [[vann]] [1 dl | 2 dl] til
+   stekepannen. Kok i 3-4 min, eller til sausen har tyknet og rekene er gjennomkokt.
+   Smak til med en klype [[salt]] og [[pepper]].
 
-> [!tip]
-> Rekene er ferdige når de er rosa utenpå og matt i midten.
+> [!tip] Rekene er ferdige når de er rosa utenpå og matt i midten.
 
 5. Rett før servering, rør [[spinat]] inn i sausen.
 
-6. Anrett hvitløksris i dype tallerkener. Topp med kremet rekegryte. Pynt med [[basilikum]] på toppen.
+6. Anrett hvitløksris i dype tallerkener. Topp med kremet rekegryte. Pynt med
+   [[basilikum]] på toppen.

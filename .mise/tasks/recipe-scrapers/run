@@ -1,5 +1,5 @@
 #!./.venv/bin/python
-# mise description="Scrape recipes from the web and store them in a local directory"
+#MISE description="Scrape recipes from the web and store them in a local directory"
 
 from recipe_scrapers import scrape_me
 import argparse

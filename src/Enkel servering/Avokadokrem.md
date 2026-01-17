@@ -1,23 +1,22 @@
 ---
-description: 15 min | Enkel
+id: Avokadokrem
+aliases: []
 tags:
+  - tilbehør/enkel
+  - tilbehør/avokado
+  - tilbehør/sitrus
+  - tilbehør/majones
+  - tilbehør/rømme
   - enkel
-  - avokado
-  - sitrus
-  - majones
-  - rømme
+author:
+  - "[[Eirik Rolland Enger]]"
+cover:
+  - bondelapper/bondelapper.webp
+description: 15 min | Enkel
+ingredients: []
 permalink: avokadokrem
-category:
-  - tilbehør
-authors:
-  - Eirik Rolland Enger
-ingredients:
-  - "[[Avokado]]"
-  - "[[Sitron]]"
-  - "[[Majones]]"
-  - "[[Rømme]]"
-  - "[[Salt]]"
-  - "[[Pepper]]"
+up:
+  - Enkel servering
 ---
 
 # Avokadokrem
@@ -26,15 +25,18 @@ ingredients:
 
 > [!INFO]
 >
-> [Denne oppskriften](https://oppskrift.klikk.no/r%C3%B8kelaks-med-avocadokrem/1924/) er originalt fra Klikk.no.
+> [Denne oppskriften](https://oppskrift.klikk.no/r%C3%B8kelaks-med-avocadokrem/1924/) er
+> originalt fra Klikk.no.
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 25 min | 8             | Enkel                   |
+| ------ | ------------ | -------------------- |
+| 25 min | 8            | Enkel                |
 
 ## Ingredienser
 
-#ingredient 
+#ingredient
+
+#ingredient
 
 - [x] 2 stk avokado
 - [x] 1/2 stk saften av sitron (eller 2x så mange lime)
@@ -54,7 +56,8 @@ ingredients:
 
 > [!success] Tilbehør
 >
-> Om du ønsker tilbehør ved siden av retten kan [[Bondelapper]] med røkelaks være et godt alternativ.
+> Om du ønsker tilbehør ved siden av retten kan [[Bondelapper]] med røkelaks være et
+> godt alternativ.
 
 <script type="application/ld+json">
 {

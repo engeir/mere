@@ -6,4 +6,3 @@ permalink: gulrot
 ---
 
 # Gulrot
-

@@ -7,6 +7,7 @@ experimental = true
 [tools]
 "jq" = "latest"
 "npm:cwebp-bin" = "latest"
+rye = "latest"
 
 [tasks.serve]
 description = "Serve the site locally"
@@ -14,7 +15,7 @@ run = "retype start"
 
 [tasks.format]
 description = "Format files"
-run = "dprint fmt --incremental=true --allow-no-files"
+run = "prettier --write **/*.md"
 alias = "fmt"
 
 [tasks."recipe-scrapers:install"]
@@ -25,3 +26,11 @@ curl -sSf https://rye.astral.sh/get | RYE_INSTALL_OPTION="--yes" bash
 source "$HOME/.rye/env"
 rye sync -f
 """
+
+[tasks."migrate:dryrun"]
+description = "Dry run recipe migration to Obsidian format"
+run = ".venv/bin/python migrate_to_obsidian.py --dry-run -v"
+
+[tasks."migrate:execute"]
+description = "Execute recipe migration to Obsidian format"
+run = ".venv/bin/python migrate_to_obsidian.py -v"

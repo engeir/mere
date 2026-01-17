@@ -43,8 +43,8 @@ up:
 > er originalt fra [[Hello Fresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 30 min | 2 servings | Enkel |
+| ------ | ------------ | -------------------- |
+| 30 min | 2 servings   | Enkel                |
 
 ## Ingredienser
 
@@ -72,8 +72,8 @@ up:
 2. Varm opp olivenolje [1 ss | 2 ss] i en stor stekepanne på middels høy varme. Stek
    kjøttdeig, rødløk og en klype salt i 5-6 min, eller til brunet. Mens kjøttdeigen
    steker, bland salat, gulrot, en skvett limesaft, olivenolje [1 ss | 2 ss], salt [1/4
-   ts | 1/ 2 ts] og en klype [[Pepper]] i en skål. VIKTIG: Kjøttdeigen er ferdig når den er
-   uten antydninger av rødt.
+   ts | 1/ 2 ts] og en klype [[Pepper]] i en skål. VIKTIG: Kjøttdeigen er ferdig når den
+   er uten antydninger av rødt.
 3. Tilsett hvitløk og ingefær [2 ts | 4 ts] til kjøttdeig og stek videre i 1 min.
    Tilsett asiatisk woksaus [1/2 pakke, 2P] og bland godt. Krydre med en stor klype
    [[Pepper]]. Varm tortillabrød i mikroen i 30-60 sek, eller pakk inn i folie og varm i

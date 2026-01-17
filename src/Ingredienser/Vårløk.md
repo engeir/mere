@@ -1,8 +1,10 @@
 ---
 id: Vårløk
 aliases: []
+up:
+  - "[[Løk]]"
+permalink: varlok
 tags: []
-permalink: varløk
 ---
 
 # Vårløk

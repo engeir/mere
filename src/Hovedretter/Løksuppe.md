@@ -36,8 +36,8 @@ up:
 > er originalt fra [[Tine]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 20 min | 1 porsjon | Enkel |
+| ------ | ------------ | -------------------- |
+| 20 min | 1 porsjon    | Enkel                |
 
 ## Ingredienser
 
@@ -54,8 +54,10 @@ up:
 ## Steg
 
 1. Forvarm stekeovnen til 250°C.
-2. Fres [[løk]] blank i smeltet [[smør]]. Ha i varmt vann og [[grønnsaksbuljong|buljongterning]] og la suppen koke i ca. 5 minutter.
-3. Fordel suppen i suppebollene. Legg [[Brød|loffskive]] på toppen. Dryss på [[Ost]] og gratiner suppen under grillen i stekeovnen i ca. 5 minutter.
+2. Fres [[løk]] blank i smeltet [[smør]]. Ha i varmt vann og
+   [[grønnsaksbuljong|buljongterning]] og la suppen koke i ca. 5 minutter.
+3. Fordel suppen i suppebollene. Legg [[Brød|loffskive]] på toppen. Dryss på [[Ost]] og
+   gratiner suppen under grillen i stekeovnen i ca. 5 minutter.
 
 ## Notater
 

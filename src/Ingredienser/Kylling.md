@@ -6,5 +6,8 @@ aliases:
   - kyllingstrimler
   - kyllinglårfilet
   - kyllingbryst
+id: Kylling
+tags: []
 ---
+
 # Kylling

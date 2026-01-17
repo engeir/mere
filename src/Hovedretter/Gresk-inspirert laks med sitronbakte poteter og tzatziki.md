@@ -42,8 +42,8 @@ up:
 > er originalt fra [[Hello Fresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------- | ----------------------- |
-| 50 min | 2 servings | Enkel |
+| ------ | ------------ | -------------------- |
+| 50 min | 2 servings   | Enkel                |
 
 ## Ingredienser
 
@@ -69,14 +69,14 @@ up:
 
 1. Forvarm ovnen til 240°C/220°C (varmluft). Skjær poteter (uskrelt) i 2 cm båter. Del
    sitron i to. Overfør potetbåter til et stekebrett med bakepapir. Drypp over en skvett
-   olivenolje og sitronsaft. Krydre med oregano og en klype salt og [[Pepper]]. Bland godt.
-   Bak i ovnen i 25-35 min, eller til møre.
+   olivenolje og sitronsaft. Krydre med oregano og en klype salt og [[Pepper]]. Bland
+   godt. Bak i ovnen i 25-35 min, eller til møre.
 2. I mellomtiden, skrell og riv hvitløk fint. Riv agurk. Pakk agurk inn i et
    kjøkkenhåndkle og press ut væske. Bland agurk, yoghurt, hvitløk og en klype salt og
    [[Pepper]] i en skål.
 3. Smuldre gresk salatost i en liten skål. Bland inn Middelhavsdrøm, olivenolje og en
-   klype [[Pepper]]. TIPS: Smuldre gresk salatost så godt som mulig slik at den kan dekke
-   laksen jevnt.
+   klype [[Pepper]]. TIPS: Smuldre gresk salatost så godt som mulig slik at den kan
+   dekke laksen jevnt.
 4. Tørk fisk lett med kjøkkenpapir. Overfør fisk med skinnsiden ned på et stekebrett med
    bakepapir. Topp fisk med gresk salatost. Når potetbåtene har 10 min igjen, sett fisk
    inn i ovnen og bak i 9-10 min, eller til gjennomstekt. TIPS: Fisken er ferdig når
