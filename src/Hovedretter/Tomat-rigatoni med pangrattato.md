@@ -1,5 +1,5 @@
 ---
-id: Soltørket tomat-rigatoni med frisk ruccola og sprø pangrattato
+id: Tomat-rigatoni med pangrattato
 aliases: []
 tags:
   - hovedrett/fløte
@@ -11,39 +11,38 @@ tags:
   - vegetar
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/soltorket-tomat-rigatoni-med-frisk-ruccola-og-spro-pangrattato/soltorket-tomat-rigatoni-med-frisk-ruccola-og-spro-pangrattato.webp
+  - static/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp
 description: 30 | Enkel
 ingredients:
-  - "[[Rigatoni|rigatoni]]"
-  - "[[Soltørkede tomater|soltørkede tomater]]"
-  - "[[Cherrytomater|cherrytomater]]"
-  - "[[Squash|squash]]"
-  - "[[Matfløte|matfløte]]"
-  - "[[Mamas Favoritt|mamas favoritt]]"
-  - "[[Grønnsaksbuljong|grønnsaksbuljong]]"
-  - "[[Ruccola|ruccola]]"
-  - "[[Finrevet ost|finrevet ost]]"
-  - "[[Oregano|oregano]]"
-  - "[[.5 g Panko paneringsmel|.5 g panko paneringsmel]]"
-  - "[[Smør|smør]]"
-  - "[[.5 ss Olivenolje|.5 ss olivenolje]]"
-  - "[[.5 ts Salt|.5 ts salt]]"
-  - "[[.25 ts Sukker|.25 ts sukker]]"
-permalink: soltorket-tomat-rigatoni-med-frisk-ruccola-og-spro-pangrattato
+  - "[[Rigatoni]]"
+  - "[[Soltørkede tomater]]"
+  - "[[Cherrytomater]]"
+  - "[[Squash]]"
+  - "[[Fløte|Matfløte]]"
+  - "[[Mamas Favoritt]]"
+  - "[[Grønnsaksbuljong]]"
+  - "[[Ruccola]]"
+  - "[[Ost|Finrevet ost]]"
+  - "[[Oregano]]"
+  - "[[Panko paneringsmel]]"
+  - "[[Smør]]"
+  - "[[Olivenolje]]"
+  - "[[Salt]]"
+  - "[[Sukker]]"
+permalink: tomat-rigatoni-med-pangrattato
 up:
   - Hovedretter
 ---
 
-# Soltørket tomat-rigatoni med frisk ruccola og sprø pangrattato
+# Tomat-rigatoni med pangrattato
 
-![](static/soltorket-tomat-rigatoni-med-frisk-ruccola-og-spro-pangrattato/soltorket-tomat-rigatoni-med-frisk-ruccola-og-spro-pangrattato.webp)
+![](static/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp)
 
-> [!info] Denne oppskriften er originalt fra
->
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/soltorket-tomat-rigatoni-65bb93fffb38871420c60705)
+> [!info]
+> [Denne oppskriften](https://www.hellofresh.no/recipes/soltorket-tomat-rigatoni-65bb93fffb38871420c60705)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

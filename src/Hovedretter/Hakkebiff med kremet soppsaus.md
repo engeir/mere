@@ -1,5 +1,5 @@
 ---
-id: Rustikke hakkebiffer med kremet soppsaus og saftig eplesalat
+id: Hakkebiff med kremet soppsaus
 aliases: []
 tags:
   - hovedrett/fløte
@@ -7,40 +7,39 @@ tags:
   - hovedrett/potet
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/rustikke-hakkebiffer-med-kremet-soppsaus-og-saftig-eplesalat/rustikke-hakkebiffer-med-kremet-soppsaus-og-saftig-eplesalat.webp
+  - static/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp
 description: 40 | Enkel
 ingredients:
-  - "[[Kjøttdeig av storfe|kjøttdeig av storfe]]"
-  - "[[½ stk Løk|½ stk løk]]"
-  - "[[Matfløte|matfløte]]"
-  - "[[.5 ml Soyasaus|.5 ml soyasaus]]"
-  - "[[Sjampinjong|sjampinjong]]"
-  - "[[Poteter|poteter]]"
-  - "[[Bladpersille|bladpersille]]"
-  - "[[Bladselleri|bladselleri]]"
-  - "[[Eple|eple]]"
-  - "[[Brødrasp|brødrasp]]"
-  - "[[Egg|egg]]"
-  - "[[Ketchup|ketchup]]"
-  - "[[½ ts Salt|½ ts salt]]"
-  - "[[Olivenolje|olivenolje]]"
-  - "[[¼ ts Salt|¼ ts salt]]"
-  - "[[Smør|smør]]"
-permalink: rustikke-hakkebiffer-med-kremet-soppsaus-og-saftig-eplesalat
+  - "[[Kjøttdeig]]"
+  - "[[Løk]]"
+  - "[[Fløte|Matfløte]]"
+  - "[[Soyasaus]]"
+  - "[[Sjampinjong]]"
+  - "[[Potet]]"
+  - "[[Bladpersille]]"
+  - "[[Bladselleri]]"
+  - "[[Eple]]"
+  - "[[Brødrasp]]"
+  - "[[Egg]]"
+  - "[[Ketchup]]"
+  - "[[Salt]]"
+  - "[[Olivenolje]]"
+  - "[[Smør]]"
+permalink: hakkebiff-med-kremet-soppsaus
 up:
   - Hovedretter
 ---
 
-# Rustikke hakkebiffer med kremet soppsaus og saftig eplesalat
+# Hakkebiff med kremet soppsaus
 
-![](static/rustikke-hakkebiffer-med-kremet-soppsaus-og-saftig-eplesalat/rustikke-hakkebiffer-med-kremet-soppsaus-og-saftig-eplesalat.webp)
+![](static/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/rustikke-hakkebiffer-64b4e91666be97d461e928de)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/rustikke-hakkebiffer-64b4e91666be97d461e928de)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

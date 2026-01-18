@@ -1,46 +1,43 @@
 ---
-id: Teriyaki-glasert hyse med ovnsbakt brokkoli og sprøstekt løk
+id: Teriyaki-glasert hyse
 aliases: []
 tags:
   - hovedrett/fisk
   - hovedrett/ris
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/teriyaki-glasert-hyse-med-ovnsbakt-brokkoli-og-sprostekt-lok/teriyaki-glasert-hyse-med-ovnsbakt-brokkoli-og-sprostekt-lok.webp
+  - static/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp
 description: 40 | Enkel
 ingredients:
-  - "[[Hyse|hyse]]"
-  - "[[½ stk Sprøstekt løk|½ stk sprøstekt løk]]"
-  - "[[Jasminris|jasminris]]"
-  - "[[Hvitløk|hvitløk]]"
-  - "[[Brokkoli|brokkoli]]"
-  - "[[½ g Chiliflak|½ g chiliflak]]"
-  - "[[½ stk Lime|½ stk lime]]"
-  - "[[Teriyakisaus|teriyakisaus]]"
-  - "[[½ ss Smør|½ ss smør]]"
-  - "[[Vann|vann]]"
-  - "[[½ ts Salt|½ ts salt]]"
-  - "[[Hvetemel|hvetemel]]"
-  - "[[½ ts Salt|½ ts salt]]"
-  - "[[Olivenolje|olivenolje]]"
-  - "[[Smør|smør]]"
-  - "[[Vann|vann]]"
-  - "[[¼ ts Salt|¼ ts salt]]"
-permalink: teriyaki-glasert-hyse-med-ovnsbakt-brokkoli-og-sprostekt-lok
+  - "[[Hyse]]"
+  - "[[Sprøstekt løk]]"
+  - "[[Jasminris]]"
+  - "[[Hvitløk]]"
+  - "[[Brokkoli]]"
+  - "[[Chili]]"
+  - "[[Lime]]"
+  - "[[Teriyakisaus]]"
+  - "[[Vann]]"
+  - "[[Hvetemel]]"
+  - "[[Olivenolje]]"
+  - "[[Smør]]"
+  - "[[Vann]]"
+  - "[[Salt]]"
+permalink: teriyaki-glasert-hyse
 up:
   - Hovedretter
 ---
 
-# Teriyaki-glasert hyse med ovnsbakt brokkoli og sprøstekt løk
+# Teriyaki-glasert hyse
 
-![](static/teriyaki-glasert-hyse-med-ovnsbakt-brokkoli-og-sprostekt-lok/teriyaki-glasert-hyse-med-ovnsbakt-brokkoli-og-sprostekt-lok.webp)
+![](static/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/teriyaki-glasert-hyse-65fad1a8aed1d40579f2a5ad)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/teriyaki-glasert-hyse-65fad1a8aed1d40579f2a5ad)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

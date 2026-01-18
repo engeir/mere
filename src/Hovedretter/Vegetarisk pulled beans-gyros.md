@@ -1,5 +1,5 @@
 ---
-id: Vegetarisk pulled beans-gyros med grønn salat og urtedressing
+id: Vegetarisk pulled beans-gyros
 aliases: []
 tags:
   - hovedrett/tomat
@@ -11,35 +11,35 @@ tags:
   - vegetar
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/vegetarisk-pulled-beans-gyros-med-gronn-salat-og-urtedressing/vegetarisk-pulled-beans-gyros-med-gronn-salat-og-urtedressing.webp
+  - static/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp
 description: 40 | Enkel
 ingredients:
-  - "[[Rødløk|rødløk]]"
-  - "[[Salat|salat]]"
-  - "[[Tomat|tomat]]"
-  - "[[Bladpersille|bladpersille]]"
-  - "[[Pulled beans|pulled beans]]"
-  - "[[Hvitløksflørt|hvitløksflørt]]"
-  - "[[Tortillabrød|tortillabrød]]"
-  - "[[Majones|majones]]"
-  - "[[½ stk Hvitløk|½ stk hvitløk]]"
-  - "[[½ pakke Rømme|½ pakke rømme]]"
-  - "[[¼ ts Salt|¼ ts salt]]"
-permalink: vegetarisk-pulled-beans-gyros-med-gronn-salat-og-urtedressing
+  - "[[Rødløk]]"
+  - "[[Salat]]"
+  - "[[Tomat]]"
+  - "[[Bladpersille]]"
+  - "[[Pulled beans]]"
+  - "[[Hvitløksflørt]]"
+  - "[[Tortillabrød]]"
+  - "[[Majones]]"
+  - "[[Hvitløk]]"
+  - "[[Rømme]]"
+  - "[[Salt]]"
+permalink: vegetarisk-pulled-beans-gyros
 up:
   - Hovedretter
 ---
 
-# Vegetarisk pulled beans-gyros med grønn salat og urtedressing
+# Vegetarisk pulled beans-gyros
 
-![](static/vegetarisk-pulled-beans-gyros-med-gronn-salat-og-urtedressing/vegetarisk-pulled-beans-gyros-med-gronn-salat-og-urtedressing.webp)
+![](static/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/vegetarisk-pulled-beans-gyros-64d20cd32a63efcc605eb230)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/vegetarisk-pulled-beans-gyros-64d20cd32a63efcc605eb230)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

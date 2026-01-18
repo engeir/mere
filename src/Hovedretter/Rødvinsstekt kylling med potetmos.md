@@ -1,5 +1,5 @@
 ---
-id: Rødvinsstekt kylling med grov potetmos og sprø kålsalat
+id: Rødvinsstekt kylling med potetmos
 aliases: []
 tags:
   - hovedrett/kylling
@@ -10,13 +10,13 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/rodvinsstekt-kylling-med-grov-potetmos-og-spro-kalsalat/rodvinsstekt-kylling-med-grov-potetmos-og-spro-kalsalat.webp
+  - static/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp
 description: 40 | Enkel
 ingredients:
   - "[[Honning]]"
-  - "[[Grov sennep|grov sennep]]"
-  - "[[Rødkål|rødkål]]"
-  - "[[Kylling|kyllingbryst]]"
+  - "[[Grov sennep]]"
+  - "[[Rødkål]]"
+  - "[[Kylling]]"
   - "[[Rødvinssaus]]"
   - "[[Kyllingbuljong]]"
   - "[[Timian]]"
@@ -28,14 +28,14 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Smør]]"
   - "[[Vann]]"
-permalink: rodvinsstekt-kylling-med-grov-potetmos-og-spro-kalsalat
+permalink: rodvinsstekt-kylling-med-potetmos
 up:
   - Hovedretter
 ---
 
-# Rødvinsstekt kylling med grov potetmos og sprø kålsalat
+# Rødvinsstekt kylling med potetmos
 
-![](static/rodvinsstekt-kylling-med-grov-potetmos-og-spro-kalsalat/rodvinsstekt-kylling-med-grov-potetmos-og-spro-kalsalat.webp)
+![](static/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp)
 
 > [!info] Denne oppskriften er originalt fra
 >

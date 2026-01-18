@@ -1,5 +1,5 @@
 ---
-id: Sørøst-asiatisk kjøttdeigbowl med hvitløkskokt ris og stekte grønnsaker
+id: Kjøttdeigbowl med ris
 aliases: []
 tags:
   - hovedrett/kjøttdeig
@@ -9,36 +9,35 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/sorost-asiatisk-kjottdeigbowl-med-hvitlokskokt-ris-og-stekte-gronnsaker/sorost-asiatisk-kjottdeigbowl-med-hvitlokskokt-ris-og-stekte-gronnsaker.webp
+  - static/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp
 description: 40 | Enkel
 ingredients:
-  - "[[Hvitløk|hvitløk]]"
-  - "[[Jasminris|jasminris]]"
-  - "[[Agurk|agurk]]"
-  - "[[Gulrot|gulrot]]"
-  - "[[Pak choi|pak choi]]"
-  - "[[Ga-Laksa|ga-laksa]]"
-  - "[[.5 ml Soyasaus|.5 ml soyasaus]]"
-  - "[[Svart sesammajones|svart sesammajones]]"
-  - "[[Svinekjøttdeig|svinekjøttdeig]]"
-  - "[[½ ss Olivenolje|½ ss olivenolje]]"
-  - "[[Vann|vann]]"
-  - "[[½ ts Salt|½ ts salt]]"
-  - "[[¼ ts Salt|¼ ts salt]]"
-  - "[[Sukker|sukker]]"
-  - "[[½ ss Olivenolje|½ ss olivenolje]]"
-permalink: sorost-asiatisk-kjottdeigbowl-med-hvitlokskokt-ris-og-stekte-gronnsaker
+  - "[[Hvitløk]]"
+  - "[[Jasminris]]"
+  - "[[Agurk]]"
+  - "[[Gulrot]]"
+  - "[[Pak choi]]"
+  - "[[Ga-Laksa]]"
+  - "[[Soyasaus]]"
+  - "[[Majones|Sesammajones]]"
+  - "[[Svinekjøttdeig]]"
+  - "[[Vann]]"
+  - "[[Salt]]"
+  - "[[Sukker]]"
+  - "[[Olivenolje]]"
+permalink: kjottdeigbowl-med-ris
 up:
   - Hovedretter
 ---
 
-# Sørøst-asiatisk kjøttdeigbowl med hvitløkskokt ris og stekte grønnsaker
+# Kjøttdeigbowl med ris
 
-![](static/sorost-asiatisk-kjottdeigbowl-med-hvitlokskokt-ris-og-stekte-gronnsaker/sorost-asiatisk-kjottdeigbowl-med-hvitlokskokt-ris-og-stekte-gronnsaker.webp)
+![](static/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/sorost-asiatisk-kjottdeig-6569aaa402bcfeab6555c73d)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/sorost-asiatisk-kjottdeig-6569aaa402bcfeab6555c73d)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

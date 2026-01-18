@@ -14,13 +14,13 @@ author:
 cover: []
 description: 20 min | Enkel
 ingredients:
-  - "[[Reker|reker]]"
-  - "[[Ris|ris]]"
-  - "[[Wokgrønnsaker|wokgrønnsaker]]"
-  - "[[Woksaus|woksaus]]"
-  - "[[Ingefær|ingefær]]"
-  - "[[Soyasaus|soyasaus]]"
-  - "[[Pepper|pepper]]"
+  - "[[Reker]]"
+  - "[[Ris]]"
+  - "[[Wokgrønnsaker]]"
+  - "[[Woksaus]]"
+  - "[[Ingefær]]"
+  - "[[Soyasaus]]"
+  - "[[Pepper]]"
 permalink: rekewok
 up:
   - Hovedretter

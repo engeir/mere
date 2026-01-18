@@ -9,23 +9,22 @@ tags:
   - vegetar
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
   - static/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp
 description: 30 min | Enkel
 ingredients:
-  - "[[Pasta|pasta]]"
-  - "[[Sjampinjong|sjampinjong]]"
-  - "[[Portobello|portobello]]"
-  - "[[Spinat|spinat]]"
-  - "[[Mornaysaus eller majones|mornaysaus eller majones]]"
-  - "[[.5 pakke grønnsaksbuljong|.5 pakke grønnsaksbuljong]]"
-  - "[[Hvitløk|hvitløk]]"
-  - "[[Panko paneringsmel|panko paneringsmel]]"
-  - "[[Gressløk|gressløk]]"
-  - "[[Finrevet ost|finrevet ost]]"
-  - "[[Trøffelolje|trøffelolje]]"
+  - "[[Pasta]]"
+  - "[[Sjampinjong]]"
+  - "[[Portobello]]"
+  - "[[Spinat]]"
+  - "[[Majones|Mornaysaus eller majones]]"
+  - "[[Grønnsaksbuljong]]"
+  - "[[Hvitløk]]"
+  - "[[Panko paneringsmel]]"
+  - "[[Gressløk]]"
+  - "[[Ost|Finrevet ost]]"
+  - "[[Olivenolje|Trøffelolje]]"
 permalink: sjampinjong-og-portobellopasta
 up:
   - Hovedretter
@@ -35,9 +34,10 @@ up:
 
 ![](static/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="Hello Fresh"](https://www.hellofresh.no/recipes/sjampinjong-og-portobellopasta-65fad1af8b3de89f4a7895c8)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/sjampinjong-og-portobellopasta-65fad1af8b3de89f4a7895c8)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

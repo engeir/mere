@@ -1,5 +1,5 @@
 ---
-id: Sopptortelloni og mais i fløtesaus med finrevet ost og basilikum
+id: Sopptortelloni og mais i fløtesaus
 aliases: []
 tags:
   - hovedrett/fløte
@@ -8,37 +8,37 @@ tags:
   - hovedrett/sopp
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/sopptortelloni-og-mais-i-flotesaus-med-finrevet-ost-og-basilikum/sopptortelloni-og-mais-i-flotesaus-med-finrevet-ost-og-basilikum.webp
+  - static/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp
 description: 30 | Enkel
 ingredients:
-  - "[[Hvitløk|hvitløk]]"
-  - "[[Mais|mais]]"
-  - "[[Spinat|spinat]]"
-  - "[[Grønnsaksbuljong|grønnsaksbuljong]]"
-  - "[[½ g Chiliflak|½ g chiliflak]]"
-  - "[[Sopptortelloni|sopptortelloni]]"
-  - "[[Basilikum|basilikum]]"
-  - "[[Finrevet ost|finrevet ost]]"
-  - "[[Løk|løk]]"
-  - "[[Matfløte|matfløte]]"
-  - "[[Gresskarkjerner|gresskarkjerner]]"
-  - "[[Smør|smør]]"
-  - "[[½ ts Salt|½ ts salt]]"
-permalink: sopptortelloni-og-mais-i-flotesaus-med-finrevet-ost-og-basilikum
+  - "[[Hvitløk]]"
+  - "[[Mais]]"
+  - "[[Spinat]]"
+  - "[[Grønnsaksbuljong]]"
+  - "[[Chili|Chiliflak]]"
+  - "[[Sopptortelloni]]"
+  - "[[Basilikum]]"
+  - "[[Ost|finrevet ost]]"
+  - "[[Løk]]"
+  - "[[Fløte|Matfløte]]"
+  - "[[Gresskarkjerner]]"
+  - "[[Smør]]"
+  - "[[Salt]]"
+permalink: sopptortelloni-og-mais-i-flotesaus
 up:
   - Hovedretter
 ---
 
-# Sopptortelloni og mais i fløtesaus med finrevet ost og basilikum
+# Sopptortelloni og mais i fløtesaus
 
-![](static/sopptortelloni-og-mais-i-flotesaus-med-finrevet-ost-og-basilikum/sopptortelloni-og-mais-i-flotesaus-med-finrevet-ost-og-basilikum.webp)
+![](static/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/sopptortelloni-og-mais-i-flotesaus-6613d4f417fb871fe34ec987)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/sopptortelloni-og-mais-i-flotesaus-6613d4f417fb871fe34ec987)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

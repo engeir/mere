@@ -1,42 +1,42 @@
 ---
-id: Reker i sursøt saus med nudler og knasende peanøtter
+id: Reker med nudler i sursøt saus
 aliases: []
 tags:
   - hovedrett/nudler
   - hovedrett/sjømat
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/reker-i-sursot-saus-med-nudler-og-knasende-peanotter/reker-i-sursot-saus-med-nudler-og-knasende-peanotter.webp
+  - static/reker-med-nudler-i-sursøt-saus/reker-med-nudler-i-sursøt-saus.webp
 description: 30 | Enkel
 ingredients:
-  - "[[Reker|reker]]"
-  - "[[Søt chilisaus|søt chilisaus]]"
-  - "[[Soyasaus|soyasaus]]"
-  - "[[Udon nudler|udon nudler]]"
-  - "[[Wokblanding|wokblanding]]"
-  - "[[Hvitvinseddik|hvitvinseddik]]"
-  - "[[Hvitløk|hvitløk]]"
-  - "[[Saltede peanøtter|saltede peanøtter]]"
-  - "[[Chiliflak|chiliflak]]"
-  - "[[Vårløk|vårløk]]"
-  - "[[Sesamfrø|sesamfrø]]"
-  - "[[Løk|løk]]"
-  - "[[¼ ts Salt|¼ ts salt]]"
-permalink: reker-i-sursot-saus-med-nudler-og-knasende-peanotter
+  - "[[Reker]]"
+  - "[[Chilisaus, søt|Søt chilisaus]]"
+  - "[[Soyasaus]]"
+  - "[[Udon nudler]]"
+  - "[[Wokblanding]]"
+  - "[[Hvitvinseddik]]"
+  - "[[Hvitløk]]"
+  - "[[Saltede peanøtter]]"
+  - "[[Chili|Chiliflak]]"
+  - "[[Vårløk]]"
+  - "[[Sesamfrø]]"
+  - "[[Løk]]"
+  - "[[Salt]]"
+permalink: reker-med-nudler-i-sursot-saus
 up:
   - Hovedretter
 ---
 
-# Reker i sursøt saus med nudler og knasende peanøtter
+# Reker med nudler i sursøt saus
 
-![](static/reker-i-sursot-saus-med-nudler-og-knasende-peanotter/reker-i-sursot-saus-med-nudler-og-knasende-peanotter.webp)
+![](static/reker-med-nudler-i-sursøt-saus/reker-med-nudler-i-sursøt-saus.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/reker-i-sursot-saus-65f8532f473c4f42771cdad6)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/reker-i-sursot-saus-65f8532f473c4f42771cdad6)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
