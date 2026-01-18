@@ -6,7 +6,7 @@ tags:
   - hovedrett/tomat
   - hovedrett/taco
 author: "[[HelloFresh]]"
-cover: static/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones.webp
+cover: Attachments/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones.webp
 description: 40 | Enkel
 ingredients:
   - "[[Sei]]"
@@ -29,7 +29,7 @@ up:
 
 # Meksikansk fisketaco med syrlig kålsalat og krydret cajunmajones
 
-![](static/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones.webp)
+![](Attachments/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones.webp)
 
 > [!info]
 >
@@ -91,7 +91,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Meksikansk fisketaco med syrlig kålsalat og krydret cajunmajones",
-  "image": "static/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones.webp",
+  "image": "Attachments/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones/meksikansk-fisketaco-med-syrlig-kalsalat-og-krydret-cajunmajones.webp",
   "author": {
     "@type": "Person",
     "name": "["

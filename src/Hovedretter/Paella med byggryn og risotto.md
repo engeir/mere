@@ -17,7 +17,7 @@ authors:
 
 # Paella med [[Byggryn]]
 
-![](/static/risotto-paella.webp)
+![](/Attachments/risotto-paella.webp)
 
 > [!NOTE]
 >

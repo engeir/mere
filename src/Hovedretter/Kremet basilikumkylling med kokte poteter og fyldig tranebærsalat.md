@@ -33,7 +33,7 @@ up:
 
 # Kremet basilikumkylling med kokte poteter og fyldig tranebærsalat
 
-![](static/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat.webp)
+![](Attachments/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat.webp)
 
 > [!info]
 >
@@ -90,7 +90,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kremet basilikumkylling med kokte poteter og fyldig tranebærsalat",
-  "image": "static/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat.webp",
+  "image": "Attachments/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat.webp",
   "author": {
     "@type": "Organization",
     "name": "HelloFresh"

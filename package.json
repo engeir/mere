@@ -1,0 +1,8 @@
+{
+  "name": "simple-recipes-cookbook",
+  "description": "A recipe cookbook built with Quartz",
+  "private": true,
+  "scripts": {
+    "docs:preview": "cd .quartz && npx quartz build --serve --port 8080"
+  }
+}

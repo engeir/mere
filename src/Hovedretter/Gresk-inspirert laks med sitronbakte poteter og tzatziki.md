@@ -34,7 +34,7 @@ up:
 
 # Gresk-inspirert laks med sitronbakte poteter og tzatziki
 
-![](static/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki.webp)
+![](Attachments/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki.webp)
 
 > [!info]
 >
@@ -91,7 +91,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Gresk-inspirert laks med sitronbakte poteter og tzatziki",
-  "image": "static/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki.webp",
+  "image": "Attachments/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki/gresk-inspirert-laks-med-sitronbakte-poteter-og-tzatziki.webp",
   "author": {
     "@type": "Organization",
     "name": "Hello Fresh"

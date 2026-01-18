@@ -28,7 +28,7 @@ up:
 
 # Løksuppe
 
-![](static/loksuppe.webp)
+![](Attachments/loksuppe.webp)
 
 > [!info]
 >
@@ -70,7 +70,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Løksuppe",
-  "image": "static/loksuppe.webp",
+  "image": "Attachments/loksuppe.webp",
   "author": {
     "@type": "Person",
     "name": "Tine"

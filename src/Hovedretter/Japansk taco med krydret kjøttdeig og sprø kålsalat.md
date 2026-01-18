@@ -35,7 +35,7 @@ up:
 
 # Japansk taco med krydret kjøttdeig og sprø kålsalat
 
-![](static/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat.webp)
+![](Attachments/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat.webp)
 
 > [!info]
 >
@@ -92,7 +92,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Japansk taco med krydret kjøttdeig og sprø kålsalat",
-  "image": "static/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat.webp",
+  "image": "Attachments/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat/japansk-taco-med-krydret-kjottdeig-og-spro-kalsalat.webp",
   "author": {
     "@type": "Organization",
     "name": "Hello Fresh"

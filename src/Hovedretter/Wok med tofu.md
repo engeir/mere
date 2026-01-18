@@ -15,7 +15,7 @@ tags:
 author:
   - "[[Eirik Rolland Enger]]"
 cover:
-  - static/wok-med-tofu/wok-med-tofu.webp
+  - Attachments/wok-med-tofu/wok-med-tofu.webp
 description: 35 min | Enkel
 ingredients:
   - "[[Tofu]]"
@@ -35,7 +35,7 @@ up:
 
 # Wok med Tofu
 
-![](static/wok-med-tofu/wok-med-tofu.webp)
+![](Attachments/wok-med-tofu/wok-med-tofu.webp)
 
 > [!info]
 >
@@ -65,7 +65,7 @@ up:
 1. Kutt opp tofu i terninger og tilsett i en bolle. Vend inn soyasaus halvparten av red
    curry paste, og la det stå og marinere i minst 20 minutter.
 
-   ![](static/wok-med-tofu/tofu.webp)
+   ![](Attachments/wok-med-tofu/tofu.webp)
 
 2. Stek tofu i ei stekepanne med olje på alle sider til tofuen har fått en gyldenbrun
    farge. Sett til side.
@@ -73,7 +73,7 @@ up:
 4. Kutt opp alle grønnsakene, og stek hvitløk, rødløk og ingefær i ei panne til løken er
    blitt blank.
 
-   ![](static/wok-med-tofu/wok.webp)
+   ![](Attachments/wok-med-tofu/wok.webp)
 
 5. Tilsett resten av red curry paste og resten av grønnsakene og wok i cirka 5–6
    minutter.
@@ -84,7 +84,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Wok med Tofu",
-  "image": "static/wok-med-tofu/wok-med-tofu.webp",
+  "image": "Attachments/wok-med-tofu/wok-med-tofu.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

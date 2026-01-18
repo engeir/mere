@@ -8,7 +8,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp
+  - Attachments/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp
 description: 40 | Enkel
 ingredients:
   - "[[Hyse]]"
@@ -32,7 +32,7 @@ up:
 
 # Teriyaki-glasert hyse
 
-![](static/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp)
+![](Attachments/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp)
 
 > [!info]
 >
@@ -96,7 +96,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Teriyaki-glasert hyse",
-  "image": "static/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp",
+  "image": "Attachments/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

@@ -145,7 +145,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Oreokake",
-  "image": "static/https://trinesmatblogg.no/app/uploads/2015/09/IMG_7101.jpg",
+  "image": "Attachments/https://trinesmatblogg.no/app/uploads/2015/09/IMG_7101.jpg",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

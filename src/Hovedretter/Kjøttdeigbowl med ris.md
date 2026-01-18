@@ -9,7 +9,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp
+  - Attachments/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp
 description: 40 | Enkel
 ingredients:
   - "[[Hvitløk]]"
@@ -32,7 +32,7 @@ up:
 
 # Kjøttdeigbowl med ris
 
-![](static/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp)
+![](Attachments/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp)
 
 > [!info]
 >
@@ -88,7 +88,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kjøttdeigbowl med ris",
-  "image": "static/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp",
+  "image": "Attachments/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

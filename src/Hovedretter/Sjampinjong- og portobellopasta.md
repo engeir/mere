@@ -11,7 +11,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp
+  - Attachments/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp
 description: 30 min | Enkel
 ingredients:
   - "[[Pasta]]"
@@ -32,7 +32,7 @@ up:
 
 # Sjampinjong- og portobellopasta
 
-![](static/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp)
+![](Attachments/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp)
 
 > [!info]
 >
@@ -77,7 +77,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Sjampinjong- og portobellopasta",
-  "image": "static/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp",
+  "image": "Attachments/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

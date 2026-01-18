@@ -30,7 +30,7 @@ up:
 
 # Kylling teriyaki-bowl
 
-![](static/kylling-teriyaki-bowl/kylling-teriyaki-bowl.webp)
+![](Attachments/kylling-teriyaki-bowl/kylling-teriyaki-bowl.webp)
 
 > [!info]
 >
@@ -72,7 +72,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kylling teriyaki-bowl",
-  "image": "static/kylling-teriyaki-bowl/kylling-teriyaki-bowl.webp",
+  "image": "Attachments/kylling-teriyaki-bowl/kylling-teriyaki-bowl.webp",
   "author": {
     "@type": "Organization",
     "name": "HelloFresh"

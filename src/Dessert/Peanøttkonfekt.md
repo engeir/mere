@@ -9,7 +9,7 @@ tags:
 author:
   - "[[Lise Finckenhagen]]"
 cover:
-  - static/peanottkonfekt/peanottkonfekt.webp
+  - Attachments/peanottkonfekt/peanottkonfekt.webp
 description: 45 min | Enkel
 ingredients:
   - "[[Peanøttsmør|peanøttsmør]]"
@@ -25,7 +25,7 @@ up:
 
 # Peanøttkonfekt
 
-![](static/peanottkonfekt/peanottkonfekt.webp)
+![](Attachments/peanottkonfekt/peanottkonfekt.webp)
 
 > [!info]
 >
@@ -55,21 +55,21 @@ up:
 4. Kle en langpanne med plastfolie og fordel massen jevnt utover. Tykkelsen bør være ca.
    1 cm. Noe slikt som dette (etter alt er i).
 
-   ![](static/peanottkonfekt/peanottkonfekt-plast.webp)
+   ![](Attachments/peanottkonfekt/peanottkonfekt-plast.webp)
 
 5. Smelt [[Sjokolade|sjokoladen]] over vannbad og bre den utover massen.
 6. Sett langpannen i kjøleskap til [[Sjokolade|sjokoladen]] har stivnet.
 7. Plukk konfekten ut av langpannen og fjern plasten, som vist under. Skjær konfekten i
    passende biter og nyt!
 
-   ![](static/peanottkonfekt/peanottkonfekt-oppned.webp)
+   ![](Attachments/peanottkonfekt/peanottkonfekt-oppned.webp)
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Peanøttkonfekt",
-  "image": "static/peanottkonfekt/peanottkonfekt.webp",
+  "image": "Attachments/peanottkonfekt/peanottkonfekt.webp",
   "author": {
     "@type": "Person",
     "name": "Lise Finckenhagen"

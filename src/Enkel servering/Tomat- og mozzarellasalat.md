@@ -11,7 +11,7 @@ tags:
 author:
   - "[[Eirik Rolland Enger]]"
 cover:
-  - static/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp
+  - Attachments/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp
 description: 5 min | Enkel
 ingredients:
   - "[[Tomat]]"
@@ -26,7 +26,7 @@ up:
 
 # Tomat- og mozzarellasalat
 
-![](static/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp)
+![](Attachments/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp)
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
@@ -57,7 +57,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Tomat- og mozzarellasalat",
-  "image": "static/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp",
+  "image": "Attachments/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

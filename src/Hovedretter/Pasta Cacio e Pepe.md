@@ -5,7 +5,7 @@ tags:
   - hovedrett/pasta
   - hovedrett/ost
 author: "[[Eirik Rolland Enger]]"
-cover: static/pasta-ost-e-pepe/pasta-ost-e-pepe.webp
+cover: Attachments/pasta-ost-e-pepe/pasta-ost-e-pepe.webp
 description: 20 min | Middels
 ingredients:
   - "[[Pasta]]"
@@ -21,7 +21,7 @@ up:
 
 # Pasta Cacio e Pepe
 
-![](static/pasta-ost-e-pepe/pasta-ost-e-pepe.webp)
+![](Attachments/pasta-ost-e-pepe/pasta-ost-e-pepe.webp)
 
 | Tid    | Porsjoner | Vanskelighetsgrad |
 | ------ | --------- | ----------------- |
@@ -61,7 +61,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Pasta Cacio e Pepe",
-  "image": "static/pasta-ost-e-pepe/pasta-ost-e-pepe.webp",
+  "image": "Attachments/pasta-ost-e-pepe/pasta-ost-e-pepe.webp",
   "author": {
     "@type": "Person",
     "name": "["

@@ -39,7 +39,7 @@ tags: []
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Sjokoladefyll",
-  "image": "static/appelsinboller/sjokoladefyll.webp",
+  "image": "Attachments/appelsinboller/sjokoladefyll.webp",
   "datePublished": "2026-01-18",
   "description": "",
   "keywords": "sjokoladefyll",

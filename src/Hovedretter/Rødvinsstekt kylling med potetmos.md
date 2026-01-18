@@ -7,10 +7,9 @@ tags:
   - hovedrett/vin
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp
+  - Attachments/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp
 description: 40 | Enkel
 ingredients:
   - "[[Honning]]"
@@ -35,11 +34,12 @@ up:
 
 # Rødvinsstekt kylling med potetmos
 
-![](static/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp)
+![](Attachments/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp)
 
-> [!info] Denne oppskriften er originalt fra
+> [!info]
 >
-> [!badge variant="dark" iconAlign="right" margin="0 0 0 4" icon=":cook:" size="l" target="blank" text="HelloFresh"](https://www.hellofresh.no/recipes/rodvinsstekt-kylling-641456bd7bee82308d5513db)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/rodvinsstekt-kylling-641456bd7bee82308d5513db)
+> er originalt fra [[HelloFresh]]
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
@@ -92,7 +92,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Rødvinsstekt kylling med potetmos",
-  "image": "static/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp",
+  "image": "Attachments/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

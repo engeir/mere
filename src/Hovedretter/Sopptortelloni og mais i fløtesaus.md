@@ -10,7 +10,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp
+  - Attachments/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp
 description: 30 | Enkel
 ingredients:
   - "[[Hvitløk]]"
@@ -33,7 +33,7 @@ up:
 
 # Sopptortelloni og mais i fløtesaus
 
-![](static/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp)
+![](Attachments/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp)
 
 > [!info]
 >
@@ -84,7 +84,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Sopptortelloni og mais i fløtesaus",
-  "image": "static/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp",
+  "image": "Attachments/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

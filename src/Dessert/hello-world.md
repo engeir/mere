@@ -6,7 +6,7 @@ author:
   - "[[Mike Worth]]"
   - "[[Eirik Rolland Enger]]"
 cover:
-  - static/hello-world-kake/hello-world-fin.webp
+  - Attachments/hello-world-kake/hello-world-fin.webp
 description: Hello, World in Chef
 ingredients: []
 permalink: hello-world
@@ -16,7 +16,7 @@ up:
 
 # Hello, World!
 
-![](static/hello-world-kake/hello-world-fin.webp)
+![](Attachments/hello-world-kake/hello-world-fin.webp)
 
 <!-- dprint-ignore-start -->
 
@@ -32,7 +32,7 @@ eksempel
 
 [!ref icon=":cake:"](/dessert/sjokoladekake-med-kaffeglasur.md)
 
-![](static/hello-world-kake/hello-world-prep.webp)
+![](Attachments/hello-world-kake/hello-world-prep.webp)
 
 Uansett, her er `Hello, World!` i `chef`.
 

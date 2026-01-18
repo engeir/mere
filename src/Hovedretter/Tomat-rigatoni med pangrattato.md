@@ -13,7 +13,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp
+  - Attachments/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp
 description: 30 | Enkel
 ingredients:
   - "[[Rigatoni]]"
@@ -38,7 +38,7 @@ up:
 
 # Tomat-rigatoni med pangrattato
 
-![](static/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp)
+![](Attachments/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp)
 
 > [!info]
 > [Denne oppskriften](https://www.hellofresh.no/recipes/soltorket-tomat-rigatoni-65bb93fffb38871420c60705)
@@ -88,7 +88,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Tomat-rigatoni med pangrattato",
-  "image": "static/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp",
+  "image": "Attachments/tomat-rigatoni-med-pangrattato/tomat-rigatoni-med-pangrattato.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

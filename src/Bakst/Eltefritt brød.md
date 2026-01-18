@@ -13,7 +13,7 @@ tags:
 author:
   - "[[Eirik Rolland Enger]]"
 cover:
-  - static/eltefritt-brod/eltefritt-brod.webp
+  - Attachments/eltefritt-brod/eltefritt-brod.webp
 description: 20 min | Enkel
 ingredients:
   - "[[Vann|vann]]"
@@ -30,7 +30,7 @@ up:
 
 # Eltefritt brød
 
-![](static/eltefritt-brod/eltefritt-brod.webp)
+![](Attachments/eltefritt-brod/eltefritt-brod.webp)
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
@@ -60,7 +60,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Eltefritt brød",
-  "image": "static/eltefritt-brod/eltefritt-brod.webp",
+  "image": "Attachments/eltefritt-brod/eltefritt-brod.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

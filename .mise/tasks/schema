@@ -153,9 +153,10 @@ class RecipeSchemaGenerator:
         cover = frontmatter.get("cover", [])
         if cover:
             image_path = cover[0] if isinstance(cover, list) else cover
-            # Make path relative to static if not already
-            if not image_path.startswith("static/"):
-                image_path = f"static/{image_path}"
+            # Keep external URLs as-is, otherwise make path relative to Attachments
+            if not image_path.startswith(("http://", "https://")):
+                if not image_path.startswith("Attachments/"):
+                    image_path = f"Attachments/{image_path}"
             schema["image"] = image_path
 
         # Author

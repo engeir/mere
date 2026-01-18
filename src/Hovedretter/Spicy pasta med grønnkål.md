@@ -84,7 +84,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Spicy pasta med grønnkål",
-  "image": "static/https://res.cloudinary.com/norgesgruppen/images/c_scale,dpr_auto,f_auto,q_auto:eco,w_1600/g8fapchxuulswmgtng1u/spicy-pasta-med-gronnkal",
+  "image": "Attachments/https://res.cloudinary.com/norgesgruppen/images/c_scale,dpr_auto,f_auto,q_auto:eco,w_1600/g8fapchxuulswmgtng1u/spicy-pasta-med-gronnkal",
   "author": {
     "@type": "Person",
     "name": "["

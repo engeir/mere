@@ -9,7 +9,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/kylling-i-gressløksaus/kylling-i-gressløksaus.webp
+  - Attachments/kylling-i-gressløksaus/kylling-i-gressløksaus.webp
 description: 40 | Enkel
 ingredients:
   - "[[Potet]]"
@@ -31,7 +31,7 @@ up:
 
 # [[Kylling]] i gressløksaus
 
-![](static/kylling-i-gressløksaus/kylling-i-gressløksaus.webp)
+![](Attachments/kylling-i-gressløksaus/kylling-i-gressløksaus.webp)
 
 > [!info]
 >
@@ -87,7 +87,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kylling i gressløksaus",
-  "image": "static/kylling-i-gressløksaus/kylling-i-gressløksaus.webp",
+  "image": "Attachments/kylling-i-gressløksaus/kylling-i-gressløksaus.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

@@ -10,8 +10,20 @@ experimental = true
 rye = "latest"
 
 [tasks.serve]
-description = "Serve the site locally"
-run = "retype start"
+description = "Serve the site locally with Quartz"
+run = """
+#!/usr/bin/env bash
+if [ ! -d ".quartz" ]; then
+  echo "Cloning Quartz..."
+  git clone --depth 1 https://github.com/jackyzha0/quartz.git .quartz
+  cd .quartz && npm ci && cd ..
+fi
+rm -rf .quartz/content
+cp -r src .quartz/content
+cp quartz.config.ts .quartz/quartz.config.ts
+cp quartz.layout.ts .quartz/quartz.layout.ts
+cd .quartz && npx quartz build --serve
+"""
 
 [tasks.format]
 description = "Format files"

@@ -10,7 +10,7 @@ tags:
 author:
   - "[[Eirik Rolland Enger]]"
 cover:
-  - static/vegetar-lasagne/vegetar-lasagne.webp
+  - Attachments/vegetar-lasagne/vegetar-lasagne.webp
 description: 65 min | Enkel
 ingredients: []
 permalink: vegetar-lasagne
@@ -20,7 +20,7 @@ up:
 
 # Vegetar-lasagne
 
-![](static/vegetar-lasagne/vegetar-lasagne.webp)
+![](Attachments/vegetar-lasagne/vegetar-lasagne.webp)
 
 > [!info]
 >
@@ -113,7 +113,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Vegetar-lasagne",
-  "image": "static/vegetar-lasagne/vegetar-lasagne.webp",
+  "image": "Attachments/vegetar-lasagne/vegetar-lasagne.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

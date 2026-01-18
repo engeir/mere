@@ -53,7 +53,7 @@ Stekes på 220°C i omtrent 8 min.
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Bolledeig",
-  "image": "static/appelsinboller/deig.webp",
+  "image": "Attachments/appelsinboller/deig.webp",
   "datePublished": "2026-01-18",
   "description": "",
   "keywords": "bolledeig",

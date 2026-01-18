@@ -34,7 +34,7 @@ up:
 
 # Kyllingpasta alla cacciatore med kalamataoliven og finrevet ost
 
-![](static/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost.webp)
+![](Attachments/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost.webp)
 
 > [!info]
 >
@@ -93,7 +93,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kyllingpasta alla cacciatore med kalamataoliven og finrevet ost",
-  "image": "static/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost.webp",
+  "image": "Attachments/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost.webp",
   "author": {
     "@type": "Organization",
     "name": "HelloFresh"

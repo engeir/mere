@@ -33,7 +33,7 @@ up:
 
 # Kremet prosciuttopasta
 
-![](static/kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp)
+![](Attachments/kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp)
 
 > [!info]
 >
@@ -83,7 +83,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kremet prosciuttopasta",
-  "image": "static/kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp",
+  "image": "Attachments/kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp",
   "author": {
     "@type": "Organization",
     "name": "HelloFresh"

@@ -13,7 +13,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp
+  - Attachments/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp
 description: 40 | Enkel
 ingredients:
   - "[[Rødløk]]"
@@ -34,7 +34,7 @@ up:
 
 # Vegetarisk pulled beans-gyros
 
-![](static/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp)
+![](Attachments/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp)
 
 > [!info]
 >
@@ -82,7 +82,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Vegetarisk pulled beans-gyros",
-  "image": "static/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp",
+  "image": "Attachments/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

@@ -6,7 +6,7 @@ tags:
   - hovedrett/sitrus
   - hovedrett/tomat
 author: "[[HelloFresh]]"
-cover: static/rask-kyllingbowl-med-tabbouleh-og-tranebaer/rask-kyllingbowl-med-tabbouleh-og-tranebaer.webp
+cover: Attachments/rask-kyllingbowl-med-tabbouleh-og-tranebaer/rask-kyllingbowl-med-tabbouleh-og-tranebaer.webp
 description: 30 | Enkel
 ingredients:
   - "[[Kyllingbryst]]"
@@ -31,7 +31,7 @@ up:
 
 # Rask kyllingbowl med tabbouleh og tranebær
 
-![](static/rask-kyllingbowl-med-tabbouleh-og-tranebaer/rask-kyllingbowl-med-tabbouleh-og-tranebaer.webp)
+![](Attachments/rask-kyllingbowl-med-tabbouleh-og-tranebaer/rask-kyllingbowl-med-tabbouleh-og-tranebaer.webp)
 
 > [!info]
 >
@@ -90,7 +90,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Rask kyllingbowl med tabbouleh og tranebær",
-  "image": "static/rask-kyllingbowl-med-tabbouleh-og-tranebaer/rask-kyllingbowl-med-tabbouleh-og-tranebaer.webp",
+  "image": "Attachments/rask-kyllingbowl-med-tabbouleh-og-tranebaer/rask-kyllingbowl-med-tabbouleh-og-tranebaer.webp",
   "author": {
     "@type": "Person",
     "name": "["

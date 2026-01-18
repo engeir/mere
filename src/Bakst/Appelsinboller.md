@@ -123,7 +123,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Appelsinboller",
-  "image": "static/appelsinboller/appelsinboller2.webp",
+  "image": "Attachments/appelsinboller/appelsinboller2.webp",
   "author": {
     "@type": "Organization",
     "name": "dejligbakst"

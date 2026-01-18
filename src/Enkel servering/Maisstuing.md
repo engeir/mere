@@ -8,7 +8,7 @@ tags:
 author:
   - "[[Lise Finckenhagen]]"
 cover:
-  - static/mais-stuing/mais-stuing.webp
+  - Attachments/mais-stuing/mais-stuing.webp
 description: 15 min | Enkel
 ingredients:
   - "[[Mais]]"
@@ -24,7 +24,7 @@ up:
 
 # Maisstuing
 
-![](static/mais-stuing/mais-stuing.webp)
+![](Attachments/mais-stuing/mais-stuing.webp)
 
 > [!info]
 >
@@ -58,7 +58,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Maisstuing",
-  "image": "static/mais-stuing/mais-stuing.webp",
+  "image": "Attachments/mais-stuing/mais-stuing.webp",
   "author": {
     "@type": "Person",
     "name": "Lise Finckenhagen"

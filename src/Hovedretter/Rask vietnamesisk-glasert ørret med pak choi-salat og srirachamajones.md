@@ -7,7 +7,7 @@ tags:
   - hovedrett/sjømat
   - hovedrett/vin
 author: "[[HelloFresh]]"
-cover: static/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones.webp
+cover: Attachments/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones.webp
 description: 40 | Enkel
 ingredients:
   - "[[Ørret]]"
@@ -33,7 +33,7 @@ up:
 
 # Rask vietnamesisk-glasert ørret med pak choi-salat og srirachamajones
 
-![](static/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones.webp)
+![](Attachments/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones.webp)
 
 > [!info]
 >
@@ -104,7 +104,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Rask vietnamesisk-glasert ørret med pak choi-salat og srirachamajones",
-  "image": "static/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones.webp",
+  "image": "Attachments/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones/rask-vietnamesisk-glasert-orret-med-pak-choi-salat-og-srirachamajones.webp",
   "author": {
     "@type": "Person",
     "name": "["

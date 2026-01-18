@@ -17,7 +17,7 @@ ingredients:
 
 # Couscoussalat med halloumi
 
-![](/static/halloumi.webp)
+![](/Attachments/halloumi.webp)
 
 > [!NOTE]
 >

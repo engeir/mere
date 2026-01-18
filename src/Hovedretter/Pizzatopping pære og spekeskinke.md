@@ -9,7 +9,7 @@ tags:
   - hovedrett/skinke
   - hovedrett/blåmuggost
 author: "[[Eirik Rolland Enger]]"
-cover: static/pizza/pizza-paere.webp
+cover: Attachments/pizza/pizza-paere.webp
 description: 5 min | Enkel
 ingredients:
   - "[[Pære]]"
@@ -24,7 +24,7 @@ up:
 
 # Pizzatopping: pære og spekeskinke
 
-![](static/pizza/pizza-paere.webp)
+![](Attachments/pizza/pizza-paere.webp)
 
 | Tid   | Porsjoner | Vanskelighetsgrad |
 | ----- | --------- | ----------------- |
@@ -61,7 +61,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Pizzatopping pære og spekeskinke",
-  "image": "static/pizza/pizza-paere.webp",
+  "image": "Attachments/pizza/pizza-paere.webp",
   "author": {
     "@type": "Person",
     "name": "["

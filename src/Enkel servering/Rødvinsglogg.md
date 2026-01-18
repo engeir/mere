@@ -11,7 +11,7 @@ tags:
 author:
   - "[[Lise Finckenhagen]]"
 cover:
-  - static/rodvinsglogg/rodvinsglogg.webp
+  - Attachments/rodvinsglogg/rodvinsglogg.webp
 description: 25 min | Enkel
 ingredients:
   - "[[Vann]]"
@@ -31,7 +31,7 @@ up:
 
 # Rødvinsgløgg
 
-![](static/rodvinsglogg/rodvinsglogg.webp)
+![](Attachments/rodvinsglogg/rodvinsglogg.webp)
 
 > [!info]
 >
@@ -73,7 +73,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Rødvinsgløgg",
-  "image": "static/rodvinsglogg/rodvinsglogg.webp",
+  "image": "Attachments/rodvinsglogg/rodvinsglogg.webp",
   "author": {
     "@type": "Person",
     "name": "Lise Finckenhagen"

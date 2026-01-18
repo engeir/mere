@@ -36,7 +36,7 @@ up:
 
 # Kremet bacon-tortelloni med squash og frisk basilikum
 
-![](static/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum.webp)
+![](Attachments/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum.webp)
 
 > [!info]
 >
@@ -90,7 +90,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kremet bacon-tortelloni med squash og frisk basilikum",
-  "image": "static/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum.webp",
+  "image": "Attachments/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum.webp",
   "author": {
     "@type": "Organization",
     "name": "HelloFresh"

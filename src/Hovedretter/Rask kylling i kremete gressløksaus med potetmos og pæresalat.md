@@ -6,7 +6,7 @@ tags:
   - hovedrett/kylling
   - hovedrett/potet
 author: "[[HelloFresh]]"
-cover: static/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.webp
+cover: Attachments/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.webp
 description: 30 | Enkel
 ingredients:
   - "[[Kyllingbryst]]"
@@ -27,7 +27,7 @@ up:
 
 # Rask kylling i kremete gressløksaus med potetmos og pæresalat
 
-![](static/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.webp)
+![](Attachments/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.webp)
 
 > [!info]
 >
@@ -87,7 +87,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Rask kylling i kremete gressløksaus med potetmos og pæresalat",
-  "image": "static/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.webp",
+  "image": "Attachments/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.webp",
   "author": {
     "@type": "Person",
     "name": "["

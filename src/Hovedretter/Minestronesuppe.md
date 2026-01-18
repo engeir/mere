@@ -8,7 +8,7 @@ tags:
   - hovedrett/vegansk
   - hovedrett/suppe
 author: "[[Eirik Rolland Enger]]"
-cover: static/minestronesuppe/minestronesuppe.webp
+cover: Attachments/minestronesuppe/minestronesuppe.webp
 description: 45 min | Enkel
 ingredients:
   - "[[Olivenolje]]"
@@ -32,7 +32,7 @@ up:
 
 # Minestronesuppe
 
-![](static/minestronesuppe/minestronesuppe.webp)
+![](Attachments/minestronesuppe/minestronesuppe.webp)
 
 | Tid    | Porsjoner | Vanskelighetsgrad |
 | ------ | --------- | ----------------- |
@@ -64,7 +64,7 @@ up:
 2. Tilsett [[gulrøtter]], [[selleri]] og [[paprika]], og la det surre i ca. 5 minutter
    til grønnsakene er litt myke.
 
-![](static/minestronesuppe/i-kjelen.webp)
+![](Attachments/minestronesuppe/i-kjelen.webp)
 
 3. Tilsett [[hermetiske tomater]] og [[grønsaksbuljong]]. Kok opp suppen, reduser varmen
    og la det småkoke i hvertfall 10 minutter, avhengig av hvor myke grønnsaker du
@@ -73,7 +73,7 @@ up:
 4. Tilsett [[pasta]] og hermetiske [[bønner]], og kok suppen videre til pastaen er al
    dente, gjerne 1-2 minutter kortere enn anvist på pakken.
 
-![](static/minestronesuppe/pasta.webp)
+![](Attachments/minestronesuppe/pasta.webp)
 
 5. Rør inn hakket [[spinat]] eller [[grønnkål]], og la det koke ut tiden til pastaen.
 
@@ -86,7 +86,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Minestronesuppe",
-  "image": "static/minestronesuppe/minestronesuppe.webp",
+  "image": "Attachments/minestronesuppe/minestronesuppe.webp",
   "author": {
     "@type": "Person",
     "name": "["

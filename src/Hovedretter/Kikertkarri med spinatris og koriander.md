@@ -35,7 +35,7 @@ up:
 
 # Kikertkarri med spinatris og koriander
 
-![](static/krydret-kikertkarri-med-spinatris-og-koriander/krydret-kikertkarri-med-spinatris-og-koriander.webp)
+![](Attachments/krydret-kikertkarri-med-spinatris-og-koriander/krydret-kikertkarri-med-spinatris-og-koriander.webp)
 
 > [!info]
 >
@@ -91,7 +91,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Krydret kikertkarri med spinatris og koriander",
-  "image": "static/krydret-kikertkarri-med-spinatris-og-koriander/krydret-kikertkarri-med-spinatris-og-koriander.webp",
+  "image": "Attachments/krydret-kikertkarri-med-spinatris-og-koriander/krydret-kikertkarri-med-spinatris-og-koriander.webp",
   "author": {
     "@type": "Organization",
     "name": "HelloFresh"

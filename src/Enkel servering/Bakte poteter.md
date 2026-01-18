@@ -45,7 +45,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Ovnsbakte [[Potet|poteter]]",
-  "image": "static/tilbehor/stekt-potet-parmesan.webp",
+  "image": "Attachments/tilbehor/stekt-potet-parmesan.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

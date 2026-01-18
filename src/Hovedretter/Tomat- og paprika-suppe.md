@@ -81,7 +81,7 @@ ingredients:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "tomat-paprika-suppe",
-  "image": "static/[[tomat-paprika-suppe.webp]]",
+  "image": "Attachments/[[tomat-paprika-suppe.webp]]",
   "author": {
     "@type": "Person",
     "name": "fattig-student"

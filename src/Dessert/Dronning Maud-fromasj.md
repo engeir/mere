@@ -10,7 +10,7 @@ tags:
 author:
   - "[[Kristine]]"
 cover:
-  - static/dr-maud-fromasj/dr-maud-pudding.webp
+  - Attachments/dr-maud-fromasj/dr-maud-pudding.webp
 description: 80 min | Middels
 ingredients:
   - "[[Egg]]"
@@ -26,7 +26,7 @@ up:
 
 # Dronning Maud-fromasj
 
-![](static/dr-maud-fromasj/dr-maud-pudding.webp)
+![](Attachments/dr-maud-fromasj/dr-maud-pudding.webp)
 
 > [!info]
 >
@@ -52,12 +52,12 @@ up:
 1. Start med å piske kremfløten til tykk, myk krem. Ha kremen i en bolle og sett i
    kjøleskapet.
 
-![](static/dr-maud-fromasj/krempisk.webp)-
+![](Attachments/dr-maud-fromasj/krempisk.webp)-
 
 2. Riv sjokoladen fint (bruk mandelkvern til dette eller eventuelt food processor med
    hakkekniv).
 
-![](static/dr-maud-fromasj/raspe-sjokolade.webp)-
+![](Attachments/dr-maud-fromasj/raspe-sjokolade.webp)-
 
 3. Pisk [[egg]] og [[sukker]] til skikkelig lys og tykk eggedosis (ca 10 min med elektrisk
    mikser). Det er viktig at du bruker helt ren og tørr bolle og mikser.
@@ -66,7 +66,7 @@ up:
    løser dem opp i en kopp med 2 ss [[kokende vann]]. Om gelatinplatene ikke løser seg så
    godt opp, legg bollen i det varme vannet og rør til du får en fin blanding.
 
-![](static/dr-maud-fromasj/gelatin.webp)-
+![](Attachments/dr-maud-fromasj/gelatin.webp)-
 
 6. Hell så den varme gelatinblandingen i eggedosisen mens du fortsetter å piske på lav
    hastighet slik at gelatinen blir jevnt og godt blandet inn i eggedosisen.
@@ -74,7 +74,7 @@ up:
    ballongvisp. Det er viktig å røre nok til at alle kremflekker fjernes, men ikke mer
    enn nødvendig så luften i fromasjen bevares.
 
-![](static/dr-maud-fromasj/bollongvisp-blanding.webp)-
+![](Attachments/dr-maud-fromasj/bollongvisp-blanding.webp)-
 
 8. Ta frem en stor dessertskål og hell i 1/3 av fromasjen. Dryss over [[sjokolade]]. Hell
    over 1/3 til av fromasjen og dryss over [[sjokolade]]. Så har du over resten av fromasjen
@@ -103,7 +103,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Dronning Maud-fromasj",
-  "image": "static/dr-maud-fromasj/dr-maud-pudding.webp",
+  "image": "Attachments/dr-maud-fromasj/dr-maud-pudding.webp",
   "author": {
     "@type": "Person",
     "name": "Kristine"

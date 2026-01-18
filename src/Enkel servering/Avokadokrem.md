@@ -64,7 +64,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Avokadokrem",
-  "image": "static/bondelapper/bondelapper.webp",
+  "image": "Attachments/bondelapper/bondelapper.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

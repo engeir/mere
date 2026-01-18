@@ -6,7 +6,7 @@ tags:
   - hovedrett/ris
   - hovedrett/sitrus
 author: "[[HelloFresh]]"
-cover: static/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi.webp
+cover: Attachments/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi.webp
 description: 40 | Enkel
 ingredients:
   - "[[Jasminris]]"
@@ -30,7 +30,7 @@ up:
 
 # Malaysisk kyllinglaksa med hvitløksris og karristekt pak choi
 
-![](static/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi.webp)
+![](Attachments/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi.webp)
 
 > [!info]
 >
@@ -100,7 +100,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Malaysisk kyllinglaksa med hvitløksris og karristekt pak choi",
-  "image": "static/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi.webp",
+  "image": "Attachments/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi/malaysisk-kyllinglaksa-med-hvitloksris-og-karristekt-pak-choi.webp",
   "author": {
     "@type": "Person",
     "name": "["

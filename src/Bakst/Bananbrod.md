@@ -8,7 +8,7 @@ tags:
 author:
   - "[[Eirik Rolland Enger]]"
 cover:
-  - static/bananbrod/bananbrod-banner.webp
+  - Attachments/bananbrod/bananbrod-banner.webp
 description: 45 min | Enkel
 ingredients:
   - "[[Hvetemel]]"
@@ -26,7 +26,7 @@ up:
 
 # Bananbrød
 
-![](static/bananbrod/bananbrod-banner.webp)
+![](Attachments/bananbrod/bananbrod-banner.webp)
 
 | ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------- | ------------ | -------------------- |
@@ -50,7 +50,7 @@ up:
 1. Sett ovnen på 180°.
 2. Visp sammen [[egg]] og [[sukker]] i en bolle.
 
-   ![220g sukker](static/bananbrod/bananbrod-sukker.webp)
+   ![220g sukker](Attachments/bananbrod/bananbrod-sukker.webp)
 
 3. Skrell og mos [[Banan|bananer]], ha de i bollen og bland sammen.
 4. Smelt [[smør]] i en liten kjele, hell i [[melk]] og bland det deretter i bollen.
@@ -64,14 +64,14 @@ up:
    i omlag 35 min.
 7. Ta brødet ut av formen og avkjøl på rist.
 
-   ![Ferdige bananbrød, klare for avkjøling](static/bananbrod/bananbrod-ovn.webp)
+   ![Ferdige bananbrød, klare for avkjøling](Attachments/bananbrod/bananbrod-ovn.webp)
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Bananbrød",
-  "image": "static/bananbrod/bananbrod-banner.webp",
+  "image": "Attachments/bananbrod/bananbrod-banner.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"

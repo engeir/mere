@@ -37,7 +37,7 @@ permalink: asiatiske-reketaco
 
 _Med bang bang-saus og syrlig pico de gallo_
 
-![](static/asiatiske-reketaco/asiatiske-reketaco.webp)
+![](Attachments/asiatiske-reketaco/asiatiske-reketaco.webp)
 
 > [!info]
 >
@@ -89,7 +89,7 @@ _Med bang bang-saus og syrlig pico de gallo_
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "asiatiske-reketaco",
-  "image": "static/asiatiske-reketaco/asiatiske-reketaco.webp",
+  "image": "Attachments/asiatiske-reketaco/asiatiske-reketaco.webp",
   "url": "https://www.hellofresh.no/recipes/asiatiske-reketacos-630c98057a1fb716bde08fdb",
   "datePublished": "2026-01-18",
   "description": "40 | Enkel",

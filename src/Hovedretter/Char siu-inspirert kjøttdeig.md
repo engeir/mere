@@ -31,7 +31,7 @@ up:
 
 # Char siu-inspirert kjøttdeig
 
-![](static/char-siu-kjottdeig/char-siu-kjottdeig.webp)
+![](Attachments/char-siu-kjottdeig/char-siu-kjottdeig.webp)
 
 > [!info]
 >
@@ -82,7 +82,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Char siu-inspirert kjøttdeig",
-  "image": "static/char-siu-kjottdeig/char-siu-kjottdeig.webp",
+  "image": "Attachments/char-siu-kjottdeig/char-siu-kjottdeig.webp",
   "author": {
     "@type": "Organization",
     "name": "HelloFresh"

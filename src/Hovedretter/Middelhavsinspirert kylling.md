@@ -7,7 +7,7 @@ tags:
   - hovedrett/kylling
   - hovedrett/sitrus
 author: "[[HelloFresh]]"
-cover: static/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp
+cover: Attachments/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp
 description: 25 min | Enkel
 ingredients:
   - "[[Vann]]"
@@ -29,7 +29,7 @@ up:
 
 # Middelhavsinspirert kylling
 
-![](static/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp)
+![](Attachments/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp)
 
 > [!info]
 >
@@ -88,7 +88,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Middelhavsinspirert kylling",
-  "image": "static/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp",
+  "image": "Attachments/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp",
   "author": {
     "@type": "Person",
     "name": "["

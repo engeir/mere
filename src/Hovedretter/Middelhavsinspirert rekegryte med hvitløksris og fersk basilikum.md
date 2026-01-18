@@ -7,7 +7,7 @@ tags:
   - hovedrett/sjømat
   - hovedrett/tomat
 author: "[[HelloFresh]]"
-cover: static/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum.webp
+cover: Attachments/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum.webp
 description: 40 | Enkel
 ingredients:
   - "[[Reker]]"
@@ -32,7 +32,7 @@ up:
 
 # Middelhavsinspirert rekegryte med hvitløksris og fersk basilikum
 
-![](static/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum.webp)
+![](Attachments/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum.webp)
 
 > [!info]
 >
@@ -101,7 +101,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Middelhavsinspirert rekegryte med hvitløksris og fersk basilikum",
-  "image": "static/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum.webp",
+  "image": "Attachments/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum/middelhavsinspirert-rekegryte-med-hvitloksris-og-fersk-basilikum.webp",
   "author": {
     "@type": "Person",
     "name": "["

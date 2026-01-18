@@ -8,7 +8,7 @@ tags:
 author:
   - "[[Eirik Lingås Johnsen]]"
 cover:
-  - static/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp
+  - Attachments/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp
 description: 60 min | Middels
 ingredients: []
 permalink: sjokoladakake-med-kaffeglasur
@@ -18,7 +18,7 @@ up:
 
 # Sjokoladakake med kaffeglasur
 
-![](static/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp)
+![](Attachments/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp)
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
@@ -83,7 +83,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Sjokoladakake med kaffeglasur",
-  "image": "static/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp",
+  "image": "Attachments/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Lingås Johnsen"

@@ -9,7 +9,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - static/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp
+  - Attachments/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp
 description: 40 | Enkel
 ingredients:
   - "[[Kjøttdeig]]"
@@ -34,7 +34,7 @@ up:
 
 # Hakkebiff med kremet soppsaus
 
-![](static/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp)
+![](Attachments/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp)
 
 > [!info]
 >
@@ -94,7 +94,7 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Hakkebiff med kremet soppsaus",
-  "image": "static/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp",
+  "image": "Attachments/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"
