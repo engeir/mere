@@ -9,15 +9,16 @@ tags:
   - tilbehør/basilikum
   - enkel
 author:
-  - "[[Eirik Enger]]"
+  - "[[Eirik Rolland Enger]]"
 cover:
-  - static/tomat-salat/tomat-salat.webp
+  - static/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp
 description: 5 min | Enkel
 ingredients:
-  - "[[Eller en håndfull små tomater|eller en håndfull små tomater]]"
-  - "[[Basilikum|basilikum]]"
-  - "[[Salt og papper|salt og papper]]"
-  - "[[Litt olje|litt olje]]"
+  - "[[Tomat]]"
+  - "[[Basilikum]]"
+  - "[[Salt]]"
+  - "[[Pepper]]"
+  - "[[Olivenolje]]"
 permalink: tomat-og-mozzarellasalat
 up:
   - Enkel servering
@@ -25,7 +26,7 @@ up:
 
 # Tomat- og mozzarellasalat
 
-![](static/tomat-salat/tomat-salat.webp)
+![](static/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp)
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

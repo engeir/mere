@@ -7,14 +7,15 @@ tags:
   - tilbehør/avokado
   - enkel
 author:
-  - "[[Eirik Enger]]"
+  - "[[Eirik Rolland Enger]]"
 cover: []
 description: 15 min | Enkel
 ingredients:
-  - "[[Olivenolje|olivenolje]]"
-  - "[[Hvitvinseddik|hvitvinseddik]]"
-  - "[[Litt koriander|litt koriander]]"
-  - "[[Salt og papper|salt og papper]]"
+  - "[[Olivenolje]]"
+  - "[[Hvitvinseddik]]"
+  - "[[Koriander]]"
+  - "[[Salt]]"
+  - "[[Pepper]]"
 permalink: mangosalsa
 up:
   - Enkel servering

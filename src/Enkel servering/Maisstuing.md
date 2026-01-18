@@ -11,11 +11,12 @@ cover:
   - static/mais-stuing/mais-stuing.webp
 description: 15 min | Enkel
 ingredients:
-  - "[[Eller 1 stor boks mais|eller 1 stor boks mais]]"
-  - "[[Kremfløte|kremfløte]]"
-  - "[[Hvitløk|hvitløk]]"
-  - "[[Salt og papper|salt og papper]]"
-  - "[[Smør|smør]]"
+  - "[[Mais]]"
+  - "[[Fløte]]"
+  - "[[Hvitløk]]"
+  - "[[Salt]]"
+  - "[[Pepper]]"
+  - "[[Smør]]"
 permalink: maisstuing
 up:
   - Enkel servering

@@ -13,7 +13,17 @@ author:
 cover:
   - static/rodvinsglogg/rodvinsglogg.webp
 description: 25 min | Enkel
-ingredients: []
+ingredients:
+  - "[[Vann]]"
+  - "[[Sukker]]"
+  - "[[Kanelstang]]"
+  - "[[Nellik]]"
+  - "[[Stjerneanis]]"
+  - "[[Ingefær]]"
+  - "[[Vaniljestang]]"
+  - "[[Appelsin]]"
+  - "[[Rom]]"
+  - "[[Rødvin]]"
 permalink: rodvinsglogg
 up:
   - Enkel servering
@@ -33,12 +43,12 @@ up:
 
 ## Ingredienser
 
-#ingredient
-
 > [!info] Om du ikke finner krydderne i hel form, prøv deg frem med den malte varianten
 > og filtrer
 >
 > det med et kaffefilter. Går an det!
+
+#ingredient
 
 - 2.5 dl vann
 - 1 dl sukker, kan bruke lys brunt sukker også
