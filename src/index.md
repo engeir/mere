@@ -1,9 +1,8 @@
 ---
-id: index
+title: Mere?
 aliases: []
 tags: []
 description: Dolby mat til alle
-permalink: /
 ---
 
 # Om Mere?

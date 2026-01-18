@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/engeir/simple-recipes-cookbook",
+      GitHub: "https://github.com/engeir/mere",
     },
   }),
 }
@@ -33,7 +33,6 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],
-  afterBody: [],
 }
 
 // components for pages that display lists of pages (e.g. tags or folders)
@@ -47,5 +46,4 @@ export const defaultListPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
   right: [],
-  afterBody: [],
 }

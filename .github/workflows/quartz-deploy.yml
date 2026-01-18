@@ -17,7 +17,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,37 +29,35 @@ jobs:
         with:
           node-version: 22
 
-      - name: Clone Quartz
+      - name: Clone Quartz and setup
         run: |
-          git clone --depth 1 https://github.com/jackyzha0/quartz.git .quartz
-          cd .quartz && npm ci
+          git clone --depth 1 --branch v4 https://github.com/jackyzha0/quartz.git quartz-build
+          cd quartz-build
+          npm ci
 
-      - name: Copy content to Quartz
+      - name: Copy content and config
         run: |
-          rm -rf .quartz/content
-          cp -r src .quartz/content
-
-      - name: Copy Quartz configuration
-        run: |
-          cp quartz.config.ts .quartz/quartz.config.ts
-          cp quartz.layout.ts .quartz/quartz.layout.ts
+          rm -rf quartz-build/content
+          cp -r src quartz-build/content
+          cp quartz.config.ts quartz-build/quartz.config.ts
+          cp quartz.layout.ts quartz-build/quartz.layout.ts
 
       - name: Build Quartz
         run: |
-          cd .quartz
+          cd quartz-build
           npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: .quartz/public
+          path: quartz-build/public
 
   deploy:
+    needs: build
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
-    needs: build
     steps:
       - name: Deploy to GitHub Pages
         id: deployment

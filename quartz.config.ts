@@ -1,21 +1,17 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-/**
- * Quartz 4 Configuration
- *
- * See https://quartz.jzhao.xyz/configuration for more information.
- */
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Mere?",
-    pageTitleSuffix: " | Dolby mat til alle",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
-    locale: "no-NO",
-    baseUrl: "mere.eirik.re",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    analytics: {
+      provider: "plausible",
+    },
+    locale: "nb-NO",
+    baseUrl: "engeir.github.io/mere",
+    ignorePatterns: ["private", "templates", ".obsidian", "Attachments"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -46,7 +42,7 @@ const config: QuartzConfig = {
           secondary: "#7b97aa",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          textHighlight: "#b3aa0288",
         },
       },
     },
@@ -55,7 +51,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
