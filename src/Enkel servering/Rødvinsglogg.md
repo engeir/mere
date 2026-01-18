@@ -73,34 +73,20 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Rødvinsgløgg",
-  "image": "/static/rodvinsglogg/rodvinsglogg.webp",
-  "url": "https://www.godt.no/oppskrifter/drikke/drinker/1412/roedvinsgloegg",
+  "image": "static/rodvinsglogg/rodvinsglogg.webp",
   "author": {
     "@type": "Person",
-    "name": "Lise Finckenhagen",
-    "url": "https://www.godt.no/bruker/15/lise-finckenhagen"
+    "name": "Lise Finckenhagen"
   },
-  "datePublished": "2024-05-30",
+  "url": "https://www.godt.no/oppskrifter/drikke/drinker/1412/roedvinsgloegg",
+  "datePublished": "2026-01-18",
   "description": "25 min | Enkel",
-  "prepTime": "PT10M",
-  "cookTime": "PT15M",
+  "prepTime": "PT15M",
+  "cookTime": "PT10M",
   "totalTime": "PT25M",
-  "recipeYield": "4 kopper",
+  "recipeYield": "4 porsjoner",
   "recipeCategory": "Tilbehør",
-  "recipeCuisine": "",
-  "keywords": "tilbehør, drink, vin, gløgg, jul",
-  "recipeIngredient": [
-    "2.5 dl vann",
-    "1 dl sukker, kan bruke lys brunt sukker også",
-    "1 stk kanelstang",
-    "3 stk nellik",
-    "1 stk stjerneanis",
-    "3 skive(r) ingefær, ta 2-3 ferske skiver",
-    "1 stk vaniljestang, kvistet",
-    "1 stk appelsin",
-    "0.5–1 dl rom, her velger du mengde selv",
-    "7.5 dl rødvin"
-  ],
+  "keywords": "drink, enkel, jul, punch, rødvinsgløgg, vin",
   "recipeInstructions": [
     {
       "@type": "HowToStep",

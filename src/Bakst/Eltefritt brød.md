@@ -60,21 +60,19 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Eltefritt brød",
-  "image": "/static/eltefritt-brod/eltefritt-brod.webp",
+  "image": "static/eltefritt-brod/eltefritt-brod.webp",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
-  "description": "65 min | Enkel",
-  "prepTime": "PT15M",
-  "cookTime": "PT50M",
-  "totalTime": "PT65M",
-  "recipeYield": "2 brød",
+  "datePublished": "2026-01-18",
+  "description": "20 min | Enkel",
+  "prepTime": "PT12M",
+  "cookTime": "PT8M",
+  "totalTime": "PT20M",
+  "recipeYield": "2 brød porsjoner",
   "recipeCategory": "Bakst",
-  "recipeCuisine": "",
-  "keywords": "enkel, brød, bakst, sunt",
+  "keywords": "brød, eltefritt, enkel, sunn, vegansk, vegetar",
   "recipeIngredient": [
     "10 dl vann",
     "10 dl hvetemel",
@@ -95,7 +93,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "La degien heve i minst 14 timer."
+      "text": "La degien heve i omlag 14 timer."
     },
     {
       "@type": "HowToStep",

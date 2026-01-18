@@ -58,27 +58,25 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Maisstuing",
-  "image": "/static/mais-stuing/mais-stuing.webp",
-  "url": "https://www.godt.no/oppskrifter/groennsaker/6944/maispure-kremet-mais",
+  "image": "static/mais-stuing/mais-stuing.webp",
   "author": {
     "@type": "Person",
-    "name": "Lise Finckenhagen",
-    "url": "https://www.godt.no/bruker/15/lise-finckenhagen"
+    "name": "Lise Finckenhagen"
   },
-  "datePublished": "2024-05-30",
+  "url": "https://www.godt.no/oppskrifter/groennsaker/6944/maispure-kremet-mais",
+  "datePublished": "2026-01-18",
   "description": "15 min | Enkel",
-  "prepTime": "PT15M",
-  "cookTime": "PT0M",
+  "prepTime": "PT9M",
+  "cookTime": "PT6M",
   "totalTime": "PT15M",
   "recipeYield": "4 porsjoner",
   "recipeCategory": "Tilbehør",
-  "recipeCuisine": "",
-  "keywords": "tilbegør, grillmat, mais",
+  "keywords": "enkel, mais, maisstuing",
   "recipeIngredient": [
     "2 små eller 1 stor boks mais",
     "1 dl kremfløte",
     "2 fedd hvitløk",
-    "salt og pepper",
+    "salt og papper",
     "2 ss smør"
   ],
   "recipeInstructions": [

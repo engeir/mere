@@ -89,45 +89,38 @@ permalink: vegetarwok-med-kebab-og-ris
 
 <script type="application/ld+json">
 {
-  "author": {
-    "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/vegetarprotein-i-kung-pao-saus-661f746b019ddbd535c05917"
-  },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R07_BW09_SE_R21773-1_Main_low-fc86f071.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Kinesiske",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "name": "vegetarwok-med-kebab-og-ris",
+  "url": "https://www.hellofresh.no/recipes/vegetarprotein-i-kung-pao-saus-661f746b019ddbd535c05917",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "totalTime": "PT40M",
+  "recipeYield": "2 porsjoner",
+  "keywords": "ris, vegansk, vegetar, vegetarwok-med-kebab-og-ris",
   "recipeIngredient": [
-    "200 g Vegansk kebab",
-    "40 g Søt chilisaus",
-    "25 ml Soyasaus",
-    "10 g Sriracha",
-    "30 g Hoisinsaus",
-    "150 g Jasminris",
-    "20 g Saltede peanøtter",
-    "1 stk Vårløk",
-    "250 g Brokkoli",
-    "1 stk Gulrot, Julienne",
-    "½ ts Salt (steg 1)",
-    "3 dl Vann (steg 1)",
-    "1 ss Olivenolje (steg 3)",
-    "¼ ts Salt (steg 3)",
-    "½ ss Olivenolje (steg 4)",
-    "½ ss Hvetemel (steg 5)",
-    "1 dl Vann (steg 5)"
+    "200 g vegansk kebab",
+    "40 g søt chilisaus",
+    "25 ml soyasaus",
+    "10 g sriracha",
+    "30 g hoisinsaus",
+    "150 g jasminris",
+    "20 g saltede peanøtter",
+    "1 stk vårløk",
+    "250 g brokkoli",
+    "1 stk gulrot",
+    "½ ts salt (steg 1)",
+    "3 dl vann (steg 1)",
+    "1 ss olivenolje (steg 3)",
+    "¼ ts salt (steg 3)",
+    "½ ss olivenolje (steg 4)",
+    "½ ss hvetemel (steg 5)",
+    "1 dl vann (steg 5)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Kok opp vann [3 dl | 6 dl] i en mellomstor kjele. Tilsett ris og salt [1/2 ts | 1 ts], senk til middels lav varme og la putre under lokk i 12 min. Fjern kjelen fra varme og la hvile under lokk til servering. TIPS: Ikke fjern lokket mens risen hviler."
+      "text": "Kok opp vann i en mellomstor kjele. Tilsett jasminris og salt , senk til middels lav varme og la putre under lokk i 12 min. Fjern kjelen fra varme og la hvile under lokk til servering. TIPS: Ikke fjern lokket mens risen hviler."
     },
     {
       "@type": "HowToStep",
@@ -135,37 +128,20 @@ permalink: vegetarwok-med-kebab-og-ris
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp olivenolje [1 ss | 2 ss] i en stor stekepanne på middels høy varme. Stek vegansk kebab med salt [1/4 ts | 1/2 ts] og en klype pepper i 3-4 min, til brunet. Sett til side på en tallerken."
+      "text": "Varm opp olivenolje i en stor stekepanne på middels høy varme. Stek vegansk kebab med salt og en klype Pepper i 3-4 min, til brunet. Sett til side på en tallerken."
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp olivenolje [1/2 ss | 1 ss] i samme stekepanne på middels høy varme. Stek brokkoli i 4-5 min, til myknet. Tilsett gulrot og stek videre i 1 min. TIPS: Tilsett en skvett vann, slik at grønnsakene tilberedes raskere."
+      "text": "Varm opp olivenolje i samme stekepanne på middels høy varme. Stek brokkoli i 4-5 min, til myknet. Tilsett gulrot og stek videre i 1 min. TIPS: Tilsett en skvett vann, slik at grønnsakene tilberedes raskere."
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett vegansk kebab i stekepannen. Rør inn hvetemel [1/2 ss | 1 ss]. Tilsett vann [1 dl | 2 dl], søt chilisaus, hoisinsaus, soyasaus og sriracha [1/2 pakke, 2P]. Stek i 1-2 min, til sausen tykner. TIPS: Reduser eller dropp sriracha, hvis du ikke liker sterk mat."
+      "text": "Tilsett vegansk kebab i stekepannen. Rør inn hvetemel. Tilsett vann , søt chilisaus, hoisinsaus, soyasaus og sriracha. Stek i 1-2 min, til sausen tykner. TIPS: Reduser eller dropp sriracha, hvis du ikke liker sterk mat."
     },
     {
       "@type": "HowToStep",
       "text": "Fordel ris i skåler. Topp med vegansk kebab, grønnsaker og saus. Dryss over peanøtter og vårløk."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "785 kcal",
-    "fatContent": "31.1 g",
-    "saturatedFatContent": "52.5 g",
-    "carbohydrateContent": "91.3 g",
-    "sugarContent": "22.9 g",
-    "proteinContent": "30 g",
-    "sodiumContent": "460 mg",
-    "servingSize": "446"
-  },
-  "prepTime": 20,
-  "name": "Vegetarprotein i 'kung pao'-saus med stekt brokkoli og revet gulrot",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "vegetarprotein-i-'kung-pao'-saus-med-stekt-brokkoli-og-revet-gulrot"
+  ]
 }
 </script>

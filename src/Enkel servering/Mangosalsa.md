@@ -54,28 +54,26 @@ up:
   "name": "Mangosalsa",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "15 min | Enkel",
-  "prepTime": "PT15M",
-  "cookTime": "PT0M",
+  "prepTime": "PT9M",
+  "cookTime": "PT6M",
   "totalTime": "PT15M",
   "recipeYield": "2 porsjoner",
   "recipeCategory": "Tilbehør",
-  "recipeCuisine": "",
-  "keywords": "tilbehør, frukt, mango",
+  "keywords": "avokado, enkel, mango, mangosalsa",
   "recipeIngredient": [
-    "0.5 mango",
-    "0.5 rødløk",
-    "0.5 avokado",
-    "0.25 chili",
+    "1/2 mango",
+    "1/2 rødløk",
+    "1/2 avokado",
+    "1/4 chili",
     "2 ss olivenolje",
-    "1 ss hvitvinseddik",
-    "0.5 lime",
-    "koriander",
-    "salt og pepper"
+    "1 ss hvitvinseddik (ikke så viktig)",
+    "1/2 lime",
+    "litt koriander",
+    "salt og papper"
   ],
   "recipeInstructions": [
     {

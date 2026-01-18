@@ -79,22 +79,20 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Vegetarisk pulled beans-gyros",
+  "image": "static/vegetarisk-pulled-beans-gyros/vegetarisk-pulled-beans-gyros.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/vegetarisk-pulled-beans-gyros-64d20cd32a63efcc605eb230"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/R13_W07_NO_R12255-4_Main_remove_salad_low-ffdf73a7.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Fusion",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/vegetarisk-pulled-beans-gyros-64d20cd32a63efcc605eb230",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "beans-gyros, bønner, pulled, taco, tomat, vegansk, vegetar, vegetarisk",
   "recipeIngredient": [
     "1 stk Rødløk",
     "1 stk Salat",
@@ -115,7 +113,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp en skvett olivenolje i en stekepanne på middels høy varme. Stek pulled beans, rødløk, Hvitløksflørt, salt [1/4 ts | 1/2 ts] og en klype pepper i 3-4 min, til løken er blank og pulled beans er brunet. Fjern fra varmen."
+      "text": "Varm opp en skvett olivenolje i en stekepanne på middels høy varme. Stek pulled beans, rødløk, Hvitløksflørt, salt [1/4 ts | 1/2 ts] og en klype Pepper i 3-4 min, til løken er blank og pulled beans er brunet. Fjern fra varmen."
     },
     {
       "@type": "HowToStep",
@@ -123,7 +121,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Bland rømme [1/2 pakke, 2P], persille, majones, hvitløk og en skvett vann i en skål. Krydre med en klype salt og pepper."
+      "text": "Bland rømme [1/2 pakke, 2P], persille, majones, hvitløk og en skvett vann i en skål. Krydre med en klype salt og Pepper."
     },
     {
       "@type": "HowToStep",
@@ -133,23 +131,6 @@ up:
       "@type": "HowToStep",
       "text": "Fyll tortillabrød med pulled beans, løk, salat og tomat. Drypp over urtedressing. Rull tortilla sammen."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "898 kcal",
-    "fatContent": "40.3 g",
-    "saturatedFatContent": "7.4 g",
-    "carbohydrateContent": "86.8 g",
-    "sugarContent": "8.9 g",
-    "proteinContent": "42 g",
-    "sodiumContent": "0 mg",
-    "servingSize": "456"
-  },
-  "prepTime": 20,
-  "name": "Vegetarisk pulled beans-gyros med grønn salat og urtedressing",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "vegetarisk-pulled-beans-gyros-med-gronn-salat-og-urtedressing"
+  ]
 }
 </script>

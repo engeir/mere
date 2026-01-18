@@ -87,35 +87,35 @@ up:
 
 <script type="application/ld+json">
 {
-  "author": {
-    "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/kremet-bacon-tortelloni-64f9b968786cce2df0dfe1ec"
-  },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF220401_R15_W20_SE_R11404-1_KB_Main_low-04ff8893.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 15,
-  "recipeCuisine": "Italienske",
-  "publisher": {
+  "name": "Kremet bacon-tortelloni med squash og frisk basilikum",
+  "image": "static/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum/kremet-bacon-tortelloni-med-squash-og-frisk-basilikum.webp",
+  "author": {
     "@type": "Organization",
-    "name": "hellofresh.com"
+    "name": "HelloFresh"
   },
+  "url": "https://www.hellofresh.no/recipes/kremet-bacon-tortelloni-64f9b968786cce2df0dfe1ec",
+  "datePublished": "2026-01-18",
+  "description": "30 | Enkel",
+  "totalTime": "PT30M",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "recipeCuisine": "Italiensk",
+  "keywords": "bacon, bacon-tortelloni, basilikum, enkel, fløte, frisk, italiensk, kremet, med, ost, pasta, rask, squash, tomat",
   "recipeIngredient": [
-    "140 g Bacon, terninger",
-    "2 stk Tomat",
-    "1 stk Squash",
-    "300 g Tortelloni med ricotta og spinat",
-    "150 ml Matfløte",
-    "4 g Kyllingbuljong",
-    "4 g Mamas Favoritt",
-    "20 g Finrevet ost",
-    "1 g Chiliflak",
-    "1 pose Basilikum",
-    "1 dl Vann (steg 3)",
-    "¼ ts Salt (steg 3)"
+    "140 g bacon",
+    "2 stk tomat",
+    "1 stk squash",
+    "300 g tortelloni med ricotta og spinat",
+    "150 ml matfløte",
+    "4 g kyllingbuljong",
+    "4 g mamas favoritt",
+    "20 g finrevet ost",
+    "1 g chiliflak",
+    "1 pose basilikum",
+    "1 dl vann (steg 3)",
+    "¼ ts salt (steg 3)"
   ],
   "recipeInstructions": [
     {
@@ -128,29 +128,12 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett matfløte [1/2 pakke, 2P], vann [1 dl | 2 dl], kyllingbuljong, Mamas Favoritt og salt [1/4 ts | 1/2 ts]. Kok i 3-4 min, eller til sausen har tyknet og pastaen er 'al dente'. TIPS: 'Al dente' betyr at pastaen er myk med litt tyggemotstand."
+      "text": "Tilsett matfløte [1/2 pakke, 2P], vann [1 dl | 2 dl], kyllingbuljong, Mamas Favoritt og salt [1/4 ts | 1/2 ts]. Kok i 3-4 min, eller til sausen har tyknet og pastaen er 'al dente'."
     },
     {
       "@type": "HowToStep",
-      "text": "Anrett pasta i dype tallerkener. Topp med finrevet ost og en klype chiliflak. Pynt med basilikumblader. TIPS: Tilsett chiliflak etter smak - det er sterkt."
+      "text": "Anrett pasta i dype tallerkener. Topp med finrevet ost og en klype chiliflak. Pynt med basilikumblader."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "809 kcal",
-    "fatContent": "42.7 g",
-    "saturatedFatContent": "19.8 g",
-    "carbohydrateContent": "71.8 g",
-    "sugarContent": "15.8 g",
-    "proteinContent": "35 g",
-    "sodiumContent": "392.6 mg",
-    "servingSize": "525"
-  },
-  "prepTime": 15,
-  "name": "Kremet bacon-tortelloni med squash og frisk basilikum",
-  "totalTime": 30,
-  "recipeYield": "2 servings",
-  "pattern": "kremet-bacon-tortelloni-med-squash-og-frisk-basilikum"
+  ]
 }
 </script>

@@ -44,26 +44,24 @@ up:
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
-  "name": "Ovnsbakte poteter",
-  "image": "/static/tilbehor/stekt-potet-parmesan.webp",
+  "name": "Ovnsbakte [[Potet|poteter]]",
+  "image": "static/tilbehor/stekt-potet-parmesan.webp",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "30 min | Middels",
-  "prepTime": "PT5M",
-  "cookTime": "PT25M",
+  "prepTime": "PT18M",
+  "cookTime": "PT12M",
   "totalTime": "PT30M",
   "recipeYield": "2 porsjoner",
   "recipeCategory": "Tilbehør",
-  "recipeCuisine": "",
-  "keywords": "hovedrett, tilbehør, potet",
+  "keywords": "[[potet|poteter]], ovnsbakte, potet",
   "recipeIngredient": [
-    "5 poteter",
-    "olje",
-    "parmesan"
+    "Poteter",
+    "Olivenolje",
+    "Parmesan"
   ],
   "recipeInstructions": [
     {

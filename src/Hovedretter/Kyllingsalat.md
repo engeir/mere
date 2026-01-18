@@ -80,32 +80,31 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kyllingsalat",
-  "image": "",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "20 min | Enkel",
-  "prepTime": "PT20M",
-  "cookTime": "PT0M",
+  "prepTime": "PT12M",
+  "cookTime": "PT8M",
   "totalTime": "PT20M",
   "recipeYield": "2 porsjoner",
-  "recipeCategory": ["Middag", "Salat"],
-  "keywords": "kyllingsalat, salat, middag, enkel, sunn, rask",
+  "recipeCategory": "Middag",
+  "keywords": "enkel, kylling, kyllingsalat, salat, sunn",
   "recipeIngredient": [
-    "400 g kylling (gjerne lår)",
+    "400 g Kylling (gjerne lår)",
     "1/2 isbergssalat",
-    "4 dl ris",
+    "4 dl Ris",
     "1 paprika",
     "2 vårløk",
     "en håndfull cherrytomater",
     "ruccola",
     "en pakke tofu (eventuelt mozzarella)",
     "fetaost",
-    "pesto",
+    "Pesto",
     "2 ss eddik",
-    "2 ss olje",
+    "2 ss olivenolje",
     "pepper"
   ],
   "recipeInstructions": [
@@ -127,7 +126,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Bland sammen pesto, eddik, olje og pepper til en dressing."
+      "text": "Bland sammen Pesto, eddik, olje og pepper til en dressing."
     },
     {
       "@type": "HowToStep",

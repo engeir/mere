@@ -78,3 +78,72 @@ up:
 7. Sil av pastavannet og vend [[pastaen]] inn i sausen.
 
 8. Server [[pastaen]] i dype skåler — topp med ovnsstekt [[grønnkål]].
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Spicy pasta med grønnkål",
+  "image": "static/https://res.cloudinary.com/norgesgruppen/images/c_scale,dpr_auto,f_auto,q_auto:eco,w_1600/g8fapchxuulswmgtng1u/spicy-pasta-med-gronnkal",
+  "author": {
+    "@type": "Person",
+    "name": "["
+  },
+  "url": "https://meny.no/oppskrifter/Pasta/Spicy-pasta-med-gronnkal/?utm_source=whisk&utm_medium=webapp&utm_campaign=spicy_pasta_med_gr%C3%B8nnk%C3%A5l",
+  "datePublished": "2026-01-18",
+  "description": "20 min | Enkel",
+  "prepTime": "PT12M",
+  "cookTime": "PT8M",
+  "totalTime": "PT20M",
+  "recipeCategory": "Middag",
+  "keywords": "grønnkål, med, pasta, spicy, vegetar",
+  "recipeIngredient": [
+    "200 g pasta tagliatelle",
+    "8 stk kvaster grønnkål",
+    "2 ss olivenolje",
+    "havsalt",
+    "1 stk Chili",
+    "0,5 stk hvitløk",
+    "1 stk sjalottløk",
+    "1 stk kvast rosmarin",
+    "1 stk boks hermetiske tomater",
+    "1 ss brunt sukker",
+    "1 ss sherry- eller eplecidereddik",
+    "1 ts chilikrydder"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Forvarm stekeovnen til 180°C."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Kle et stekebrett med bakepapir. Dra bladene av grønnkålkvastene, prøv å få med så lite harde stilker som mulig. Fordel halvparten av grønnkålbladene på stekebrettet. Dryss olivenolje og havsalt over. Stek i 8-10 minutter til grønnkålen begynner å bli mørkere. Pass på at den ikke blir brent."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Finhakk chipotle, hvitløk, rosmarin og sjalottløk. Varm opp litt mer olivenolje i en panne. Ha i chipotle, hvitløk og sjalottløk, la surre noen minutter. Tilsett rosmarin, la det stå noen minutter til."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hell i tomatene og la det koke opp. Ha i sukker og eddik, skru ned varmen og la småkoke i fem min."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Kok pastaen etter anvisning på pakken."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hakk opp resten av grønnkålen og ha i. Kok det hele noen minutter til."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Sil av pastavannet og vend pastaen inn i sausen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Server pastaen i dype skåler — topp med ovnsstekt grønnkål."
+    }
+  ]
+}
+</script>

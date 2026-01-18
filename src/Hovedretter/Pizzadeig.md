@@ -52,20 +52,19 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Pizzadeig",
-  "image": "",
   "author": {
     "@type": "Person",
-    "name": "Eirik Lingås Johnsen",
-    "url": "https://github.com/eirikjoh"
+    "name": "Eirik Lingås Johnsen"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "40 min | Vanskelig",
-  "prepTime": "PT40M",
-  "cookTime": "PT0M",
+  "prepTime": "PT24M",
+  "cookTime": "PT16M",
   "totalTime": "PT40M",
-  "recipeYield": "6 pizzaer",
+  "recipeYield": "6 pizzaer porsjoner",
   "recipeCategory": "Middag",
-  "keywords": "pizza, deig, italiensk, vanskelig",
+  "recipeCuisine": "Italiensk",
+  "keywords": "italiensk, pizza, pizzadeig, vanskelig",
   "recipeIngredient": [
     "1000g tipo 00 mel (helst Caputo rød (pizzeria/cuoco))",
     "650g kaldt vann",

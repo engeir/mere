@@ -64,29 +64,28 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kyllingwok med egg og nudler",
-  "image": "",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "20 min | Enkel",
-  "prepTime": "PT10M",
-  "cookTime": "PT10M",
+  "prepTime": "PT12M",
+  "cookTime": "PT8M",
   "totalTime": "PT20M",
   "recipeYield": "2 porsjoner",
   "recipeCategory": "Middag",
   "recipeCuisine": "Asiatisk",
-  "keywords": "kylling, wok, nudler, rask, middag, enkel",
+  "keywords": "asiatisk, egg, enkel, kylling, kyllingwok, med, nudler, sunn, wok",
   "recipeIngredient": [
-    "400 g kylling (gjerne lår)",
+    "400 g Kylling (gjerne lår)",
     "125 g nudler",
     "1 pk wokgrønnsaker",
     "2 egg",
-    "1 chili",
+    "1 Chili",
     "1 ss revet ingefær",
     "3 ss soyasaus",
-    "1/2 lime",
+    "1/2 Lime",
     "1 vårløk",
     "pepper"
   ],
@@ -105,7 +104,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Ha nudlene sammen med resten av kyllingen og grønnsakene, og smak til med soyasaus, lime og pepper. Topp med vårløk."
+      "text": "Ha nudlene sammen med resten av kyllingen og grønnsakene, og smak til med soyasaus, Lime og pepper. Topp med vårløk."
     }
   ]
 }

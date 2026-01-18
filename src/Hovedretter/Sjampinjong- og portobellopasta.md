@@ -77,21 +77,20 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Sjampinjong- og portobellopasta",
-  "image": "/static/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp",
+  "image": "static/sjampinjong-og-portobellopasta/sjampinjong-og-portobellopasta.webp",
   "author": {
-    "@type": "Organization",
-    "name": "Hello Fresh",
-    "url": "https://www.hellofresh.no/recipes/sjampinjong-og-portobellopasta-65fad1af8b3de89f4a7895c8"
+    "@type": "Person",
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-06-13",
+  "url": "https://www.hellofresh.no/recipes/sjampinjong-og-portobellopasta-65fad1af8b3de89f4a7895c8",
+  "datePublished": "2026-01-18",
   "description": "30 min | Enkel",
-  "prepTime": "10 min",
-  "cookTime": "20 min",
-  "totalTime": "30 min",
+  "prepTime": "PT18M",
+  "cookTime": "PT12M",
+  "totalTime": "PT30M",
   "recipeYield": "2 porsjoner",
-  "recipeCategory": "hovedrett",
-  "recipeCuisine": "_No response_",
-  "keywords": "ost, pasta, vegetar, sopp",
+  "recipeCategory": "Middag",
+  "keywords": "ost, pasta, portobellopasta, sjampinjong-, sopp, vegetar",
   "recipeIngredient": [
     "200 g pasta",
     "200 g sjampinjong",
@@ -117,7 +116,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Når pastaen koker lager du pangrattato. Varm først olivenolje i en panne og rist panko i 4 min. Ha i salt og pepper og sett til side i en skål."
+      "text": "Når pastaen koker lager du pangrattato. Varm først olivenolje i en panne og rist panko i 4 min. Ha i salt og Pepper og sett til side i en skål."
     },
     {
       "@type": "HowToStep",
@@ -133,7 +132,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Ha i pasta og spinat. Krydre med salt og pepper."
+      "text": "Ha i pasta og spinat. Krydre med salt og Pepper."
     },
     {
       "@type": "HowToStep",

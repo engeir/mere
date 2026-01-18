@@ -60,30 +60,29 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Rekewok",
-  "image": "",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "20 min | Enkel",
-  "prepTime": "PT15M",
-  "cookTime": "PT5M",
+  "prepTime": "PT12M",
+  "cookTime": "PT8M",
   "totalTime": "PT20M",
-  "recipeYield": "3 porsjoner",
-  "recipeCategory": "Hovedrett",
-  "recipeCuisine": "Asiatisk",
-  "keywords": "wok, asiatisk, sjømat, sunn, enkel,
+  "recipeYield": "2 porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "enkel, reker, rekewok, sjømat, sunn, wok",
   "recipeIngredient": [
     "500 g reker",
-    "2 dl ris eller en pakke nudler",
+    "2 dl ris (eller en pk nudler)",
+    "1 pk wokgrønnsaker",
     "woksaus",
     "1 chili",
     "1 ss revet ingefær",
     "3 ss soyasaus",
-    "0.5 lime",
+    "1/2 lime",
     "1 vårløk",
-    "pepper"
+    "Pepper"
   ],
   "recipeInstructions": [
     {

@@ -60,33 +60,29 @@ visibility: hidden
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
-  "name": "Spagetti med chorizo",
-  "url": "https://sulten.app/recipes/spagetti-med-chorizo-egqk",
-  "image": "https://sulten.app/_next/image?url=https%3A%2F%2Fimages.sulten.app%2Frecipes%2Fspagetti-med-chorizo-xmon.jpeg&w=640&q=75",
+  "name": "spagetti-med-chorizo",
   "author": {
     "@type": "Person",
-    "name": "fattig.student",
-    "url": "https://sulten.app/fattig-student"
+    "name": "fattig-student"
   },
-  "datePublished": "2024-05-30",
+  "url": "https://sulten.app/recipes/spagetti-med-chorizo-egqk",
+  "datePublished": "2026-01-18",
   "description": "10 min | Enkel",
-  "prepTime": "PT0M",
-  "cookTime": "PT10M",
+  "prepTime": "PT6M",
+  "cookTime": "PT4M",
   "totalTime": "PT10M",
   "recipeYield": "2 porsjoner",
-  "recipeCategory": "Hovedrett",
-  "recipeCuisine": "Italiensk",
-  "keywords": "italiensk, sunn, enkel, pasta, chorizo",
+  "keywords": "enkel, hovedrett, rask, spagetti-med-chorizo, sunn",
   "recipeIngredient": [
-    "100 g spaghetti",
-    "40 g chorizo",
-    "50 g fetaost",
-    "2 dl Tomat- og paprikasuppe"
+    "100 g spagetti",
+    "40 g Chorizo",
+    "50 g Fetaost",
+    "2 dl gårsdagens supperester"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "I denne middagen bruker vi tomat– og paprikasuppe som ble laget tidligere i ukemenyen"
+      "text": "I denne middagen bruker vi tomat– og paprikasuppe som ble laget tidligere i ukemenyen."
     },
     {
       "@type": "HowToStep",
@@ -94,11 +90,11 @@ visibility: hidden
     },
     {
       "@type": "HowToStep",
-      "text": "Kutt opp chorizo i terninger og stek i ei stekepanne. Tilsett paprikasuppen, og la det putre i noen minutter til spagettien er ferdig."
+      "text": "Kutt opp Chorizo i terninger og stek i ei stekepanne. Tilsett paprikasuppen, og la det putre i noen minutter til spagettien er ferdig."
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett spagettien i sausen og topp med fetaost."
+      "text": "Tilsett spagettien i sausen og topp med Fetaost."
     }
   ]
 }

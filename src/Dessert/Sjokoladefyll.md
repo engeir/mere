@@ -33,3 +33,37 @@ tags: []
 3. Ha til slutt i appelsinsaften.
 
    ![](appelsinboller/sjokoladefyll.webp)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Sjokoladefyll",
+  "image": "static/appelsinboller/sjokoladefyll.webp",
+  "datePublished": "2026-01-18",
+  "description": "",
+  "keywords": "sjokoladefyll",
+  "recipeIngredient": [
+    "100 g mørk sjokolade",
+    "90 g smeltet smør",
+    "85 g melis",
+    "10 g bakekakao",
+    "1 klype havsalt",
+    "2 ss saft fra en appelsin"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Smelt sjokoladen i vannbad og smelt smøret."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Bland sammen alt det tørre i sjokolade- og smørblandingen."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Ha til slutt i appelsinsaften."
+    }
+  ]
+}
+</script>

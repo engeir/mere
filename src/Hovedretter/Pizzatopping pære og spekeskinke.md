@@ -55,3 +55,44 @@ up:
 > [!info]
 >
 > Gå til [[Pizzadeig]]
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Pizzatopping pære og spekeskinke",
+  "image": "static/pizza/pizza-paere.webp",
+  "author": {
+    "@type": "Person",
+    "name": "["
+  },
+  "datePublished": "2026-01-18",
+  "description": "5 min | Enkel",
+  "prepTime": "PT3M",
+  "cookTime": "PT2M",
+  "totalTime": "PT5M",
+  "recipeCategory": "Middag",
+  "keywords": "blåmuggost, lett, pizza, pizzatopping, pære, rask, skinke, spekeskinke",
+  "recipeIngredient": [
+    "Pære (gjerne litt tørre og syrlige, f.eks. en Barlett/Williams, se",
+    "Spekeskinke",
+    "Mozzarella",
+    "Blåmuggost",
+    "Spinat"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Skjær pæren i ganske tynne skiver, og forsten bunnen med kun pæreskivene."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Legg på spinat, litt blåmuggost og mozzarellaen mot slutten av steketiden, så blir osten litt fastere."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Når pizzaen er ferdig stekt har du på litt mer blåmuggost og spekeskinken."
+    }
+  ]
+}
+</script>

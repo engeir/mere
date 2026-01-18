@@ -88,38 +88,38 @@ up:
 
 <script type="application/ld+json">
 {
-  "author": {
-    "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/krydret-kikertkarri-65f4600c086e015a8358a6af"
-  },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF_Y23_R31_W51_SE_R18167-2_MAIN__low-4af577e9.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 15,
-  "recipeCuisine": "Indiske",
-  "publisher": {
+  "name": "Krydret kikertkarri med spinatris og koriander",
+  "image": "static/krydret-kikertkarri-med-spinatris-og-koriander/krydret-kikertkarri-med-spinatris-og-koriander.webp",
+  "author": {
     "@type": "Organization",
-    "name": "hellofresh.com"
+    "name": "HelloFresh"
   },
+  "url": "https://www.hellofresh.no/recipes/krydret-kikertkarri-65f4600c086e015a8358a6af",
+  "datePublished": "2026-01-18",
+  "description": "30 | Enkel",
+  "totalTime": "PT30M",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "recipeCuisine": "Indisk",
+  "keywords": "enkel, indisk, kikertkarri, koriander, krydret, med, ris, sitrus, spinatris, tomat, vegansk, vegetar",
   "recipeIngredient": [
-    "1 stk Paprika",
-    "1 stk Tomat",
+    "1 stk paprika",
+    "1 stk tomat",
     "½ stk Lime",
-    "40 g Grønn karripasta",
-    "200 ml Kokosmelk",
-    "1 pakke Kikerter",
-    "60 g Spinat",
+    "40 g grønn karripasta",
+    "200 ml kokosmelk",
+    "1 pakke kikerter",
+    "60 g spinat",
     "1 pose Koriander",
-    "½ g Chiliflak",
-    "150 g Jasminris",
-    "3 dl Vann (steg 1)",
-    "½ ts Salt (steg 1)",
-    "1 dl Vann (steg 3)",
-    "¼ ts Salt (steg 3)",
-    "1 ss Olivenolje (steg 3)"
+    "½ g chiliflak",
+    "150 g jasminris",
+    "3 dl vann (steg 1)",
+    "½ ts salt (steg 1)",
+    "1 dl vann (steg 3)",
+    "¼ ts salt (steg 3)",
+    "1 ss olivenolje (steg 3)"
   ],
   "recipeInstructions": [
     {
@@ -136,25 +136,8 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Anrett spinatris på tallerkener. Topp med kikertekarri. Topp med revet korianderblad og chiliflak [1/2 pose, 2P]. TIPS: Tilsett chiliflak etter smak - det er sterkt."
+      "text": "Anrett spinatris på tallerkener. Topp med kikertekarri. Topp med revet korianderblad og chiliflak [1/2 pose, 2P]."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "682 kcal",
-    "fatContent": "29 g",
-    "saturatedFatContent": "16.8 g",
-    "carbohydrateContent": "83.1 g",
-    "sugarContent": "9.3 g",
-    "proteinContent": "16.3 g",
-    "sodiumContent": "161 mg",
-    "servingSize": "513"
-  },
-  "prepTime": 15,
-  "name": "Krydret kikertkarri med spinatris og koriander",
-  "totalTime": 30,
-  "recipeYield": "2 servings",
-  "pattern": "krydret-kikertkarri-med-spinatris-og-koriander"
+  ]
 }
 </script>

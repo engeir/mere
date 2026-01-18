@@ -83,35 +83,22 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Sjokoladakake med kaffeglasur",
-  "image": "/static/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp",
+  "image": "static/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp",
   "author": {
     "@type": "Person",
-    "name": "Eirik Lingås Johnsen",
-    "url": "http://twitter.com/onlyeirik"
+    "name": "Eirik Lingås Johnsen"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "60 min | Middels",
-  "prepTime": "PT20M",
-  "cookTime": "PT40M",
+  "prepTime": "PT36M",
+  "cookTime": "PT24M",
   "totalTime": "PT60M",
-  "recipeYield": "1 langpanne",
-  "recipeCategory": "Dessert",
-  "recipeCuisine": "",
-  "keywords": "kake, bakst, dessert",
+  "recipeYield": "1 langpanne porsjoner",
+  "recipeCategory": "Bakst",
+  "keywords": "kaffe, kaffeglasur, kake, med, sjokoladakake, sjokolade",
   "recipeIngredient": [
     "9 dl hvetemel",
-    "8 dl sukker",
-    "6 ss kremfløte",
-    "550 g usaltet smør",
-    "8 ss kakaopulver",
-    "2 ts bakepulver",
-    "4.5 dl vann",
-    "1 ts salt",
-    "5 egg",
-    "2.5 dl rømme",
-    "500 g melis",
-    "2 ts vaniljesukker",
-    "4 ss kaffe"
+    "9 dl hvetemel"
   ],
   "recipeInstructions": [
     {

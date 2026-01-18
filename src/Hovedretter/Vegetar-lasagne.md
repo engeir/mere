@@ -113,33 +113,25 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Vegetar-lasagne",
-  "image": "/static/vegetar-lasagne/vegetar-lasagne.webp",
+  "image": "static/vegetar-lasagne/vegetar-lasagne.webp",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "url": "https://www.barilla.com/nn-no/oppskrifter/collezione/barilla-lasagne-med-classicosaus-og-spro-gronnsaker",
+  "datePublished": "2026-01-18",
   "description": "65 min | Enkel",
-  "prepTime": "PT30M",
-  "cookTime": "PT35M",
+  "prepTime": "PT39M",
+  "cookTime": "PT26M",
   "totalTime": "PT65M",
   "recipeYield": "3 porsjoner",
-  "recipeCategory": "Hovedrett",
-  "recipeCuisine": "Italiensk",
-  "keywords": "italiensk, vegetar, sunn, enkel, pasta",
+  "recipeCategory": "Middag",
+  "keywords": "enkel, pasta, sunn, vegetar-lasagne",
   "recipeIngredient": [
-    "400 g Barilla Classicosaus (ett glass)",
-    "200 g eller 0.5 squash",
-    "200 g eller 0.5 brokkoli",
-    "100 g eller 1 paprika",
-    "5 dl melk",
-    "30 g smør",
+    "Pepper",
     "30 g hvetemel",
-    "1 klype salt",
-    "10 plater lasagneplater",
-    "60 g parmesanost",
-    "1 ss extra virgin olivenolje",
-    "salt og pepper"
+    "30 g hvetemel",
+    "Pepper"
   ],
   "recipeInstructions": [
     {
@@ -156,7 +148,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett Barilla Classicosaus og kok opp under omrøring. Smak til med salt og pepper. Sett til siden."
+      "text": "Tilsett Barilla Classicosaus og kok opp under omrøring. Smak til med salt og Pepper. Sett til siden."
     },
     {
       "@type": "HowToStep",
@@ -189,7 +181,7 @@ up:
     {
       "@type": "HowToStep",
       "text": "La retten hvile 10 minutter før servering og du har en deilig grønnsakslasagne."
-    },
+    }
   ]
 }
 </script>

@@ -71,21 +71,19 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Bananbrød",
-  "image": "/static/bananbrod/bananbrod-banner.webp",
+  "image": "static/bananbrod/bananbrod-banner.webp",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "45 min | Enkel",
-  "prepTime": "PT10M",
-  "cookTime": "PT35M",
+  "prepTime": "PT27M",
+  "cookTime": "PT18M",
   "totalTime": "PT45M",
-  "recipeYield": "2 brød",
-  "recipeCategory": "Bakst",
-  "recipeCuisine": "",
-  "keywords": "brød, enkel, bakst, turmat",
+  "recipeYield": "2 brød porsjoner",
+  "recipeCategory": "Dessert",
+  "keywords": "banan, bananbrød, rask",
   "recipeIngredient": [
     "275 g hvetemel",
     "220 g sukker (evt. én Mumiekopp sukker)",
@@ -115,7 +113,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Bland inn mel, natron og bakepulver til en jevn og fin røre. For ekstra god smak, kutt gjerne opp sjokolade og ha i blandingen."
+      "text": "Bland inn mel, natron og bakepulver til en jevn og fin røre."
     },
     {
       "@type": "HowToStep",
@@ -124,7 +122,7 @@ up:
     {
       "@type": "HowToStep",
       "text": "Ta brødet ut av formen og avkjøl på rist."
-    },
+    }
   ]
 }
 </script>

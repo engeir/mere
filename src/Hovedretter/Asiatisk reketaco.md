@@ -86,35 +86,29 @@ _Med bang bang-saus og syrlig pico de gallo_
 
 <script type="application/ld+json">
 {
-  "author": {
-    "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/asiatiske-reketacos-630c98057a1fb716bde08fdb"
-  },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF220901_R10_W42_SE_C12560-1_KB_Main_low-ef2d5a61.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Fusion",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "name": "asiatiske-reketaco",
+  "image": "static/asiatiske-reketaco/asiatiske-reketaco.webp",
+  "url": "https://www.hellofresh.no/recipes/asiatiske-reketacos-630c98057a1fb716bde08fdb",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "totalTime": "PT40M",
+  "recipeYield": "2 porsjoner",
+  "keywords": "asiatiske-reketaco, sitrus, sjømat, taco, tomat",
   "recipeIngredient": [
-    "1 stk Agurk",
-    "1 stk Tomat",
-    "1 stk Gulrot",
-    "2 stk Vårløk",
-    "1 pose Koriander",
-    "½ stk Lime",
-    "150 g Reker",
-    "2 g Jorda Rundt",
-    "8 stk Små tortillabrød",
-    "50 g Srirachamajones",
-    "40 g Søt chilisaus",
-    "75 g Rødkål"
+    "1 stk agurk",
+    "1 stk tomat",
+    "1 stk gulrot",
+    "2 stk vårløk",
+    "1 pose koriander",
+    "½ stk lime",
+    "150 g reker",
+    "2 g jorda rundt",
+    "8 stk små tortillabrød",
+    "50 g srirachamajones",
+    "40 g søt chilisaus",
+    "75 g rødkål"
   ],
   "recipeInstructions": [
     {
@@ -123,7 +117,7 @@ _Med bang bang-saus og syrlig pico de gallo_
     },
     {
       "@type": "HowToStep",
-      "text": "Bland tomat, grovhakket koriander, vårløk, en stor skvett limesaft og en klype salt og pepper i en skål."
+      "text": "Bland tomat, grovhakket koriander, vårløk, en stor skvett limesaft og en klype salt og Pepper i en skål."
     },
     {
       "@type": "HowToStep",
@@ -135,29 +129,12 @@ _Med bang bang-saus og syrlig pico de gallo_
     },
     {
       "@type": "HowToStep",
-      "text": "Bland søt chilisaus, srirachamajones, en skvett limesaft og en klype salt og pepper i en skål."
+      "text": "Bland søt chilisaus, srirachamajones, en skvett limesaft og en klype salt og Pepper i en skål."
     },
     {
       "@type": "HowToStep",
       "text": "Sett alt frem på bordet. Fyll tortillabrød med gulrot, agurk, rødkål, pico de gallo og reker. Topp med bang bang-saus og pynt med koriander. Press en skvett limesaft over."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "707 kcal",
-    "fatContent": "25.93 g",
-    "saturatedFatContent": "3.2 g",
-    "carbohydrateContent": "84.09 g",
-    "sugarContent": "23.1 g",
-    "proteinContent": "27.38 g",
-    "sodiumContent": "0 mg",
-    "servingSize": "504"
-  },
-  "prepTime": 20,
-  "name": "Asiatiske reketacos med bang bang-saus og syrlig pico de gallo",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "asiatiske-reketaco"
+  ]
 }
 </script>

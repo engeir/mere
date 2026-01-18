@@ -84,3 +84,57 @@ up:
 > [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
 
 4. Anrett bulgur tabbouleh i skåler. Topp med [[Kylling]] og en klatt [[yoghurt]].
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Rask kyllingbowl med tabbouleh og tranebær",
+  "image": "static/rask-kyllingbowl-med-tabbouleh-og-tranebaer/rask-kyllingbowl-med-tabbouleh-og-tranebaer.webp",
+  "author": {
+    "@type": "Person",
+    "name": "["
+  },
+  "url": "https://www.hellofresh.no/recipes/rask-kyllingbowl-65fad1b4aed1d40579f2a659",
+  "datePublished": "2026-01-18",
+  "description": "30 | Enkel",
+  "recipeCategory": "Middag",
+  "keywords": "kylling, kyllingbowl, med, rask, sitrus, tabbouleh, tomat, tranebær",
+  "recipeIngredient": [
+    "300 g Strimlet kyllingbryst",
+    "4 g Hello Sunrise",
+    "1 g Chiliflak",
+    "85 g Bulgur",
+    "4 g Kyllingbuljong",
+    "20 g Tranebær",
+    "1 pose Bladpersille",
+    "½ stk Sitron",
+    "60 g Spinat",
+    "1 stk Tomat",
+    "1 stk Agurk",
+    "75 g Yoghurt",
+    "2.5 dl Vann (steg 1)",
+    "¼ ts Salt (steg 1)",
+    "½ ts Salt (steg 3)",
+    "1 ss Olivenolje (steg 3)"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Kok opp en mellomstor kjele med vann [2,5 dl | 4,5 dl]. Tilsett bulgur, kyllingbuljong og salt [1/4 ts | 1/2 ts], og senk til middels varme. La putre under lokk i 9-10 min, eller til mør. I mellomtiden, bland Kylling, Hello Sunrise og chiliflak i en mellomstor skål."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Skyll spinat. Grovhakk tomat, persille og agurk. Halver sitron [1/2 stk, 2P]."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Varm opp en skvett olivenolje i en stor stekepanne på middels høy varme. Stek Kylling i 4-5 min, eller til gyllen og gjennomstekt. Snu Kylling iblant. Bland inn agurk, spinat, tomat, persille, salt [1/2 ts | 1 ts], sitronsaft [1 ss | 2 ss], olivenolje [1 ss | 2 ss] og tranebær i bulgur rett før servering."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Anrett bulgur tabbouleh i skåler. Topp med Kylling og en klatt yoghurt."
+    }
+  ]
+}
+</script>

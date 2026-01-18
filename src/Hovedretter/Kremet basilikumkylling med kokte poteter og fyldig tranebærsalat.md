@@ -87,35 +87,34 @@ up:
 
 <script type="application/ld+json">
 {
-  "author": {
-    "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/kremet-basilikumkylling-639ad23c56559efbf08a1baf"
-  },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF220103_R16_W07_SE_C12343801-11_MB_Main_low-a330adc1.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Fusion",
-  "publisher": {
+  "name": "Kremet basilikumkylling med kokte poteter og fyldig tranebærsalat",
+  "image": "static/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat/kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat.webp",
+  "author": {
     "@type": "Organization",
-    "name": "hellofresh.com"
+    "name": "HelloFresh"
   },
+  "url": "https://www.hellofresh.no/recipes/kremet-basilikumkylling-639ad23c56559efbf08a1baf",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "totalTime": "PT40M",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "basilikum, basilikumkylling, enkel, fløte, fusion, fyldig, kokte, kremet, kylling, med, potet, poteter, tranebærsalat",
   "recipeIngredient": [
-    "4 g Hvitløksflørt",
-    "150 ml Matfløte",
-    "300 g Kyllingbryst",
-    "500 g Poteter",
-    "1 stk Hvitløk",
-    "4 g Grønnsaksbuljong",
-    "1 pose Basilikum",
-    "1 stk Eple",
-    "75 g Spisskål, skåret",
-    "20 g Tranebær",
-    "¼ ts Salt (steg 5)",
-    "1 ss Smør (steg 5)"
+    "4 g hvitløksflørt (eller hvitløkspulver, persille, rosmarin, timian)",
+    "150 ml matfløte",
+    "300 g kyllingbryst",
+    "500 g poteter",
+    "1 stk hvitløk",
+    "4 g grønnsaksbuljong",
+    "1 pose basilikum",
+    "1 stk eple",
+    "75 g spisskål, skåret",
+    "20 g tranebær",
+    "0.25 ts salt (steg 5)",
+    "1 ss smør (steg 5)"
   ],
   "recipeInstructions": [
     {
@@ -128,7 +127,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Bland hvitløksflørt og en skvett olivenolje med kylling i en skål. Varm opp en skvett olivenolje i en stekepanne på middels høy varme. Stek kylling i 3-4 min på hver side, til brunet og gjennomstekt. Overfør til en tallerken. TIPS: Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt."
+      "text": "Bland hvitløksflørt og en skvett olivenolje med kylling i en skål. Varm opp en skvett olivenolje i en stekepanne på middels høy varme. Stek kylling i 3-4 min på hver side, til brunet og gjennomstekt. Overfør til en tallerken."
     },
     {
       "@type": "HowToStep",
@@ -136,29 +135,12 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Press eller finhakk hvitløk. Smelt smør med en skvett olivenolje i stekepannen på middels høy varme. Stek hvitløk i 1-2 min. Tilsett matfløte [1/2 pakke, 2P], grønnsaksbuljong og halvparten av basilikum. La putre i 1-2 min. Krydre med salt og en stor klype pepper."
+      "text": "Press eller finhakk hvitløk. Smelt smør med en skvett olivenolje i stekepannen på middels høy varme. Stek hvitløk i 1-2 min. Tilsett matfløte, grønnsaksbuljong og halvparten av basilikum. La putre i 1-2 min. Krydre med salt og en stor klype pepper."
     },
     {
       "@type": "HowToStep",
       "text": "Anrett kokte poteter, kylling og tranebærsalat på tallerkener. Øs over basilikumsaus. Topp med resterende basilikum."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "626 kcal",
-    "fatContent": "22.66 g",
-    "saturatedFatContent": "12.9 g",
-    "carbohydrateContent": "63.4 g",
-    "sugarContent": "19.1 g",
-    "proteinContent": "42.26 g",
-    "sodiumContent": "408 mg",
-    "servingSize": "581"
-  },
-  "prepTime": 20,
-  "name": "Kremet basilikumkylling med kokte poteter og fyldig tranebærsalat",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "kremet-basilikumkylling-med-kokte-poteter-og-fyldig-tranebaersalat"
+  ]
 }
 </script>

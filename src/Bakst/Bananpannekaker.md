@@ -24,11 +24,9 @@ up:
 
 #ingredient
 
-#ingredient
-
 - [x] 2 dl lettkokt [[havregryn]]
-- [x] 2 stk. [[Banan|bananer]]
-- [x] 2 stk. [[egg]]
+- [x] 2 [[Banan|bananer]]
+- [x] 2 [[egg]]
 - [x] 1 dl [[melk]] (+ litt til)
 - [x] noe kreativt
 
@@ -43,39 +41,37 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Bananpannekaker",
-  "image": "",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
-  "description": "30 min | Enkel",
-  "prepTime": "PT5M",
-  "cookTime": "PT25M",
-  "totalTime": "PT30M",
-  "recipeYield": "10 små pannekaker / lapper",
-  "recipeCategory": "Bakst",
-  "recipeCuisine": "",
-  "keywords": "bakst, enkel, turmat, sunt, frokost",
+  "datePublished": "2026-01-18",
+  "description": "20 min | Enkel",
+  "prepTime": "PT12M",
+  "cookTime": "PT8M",
+  "totalTime": "PT20M",
+  "recipeYield": "12 små pannekaker porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "bananpannekaker, rask, sunn",
   "recipeIngredient": [
     "2 dl lettkokt havregryn",
     "2 bananer",
     "2 egg",
-    "1 dl melk"
+    "1 dl melk (+ litt til)",
+    "noe kreativt"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Bland sammen og stavmiks alle ingrediensene til en fin røre."
+      "text": "Bland alt sammen og stavmiks det til en fisefin røre."
     },
     {
       "@type": "HowToStep",
-      "text": "Stek på middels høy varme med en generøs smørklatt."
+      "text": "Stek på ganske god varme med en generøs smørklatt."
     },
     {
       "@type": "HowToStep",
-      "text": "Server gjerne med brunost og syltetøy, eller pakk de med på tur."
+      "text": "Server gjerne med brunost og syltetøy."
     }
   ]
 }

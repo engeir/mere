@@ -88,19 +88,18 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Laks med mangosalsa",
-  "image": "",
   "author": {
     "@type": "Person",
     "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "40 min | Enkel",
-  "prepTime": "PT15M",
-  "cookTime": "PT25M",
+  "prepTime": "PT24M",
+  "cookTime": "PT16M",
   "totalTime": "PT40M",
   "recipeYield": "2 porsjoner",
   "recipeCategory": "Middag",
-  "keywords": "laks, fisk, mangosalsa, middag, enkel",
+  "keywords": "enkel, fisk, frisk, laks, mangosalsa, med, sunn",
   "recipeIngredient": [
     "500 g laks",
     "2 dl ris",
@@ -111,10 +110,11 @@ up:
     "1/2 rødløk",
     "1/2 avokado",
     "1/4 chili",
-    "3 ss olivenolje",
+    "2 ss olivenolje",
     "1 ss hvitvinseddik (ikke så viktig)",
     "1/2 lime",
-    "litt koriander"
+    "litt koriander",
+    "salt og pepper"
   ],
   "recipeInstructions": [
     {

@@ -57,26 +57,24 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Tomat- og mozzarellasalat",
-  "image": "/static/tomat-salat/tomat-salat.webp",
+  "image": "static/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "5 min | Enkel",
-  "prepTime": "PT5M",
-  "cookTime": "PT0M",
+  "prepTime": "PT3M",
+  "cookTime": "PT2M",
   "totalTime": "PT5M",
   "recipeYield": "2 porsjoner",
   "recipeCategory": "Tilbehør",
-  "recipeCuisine": "",
-  "keywords": "tilbehør, salat, grillmat",
+  "keywords": "basilikum, enkel, mozzarellasalat, ost, pasta, tomat, tomat-",
   "recipeIngredient": [
-    "2 store eller en håndfull tomater",
+    "2 store eller en håndfull små tomater",
     "2 mozzarella",
     "basilikum",
-    "salt og pepper",
+    "salt og papper",
     "litt olje"
   ],
   "recipeInstructions": [
@@ -86,7 +84,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Fordel tomat- og mozzarellaskivene på et fat, og ha over basilikum, litt olje, salt og pepper."
+      "text": "Fordel tomat- og mozzarellaskivene på et fat, og ha over basilikum, litt olje, salt og Pepper."
     }
   ]
 }

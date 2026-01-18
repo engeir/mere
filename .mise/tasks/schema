@@ -1,0 +1,567 @@
+#!/usr/bin/env python3
+# fmt: off
+#MISE description="Generate JSON-LD schema for recipe files"
+#MISE alias="generate-schema"
+# fmt: on
+"""
+Generate JSON-LD schema.org/Recipe for markdown recipe files.
+
+Usage:
+    mise run schema                    # Generate for all recipes
+    mise run schema src/Bakst/Appelsinboller.md  # Generate for specific file
+    mise run schema --check            # Check if schemas are up to date (for CI)
+"""
+
+import argparse
+import json
+import re
+import sys
+from datetime import datetime
+from pathlib import Path
+from typing import Any, Optional
+
+import yaml
+
+
+class RecipeSchemaGenerator:
+    """Generates JSON-LD schema from recipe markdown files."""
+
+    RECIPE_DIRS = [
+        Path("src/Hovedretter"),
+        Path("src/Dessert"),
+        Path("src/Bakst"),
+        Path("src/Enkel servering"),
+    ]
+
+    # Map tags to cuisine
+    CUISINE_MAP = {
+        "asiatisk": "Asiatisk",
+        "italiensk": "Italiensk",
+        "gresk": "Gresk",
+        "norsk": "Norsk",
+        "meksikansk": "Meksikansk",
+        "vietnamesisk": "Vietnamesisk",
+        "japansk": "Japansk",
+        "indisk": "Indisk",
+    }
+
+    # Map up/category to recipeCategory
+    CATEGORY_MAP = {
+        "Hovedretter": "Middag",
+        "Dessert": "Dessert",
+        "Bakst": "Bakst",
+        "Enkel servering": "Tilbehør",
+    }
+
+    def __init__(self, src_dir: Path = Path("src")):
+        self.src_dir = src_dir
+        self._recipe_cache: dict[str, dict] = {}
+
+    def generate_all(self, check_only: bool = False) -> tuple[int, int, int]:
+        """
+        Generate schema for all recipe files.
+
+        Returns (updated, unchanged, errors) counts.
+        """
+        updated = 0
+        unchanged = 0
+        errors = 0
+
+        for recipe_dir in self.RECIPE_DIRS:
+            if not recipe_dir.exists():
+                continue
+
+            for recipe_file in recipe_dir.glob("*.md"):
+                try:
+                    changed = self.generate_for_file(recipe_file, check_only)
+                    if changed:
+                        updated += 1
+                    else:
+                        unchanged += 1
+                except Exception as e:
+                    print(f"  Error processing {recipe_file}: {e}")
+                    errors += 1
+
+        return updated, unchanged, errors
+
+    def generate_for_file(self, file_path: Path, check_only: bool = False) -> bool:
+        """
+        Generate schema for a single file.
+
+        Returns True if file was updated (or needs update in check mode).
+        """
+        content = file_path.read_text()
+
+        # Parse frontmatter and body
+        frontmatter, body = self._parse_frontmatter(content)
+        if not frontmatter:
+            return False
+
+        # Skip files without recipe structure (e.g., sub-recipes without full structure)
+        if "## Steg" not in body and "![[" not in body:
+            return False
+
+        # Generate schema
+        schema = self._generate_schema(frontmatter, body, file_path)
+        if not schema:
+            return False
+
+        # Format JSON-LD block
+        new_json_ld = self._format_json_ld(schema)
+
+        # Check if update is needed
+        existing_json_ld = self._extract_existing_json_ld(content)
+
+        if existing_json_ld == new_json_ld:
+            return False
+
+        if check_only:
+            print(f"  Schema needs update: {file_path.name}")
+            return True
+
+        # Update file
+        new_content = self._replace_json_ld(content, new_json_ld)
+        file_path.write_text(new_content)
+        print(f"  Updated: {file_path.name}")
+        return True
+
+    def _parse_frontmatter(self, content: str) -> tuple[dict, str]:
+        """Parse YAML frontmatter and return (frontmatter, body)."""
+        match = re.match(r"^---\s*\n(.*?)\n---\s*\n(.*)$", content, re.DOTALL)
+        if not match:
+            return {}, content
+
+        try:
+            frontmatter = yaml.safe_load(match.group(1))
+            return frontmatter or {}, match.group(2)
+        except yaml.YAMLError:
+            return {}, content
+
+    def _generate_schema(
+        self, frontmatter: dict, body: str, file_path: Path
+    ) -> Optional[dict]:
+        """Generate schema.org/Recipe JSON-LD from parsed data."""
+        schema: dict[str, Any] = {
+            "@context": "https://schema.org/",
+            "@type": "Recipe",
+        }
+
+        # Name
+        schema["name"] = frontmatter.get("id", file_path.stem)
+
+        # Image
+        cover = frontmatter.get("cover", [])
+        if cover:
+            image_path = cover[0] if isinstance(cover, list) else cover
+            # Make path relative to static if not already
+            if not image_path.startswith("static/"):
+                image_path = f"static/{image_path}"
+            schema["image"] = image_path
+
+        # Author
+        authors = frontmatter.get("author", [])
+        if authors:
+            author_name = self._extract_wiki_link_text(authors[0])
+            # Determine if person or organization
+            organizations = {"HelloFresh", "Hello Fresh", "dejligbakst"}
+            if author_name in organizations:
+                schema["author"] = {"@type": "Organization", "name": author_name}
+            else:
+                schema["author"] = {"@type": "Person", "name": author_name}
+
+        # URL (extract from info callout)
+        url = self._extract_source_url(body)
+        if url:
+            schema["url"] = url
+
+        # Date published (use today if not set, will be preserved on subsequent runs)
+        schema["datePublished"] = datetime.now().strftime("%Y-%m-%d")
+
+        # Description
+        schema["description"] = frontmatter.get("description", "")
+
+        # Time parsing
+        time_info = self._parse_time_info(frontmatter, body)
+        if time_info.get("prep"):
+            schema["prepTime"] = time_info["prep"]
+        if time_info.get("cook"):
+            schema["cookTime"] = time_info["cook"]
+        if time_info.get("total"):
+            schema["totalTime"] = time_info["total"]
+
+        # Yield
+        yield_info = self._extract_yield(body)
+        if yield_info:
+            schema["recipeYield"] = yield_info
+
+        # Category
+        up = frontmatter.get("up", [])
+        if up:
+            category = up[0] if isinstance(up, list) else up
+            schema["recipeCategory"] = self.CATEGORY_MAP.get(category, category)
+
+        # Cuisine
+        tags = frontmatter.get("tags", [])
+        cuisine = self._extract_cuisine(tags)
+        if cuisine:
+            schema["recipeCuisine"] = cuisine
+
+        # Keywords
+        keywords = self._generate_keywords(frontmatter, tags)
+        if keywords:
+            schema["keywords"] = keywords
+
+        # Ingredients (resolve transclusions)
+        ingredients = self._extract_ingredients(body, file_path)
+        if ingredients:
+            schema["recipeIngredient"] = ingredients
+
+        # Instructions (resolve transclusions)
+        instructions = self._extract_instructions(body, file_path)
+        if instructions:
+            schema["recipeInstructions"] = [
+                {"@type": "HowToStep", "text": step} for step in instructions
+            ]
+
+        return schema
+
+    def _extract_wiki_link_text(self, wiki_link: str) -> str:
+        """Extract display text from wiki-link [[Target|Display]] or [[Target]]."""
+        match = re.search(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]", wiki_link)
+        if match:
+            return match.group(2) or match.group(1)
+        return wiki_link.replace("[[", "").replace("]]", "")
+
+    def _extract_source_url(self, body: str) -> Optional[str]:
+        """Extract source URL from info callout."""
+        # Pattern: [Denne oppskriften](URL) or [text](URL) in info callout
+        match = re.search(r">\s*\[.*?\]\((https?://[^)]+)\)", body, re.MULTILINE)
+        return match.group(1) if match else None
+
+    def _parse_time_info(self, frontmatter: dict, body: str) -> dict:
+        """Parse time information from description and table."""
+        result = {}
+
+        # Try to get total time from description (e.g., "120 min | Middels")
+        desc = frontmatter.get("description", "")
+        time_match = re.search(r"(\d+)\s*min", desc, re.IGNORECASE)
+        if time_match:
+            total_minutes = int(time_match.group(1))
+            result["total"] = f"PT{total_minutes}M"
+
+            # Estimate prep/cook split (roughly 60/40 for most recipes)
+            prep_minutes = int(total_minutes * 0.6)
+            cook_minutes = total_minutes - prep_minutes
+            result["prep"] = f"PT{prep_minutes}M"
+            result["cook"] = f"PT{cook_minutes}M"
+
+        # Also check table for more specific info
+        table_match = re.search(
+            r"\|\s*⏲️\s*Tid\s*\|.*?\|\s*\n\|[-\s|]+\|\s*\n\|\s*([^|]+)",
+            body,
+            re.MULTILINE,
+        )
+        if table_match:
+            time_str = table_match.group(1).strip()
+            time_match = re.search(r"(\d+)\s*min", time_str, re.IGNORECASE)
+            if time_match:
+                total_minutes = int(time_match.group(1))
+                result["total"] = f"PT{total_minutes}M"
+
+        return result
+
+    def _extract_yield(self, body: str) -> Optional[str]:
+        """Extract yield from table."""
+        # Look for Porsjoner column
+        match = re.search(
+            r"\|\s*🍽️\s*Porsjoner\s*\|.*?\|\s*\n\|[-\s|]+\|\s*\n\|[^|]+\|\s*([^|]+)",
+            body,
+            re.MULTILINE,
+        )
+        if match:
+            yield_str = match.group(1).strip()
+            # Normalize
+            if not re.search(r"(porsjon|bolle|stk)", yield_str, re.IGNORECASE):
+                yield_str = f"{yield_str} porsjoner"
+            return yield_str
+        return None
+
+    def _extract_cuisine(self, tags: list) -> Optional[str]:
+        """Extract cuisine from tags."""
+        for tag in tags:
+            tag_lower = tag.lower()
+            if tag_lower in self.CUISINE_MAP:
+                return self.CUISINE_MAP[tag_lower]
+        return None
+
+    def _generate_keywords(self, frontmatter: dict, tags: list) -> str:
+        """Generate keywords from various sources."""
+        keywords = set()
+
+        # Add name parts
+        name = frontmatter.get("id", "")
+        for word in name.lower().split():
+            if len(word) > 2:
+                keywords.add(word)
+
+        # Add relevant tags (exclude hierarchical prefixes)
+        for tag in tags:
+            # Skip hierarchical tags for keywords
+            if "/" in tag:
+                tag = tag.split("/")[-1]
+            keywords.add(tag.lower())
+
+        return ", ".join(sorted(keywords))
+
+    def _extract_ingredients(self, body: str, file_path: Path) -> list[str]:
+        """Extract ingredients, resolving transclusions."""
+        ingredients = []
+
+        # Find ingredients section
+        section_match = re.search(
+            r"## Ingredienser\s*\n(.*?)(?=\n## |\Z)", body, re.DOTALL
+        )
+        if not section_match:
+            return ingredients
+
+        section = section_match.group(1)
+
+        # Process transclusions first
+        section = self._resolve_transclusions(
+            section, file_path, section_type="Ingredienser"
+        )
+
+        # Extract ingredient lines
+        for line in section.split("\n"):
+            line = line.strip()
+            # Skip non-ingredient lines
+            if not line or line.startswith("#") or line.startswith(">"):
+                continue
+
+            # Handle callout ingredient blocks
+            if line.startswith("- [x]") or line.startswith("- [ ]"):
+                ingredient = self._parse_ingredient_line(line)
+                if ingredient:
+                    ingredients.append(ingredient)
+            elif line.startswith("-") and "[[" in line:
+                ingredient = self._parse_ingredient_line(line)
+                if ingredient:
+                    ingredients.append(ingredient)
+
+        return ingredients
+
+    def _parse_ingredient_line(self, line: str) -> Optional[str]:
+        """Parse ingredient line to clean text."""
+        # Remove checkbox
+        line = re.sub(r"^-\s*\[.\]\s*", "", line)
+        line = re.sub(r"^-\s*", "", line)
+
+        # Remove wiki-links but keep display text
+        line = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", line)
+        line = re.sub(r"\[\[([^\]]+)\]\]", r"\1", line)
+
+        line = line.strip()
+        return line if line else None
+
+    def _extract_instructions(self, body: str, file_path: Path) -> list[str]:
+        """Extract instructions, resolving transclusions."""
+        instructions = []
+        seen_steps = set()  # Avoid duplicates
+
+        # Find everything after ## Steg (including subsections)
+        section_match = re.search(r"## Steg\s*\n(.*?)(?=\n## [^#]|\Z)", body, re.DOTALL)
+        if not section_match:
+            return instructions
+
+        full_section = section_match.group(1)
+
+        # Resolve transclusions
+        full_section = self._resolve_transclusions(
+            full_section, file_path, section_type="Steg"
+        )
+
+        # Parse multi-line numbered steps
+        lines = full_section.split("\n")
+        current_step = None
+
+        for line in lines:
+            # Skip headers, images, callouts
+            stripped = line.strip()
+            if (
+                not stripped
+                or stripped.startswith("#")
+                or stripped.startswith("!")
+                or stripped.startswith(">")
+            ):
+                # If we have a current step, finalize it
+                if current_step:
+                    self._add_step(current_step, instructions, seen_steps)
+                    current_step = None
+                continue
+
+            # Check if this is a new numbered step
+            step_match = re.match(r"^(\d+)\.\s*(.+)$", stripped)
+            if step_match:
+                # Finalize previous step
+                if current_step:
+                    self._add_step(current_step, instructions, seen_steps)
+                # Start new step
+                current_step = step_match.group(2).strip()
+            elif current_step and line.startswith("   "):
+                # Continuation of previous step (indented line)
+                current_step += " " + stripped
+
+        # Don't forget the last step
+        if current_step:
+            self._add_step(current_step, instructions, seen_steps)
+
+        return instructions
+
+    def _add_step(self, step_text: str, instructions: list, seen: set) -> None:
+        """Add a step to instructions, avoiding duplicates."""
+        # Remove wiki-links
+        step_text = re.sub(r"\[\[([^\]|]+)\|([^\]]+)\]\]", r"\2", step_text)
+        step_text = re.sub(r"\[\[([^\]]+)\]\]", r"\1", step_text)
+        step_text = step_text.strip()
+
+        # Create a normalized key for duplicate detection
+        key = step_text.lower()[:50]  # First 50 chars as key
+
+        if step_text and key not in seen:
+            instructions.append(step_text)
+            seen.add(key)
+
+    def _resolve_transclusions(
+        self, content: str, current_file: Path, section_type: str
+    ) -> str:
+        """Resolve ![[RecipeName#Section]] transclusions."""
+        # Pattern: ![[RecipeName#Section]]
+        pattern = r"!\[\[([^\]#]+)(?:#([^\]]+))?\]\]"
+
+        def replace_transclusion(match):
+            recipe_name = match.group(1)
+            section = match.group(2) or section_type
+
+            # Find and read the referenced recipe
+            recipe_content = self._load_recipe(recipe_name)
+            if not recipe_content:
+                return ""
+
+            # Extract the requested section
+            section_pattern = rf"##\s*{re.escape(section)}\s*\n(.*?)(?=\n## |\Z)"
+            section_match = re.search(section_pattern, recipe_content, re.DOTALL)
+            if section_match:
+                return section_match.group(1)
+
+            return ""
+
+        return re.sub(pattern, replace_transclusion, content)
+
+    def _load_recipe(self, recipe_name: str) -> Optional[str]:
+        """Load a recipe file by name."""
+        if recipe_name in self._recipe_cache:
+            return self._recipe_cache[recipe_name]
+
+        # Search in all recipe directories
+        for recipe_dir in [self.src_dir] + self.RECIPE_DIRS:
+            # Try exact match
+            potential_path = recipe_dir / f"{recipe_name}.md"
+            if potential_path.exists():
+                content = potential_path.read_text()
+                self._recipe_cache[recipe_name] = content
+                return content
+
+        return None
+
+    def _format_json_ld(self, schema: dict) -> str:
+        """Format schema as JSON-LD script block."""
+        json_str = json.dumps(schema, indent=2, ensure_ascii=False)
+        return f'<script type="application/ld+json">\n{json_str}\n</script>\n'
+
+    def _extract_existing_json_ld(self, content: str) -> Optional[str]:
+        """Extract existing JSON-LD block from content."""
+        match = re.search(
+            r'<script type="application/ld\+json">\s*\n(.*?)\n</script>',
+            content,
+            re.DOTALL,
+        )
+        if match:
+            # Re-format for comparison (normalize whitespace)
+            try:
+                existing_data = json.loads(match.group(1))
+                # Don't compare datePublished (it changes)
+                existing_data.pop("datePublished", None)
+                return json.dumps(existing_data, indent=2, ensure_ascii=False)
+            except json.JSONDecodeError:
+                return None
+        return None
+
+    def _replace_json_ld(self, content: str, new_json_ld: str) -> str:
+        """Replace or append JSON-LD block in content."""
+        # Remove existing block
+        content = re.sub(
+            r'\n*<script type="application/ld\+json">.*?</script>\s*',
+            "",
+            content,
+            flags=re.DOTALL,
+        )
+
+        # Ensure single trailing newline, then add JSON-LD
+        content = content.rstrip() + "\n\n" + new_json_ld
+
+        return content
+
+
+def main():
+    parser = argparse.ArgumentParser(
+        description="Generate JSON-LD schema for recipe files"
+    )
+    parser.add_argument(
+        "files",
+        nargs="*",
+        help="Specific files to process (default: all recipes)",
+    )
+    parser.add_argument(
+        "--check",
+        action="store_true",
+        help="Check if schemas are up to date (for CI)",
+    )
+
+    args = parser.parse_args()
+
+    generator = RecipeSchemaGenerator()
+
+    if args.files:
+        # Process specific files
+        updated = 0
+        errors = 0
+        for file_path in args.files:
+            path = Path(file_path)
+            if not path.exists():
+                print(f"File not found: {file_path}")
+                errors += 1
+                continue
+            try:
+                if generator.generate_for_file(path, args.check):
+                    updated += 1
+            except Exception as e:
+                print(f"Error: {e}")
+                errors += 1
+
+        if args.check and updated > 0:
+            print(f"\n{updated} file(s) need schema updates")
+            sys.exit(1)
+    else:
+        # Process all recipes
+        print("Generating JSON-LD schemas for recipes...")
+        updated, unchanged, errors = generator.generate_all(args.check)
+
+        print(f"\nResults: {updated} updated, {unchanged} unchanged, {errors} errors")
+
+        if args.check and updated > 0:
+            print("Some schemas need updates. Run 'mise run schema' to fix.")
+            sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()

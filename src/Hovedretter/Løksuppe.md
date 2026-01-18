@@ -70,27 +70,28 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Løksuppe",
-  "image": "/static/loksuppe.webp",
+  "image": "static/loksuppe.webp",
   "author": {
-    "@type": "Organization",
+    "@type": "Person",
     "name": "Tine"
   },
+  "url": "https://www.tine.no/oppskrifter/middag-og-hovedretter/supper/fransk-l%C3%B8ksuppe",
+  "datePublished": "2026-01-18",
   "description": "20 min | Enkel",
-  "prepTime": "PT10M",
-  "cookTime": "PT10M",
+  "prepTime": "PT12M",
+  "cookTime": "PT8M",
   "totalTime": "PT20M",
   "recipeYield": "1 porsjon",
-  "recipeCategory": ["Middag", "Vegetar", "Forrett"],
-  "recipeCuisine": "Fransk",
-  "keywords": "løksuppe, suppe, vegetar, fransk, enkel",
+  "recipeCategory": "Middag",
+  "keywords": "enkel, fransk, løksuppe, ost, rask, suppe, vegetar",
   "recipeIngredient": [
     "2 gul løk",
     "4 ss smør",
     "7.5 dl vann",
-    "1 pk grønnsaksbuljong",
+    "1 pk grønnsaksbuljong (se også [notater](#notater))",
     "2 skiver ristet brød",
     "150 g revet ost",
-    "Salt & Pepper"
+    "salt og pepper"
   ],
   "recipeInstructions": [
     {
@@ -103,7 +104,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Fordel suppen i suppebollene. Legg loffskive på toppen. Dryss på ost og gratiner suppen under grillen i stekeovnen i ca. 5 minutter."
+      "text": "Fordel suppen i suppebollene. Legg loffskive på toppen. Dryss på Ost og gratiner suppen under grillen i stekeovnen i ca. 5 minutter."
     }
   ]
 }

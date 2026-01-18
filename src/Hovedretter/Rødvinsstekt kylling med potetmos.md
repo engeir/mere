@@ -89,22 +89,20 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Rødvinsstekt kylling med potetmos",
+  "image": "static/rodvinsstekt-kylling-med-potetmos/rodvinsstekt-kylling-med-potetmos.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/rodvinsstekt-kylling-641456bd7bee82308d5513db"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF220404_R15_W21_SE_R11162-1_KB_Main_low-bed5aa38.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Skandinavisk",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/rodvinsstekt-kylling-641456bd7bee82308d5513db",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "kylling, med, potet, potetmos, rødvinsstekt, vin",
   "recipeIngredient": [
     "12.5 g Honning",
     "12 g Grov sennep",
@@ -126,11 +124,11 @@ up:
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Kok opp en kjele med lettsaltet vann. Skjær poteter (uskrellet) i 2 cm terninger. Kok poteter i 11-13 min, eller til de enkelt kan deles med en kniv. Hell av vannet. Tilsett melk [3 ss | 6 ss], salt [¼ ts | ½ ts] og en klype pepper. Mos med en gaffel og sett til side under lokk for å holde på varmen."
+      "text": "Kok opp en kjele med lettsaltet vann. Skjær poteter (uskrellet) i 2 cm terninger. Kok poteter i 11-13 min, eller til de enkelt kan deles med en kniv. Hell av vannet. Tilsett melk [3 ss | 6 ss], salt [¼ ts | ½ ts] og en klype Pepper. Mos med en gaffel og sett til side under lokk for å holde på varmen."
     },
     {
       "@type": "HowToStep",
-      "text": "Bland sennep, honning [1/2 pakke, 2P], olivenolje [1 ss | 2 ss] og en klype salt og pepper i en stor skål."
+      "text": "Bland sennep, honning [1/2 pakke, 2P], olivenolje [1 ss | 2 ss] og en klype salt og Pepper i en stor skål."
     },
     {
       "@type": "HowToStep",
@@ -142,29 +140,12 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Finhakk eller press hvitløk. Varm opp stekepannen til middels varme. Tilsett smør [1 ss | 2 ss], hvitløk, timian [1/2 pakke, 2P] rødvinssaus, kyllingbuljong, vann [1/2 dl | 1 dl] og en klype salt og pepper. Kok i 2-3 min. Tilsett evt. kraft fra kyllingen i stekepannen. Bland inn kylling."
+      "text": "Finhakk eller press hvitløk. Varm opp stekepannen til middels varme. Tilsett smør [1 ss | 2 ss], hvitløk, timian [1/2 pakke, 2P] rødvinssaus, kyllingbuljong, vann [1/2 dl | 1 dl] og en klype salt og Pepper. Kok i 2-3 min. Tilsett evt. kraft fra kyllingen i stekepannen. Bland inn kylling."
     },
     {
       "@type": "HowToStep",
       "text": "Anrett potetmos på tallerkener. Topp med kylling og kålsalat. Drypp over rødvinssaus."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "602 kcal",
-    "fatContent": "26.4 g",
-    "saturatedFatContent": "7.5 g",
-    "carbohydrateContent": "52 g",
-    "sugarContent": "13.8 g",
-    "proteinContent": "41 g",
-    "sodiumContent": "392 mg",
-    "servingSize": "497"
-  },
-  "prepTime": 20,
-  "name": "Rødvinsstekt kylling med grov potetmos og sprø kålsalat",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "rodvinsstekt-kylling-med-grov-potetmos-og-spro-kalsalat"
+  ]
 }
 </script>

@@ -64,28 +64,27 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Avokadokrem",
-  "image": "/Attachments/bondelapper/bondelapper.webp",
-  "url": "https://oppskrift.klikk.no/r%C3%B8kelaks-med-avocadokrem/1924/",
+  "image": "static/bondelapper/bondelapper.webp",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
+    "name": "Eirik Rolland Enger"
   },
-  "datePublished": "2024-05-30",
-  "description": "25 min | Enkel",
-  "prepTime": "PT15M",
-  "cookTime": "PT0M",
-  "totalTime": "PT15M",
-  "recipeYield": "4 porsjoner",
+  "url": "https://oppskrift.klikk.no/r%C3%B8kelaks-med-avocadokrem/1924/",
+  "datePublished": "2026-01-18",
+  "description": "15 min | Enkel",
+  "prepTime": "PT9M",
+  "cookTime": "PT6M",
+  "totalTime": "PT25M",
+  "recipeYield": "8 porsjoner",
   "recipeCategory": "Tilbehør",
-  "recipeCuisine": "",
-  "keywords": "tilbehør",
+  "keywords": "avokado, avokadokrem, enkel, majones, rømme, sitrus",
   "recipeIngredient": [
-    "2 avokado",
-    "0.5 sitron (saften av)",
+    "2 stk avokado",
+    "1/2 stk saften av sitron (eller 2x så mange lime)",
     "100 g majones",
     "1 dl rømme",
-    "salt og pepper"
+    "salt",
+    "Pepper"
   ],
   "recipeInstructions": [
     {
@@ -94,7 +93,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Mos avokadokjøttet med en gaffel og bland inn majones og rømme. Smak til med litt lime/sitronsaft, salt og pepper."
+      "text": "Mos avokadokjøttet med en gaffel og bland inn majones og rømme. Smak til med litt lime/sitronsaft, salt og Pepper."
     }
   ]
 }

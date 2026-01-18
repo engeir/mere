@@ -76,22 +76,20 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Reker med nudler i sursøt saus",
+  "image": "static/reker-med-nudler-i-sursøt-saus/reker-med-nudler-i-sursøt-saus.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/reker-i-sursot-saus-65f8532f473c4f42771cdad6"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R23_W08_NO_R21156-2_Main_low-df0ec78d.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 15,
-  "recipeCuisine": "Kinesiske",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/reker-i-sursot-saus-65f8532f473c4f42771cdad6",
+  "datePublished": "2026-01-18",
+  "description": "30 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "med, nudler, reker, saus, sjømat, sursøt",
   "recipeIngredient": [
     "150 g Reker",
     "80 g Søt chilisaus",
@@ -124,23 +122,6 @@ up:
       "@type": "HowToStep",
       "text": "Anrett wok og nudleri skåler. Topp med peanøtter, sesamfrø og vårløk."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "573 kcal",
-    "fatContent": "9.2 g",
-    "saturatedFatContent": "1.8 g",
-    "carbohydrateContent": "92.4 g",
-    "sugarContent": "31 g",
-    "proteinContent": "25.8 g",
-    "sodiumContent": "225 mg",
-    "servingSize": "396"
-  },
-  "prepTime": 15,
-  "name": "Reker i sursøt saus med nudler og knasende peanøtter",
-  "totalTime": 30,
-  "recipeYield": "2 servings",
-  "pattern": "reker-i-sursot-saus-med-nudler-og-knasende-peanotter"
+  ]
 }
 </script>

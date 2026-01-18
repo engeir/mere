@@ -84,40 +84,38 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Kylling i gressløksaus",
+  "image": "static/kylling-i-gressløksaus/kylling-i-gressløksaus.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/stekt-kylling-i-kremet-gressloksaus-62e372fb91f7025aa3f94722"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF220131_R16_W12_SE_K11105-1_MB_Main_low-6ec73211.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Skandinavisk",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/stekt-kylling-i-kremet-gressloksaus-62e372fb91f7025aa3f94722",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "gressløksaus, kylling, potet",
   "recipeIngredient": [
-    "500 g Poteter",
-    "300 g Strimlet kyllingbryst",
-    "½ stk Rød chili",
-    "1 pose Gressløk",
-    "1 stk Hvitløk",
-    "1 stk Eple",
-    "4 g Kyllingbuljong",
-    "½ pakke Creme fraiche",
-    "150 g Rødkål",
-    "30 g Spinat",
-    "½ dl Vann (steg 4)",
-    "¼ ts Salt (steg 4)"
+    "500 g poteter",
+    "300 g strimlet kyllingbryst",
+    "0.5 stk rød chili",
+    "1 pose gressløk",
+    "1 stk hvitløk",
+    "1 stk eple",
+    "4 g kyllingbuljong",
+    "0.5 pakke creme fraiche",
+    "150 g rødkål",
+    "30 g spinat",
+    "0.5 dl vann",
+    "0.25 ts salt"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Kok opp en mellomstor kjele med lettsaltet vann. Del poteteri to. Kok poteter i 10-12 min, eller til de enkelt kan deles med en kniv."
+      "text": "Kok opp en mellomstor kjele med lettsaltet vann. Del poteter i to. Kok poteter i 10-12 min, eller til de enkelt kan deles med en kniv."
     },
     {
       "@type": "HowToStep",
@@ -125,11 +123,11 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Fjern frøene og finhakk chili [1/2 stk, 2P]. Finhakk gressløk. Press eller finhakk hvitløk. Del eple i to, fjern kjernen og skjær i tynne skiver. Skyll spinat i et dørslag under kaldt vann."
+      "text": "Fjern frøene og finhakk chili. Finhakk gressløk. Press eller finhakk hvitløk. Del eple i to, fjern kjernen og skjær i tynne skiver. Skyll spinat i et dørslag under kaldt vann."
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp en ny skvett olivenolje (ved behov) i stekepannen på middels høy varme. Stek hvitløk og chili i 1 min. Tilsett vann [1/2 dl | 1 dl], kyllingbuljong og salt [1/4 ts | 1/2 ts]. La putre i 1-2 min. Rør inn creme fraiche [1/2 pakke, 2P], gressløk (spar litt til pynt) og kylling. Varm opp i 1 min. Smak til med salt og pepper. TIPS: Tilsett en skvett vann hvis sausen er for tykk."
+      "text": "Varm opp en ny skvett olivenolje (ved behov) i stekepannen på middels høy varme. Stek hvitløk og chili i 1 min. Tilsett vann, kyllingbuljong og salt. La putre i 1-2 min. Rør inn creme fraiche, gressløk (spar litt til pynt) og kylling. Varm opp i 1 min. Smak til med salt og pepper. TIPS: Tilsett en skvett vann hvis sausen er for tykk."
     },
     {
       "@type": "HowToStep",
@@ -139,23 +137,6 @@ up:
       "@type": "HowToStep",
       "text": "Anrett poteter med spinat, kylling og rødkålsalat på tallerkener. Øs gressløksaus over kylling. Pynt med resterende gressløk."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "541 kcal",
-    "fatContent": "14.03 g",
-    "saturatedFatContent": "7.8 g",
-    "carbohydrateContent": "55.33 g",
-    "sugarContent": "13.2 g",
-    "proteinContent": "43.83 g",
-    "sodiumContent": "392.8 mg",
-    "servingSize": "588"
-  },
-  "prepTime": 20,
-  "name": "Stekt kylling i kremet gressløksaus med kokte poteter og rødkålsalat",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "stekt-kylling-i-kremet-gressloksaus-med-kokte-poteter-og-rodkalsalat"
+  ]
 }
 </script>

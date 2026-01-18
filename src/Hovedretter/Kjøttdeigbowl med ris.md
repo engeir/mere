@@ -85,22 +85,20 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Kjøttdeigbowl med ris",
+  "image": "static/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/sorost-asiatisk-kjottdeig-6569aaa402bcfeab6555c73d"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF221010_R09_W47_SE_C12661-1_MB_Main_low-96339ca5.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Asiatiske",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/sorost-asiatisk-kjottdeig-6569aaa402bcfeab6555c73d",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "kjøttdeig, kjøttdeigbowl, med, ris",
   "recipeIngredient": [
     "1 stk Hvitløk",
     "150 g Jasminris",
@@ -129,7 +127,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp olivenolje [1/2 ss | 1 ss] i en stekepanne på middels høy varme. Stek gulrot i 3-4 min. Tilsett pak choi og stek i 2 min, eller til pak choi faller litt sammen. Krydre med en klype salt og pepper. Overfør til en skål."
+      "text": "Varm opp olivenolje [1/2 ss | 1 ss] i en stekepanne på middels høy varme. Stek gulrot i 3-4 min. Tilsett pak choi og stek i 2 min, eller til pak choi faller litt sammen. Krydre med en klype salt og Pepper. Overfør til en skål."
     },
     {
       "@type": "HowToStep",
@@ -137,29 +135,12 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett grønnsaker tilbake i stekepannen og tilsett soyasaus [½ pakke, 2P] og sukker [1 ts | 2 ts]. Rør godt og stek i 1-2 min, til gjennomvarmt. Krydre med en klype salt og pepper."
+      "text": "Tilsett grønnsaker tilbake i stekepannen og tilsett soyasaus [½ pakke, 2P] og sukker [1 ts | 2 ts]. Rør godt og stek i 1-2 min, til gjennomvarmt. Krydre med en klype salt og Pepper."
     },
     {
       "@type": "HowToStep",
       "text": "Anrett hvitløksris i dype tallerkener. Topp med kjøttdeig og stekte grønnsaker. Drypp sesammajones over. Pynt med agurk."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "860 kcal",
-    "fatContent": "50.7 g",
-    "saturatedFatContent": "12.5 g",
-    "carbohydrateContent": "72.1 g",
-    "sugarContent": "10.1 g",
-    "proteinContent": "28.4 g",
-    "sodiumContent": "0 mg",
-    "servingSize": "472"
-  },
-  "prepTime": 20,
-  "name": "Sørøst-asiatisk kjøttdeigbowl med hvitløkskokt ris og stekte grønnsaker",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "sorost-asiatisk-kjottdeigbowl-med-hvitlokskokt-ris-og-stekte-gronnsaker"
+  ]
 }
 </script>

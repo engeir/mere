@@ -91,22 +91,20 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Hakkebiff med kremet soppsaus",
+  "image": "static/hakkebiff-med-kremet-soppsaus/hakkebiff-med-kremet-soppsaus.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/rustikke-hakkebiffer-64b4e91666be97d461e928de"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF_Y23_R07_W24_SE_F14112-2_Main_low-7ea0f4c3.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Skandinavisk",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/rustikke-hakkebiffer-64b4e91666be97d461e928de",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "fløte, hakkebiff, kjøttdeig, kremet, med, potet, soppsaus",
   "recipeIngredient": [
     "250 g Kjøttdeig av storfe",
     "½ stk Løk",
@@ -128,7 +126,7 @@ up:
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Kok opp saltet vann i en kjele. Skjær poteter (uskrelt) i 3 cm biter. Kok poteter i 12-15 min, eller til de lett kan stikkes i med en kniv. Hell ut vannet. Krydre med en klype salt og pepper. Sett på lokk og sett til side."
+      "text": "Kok opp saltet vann i en kjele. Skjær poteter (uskrelt) i 3 cm biter. Kok poteter i 12-15 min, eller til de lett kan stikkes i med en kniv. Hell ut vannet. Krydre med en klype salt og Pepper. Sett på lokk og sett til side."
     },
     {
       "@type": "HowToStep",
@@ -144,29 +142,12 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Senk varmen på stekepannen til lav og tilsett matfløte [1/2 pakke, 2P], soyasaus [1/2 pakke, 2P], salt [1/4 ts | 1/2 ts] og en stor klype pepper med soppen. La småkoke til servering, ca. 1-2 min. Rett før servering, tilsett smør [1 ss | 2 ss] til kjelen med poteter. Bland godt."
+      "text": "Senk varmen på stekepannen til lav og tilsett matfløte [1/2 pakke, 2P], soyasaus [1/2 pakke, 2P], salt [1/4 ts | 1/2 ts] og en stor klype Pepper med soppen. La småkoke til servering, ca. 1-2 min. Rett før servering, tilsett smør [1 ss | 2 ss] til kjelen med poteter. Bland godt."
     },
     {
       "@type": "HowToStep",
       "text": "Anrett hakkebiff, poteter og salat på tallerkener. Hell soppsaus over hakkebiffene."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "880 kcal",
-    "fatContent": "48.5 g",
-    "saturatedFatContent": "22.3 g",
-    "carbohydrateContent": "69 g",
-    "sugarContent": "25.3 g",
-    "proteinContent": "40.8 g",
-    "sodiumContent": "152.4 mg",
-    "servingSize": "718"
-  },
-  "prepTime": 20,
-  "name": "Rustikke hakkebiffer med kremet soppsaus og saftig eplesalat",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "rustikke-hakkebiffer-med-kremet-soppsaus-og-saftig-eplesalat"
+  ]
 }
 </script>

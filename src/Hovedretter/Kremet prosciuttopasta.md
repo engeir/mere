@@ -83,12 +83,13 @@ up:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Kremet prosciuttopasta",
-  "image": "/static/kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp",
+  "image": "static/kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp",
   "author": {
     "@type": "Organization",
-    "name": "Hello Fresh"
+    "name": "HelloFresh"
   },
-  "datePublished": "2024-05-30",
+  "url": "https://www.hellofresh.no/recipes/kremet-prosciuttopasta-65f2f3ae1d9f403b835aee24",
+  "datePublished": "2026-01-18",
   "description": "25 min | Enkel",
   "prepTime": "PT15M",
   "cookTime": "PT10M",
@@ -96,7 +97,7 @@ up:
   "recipeYield": "2 porsjoner",
   "recipeCategory": "Middag",
   "recipeCuisine": "Italiensk",
-  "keywords": "prosciutto, kylling, pasta, middag, rask, enkel",
+  "keywords": "enkel, fløte, italiensk, kremet, pasta, prosciutto, prosciuttopasta, rask",
   "recipeIngredient": [
     "50 g prosciutto",
     "2 stk tomater",

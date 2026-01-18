@@ -49,3 +49,49 @@ tags: []
    > liknende!
 
    ![](appelsinboller/appelsinkrem.webp)
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Appelsinkrem",
+  "datePublished": "2026-01-18",
+  "description": "",
+  "keywords": "appelsinkrem",
+  "recipeIngredient": [
+    "1 appelsiner",
+    "0.25 sitron",
+    "1 dl / 100 g sukker",
+    "1 egg",
+    "2 eggeplummer",
+    "50 g smør",
+    "1/4 ts salt",
+    "1 dl saft fra en appelsin",
+    "1 ss saft fra en sitron",
+    "1 ss maisstivelse",
+    "0.5 ts vaniljeekstrakt eller 0.5 stk vaniljestang"
+  ],
+  "recipeInstructions": [
+    {
+      "@type": "HowToStep",
+      "text": "Bruk et rivjern og riv skallet på appelsinene og sitronen. Pass på å kun få med skallet med farge og ikke det hvite, som har en mer bitter smak."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Skvis appelsinene og sitronen så du får nok juice."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hell alle ingrediensene over i en medium kjele, og sett platen på medium varme."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Rør alle ingrediensene godt sammen, og gi røren et oppkok og la den småkoke i 5–10 minutter til den tykner."
+    },
+    {
+      "@type": "HowToStep",
+      "text": "Hell den deretter over i en bolle til avkjøling i kjøleskapet så røren får en tykkere konsistens."
+    }
+  ]
+}
+</script>

@@ -80,34 +80,32 @@ ingredients:
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
-  "name": "Tomat- og paprikasuppe",
-  "image": "/static/tomat-paprika-suppe.webp",
-  "url": "https://sulten.app/recipes/tomat-og-paprikasuppe-med-chorizo-og-fetaost-06f7",
+  "name": "tomat-paprika-suppe",
+  "image": "static/[[tomat-paprika-suppe.webp]]",
   "author": {
     "@type": "Person",
-    "name": "fattig.student",
-    "url": "https://sulten.app/fattig-student"
+    "name": "fattig-student"
   },
-  "datePublished": "2024-05-30",
+  "url": "https://sulten.app/recipes/tomat-og-paprikasuppe-med-chorizo-og-fetaost-06f7",
+  "datePublished": "2026-01-18",
   "description": "35 min | Enkel",
-  "prepTime": "PT5M",
-  "cookTime": "PT30M",
+  "prepTime": "PT21M",
+  "cookTime": "PT14M",
   "totalTime": "PT35M",
   "recipeYield": "2 porsjoner",
-  "recipeCategory": "Hovedrett",
-  "recipeCuisine": "Italiensk",
-  "keywords": "suppe, italiensk, sunn, enkel, pasta",
+  "keywords": "sunn, suppe, tomat-paprika-suppe",
   "recipeIngredient": [
-    "2 paprika",
-    "1 fedd hvitløk",
-    "1 rødløk",
-    "1 pakke hakkede tomater",
-    "1 grønnsaksbuljong",
+    "2 Paprika",
+    "1 Hvitløk",
+    "1 Rødløk",
+    "1 pk Hakkede tomater",
+    "1 Grønnsaksbuljong",
     "5 dl vann",
-    "1 ss pizzakrydder",
-    "salt of pepper",
-    "50 g fetaost",
-    "40 g chorizo"
+    "1 ss Pizzakrydder",
+    "Salt & Pepper",
+    "1 neve Spinat",
+    "2 ss Fetaost",
+    "ca. 40 g Chorizo"
   ],
   "recipeInstructions": [
     {
@@ -116,7 +114,7 @@ ingredients:
     },
     {
       "@type": "HowToStep",
-      "text": "Imens kan du kutte opp rødløk og hvitløk og la dette surre i en gryte sammen med litt olje eller smør til løken har blitt blank."
+      "text": "Imens kan du kutte opp Rødløk og hvitløk og la dette surre i en gryte sammen med litt olje eller smør til løken har blitt blank."
     },
     {
       "@type": "HowToStep",
@@ -124,19 +122,19 @@ ingredients:
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett paprika, pizzakrydder, hahakkede tomater, vann og buljong. La suppen koke i ca. 10–15 minutter."
+      "text": "Tilsett Paprika, Pizzakrydder, hahakkede tomater, vann og buljong. La suppen koke i ca. 10–15 minutter."
     },
     {
       "@type": "HowToStep",
-      "text": "I mellomtiden kan du kutte opp chorizo i terninger og steke dette i ei panne, først alene (gjerne opp mot 10 min. på lav varme), og så mot slutten sammen med spinat til spinaten har krympet sammen. Når chorizoen steker passer det også fint å rydde opp alt rotet du har stelt i stand."
+      "text": "I mellomtiden kan du kutte opp Chorizo i terninger og steke dette i ei panne, først alene (gjerne opp mot 10 min. på lav varme), og så mot slutten sammen med Spinat til spinaten har krympet sammen. Når chorizoen steker passer det også fint å rydde opp alt rotet du har stelt i stand."
     },
     {
       "@type": "HowToStep",
-      "text": "Mos suppen med en stavmikser. Smak til med salt og pepper."
+      "text": "Mos suppen med en stavmikser. Smak til med salt og Pepper."
     },
     {
       "@type": "HowToStep",
-      "text": "Server suppen med spinat- og chorizoblandinen, og topp med fetaost."
+      "text": "Server suppen med Spinat- og chorizoblandinen, og topp med Fetaost."
     }
   ]
 }

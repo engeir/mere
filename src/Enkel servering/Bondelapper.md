@@ -72,27 +72,19 @@ permalink: bondelapper
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "Bondelapper",
-  "image": "/static/bondelapper/bondelapper.webp",
   "url": "https://norsktradisjonsmat.no/oppskrift/bondelapper-fra-ovre-eiker",
-  "author": {
-    "@type": "Person",
-    "name": "Eirik Rolland Enger",
-    "url": "https://github.com/engeir"
-  },
-  "datePublished": "2024-05-30",
+  "datePublished": "2026-01-18",
   "description": "35 min | Enkel",
-  "prepTime": "PT15M",
-  "cookTime": "PT20M",
+  "prepTime": "PT21M",
+  "cookTime": "PT14M",
   "totalTime": "PT35M",
-  "recipeYield": "4 porsjoner",
-  "recipeCategory": "Tilbehør",
-  "recipeCuisine": "Norsk",
-  "keywords": "tilbehør, potet, tradisjonsmat",
+  "recipeYield": "8 porsjoner",
+  "keywords": "bondelapper, egg, enkel, fløte, hvetemel, potet",
   "recipeIngredient": [
-    "4 poteter",
+    "4 stk kokte poteter",
     "1 ts salt",
     "2 dl hvetemel",
-    "1 egg",
+    "1 stk egg",
     "4 dl fløte eller rømme"
   ],
   "recipeInstructions": [
@@ -106,7 +98,7 @@ permalink: bondelapper
     },
     {
       "@type": "HowToStep",
-      "text": "I originaloppskriften står det at deigen skal "kjelvels ut i ca 1 cm tykke leiver som stikkes ut med glass", men som man kan se av bildet ble min en røre og ikke en deig. Så jeg hoppet over dette steget og brukte en skje til å ha røra over i panna."
+      "text": "I originaloppskriften står det at deigen skal \"kjelvels ut i ca 1 cm tykke leiver som stikkes ut med glass\", men som man kan se av bildet ble min en røre og ikke en deig. Så jeg hoppet over dette steget og brukte en skje til å ha røra over i panna."
     },
     {
       "@type": "HowToStep",

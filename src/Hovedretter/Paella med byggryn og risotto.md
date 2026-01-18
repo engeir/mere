@@ -63,34 +63,28 @@ authors:
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
-  "name": "Paella med byggryn",
-  "image": "/static/risotto-paella.webp",
-  "author": {
-    "@type": "Person",
-    "name": "fattig.student",
-    "url": "https://sulten.app/fattig-student"
-  },
-  "datePublished": "2024-05-30",
+  "name": "Paella med byggryn og risotto",
+  "url": "https://sulten.app/recipes/studentpaella-anop",
+  "datePublished": "2026-01-18",
   "description": "35 min | Middels",
-  "prepTime": "PT5M",
-  "cookTime": "PT30M",
+  "prepTime": "PT21M",
+  "cookTime": "PT14M",
   "totalTime": "PT35M",
   "recipeYield": "2 porsjoner",
-  "recipeCategory": "Hovedrett",
-  "recipeCuisine": "Spansk",
-  "keywords": "spansk, torsk, sjømat, sunn, risotto, byggryn",
+  "keywords": "byggryn, fisk, risotto, sunn",
   "recipeIngredient": [
     "1 fedd hvitløk",
-    "1 løk",
-    "3 gulrøtter",
+    "1 stk løk",
+    "3 stk gulrot",
     "400 g hakkede tomater",
-    "0.5 ts chilikrydder",
-    "0.5 sitron",
+    "1/4 ts chilikrydder",
+    "1/2 stk sitron",
     "2.5 dl vann",
-    "0.5 grønnsaksbuljong",
-    "1 dl byggryn (eller risotto)",
+    "1/2 stk grønnsaksbuljong",
+    "1 dl byggryn (eventuelt risotto)",
+    "1 dl risotto",
     "150 g torskefilet",
-    "0.5 potte kruspersille"
+    "1/3 pk kruspersille"
   ],
   "recipeInstructions": [
     {
@@ -111,7 +105,7 @@ authors:
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett torskefilet i terninger helt til slutt, og la torsken trekke i cirka 5–10 minutter. Smak til med salt, pepper, sitronsaft og finhakket kruspersille."
+      "text": "Tilsett torskefilet i terninger helt til slutt, og la torsken trekke i cirka 5–10 minutter. Smak til med salt, Pepper, sitronsaft og finhakket kruspersille."
     }
   ]
 }

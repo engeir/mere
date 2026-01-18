@@ -90,43 +90,43 @@ up:
 
 <script type="application/ld+json">
 {
-  "author": {
-    "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/kyllingpasta-alla-cacciatore-66274e61ad72ee2f0f4bc8f3"
-  },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R08_BW10_SE_C22479-1_MAIN_low-25af6855.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
+  "@context": "https://schema.org/",
   "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 25,
-  "recipeCuisine": "Italienske",
-  "publisher": {
+  "name": "Kyllingpasta alla cacciatore med kalamataoliven og finrevet ost",
+  "image": "static/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost/kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost.webp",
+  "author": {
     "@type": "Organization",
-    "name": "hellofresh.com"
+    "name": "HelloFresh"
   },
+  "url": "https://www.hellofresh.no/recipes/kyllingpasta-alla-cacciatore-66274e61ad72ee2f0f4bc8f3",
+  "datePublished": "2026-01-18",
+  "description": "50 | Enkel",
+  "totalTime": "PT50M",
+  "recipeYield": "2 porsjoner",
+  "recipeCategory": "Middag",
+  "recipeCuisine": "Italiensk",
+  "keywords": "alla, basilikum, cacciatore, enkel, finrevet, italiensk, kalamataoliven, kylling, kyllingpasta, med, ost, pasta",
   "recipeIngredient": [
-    "300 g Strimlet kyllingbryst",
-    "1 pakke Spaghetti",
-    "1 stk Gulrot",
-    "1 stk Løk",
-    "0.5 pakke Hakkede tomater",
-    "4 g Middelhavsdrøm (eller rosmarin, chilipulver, oregano, timian, basilikum)",
-    "4 g Hvitløksflørt (eller hvitløkspulver, persille, rosmarin, timian)",
-    "35 g Kalamataoliven",
-    "1 pose Basilikum",
-    "20 g Finrevet ost",
-    "1 ss Olivenolje (steg 3)",
-    "0.25 ts Salt (steg 3)",
-    "0.5 ts Sukker (steg 5)",
-    "1 ss Smør (steg 5)",
-    "0.25 ts Salt (steg 5)"
+    "300 g strimlet kyllingbryst",
+    "1 pakke spaghetti",
+    "1 stk gulrot",
+    "1 stk løk",
+    "0.5 pakke hakkede tomater",
+    "4 g middelhavsdrøm (eller rosmarin, chilipulver, oregano, timian, basilikum)",
+    "4 g hvitløksflørt (eller hvitløkspulver, persille, rosmarin, timian)",
+    "35 g kalamataoliven",
+    "1 pose basilikum",
+    "20 g finrevet ost",
+    "1 ss olivenolje (steg 3)",
+    "0.25 ts salt (steg 3)",
+    "0.5 ts sukker (steg 5)",
+    "1 ss smør (steg 5)",
+    "0.25 ts salt (steg 5)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Kok opp en stor kjele med saltet vann. Kok pasta i 8-9 min, til 'al dente'. Spar litt pastavann, og hell av resten. TIPS: Kokevannet skal være like salt som sjøvann. TIPS: 'Al dente' betyr at pastaen er myk med litt tyggemotstand."
+      "text": "Kok opp en stor kjele med saltet vann. Kok pasta i 8-9 min, til 'al dente'. Spar litt pastavann, og hell av resten. Kokevannet skal være like salt som sjøvann. 'Al dente' betyr at pastaen er myk med litt tyggemotstand."
     },
     {
       "@type": "HowToStep",
@@ -134,7 +134,7 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp olivenolje i en stor stekepanne på middels høy varme. Stek kylling, løk, gulrot og salt under omrøring i 4-5 min, til brunet. TIPS: Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt."
+      "text": "Varm opp olivenolje i en stor stekepanne på middels høy varme. Stek Kylling, løk, gulrot og salt under omrøring i 4-5 min, til brunet. Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt."
     },
     {
       "@type": "HowToStep",
@@ -142,29 +142,12 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett hakkede tomater, pastavann, Hvitløksflørt, Middelhavsdrøm, sukker og smør i pannen med kylling. Krydre med salt og en klype pepper. La putre i 3-4 min, eller til sausen tykner. Bland inn pasta. TIPS: Tilsett mer pastavann om pastaen virker tørr."
+      "text": "Tilsett hakkede tomater, pastavann, hvitløksflørt, middelhavsdrøm, sukker og smør i pannen med Kylling. Krydre med salt og en klype pepper. La putre i 3-4 min, eller til sausen tykner. Bland inn pasta. Tilsett mer pastavann om pastaen virker tørr."
     },
     {
       "@type": "HowToStep",
-      "text": "Fordel pasta i skåler. Topp med finrevet ost, oliven og basilikum. TIPS: Reduser eller dropp oliven, hvis du ikke liker det."
+      "text": "Fordel pasta i skåler. Topp med finrevet ost, oliven og basilikum. Reduser eller dropp oliven, hvis du ikke liker det."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "764 kcal",
-    "fatContent": "24.3 g",
-    "saturatedFatContent": "8.3 g",
-    "carbohydrateContent": "77.7 g",
-    "sugarContent": "14.2 g",
-    "proteinContent": "53.9 g",
-    "sodiumContent": "0.9 mg",
-    "servingSize": "481"
-  },
-  "prepTime": 25,
-  "name": "Kyllingpasta alla cacciatore med kalamataoliven og finrevet ost",
-  "totalTime": 50,
-  "recipeYield": "2 porsjoner",
-  "pattern": "kyllingpasta-alla-cacciatore-med-kalamataoliven-og-finrevet-ost"
+  ]
 }
 </script>

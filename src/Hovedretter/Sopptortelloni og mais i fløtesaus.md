@@ -81,22 +81,20 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Sopptortelloni og mais i fløtesaus",
+  "image": "static/sopptortelloni-og-mais-i-flotesaus/sopptortelloni-og-mais-i-flotesaus.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/sopptortelloni-og-mais-i-flotesaus-6613d4f417fb871fe34ec987"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF_Y24_R20_W01_SE_C18150-2_seeds_edit_Main_low-e25b448d.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 15,
-  "recipeCuisine": "Fusion",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/sopptortelloni-og-mais-i-flotesaus-6613d4f417fb871fe34ec987",
+  "datePublished": "2026-01-18",
+  "description": "30 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "fløte, fløtesaus, mais, pasta, sopp, sopptortelloni",
   "recipeIngredient": [
     "2 stk Hvitløk",
     "1 boks Mais",
@@ -123,29 +121,12 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "Tilsett grønnsaksbuljong, matfløte [1/2 pakke, 2P] og pastavann. Bland godt. Senk varmen til middels. Tilsett tortelloni, spinat og finrevet ost. Riv basilikumblad grovt og rør inn. Varm opp i 1-2 min, eller til spinat har trukket seg sammen. Krydre med salt [1/2 ts | 1 ts] og en klype pepper."
+      "text": "Tilsett grønnsaksbuljong, matfløte [1/2 pakke, 2P] og pastavann. Bland godt. Senk varmen til middels. Tilsett tortelloni, spinat og finrevet ost. Riv basilikumblad grovt og rør inn. Varm opp i 1-2 min, eller til spinat har trukket seg sammen. Krydre med salt [1/2 ts | 1 ts] og en klype Pepper."
     },
     {
       "@type": "HowToStep",
       "text": "Anrett tortelloni og saus i skåler. Strø over chiliflak [1/2 pose, 2P] og gresskarkjerner. TIPS: Tilsett chili etter smak - det er sterkt!"
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "777 kcal",
-    "fatContent": "40 g",
-    "saturatedFatContent": "20 g",
-    "carbohydrateContent": "72 g",
-    "sugarContent": "14.7 g",
-    "proteinContent": "28.2 g",
-    "sodiumContent": "408 mg",
-    "servingSize": "410"
-  },
-  "prepTime": 15,
-  "name": "Sopptortelloni og mais i fløtesaus med finrevet ost og basilikum",
-  "totalTime": 30,
-  "recipeYield": "2 servings",
-  "pattern": "sopptortelloni-og-mais-i-flotesaus-med-finrevet-ost-og-basilikum"
+  ]
 }
 </script>

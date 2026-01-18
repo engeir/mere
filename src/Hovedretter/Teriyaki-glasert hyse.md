@@ -93,22 +93,20 @@ up:
 
 <script type="application/ld+json">
 {
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "Teriyaki-glasert hyse",
+  "image": "static/teriyaki-glasert-hyse/teriyaki-glasert-hyse.webp",
   "author": {
     "@type": "Person",
-    "name": "HelloFresh",
-    "url": "https://www.hellofresh.no/recipes/teriyaki-glasert-hyse-65fad1a8aed1d40579f2a5ad"
+    "name": "Eirik Rolland Enger"
   },
-  "image": "https://img.hellofresh.com/f_auto,fl_lossy,h_640,q_auto,w_1200/hellofresh_s3/image/HF_Y23_R23_W16_NO_C14248-2_Main_low-d6f2659b.jpg",
-  "site_name": "HelloFresh",
-  "@context": "https://schema.org",
-  "@type": "Recipe",
-  "recipeCategory": "",
-  "cookTime": 20,
-  "recipeCuisine": "Asiatiske",
-  "publisher": {
-    "@type": "Organization",
-    "name": "hellofresh.com"
-  },
+  "url": "https://www.hellofresh.no/recipes/teriyaki-glasert-hyse-65fad1a8aed1d40579f2a5ad",
+  "datePublished": "2026-01-18",
+  "description": "40 | Enkel",
+  "recipeYield": "2 servings porsjoner",
+  "recipeCategory": "Middag",
+  "keywords": "fisk, hyse, ris, teriyaki-glasert",
   "recipeIngredient": [
     "250 g Hyse",
     "½ stk Sprøstekt løk",
@@ -135,11 +133,11 @@ up:
     },
     {
       "@type": "HowToStep",
-      "text": "I mellomtiden, skjær brokkoli i 2 cm buketter. Skjær stilken i 2 cm biter. Fordel brokkoli på et stekebrett med bakepapir. Krydre med en klype salt og pepper. Drypp over en skvett olivenolje og bland godt. Bak i ovnen i 10-12 min, eller til myke."
+      "text": "I mellomtiden, skjær brokkoli i 2 cm buketter. Skjær stilken i 2 cm biter. Fordel brokkoli på et stekebrett med bakepapir. Krydre med en klype salt og Pepper. Drypp over en skvett olivenolje og bland godt. Bak i ovnen i 10-12 min, eller til myke."
     },
     {
       "@type": "HowToStep",
-      "text": "Imens brokkoli er i ovnen, bland hvetemel [2 ss | 4 ss], salt [1/ 2 ts | 1 ts] og en klype pepper i en dyp tallerken. Tørk fisken lett med kjøkkenpapir. Dypp fisk i melblanding på alle sider, til dekket."
+      "text": "Imens brokkoli er i ovnen, bland hvetemel [2 ss | 4 ss], salt [1/ 2 ts | 1 ts] og en klype Pepper i en dyp tallerken. Tørk fisken lett med kjøkkenpapir. Dypp fisk i melblanding på alle sider, til dekket."
     },
     {
       "@type": "HowToStep",
@@ -153,23 +151,6 @@ up:
       "@type": "HowToStep",
       "text": "Rør opp risen med en gaffel og fordel i dype tallerkener. Legg på brokkoli og hyse. Øs teriyakisaus og lime over fisken. Strø over sprøstekt løk [1/ 2 pakke, 2P] og en klype chiliflak, om ønskelig."
     }
-  ],
-  "inLanguage": "nb-NO",
-  "nutrition": {
-    "@type": "NutritionInformation",
-    "calories": "739 kcal",
-    "fatContent": "23.9 g",
-    "saturatedFatContent": "9.2 g",
-    "carbohydrateContent": "85.8 g",
-    "sugarContent": "12.7 g",
-    "proteinContent": "42 g",
-    "sodiumContent": "0 mg",
-    "servingSize": "429"
-  },
-  "prepTime": 20,
-  "name": "Teriyaki-glasert hyse med ovnsbakt brokkoli og sprøstekt løk",
-  "totalTime": 40,
-  "recipeYield": "2 servings",
-  "pattern": "teriyaki-glasert-hyse-med-ovnsbakt-brokkoli-og-sprostekt-lok"
+  ]
 }
 </script>
