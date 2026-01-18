@@ -19,5 +19,5 @@ permalink: /
 > søkefeltet. Og om du ikke finner den,
 > [foreslå den til meg](https://github.com/engeir/simple-recipes-cookbook/issues/new?assignees=&labels=recipe&template=recipe-request.md&title=%5BRECIPE%5D)!
 
-Eventuelt kan du anmode om at en ny oppskrift legges til via et gaflet lager:
-[[Hvordan bidra]]
+Eventuelt kan du anmode om at en ny oppskrift legges til via et gaflet lager: [[Hvordan
+bidra]]

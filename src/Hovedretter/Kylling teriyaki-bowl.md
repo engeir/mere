@@ -37,9 +37,9 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/kylling-teryaki-bowl-64f9b96e32e9107c6db84da2)
 > er originalt fra [[HelloFresh|Hello Fresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 20 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 20 min | 2           | Enkel                  |
 
 ## Ingredienser
 

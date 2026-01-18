@@ -34,9 +34,9 @@ up:
 > [Denne oppskriften](https://oppskrift.klikk.no/r%C3%B8kelaks-med-avocadokrem/1924/) er
 > originalt fra Klikk.no.
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 25 min | 8            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 25 min | 8           | Enkel                  |
 
 ## Ingredienser
 

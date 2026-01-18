@@ -69,9 +69,7 @@ up:
    varme i 12 min. Skru av varmen og la hvile under lokk i 10 min, eller til vannet er
    absorbert.
 
-   > [!tip]
-   >
-   > Ikke fjern lokket, risen skal dampes.
+   > [!tip] Ikke fjern lokket, risen skal dampes.
 
 2. Grovhakk [[paprika]] (uten frø) og [[pak choi]]. Skjær [[lime]] i båter.
 
@@ -79,9 +77,7 @@ up:
    [[kylling]] i 2-3 min, til brunet. Krydre med en klype [[salt]] og [[pepper]]. Sett
    til side på en tallerken.
 
-   > [!tip]
-   >
-   > Kyllingen blir stekt ferdig i steg 5.
+   > [!tip] Kyllingen blir stekt ferdig i steg 5.
 
 4. Tilsett [[paprika]], [[curry-on]] og [[ga-Laksa]] og stek i 2-3 min.
 
@@ -89,9 +85,7 @@ up:
    putre i 3-4 min. Tilsett [[pak choi]] det siste minuttet. Smak til med [[salt]] og
    [[pepper]].
 
-   > [!tip]
-   >
-   > Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
+   > [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
 
 6. Anrett [[ris]] og kyllinglaksa i dype tallerkener. Server resterende limebåter på
    siden og press en skvett [[Lime|limesaft]] over.

@@ -41,9 +41,9 @@ permalink: vegetarwok-med-kebab-og-ris
 > [Denne oppskriften](https://www.hellofresh.no/recipes/vegetarprotein-i-kung-pao-saus-661f746b019ddbd535c05917)
 > er originalt fra [[HelloFresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 40 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 40 min | 2           | Enkel                  |
 
 ## Ingredienser
 
@@ -74,9 +74,9 @@ permalink: vegetarwok-med-kebab-og-ris
    under lokk til servering. TIPS: Ikke fjern lokket mens risen hviler.
 2. I mellomtiden, skjær [[brokkoli]] i buketter og stilken i 2 cm store biter. Skjær
    [[vårløk]] i tynne skiver.
-3. Varm opp [[olivenolje]] i en stor stekepanne på middels høy varme. Stek
-   [[vegansk kebab]] med [[salt]] og en klype [[Pepper]] i 3-4 min, til brunet. Sett til
-   side på en tallerken.
+3. Varm opp [[olivenolje]] i en stor stekepanne på middels høy varme. Stek [[vegansk
+   kebab]] med [[salt]] og en klype [[Pepper]] i 3-4 min, til brunet. Sett til side på
+   en tallerken.
 4. Varm opp [[olivenolje]] i samme stekepanne på middels høy varme. Stek [[brokkoli]] i
    4-5 min, til myknet. Tilsett [[gulrot]] og stek videre i 1 min. TIPS: Tilsett en
    skvett [[vann]], slik at grønnsakene tilberedes raskere.

@@ -32,9 +32,9 @@ up:
 
 # Laks med mangosalsa
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 40 min | 2 porsjoner  | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 40 min | 2 porsjoner | Enkel                  |
 
 > [!info]
 >
