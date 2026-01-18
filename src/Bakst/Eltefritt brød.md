@@ -32,9 +32,9 @@ up:
 
 ![](Attachments/eltefritt-brod/eltefritt-brod.webp)
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 20 min | 2 brød       | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 20 min | 2 brød      | Enkel                  |
 
 ## Ingredienser
 

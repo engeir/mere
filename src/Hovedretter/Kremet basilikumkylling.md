@@ -40,9 +40,9 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/kremet-basilikumkylling-639ad23c56559efbf08a1baf)
 > er originalt fra [[HelloFresh|Hello Fresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 40 min | 2 servings   | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 40 min | 2 servings  | Enkel                  |
 
 ## Ingredienser
 

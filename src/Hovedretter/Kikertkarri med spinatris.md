@@ -42,9 +42,9 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/krydret-kikertkarri-65f4600c086e015a8358a6af)
 > er originalt fra [[HelloFresh|Hello Fresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 30 min | 2 servings   | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 30 min | 2 servings  | Enkel                  |
 
 ## Ingredienser
 

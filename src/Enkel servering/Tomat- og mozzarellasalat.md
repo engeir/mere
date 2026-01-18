@@ -29,8 +29,8 @@ up:
 ![](Attachments/tomat-og-mozzarellasalat/tomat-og-mozzarellasalat.webp)
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 5 min  | 2            | Enkel                |
+| ----- | ----------- | ---------------------- |
+| 5 min | 2           | Enkel                  |
 
 ## Ingredienser
 

@@ -18,12 +18,12 @@ ingredients:
 
 > [!NOTE]
 >
-> [Denne oppskriften](https://example.com/original-recipe)
-> er originalt fra [[Original Author]].
+> [Denne oppskriften](https://example.com/original-recipe) er originalt fra [[Original
+> Author]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 65 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 65 min | 2           | Enkel                  |
 
 ## Ingredienser
 
