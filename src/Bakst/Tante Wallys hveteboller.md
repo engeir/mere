@@ -20,9 +20,9 @@ up:
 
 # Tante Wallys hveteboller
 
-| ⏲️ Tid  | 🍽️ Porsjoner  | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ------------- | -------------------- |
-| 120 min | ca. 20 boller | Enkel                |
+| ⏲️ Tid   | 🍽️ Porsjoner   | 👨‍🍳 Vanskelighetsgrad |
+| ------- | ------------- | ---------------------- |
+| 120 min | ca. 20 boller | Enkel                  |
 
 ## Ingredienser
 

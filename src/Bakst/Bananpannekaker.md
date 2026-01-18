@@ -16,9 +16,9 @@ up:
 
 # Bananpannekaker
 
-| ⏲️ Tid | 🍽️ Porsjoner      | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ----------------- | -------------------- |
-| 20 min | 12 små pannekaker | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner       | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------------- | ---------------------- |
+| 20 min | 12 små pannekaker | Enkel                  |
 
 ## Ingredienser
 

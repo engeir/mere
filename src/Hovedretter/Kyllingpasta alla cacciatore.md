@@ -41,9 +41,9 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/kyllingpasta-alla-cacciatore-66274e61ad72ee2f0f4bc8f3)
 > er originalt fra [[HelloFresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 50 min | 2 porsjoner  | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 50 min | 2 porsjoner | Enkel                  |
 
 ## Ingredienser
 
