@@ -28,9 +28,9 @@ cover:
 > [Denne oppskriften](https://sulten.app/recipes/studentpaella-anop) er originalt fra
 > [[fattig-student]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 35 min | 2            | Middels              |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 35 min | 2           | Middels                |
 
 ## Ingredienser
 

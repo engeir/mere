@@ -28,9 +28,9 @@ up:
 
 ![](Attachments/bananbrod/bananbrod-banner.webp)
 
-| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ------------ | -------------------- |
-| 45 mins | 2 brød       | Enkel                |
+| ⏲️ Tid   | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------- | ----------- | ---------------------- |
+| 45 mins | 2 brød      | Enkel                  |
 
 ## Ingredienser
 
@@ -56,9 +56,8 @@ up:
 4. Smelt [[smør]] i en liten kjele, hell i [[melk]] og bland det deretter i bollen.
 5. Bland inn mel, [[natron]] og [[bakepulver]] til en jevn og fin røre.
 
-   > [!TIP]
-   >
-   > Tips Hakk f.eks. noe sjokoladebiter eller annet som frister og ha det i brødet.
+   > [!TIP] Tips Hakk f.eks. noe sjokoladebiter eller annet som frister og ha det i
+   > brødet.
 
 6. Hell røren over i en form på ca. 1.5 liter, og sett formen på nederste rille i ovnen
    i omlag 35 min.

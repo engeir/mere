@@ -32,9 +32,9 @@ up:
 >
 > [Originaloppskrift](https://www.detsoteliv.no/oppskrift/dronning-maud-pudding)
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 80 min | 10           | Middels              |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 80 min | 10          | Middels                |
 
 ## Ingredienser
 
@@ -59,12 +59,12 @@ up:
 
 ![](Attachments/dr-maud-fromasj/raspe-sjokolade.webp)-
 
-3. Pisk [[egg]] og [[sukker]] til skikkelig lys og tykk eggedosis (ca 10 min med elektrisk
-   mikser). Det er viktig at du bruker helt ren og tørr bolle og mikser.
+3. Pisk [[egg]] og [[sukker]] til skikkelig lys og tykk eggedosis (ca 10 min med
+   elektrisk mikser). Det er viktig at du bruker helt ren og tørr bolle og mikser.
 4. Mens eggedosisen piskes bløtlegger du gelatinplatene i en bolle kaldt [[vann]].
 5. Når eggedosisen er ferdig pisket, klemmer du vannet godt ut av gelatinplatene og
-   løser dem opp i en kopp med 2 ss [[kokende vann]]. Om gelatinplatene ikke løser seg så
-   godt opp, legg bollen i det varme vannet og rør til du får en fin blanding.
+   løser dem opp i en kopp med 2 ss [[kokende vann]]. Om gelatinplatene ikke løser seg
+   så godt opp, legg bollen i det varme vannet og rør til du får en fin blanding.
 
 ![](Attachments/dr-maud-fromasj/gelatin.webp)-
 
@@ -76,9 +76,9 @@ up:
 
 ![](Attachments/dr-maud-fromasj/bollongvisp-blanding.webp)-
 
-8. Ta frem en stor dessertskål og hell i 1/3 av fromasjen. Dryss over [[sjokolade]]. Hell
-   over 1/3 til av fromasjen og dryss over [[sjokolade]]. Så har du over resten av fromasjen
-   og drysser over resten av sjokoladen til slutt.
+8. Ta frem en stor dessertskål og hell i 1/3 av fromasjen. Dryss over [[sjokolade]].
+   Hell over 1/3 til av fromasjen og dryss over [[sjokolade]]. Så har du over resten av
+   fromasjen og drysser over resten av sjokoladen til slutt.
 9. Sett dessertskålen i kjøleskapet i noen timer eller over natten, til fromasjen har
    stivnet.
 
@@ -89,8 +89,8 @@ up:
 > For å få skikkelig tykk og luftig eggedosis er det viktig at du bruker helt ren og
 > tørr miksebolle og mikser. Fall altså ikke for fristelsen å ikke vaske bollen
 > skikkelig etter at du har pisket kremfløten hvis du bruker det samme utstyret. Selv om
-> du skyller raskt med [[vann]], vil det være et tynt fettlag i bollen etter kremfløten som
-> vil gjøre at eggedosisen ikke blir skikkelig stiv.
+> du skyller raskt med [[vann]], vil det være et tynt fettlag i bollen etter kremfløten
+> som vil gjøre at eggedosisen ikke blir skikkelig stiv.
 
 > [!tip] Tips
 >

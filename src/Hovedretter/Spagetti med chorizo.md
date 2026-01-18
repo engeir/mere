@@ -25,17 +25,17 @@ visibility: hidden
 
 > [!danger]- Før du begynner!
 >
-> Husk at denne retten antar at du har litt (ca. 2 dl) igjen av
-> [[Tomat- og paprika-suppe|tomat– og paprikasuppen]].
+> Husk at denne retten antar at du har litt (ca. 2 dl) igjen av [[Tomat- og
+> paprika-suppe|tomat– og paprikasuppen]].
 
 > [!info]
 >
 > Denne oppskriften er originalt fra
 > [Sulten](https://sulten.app/recipes/spagetti-med-chorizo-egqk).
 
-| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ------------ | -------------------- |
-| 10 mins | 2            | Enkel                |
+| ⏲️ Tid   | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------- | ----------- | ---------------------- |
+| 10 mins | 2           | Enkel                  |
 
 ## Ingredienser
 

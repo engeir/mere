@@ -29,9 +29,9 @@ up:
 
 # Rekewok
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 20 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 20 min | 2           | Enkel                  |
 
 ## Ingredienser
 
