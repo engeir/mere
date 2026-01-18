@@ -1,4 +1,3 @@
-# NOTE: possible to attach image and use that in PR?
 name: Oppskriftsforslag (Norsk)
 description: Foreslå en oppskrift.
 title: "[RECIPE]: "
@@ -52,6 +51,14 @@ body:
       placeholder: f.eks. bananbrod
     validations:
       required: true
+  - type: textarea
+    id: bilde
+    attributes:
+      label: Bilde
+      description: Dra og slipp et bilde av retten her (valgfritt). Bildet blir brukt som forsidebilde.
+      placeholder: Dra og slipp bilde her...
+    validations:
+      required: false
   - type: input
     id: tid
     attributes:
@@ -117,11 +124,10 @@ body:
       label: Kategori
       description: Innen hvilken kategori passer retten?
       options:
-        - hovedrett
-        - enkel-servering
-        - dessert
-        - bakst
-        - drikke
+        - Hovedretter
+        - Dessert
+        - Bakst
+        - Enkel servering
       default: 0
     validations:
       required: true
