@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mere.eirik.re/sitemap.xml.gz
