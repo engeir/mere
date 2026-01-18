@@ -23,9 +23,9 @@ up:
 
 # Mangosalsa
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 15 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 15 min | 2           | Enkel                  |
 
 ## Ingredienser
 

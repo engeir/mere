@@ -31,9 +31,9 @@ permalink: bondelapper
 > [Denne oppskriften](https://norsktradisjonsmat.no/oppskrift/bondelapper-fra-ovre-eiker)
 > er originalt fra [norsk tradisjonsmat](https://norsktradisjonsmat.no).
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 35 min | 8            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 35 min | 8           | Enkel                  |
 
 ## Ingredienser
 

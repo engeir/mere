@@ -34,9 +34,9 @@ ingredients:
 > Denne oppskriften er originalt fra
 > [Sulten](https://sulten.app/recipes/tomat-og-paprikasuppe-med-chorizo-og-fetaost-06f7).
 
-| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ------------ | -------------------- |
-| 35 mins | 2            | Enkel                |
+| ⏲️ Tid   | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------- | ----------- | ---------------------- |
+| 35 mins | 2           | Enkel                  |
 
 ## Ingredienser
 
@@ -74,8 +74,8 @@ ingredients:
 
 > [!success]
 >
-> Har du rester igjen? Perfekt! Da kan du lage
-> [[Spagetti med chorizo|spagetti med Chorizo]]!
+> Har du rester igjen? Perfekt! Da kan du lage [[Spagetti med chorizo|spagetti med
+> Chorizo]]!
 
 <script type="application/ld+json">
 {

@@ -38,9 +38,9 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/char-siu-inspirert-kjottdeig-63ea00c81c9cdaabe476a6c2)
 > er originalt fra [[HelloFresh|Hello Fresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 20 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 20 min | 2           | Enkel                  |
 
 ## Ingredienser
 

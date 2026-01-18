@@ -21,9 +21,9 @@ up:
 
 ![](Attachments/tilbehor/stekt-potet-parmesan.webp)
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 30 min | 2            | Middels              |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 30 min | 2           | Middels                |
 
 ## Ingredienser
 

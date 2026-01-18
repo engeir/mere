@@ -42,9 +42,9 @@ up:
 > [Denne oppskriften](https://www.instagram.com/reel/C5LxtXhKBI0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 > er originalt fra [[dejligbakst]].
 
-| ⏲️ Tid   | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| -------- | ------------ | -------------------- |
-| 120 mins | 15-20 boller | Middels              |
+| ⏲️ Tid    | 🍽️ Porsjoner  | 👨‍🍳 Vanskelighetsgrad |
+| -------- | ------------ | ---------------------- |
+| 120 mins | 15-20 boller | Middels                |
 
 ## Ingredienser
 

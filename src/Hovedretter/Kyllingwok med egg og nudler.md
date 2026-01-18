@@ -30,9 +30,9 @@ up:
 
 # Kyllingwok med egg og nudler
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 20 min | 2 porsjoner  | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 20 min | 2 porsjoner | Enkel                  |
 
 ## Ingredienser
 

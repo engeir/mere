@@ -43,9 +43,9 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/kremet-bacon-tortelloni-64f9b968786cce2df0dfe1ec)
 > er originalt fra [[HelloFresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 30 min | 2 servings   | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 30 min | 2 servings  | Enkel                  |
 
 ## Ingredienser
 
