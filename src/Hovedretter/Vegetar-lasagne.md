@@ -26,9 +26,9 @@ up:
 >
 > [Originaloppskrift](https://www.barilla.com/nn-no/oppskrifter/collezione/barilla-lasagne-med-classicosaus-og-spro-gronnsaker)
 
-| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ------------ | -------------------- |
-| 65 mins | 3            | Enkel                |
+| ⏲️ Tid   | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------- | ----------- | ---------------------- |
+| 65 mins | 3           | Enkel                  |
 
 ## Ingredienser
 

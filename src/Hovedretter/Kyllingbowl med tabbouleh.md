@@ -68,8 +68,8 @@ up:
 
 1. Kok opp en mellomstor kjele med [[vann]] [2,5 dl | 4,5 dl]. Tilsett [[bulgur]],
    [[kyllingbuljong]] og [[salt]] [1/4 ts | 1/2 ts], og senk til middels varme. La putre
-   under lokk i 9-10 min, eller til mør. I mellomtiden, bland [[Kylling]],
-   [[Hello Sunrise]] og [[chiliflak]] i en mellomstor skål.
+   under lokk i 9-10 min, eller til mør. I mellomtiden, bland [[Kylling]], [[Hello
+   Sunrise]] og [[chiliflak]] i en mellomstor skål.
 
 > [!tip] Reduser eller dropp chili, hvis du ikke liker sterk mat.
 
