@@ -37,9 +37,9 @@ up:
 >
 > [Originaloppskrift](https://www.godt.no/oppskrifter/drikke/drinker/1412/roedvinsgloegg)
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 25 min | 4            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 25 min | 4           | Enkel                  |
 
 ## Ingredienser
 

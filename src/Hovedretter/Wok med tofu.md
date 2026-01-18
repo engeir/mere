@@ -41,9 +41,9 @@ up:
 >
 > [Originaloppskrift](https://sulten.app/recipes/wok-med-tofu-nttw)
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 35 min | 1            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 35 min | 1           | Enkel                  |
 
 ## Ingredienser
 

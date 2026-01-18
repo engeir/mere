@@ -35,9 +35,9 @@ up:
 > [Denne oppskriften](https://www.tine.no/oppskrifter/middag-og-hovedretter/supper/fransk-l%C3%B8ksuppe)
 > er originalt fra [[Tine]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 20 min | 1 porsjon    | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 20 min | 1 porsjon   | Enkel                  |
 
 ## Ingredienser
 

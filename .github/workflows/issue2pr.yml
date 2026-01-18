@@ -185,7 +185,7 @@ jobs:
         uses: onmax/issue-form-parser@v1.5
         with:
           issue_number: ${{ github.event.issue.number }}
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
       - name: Install scripts with mise

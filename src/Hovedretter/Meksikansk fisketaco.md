@@ -72,9 +72,7 @@ up:
 3. Varm opp en skvett [[olivenolje]] i en stekepanne på middels høy varme. Stek [[sei]]
    i 2-3 min på hver side.
 
-   > [!tip]
-   >
-   > Fisken er ferdig når kjøttet er melkehvitt og matt.
+   > [!tip] Fisken er ferdig når kjøttet er melkehvitt og matt.
 
 4. Bland [[majones]], [[Ay Cajun-ba]] og en skvett [[vann]] i en liten skål. Bland
    [[tomat]], [[rødløk]], en skvett [[limesaft]] og halvparten av [[korianderen]] i en

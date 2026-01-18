@@ -22,9 +22,9 @@ up:
 
 # Pizzadeig
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 40 min | 6 pizzaer    | Vanskelig            |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 40 min | 6 pizzaer   | Vanskelig              |
 
 ## Ingredienser
 
@@ -38,8 +38,8 @@ up:
 ## Steg
 
 1. Miks 40% av [[tipo 00 mel|melet]] og alt [[vann|vannet]] til en homogen masse. Ha i
-   [[gjær]] og miks i 1 min. Ha i [[salt]], miks 1.5 min. Ha i resten av
-   [[tipo 00 mel|melet]], litt og litt. Når alt er i, kna i 10 min.
+   [[gjær]] og miks i 1 min. Ha i [[salt]], miks 1.5 min. Ha i resten av [[tipo 00
+   mel|melet]], litt og litt. Når alt er i, kna i 10 min.
 2. La deigen hvile i 5 min.
 3. Jobb med deigen til den får en fin, glatt overflate.
 4. La den hvile i kjøleskap i opptil 48 timer.
