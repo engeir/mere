@@ -1,31 +1,39 @@
 ---
-description: "I will show up in the preview in the tags and categories menus"
-tag:
+description: "65 min | Enkel"
+tags:
   - ingredient
+  - rask
 category:
-  - type
+  - Hovedretter
 authors:
-  - name: "The Author"
-    link: "http://example.com/"
-    avatar: ":cook:"
+  - "[[Eirik Rolland Enger]]"
+ingredients:
+  - "[[Pepper]]"
+  - "[[Salt]]"
 ---
 
 # Title
 
-![](https://via.placeholder.com/1280x480)
+![](Attachments/recipe-name/recipe-name.webp)
 
-<!-- dprint-ignore-start -->
+> [!NOTE]
+>
+> [Denne oppskriften](https://example.com/original-recipe)
+> er originalt fra [[Original Author]].
 
-||| :timer_clock: Tid 65 min ||| :knife_fork_plate: Porsjoner 2 ||| :cook:
-Vanskelighetsgrad Medium |||
-
-<!-- dprint-ignore-end -->
+| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ------------ | -------------------- |
+| 65 min | 2            | Enkel                |
 
 ## Ingredienser
 
-- 2 ts pepper
-- ...
+#ingredient
+
+- [x] 2 ts [[Pepper|pepper]]
+- [x] 1 ts [[Salt|salt]]
+- [x] ...
 
 ## Steg
 
 1. Først ...
+2. Deretter ...

@@ -1,5 +1,11 @@
 # Simple Recipes Cookbook
 
+> [!CAUTION]
+>
+> The repo is currently undergoing a heavy re-write from using Retype markdown to using
+> Obsidian markdown with wikilinks. The below instructions are valid for the old Retype
+> version only.
+
 > Obsidian version follows
 > <https://forum.obsidian.md/t/obsidian-as-recipe-manager-and-shopping-list-tutorial/40799/15>
 
