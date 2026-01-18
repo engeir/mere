@@ -106,14 +106,17 @@ class RecipeSchemaGenerator:
         if not schema:
             return False
 
+        # Check if update is needed by comparing schema data (excluding datePublished)
+        existing_schema = self._extract_existing_schema(content)
+        if existing_schema:
+            # Compare without datePublished (it changes daily)
+            new_compare = {k: v for k, v in schema.items() if k != "datePublished"}
+            existing_compare = {k: v for k, v in existing_schema.items() if k != "datePublished"}
+            if new_compare == existing_compare:
+                return False
+
         # Format JSON-LD block
         new_json_ld = self._format_json_ld(schema)
-
-        # Check if update is needed
-        existing_json_ld = self._extract_existing_json_ld(content)
-
-        if existing_json_ld == new_json_ld:
-            return False
 
         if check_only:
             print(f"  Schema needs update: {file_path.name}")
@@ -479,20 +482,16 @@ class RecipeSchemaGenerator:
         json_str = json.dumps(schema, indent=2, ensure_ascii=False)
         return f'<script type="application/ld+json">\n{json_str}\n</script>\n'
 
-    def _extract_existing_json_ld(self, content: str) -> Optional[str]:
-        """Extract existing JSON-LD block from content."""
+    def _extract_existing_schema(self, content: str) -> Optional[dict]:
+        """Extract existing JSON-LD schema as dict from content."""
         match = re.search(
             r'<script type="application/ld\+json">\s*\n(.*?)\n</script>',
             content,
             re.DOTALL,
         )
         if match:
-            # Re-format for comparison (normalize whitespace)
             try:
-                existing_data = json.loads(match.group(1))
-                # Don't compare datePublished (it changes)
-                existing_data.pop("datePublished", None)
-                return json.dumps(existing_data, indent=2, ensure_ascii=False)
+                return json.loads(match.group(1))
             except json.JSONDecodeError:
                 return None
         return None
