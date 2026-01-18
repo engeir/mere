@@ -6,7 +6,8 @@ tags:
   - sunn
 author:
   - "[[fattig-student]]"
-cover: "[[tomat-paprika-suppe.webp]]"
+cover:
+  - Attachments/tomat-og-paprikasuppe/tomat-og-paprikasuppe.webp
 description: 35 min | Enkel
 permalink: tomat-og-paprikasuppe
 ingredients:
@@ -26,7 +27,7 @@ ingredients:
 
 # [[Tomat]]- og paprikasuppe
 
-![[tomat-paprika-suppe.webp]]
+![](Attachments/tomat-og-paprikasuppe/tomat-og-paprikasuppe.webp)
 
 > [!info]
 >

@@ -11,7 +11,7 @@ tags:
 author:
   - "[[HelloFresh]]"
 cover:
-  - kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp
+  - Attachments/kremet-prosciuttopasta/kremet-prosciuttopasta.webp
 description: 25 min | Enkel
 ingredients:
   - "[[Prosciutto]]"
@@ -33,7 +33,7 @@ up:
 
 # Kremet prosciuttopasta
 
-![](Attachments/kremet-prosciuttopasta/kremet-prosciuttopasta-c.webp)
+![](Attachments/kremet-prosciuttopasta/kremet-prosciuttopasta.webp)
 
 > [!info]
 >

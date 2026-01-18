@@ -9,7 +9,8 @@ tags:
   - frisk
 author:
   - "[[Eirik Rolland Enger]]"
-cover: []
+cover:
+  - Attachments/laks-med-mangosalsa/laks-med-mangosalsa.webp
 description: 40 min | Enkel
 ingredients:
   - "[[Laks]]"

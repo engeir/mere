@@ -8,7 +8,8 @@ tags:
   - enkel
 author:
   - "[[Eirik Rolland Enger]]"
-cover: []
+cover:
+  - Attachments/kyllingsalat/kyllingsalat.webp
 description: 20 min | Enkel
 ingredients:
   - "[[Kylling]]"

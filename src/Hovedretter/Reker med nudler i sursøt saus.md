@@ -8,7 +8,7 @@ author:
   - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
-  - Attachments/reker-med-nudler-i-sursøt-saus/reker-med-nudler-i-sursøt-saus.webp
+  - Attachments/reker-med-nudler-i-sursot-saus/reker-med-nudler-i-sursot-saus.webp
 description: 30 | Enkel
 ingredients:
   - "[[Reker]]"
@@ -31,7 +31,7 @@ up:
 
 # Reker med nudler i sursøt saus
 
-![](Attachments/reker-med-nudler-i-sursøt-saus/reker-med-nudler-i-sursøt-saus.webp)
+![](Attachments/reker-med-nudler-i-sursot-saus/reker-med-nudler-i-sursot-saus.webp)
 
 > [!info]
 >

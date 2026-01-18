@@ -7,7 +7,8 @@ tags:
   - vanskelig
 author:
   - "[[Eirik Lingås Johnsen]]"
-cover: []
+cover:
+  - Attachments/pizzadeig/pizzadeig.webp
 description: 40 min | Vanskelig
 ingredients:
   - "[[Tipo 00 mel]]"

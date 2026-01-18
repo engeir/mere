@@ -2,140 +2,135 @@
 id: Kylling i gressløksaus
 aliases: []
 tags:
+  - hovedrett/fløte
   - hovedrett/kylling
   - hovedrett/potet
-author:
-  - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
-  - "[[HelloFresh]]"
+author: "[[HelloFresh]]"
 cover:
-  - Attachments/kylling-i-gressløksaus/kylling-i-gressløksaus.webp
-description: 40 | Enkel
+  - Attachments/kylling-i-gressloksaus/kylling-i-gressloksaus.webp
+description: 30 | Enkel
 ingredients:
-  - "[[Potet]]"
-  - "[[Strimlet kyllingbryst]]"
-  - "[[Chili]]"
-  - "[[Gressløk]]"
-  - "[[Hvitløk]]"
-  - "[[Eple]]"
+  - "[[Kyllingbryst]]"
+  - "[[Potetterninger]]"
   - "[[Kyllingbuljong]]"
-  - "[[Creme fraiche]]"
-  - "[[Rødkål]]"
-  - "[[Spinat]]"
+  - "[[Matfløte]]"
+  - "[[Pære]]"
+  - "[[Ruccola]]"
+  - "[[Gressløk]]"
   - "[[Vann]]"
+  - "[[Melk]]"
   - "[[Salt]]"
+  - "[[Olivenolje]]"
 permalink: kylling-i-gressloksaus
 up:
   - Hovedretter
 ---
 
-# [[Kylling]] i gressløksaus
+# Kylling i gressløksaus
 
-![](Attachments/kylling-i-gressløksaus/kylling-i-gressløksaus.webp)
+![](Attachments/kylling-i-gressloksaus/kylling-i-gressloksaus.webp)
 
 > [!info]
 >
-> [Denne oppskriften](https://www.hellofresh.no/recipes/stekt-kylling-i-kremet-gressloksaus-62e372fb91f7025aa3f94722)
+> [Denne oppskriften](https://www.hellofresh.no/recipes/rask-kylling-i-kremete-gressloksaus-65f8532e1d9f403b835b491f)
 > er originalt fra [[HelloFresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 40     | 2 servings   | Enkel                |
+| Tid | Porsjoner  | Vanskelighetsgrad |
+| --- | ---------- | ----------------- |
+| 30  | 2 servings | Enkel             |
 
 ## Ingredienser
 
 #ingredient
 
-- [x] 500 g [[Potet|poteter]]
-- [x] 300 g [[strimlet kyllingbryst]]
-- [x] 0.5 stk [[Chili|rød chili]]
-- [x] 1 pose [[gressløk]]
-- [x] 1 stk [[hvitløk]]
-- [x] 1 stk [[eple]]
-- [x] 4 g [[kyllingbuljong]]
-- [x] 0.5 pakke [[creme fraiche]]
-- [x] 150 g [[rødkål]]
-- [x] 30 g [[spinat]]
-- [x] 0.5 dl [[vann]]
-- [x] 0.25 ts [[salt]]
+- [x] 300 g [[Kylling|kyllingbryst]]
+- [x] 1 stk [[Potetterninger]], ferdigkokte
+- [x] 4 g [[Kyllingbuljong]]
+- [x] 150 ml [[Fløte|matfløte]]
+- [x] 1 stk [[Pære]]
+- [x] 40 g [[Ruccola]]
+- [x] 1 pose [[Gressløk]]
+- [x] ½ dl [[Vann]] (steg 1)
+- [x] 3 ss [[Melk]] (steg 1)
+- [x] 1 ts [[Salt]] (steg 1)
+- [x] ½ ss [[Olivenolje]] (steg 2)
+- [x] ¼ ts [[Salt]] (steg 2)
+- [x] ½ dl [[Vann]] (steg 3)
+- [x] ¼ ts [[Salt]] (steg 3)
+- [x] ½ ss [[Olivenolje]] (steg 3)
 
 ## Steg
 
-1. Kok opp en mellomstor kjele med lettsaltet [[vann]]. Del [[Potet|poteter]] i to. Kok
-   [[Potet|poteter]] i 10-12 min, eller til de enkelt kan deles med en kniv.
-2. Varm opp en skvett [[olivenolje]] i en stor stekepanne på middels høy varme. Krydre
-   [[kylling]] med en klype [[salt]]. Stek [[kylling]] under omrøring i 4-5 min, til
-   gyllen og gjennomstekt. Sett til side på en tallerken. TIPS: Kyllingen er ferdig når
-   kjøttet er hvitt og uten antydninger av rødt.
-3. Fjern frøene og finhakk [[chili]]. Finhakk [[gressløk]]. Press eller finhakk
-   [[hvitløk]]. Del [[eple]] i to, fjern kjernen og skjær i tynne skiver. Skyll
-   [[spinat]] i et dørslag under kaldt [[vann]].
-4. Varm opp en ny skvett [[olivenolje]] (ved behov) i stekepannen på middels høy varme.
-   Stek [[hvitløk]] og [[chili]] i 1 min. Tilsett [[vann]], [[kyllingbuljong]] og
-   [[salt]]. La putre i 1-2 min. Rør inn [[creme fraiche]], [[gressløk]] (spar litt til
-   pynt) og [[kylling]]. Varm opp i 1 min. Smak til med [[salt]] og [[pepper]]. TIPS:
-   Tilsett en skvett [[vann]] hvis sausen er for tykk.
-5. Bland [[rødkål]] med en klype [[salt]] og [[pepper]] i en skål. Tilsett eventuelt en
-   skvett [[olivenolje]]. Masser i 1 min. Tilsett [[eple]] og bland godt. Hell vannet av
-   kjelen med [[Potet|poteter]] og bland inn [[spinat]]. Smak til med [[salt]] og
-   [[pepper]].
-6. Anrett [[Potet|poteter]] med [[spinat]], [[kylling]] og rødkålsalat på tallerkener.
-   Øs gressløksaus over [[kylling]]. Pynt med resterende [[gressløk]].
+1. Tilsett [[potet]], [[melk]] [1/2 dl | 1 dl], [[vann]] [1/2 dl | 1 dl] og [[salt]] [1
+   ts | 2 ts] i en mellomstor kjele. Kok på middels varme i 5 min. Mos [[potet]] og sett
+   til side under lokk.
+
+> [!tip] Tilsett en klatt smør om ønskelig.
+
+2. Skjær [[kyllingbryst]] i tre skiver på eget skjærebrett. Finhakk [[gressløk]]. Varm
+   opp [[olivenolje]] [1/2 ss | 1 ss] i en stor stekepanne på middels høy varme. Tilsett
+   [[Kylling]] og krydre med [[salt]] [1/4 ts | 1/2 ts]. Stek i 3-4 min per side, eller
+   til brunet og gjennomstekt.
+
+> [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
+
+3. Senk til middels varme, og tilsett [[kyllingbuljong]], [[vann]] [1/2 dl | 1 dl],
+   [[matfløte]] [1/2 pakke, 2P] og [[gressløk]] i pannen. La putre i 1-2 min, til
+   gjennomvarmt. Skyll [[ruccola]]. Halver [[pære]], fjern kjerne og skjær i tynne
+   skiver. Bland [[ruccola]], [[pære]], [[olivenolje]] [1/2 ss | 1 ss] og [[salt]] [1/4
+   ts | 1/2 ts] i en stor skål rett før servering.
+
+4. Anrett [[Kylling]], potetmos og salat på tallerkener. Hell resterende saus over
+   kyllingen.
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Recipe",
-  "name": "Kylling i gressløksaus",
-  "image": "Attachments/kylling-i-gressløksaus/kylling-i-gressløksaus.webp",
+  "name": "Rask kylling i kremete gressløksaus med potetmos og pæresalat",
+  "image": "Attachments/kylling-i-gressloksaus/rask-kylling-i-kremete-gressloksaus-med-potetmos-og-paeresalat.webp",
   "author": {
     "@type": "Person",
-    "name": "Eirik Rolland Enger"
+    "name": "["
   },
-  "url": "https://www.hellofresh.no/recipes/stekt-kylling-i-kremet-gressloksaus-62e372fb91f7025aa3f94722",
+  "url": "https://www.hellofresh.no/recipes/rask-kylling-i-kremete-gressloksaus-65f8532e1d9f403b835b491f",
   "datePublished": "2026-01-18",
-  "description": "40 | Enkel",
-  "recipeYield": "2 servings porsjoner",
+  "description": "30 | Enkel",
   "recipeCategory": "Middag",
-  "keywords": "gressløksaus, kylling, potet",
+  "keywords": "fløte, gressløksaus, kremete, kylling, med, potet, potetmos, pæresalat, rask",
   "recipeIngredient": [
-    "500 g poteter",
-    "300 g strimlet kyllingbryst",
-    "0.5 stk rød chili",
-    "1 pose gressløk",
-    "1 stk hvitløk",
-    "1 stk eple",
-    "4 g kyllingbuljong",
-    "0.5 pakke creme fraiche",
-    "150 g rødkål",
-    "30 g spinat",
-    "0.5 dl vann",
-    "0.25 ts salt"
+    "300 g kyllingbryst",
+    "1 stk Potetterninger, ferdigkokte",
+    "4 g Kyllingbuljong",
+    "150 ml matfløte",
+    "1 stk Pære",
+    "40 g Ruccola",
+    "1 pose Gressløk",
+    "½ dl Vann (steg 1)",
+    "3 ss Melk (steg 1)",
+    "1 ts Salt (steg 1)",
+    "½ ss Olivenolje (steg 2)",
+    "¼ ts Salt (steg 2)",
+    "½ dl Vann (steg 3)",
+    "¼ ts Salt (steg 3)",
+    "½ ss Olivenolje (steg 3)"
   ],
   "recipeInstructions": [
     {
       "@type": "HowToStep",
-      "text": "Kok opp en mellomstor kjele med lettsaltet vann. Del poteter i to. Kok poteter i 10-12 min, eller til de enkelt kan deles med en kniv."
+      "text": "Tilsett potet, melk [1/2 dl | 1 dl], vann [1/2 dl | 1 dl] og salt [1 ts | 2 ts] i en mellomstor kjele. Kok på middels varme i 5 min. Mos potet og sett til side under lokk."
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp en skvett olivenolje i en stor stekepanne på middels høy varme. Krydre kylling med en klype salt. Stek kylling under omrøring i 4-5 min, til gyllen og gjennomstekt. Sett til side på en tallerken. TIPS: Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt."
+      "text": "Skjær kyllingbryst i tre skiver på eget skjærebrett. Finhakk gressløk. Varm opp olivenolje [1/2 ss | 1 ss] i en stor stekepanne på middels høy varme. Tilsett Kylling og krydre med salt [1/4 ts | 1/2 ts]. Stek i 3-4 min per side, eller til brunet og gjennomstekt."
     },
     {
       "@type": "HowToStep",
-      "text": "Fjern frøene og finhakk chili. Finhakk gressløk. Press eller finhakk hvitløk. Del eple i to, fjern kjernen og skjær i tynne skiver. Skyll spinat i et dørslag under kaldt vann."
+      "text": "Senk til middels varme, og tilsett kyllingbuljong, vann [1/2 dl | 1 dl], matfløte [1/2 pakke, 2P] og gressløk i pannen. La putre i 1-2 min, til gjennomvarmt. Skyll ruccola. Halver pære, fjern kjerne og skjær i tynne skiver. Bland ruccola, pære, olivenolje [1/2 ss | 1 ss] og salt [1/4 ts | 1/2 ts] i en stor skål rett før servering."
     },
     {
       "@type": "HowToStep",
-      "text": "Varm opp en ny skvett olivenolje (ved behov) i stekepannen på middels høy varme. Stek hvitløk og chili i 1 min. Tilsett vann, kyllingbuljong og salt. La putre i 1-2 min. Rør inn creme fraiche, gressløk (spar litt til pynt) og kylling. Varm opp i 1 min. Smak til med salt og pepper. TIPS: Tilsett en skvett vann hvis sausen er for tykk."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Bland rødkål med en klype salt og pepper i en skål. Tilsett eventuelt en skvett olivenolje. Masser i 1 min. Tilsett eple og bland godt. Hell vannet av kjelen med poteter og bland inn spinat. Smak til med salt og pepper."
-    },
-    {
-      "@type": "HowToStep",
-      "text": "Anrett poteter med spinat, kylling og rødkålsalat på tallerkener. Øs gressløksaus over kylling. Pynt med resterende gressløk."
+      "text": "Anrett Kylling, potetmos og salat på tallerkener. Hell resterende saus over kyllingen."
     }
   ]
 }

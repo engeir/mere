@@ -9,7 +9,8 @@ tags:
   - sunn
 author:
   - "[[Eirik Rolland Enger]]"
-cover: []
+cover:
+  - Attachments/kyllingwok-med-egg-og-nudler/kyllingwok-med-egg-og-nudler.webp
 description: 20 min | Enkel
 ingredients:
   - "[[Kylling]]"

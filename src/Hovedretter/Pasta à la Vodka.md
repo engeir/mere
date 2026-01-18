@@ -5,7 +5,8 @@ tags:
   - hovedrett/pasta
   - hovedrett/vodka
 author: "[[matlagningmedmammsen]]"
-cover: Attachments/pasta-a-la-vodka.webp
+cover:
+  - Attachments/pasta-a-la-vodka/pasta-a-la-vodka.webp
 description: 65 min | Middels
 ingredients:
   - "[[Hvitløk]]"
@@ -30,7 +31,7 @@ up:
 
 # Pasta à la Vodka
 
-![](Attachments/pasta-a-la-vodka.webp)
+![](Attachments/pasta-a-la-vodka/pasta-a-la-vodka.webp)
 
 | Tid    | Porsjoner | Vanskelighetsgrad |
 | ------ | --------- | ----------------- |

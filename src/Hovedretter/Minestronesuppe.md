@@ -8,7 +8,8 @@ tags:
   - hovedrett/vegansk
   - hovedrett/suppe
 author: "[[Eirik Rolland Enger]]"
-cover: Attachments/minestronesuppe/minestronesuppe.webp
+cover:
+  - Attachments/minestronesuppe/minestronesuppe.webp
 description: 45 min | Enkel
 ingredients:
   - "[[Olivenolje]]"

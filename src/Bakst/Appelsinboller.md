@@ -7,7 +7,7 @@ tags:
 author:
   - "[[dejligbakst]]"
 cover:
-  - appelsinboller/appelsinboller2.webp
+  - Attachments/appelsinboller/appelsinboller2.webp
 description: 120 min | Middels
 ingredients:
   - "[[Safran]]"

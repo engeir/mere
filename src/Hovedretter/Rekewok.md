@@ -11,7 +11,8 @@ tags:
   - sunn
 author:
   - "[[Eirik Rolland Enger]]"
-cover: []
+cover:
+  - Attachments/rekewok/rekewok.webp
 description: 20 min | Enkel
 ingredients:
   - "[[Reker]]"

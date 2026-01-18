@@ -13,7 +13,7 @@ category:
   - HelloFresh
   - hovedrett
 cover:
-  - asiatiske-reketaco/asiatiske-reketaco.webp
+  - Attachments/asiatiske-reketaco/asiatiske-reketaco.webp
 date: 2024-06-23
 description: 40 | Enkel
 ingredients:

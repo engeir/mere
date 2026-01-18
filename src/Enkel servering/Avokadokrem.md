@@ -11,9 +11,15 @@ tags:
 author:
   - "[[Eirik Rolland Enger]]"
 cover:
-  - bondelapper/bondelapper.webp
+  - Attachments/bondelapper/bondelapper.webp
 description: 15 min | Enkel
-ingredients: []
+ingredients:
+  - "[[Avokado]]"
+  - "[[Sitron]]"
+  - "[[Majones]]"
+  - "[[Rømme]]"
+  - "[[Salt]]"
+  - "[[Pepper]]"
 permalink: avokadokrem
 up:
   - Enkel servering
@@ -21,7 +27,7 @@ up:
 
 # Avokadokrem
 
-![](bondelapper/bondelapper.webp)
+![](Attachments/bondelapper/bondelapper.webp)
 
 > [!INFO]
 >
@@ -33,8 +39,6 @@ up:
 | 25 min | 8            | Enkel                |
 
 ## Ingredienser
-
-#ingredient
 
 #ingredient
 

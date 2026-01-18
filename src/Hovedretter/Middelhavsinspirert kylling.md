@@ -7,7 +7,8 @@ tags:
   - hovedrett/kylling
   - hovedrett/sitrus
 author: "[[HelloFresh]]"
-cover: Attachments/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp
+cover:
+  - Attachments/middelhavsinspirert-kylling/middelhavsinspirert-kylling.webp
 description: 25 min | Enkel
 ingredients:
   - "[[Vann]]"

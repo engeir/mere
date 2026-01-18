@@ -10,7 +10,7 @@ tags:
 author:
   - "[[HelloFresh]]"
 cover:
-  - kylling-teriyaki-bowl/kylling-teriyaki-bowl.webp
+  - Attachments/kylling-teriyaki-bowl/kylling-teriyaki-bowl.webp
 description: 20 min | Enkel
 ingredients:
   - "[[Ris|Jasminris]]"

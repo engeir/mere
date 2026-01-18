@@ -6,9 +6,12 @@ tags:
 author:
   - "[[Eirik Rolland Enger]]"
 cover:
-  - tilbehor/stekt-potet-parmesan.webp
+  - Attachments/tilbehor/stekt-potet-parmesan.webp
 description: 30 min | Middels
-ingredients: []
+ingredients:
+  - "[[Potet]]"
+  - "[[Olivenolje]]"
+  - "[[Parmesan]]"
 permalink: ovnsbakte-potetpoteter
 up:
   - Enkel servering
@@ -16,15 +19,13 @@ up:
 
 # Ovnsbakte [[Potet|poteter]]
 
-![](tilbehor/stekt-potet-parmesan.webp)
+![](Attachments/tilbehor/stekt-potet-parmesan.webp)
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
 | 30 min | 2            | Middels              |
 
 ## Ingredienser
-
-#ingredient
 
 #ingredient
 

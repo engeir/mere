@@ -6,7 +6,6 @@ tags:
   - hovedrett/ris
 author:
   - "[[Eirik Rolland Enger]]"
-  - "[[Eirik Rolland Enger]]"
   - "[[HelloFresh]]"
 cover:
   - Attachments/kjottdeigbowl-med-ris/kjottdeigbowl-med-ris.webp

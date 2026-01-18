@@ -11,7 +11,7 @@ tags:
 author:
   - "[[Tine]]"
 cover:
-  - loksuppe.webp
+  - Attachments/loksuppe/loksuppe.webp
 description: 20 min | Enkel
 ingredients:
   - "[[Løk|Gul løk]]"
@@ -28,7 +28,7 @@ up:
 
 # Løksuppe
 
-![](Attachments/loksuppe.webp)
+![](Attachments/loksuppe/loksuppe.webp)
 
 > [!info]
 >

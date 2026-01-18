@@ -13,11 +13,15 @@ ingredients:
 permalink: paella-med-byggryn-og-risotto
 authors:
   - "[[fattig-student]]"
+aliases: []
+id: Paella med byggryn og risotto
+cover:
+  - Attachments/paella-med-byggryn-og-risotto/paella-med-byggryn-og-risotto.webp
 ---
 
 # Paella med [[Byggryn]]
 
-![](/Attachments/risotto-paella.webp)
+![](Attachments/paella-med-byggryn-og-risotto/paella-med-byggryn-og-risotto.webp)
 
 > [!NOTE]
 >
