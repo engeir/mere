@@ -20,9 +20,9 @@ up:
 
 ![](Attachments/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp)
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 60 min | 1 langpanne  | Middels              |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 60 min | 1 langpanne | Middels                |
 
 ## Ingredienser
 

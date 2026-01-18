@@ -30,9 +30,9 @@ up:
 >
 > [Originaloppskrift](https://www.godt.no/oppskrifter/groennsaker/6944/maispure-kremet-mais)
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 15 min | 4            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 15 min | 4           | Enkel                  |
 
 ## Ingredienser
 

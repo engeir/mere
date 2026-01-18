@@ -72,9 +72,7 @@ up:
 3. Varm opp en skvett [[olivenolje]] i en stekepanne på middels høy varme. Stek
    [[Kylling]] i 3-4 min på hver side, eller til gjennomstekt.
 
-   > [!tip]
-   >
-   > Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
+   > [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
 
 4. Finhakk [[basilikum]]. Bland [[tomat]], [[agurk]], [[rødløk]] og en klype [[salt]] og
    [[pepper]] i en skål. Smuldre over gresk [[salatost]] og bland godt. Tilsett evt. en

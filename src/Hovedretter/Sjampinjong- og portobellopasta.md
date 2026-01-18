@@ -39,9 +39,9 @@ up:
 > [Denne oppskriften](https://www.hellofresh.no/recipes/sjampinjong-og-portobellopasta-65fad1af8b3de89f4a7895c8)
 > er originalt fra [[HelloFresh]]
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 30 min | 2 porsjoner  | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 30 min | 2 porsjoner | Enkel                  |
 
 ## Ingredienser
 

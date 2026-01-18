@@ -44,9 +44,9 @@ _Med bang bang-saus og syrlig pico de gallo_
 > [Denne oppskriften](https://www.hellofresh.no/recipes/asiatiske-reketacos-630c98057a1fb716bde08fdb)
 > er originalt fra [[HelloFresh]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 40 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 40 min | 2           | Enkel                  |
 
 ## Ingredienser
 

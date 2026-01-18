@@ -24,9 +24,9 @@ ingredients:
 > [Denne oppskriften](https://sulten.app/recipes/couscous-salat-med-grillet-halloumi-be81)
 > er originalt fra [[fattig-student]].
 
-| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------ | ------------ | -------------------- |
-| 30 min | 2            | Enkel                |
+| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ----------- | ---------------------- |
+| 30 min | 2           | Enkel                  |
 
 ## Ingredienser
 

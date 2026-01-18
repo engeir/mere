@@ -83,9 +83,9 @@ up:
    [1/4 ts | 1/2 ts] i en liten skål. Bland inn [[gulrot]] og sett skålen til side.
 
 3. Varm opp [[olivenolje]] [1/2 ss | 1 ss] i en stor stekepanne på middels høy varme.
-   Tørk [[fisk]] med kjøkkenpapir, og krydre med [[salt]] [1/4 ts | 1/2 ts] og
-   [[Ginger Ninja]] (ikke på skinnsiden). Stek [[fisk]] med skinnsiden ned i 3-5 min.
-   Snu og stek videre i 2-3 min, eller til gylne og gjennomstekte.
+   Tørk [[fisk]] med kjøkkenpapir, og krydre med [[salt]] [1/4 ts | 1/2 ts] og [[Ginger
+   Ninja]] (ikke på skinnsiden). Stek [[fisk]] med skinnsiden ned i 3-5 min. Snu og stek
+   videre i 2-3 min, eller til gylne og gjennomstekte.
 
 > [!tip] Fisken er ferdig når kjøttet er matt.
 
