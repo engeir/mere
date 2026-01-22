@@ -7,7 +7,9 @@ experimental = true
 [tools]
 "jq" = "latest"
 "npm:cwebp-bin" = "latest"
+prettier = "latest"
 rye = "latest"
+taplo = "latest"
 
 [tasks.serve]
 description = "Serve the site locally with Quartz"
@@ -25,10 +27,13 @@ cp quartz.layout.ts .quartz/quartz.layout.ts
 cd .quartz && npx quartz build --serve
 """
 
-[tasks.format]
+[tasks."format:check"]
 description = "Format files"
-run = "prettier --write **/*.md"
-alias = "fmt"
+run = ["prettier --check ." , "taplo format --check"]
+
+[tasks."format:fix"]
+description = "Format files"
+run = ["prettier --write .", "taplo format"]
 
 [tasks."recipe-scrapers:install"]
 description = "Installs recipe-scrapers via rye"

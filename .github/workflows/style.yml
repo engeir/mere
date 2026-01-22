@@ -10,10 +10,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Check with dprint
+      - name: Check formatting
         run: |
-          curl -fsSL https://dprint.dev/install.sh | sh -s 0.45.0 >/dev/null 2>&1
-          "$HOME"/.dprint/bin/dprint check --allow-no-files
+          mise run format:check
   fix-style:
     if: github.event_name == 'pull_request'
     runs-on: ubuntu-latest
@@ -34,10 +33,9 @@ jobs:
         run: |
           mise run thumbnail
           mise run fix
-      - name: Check with dprint
+      - name: Fix formatting
         run: |
-          curl -fsSL https://dprint.dev/install.sh | sh -s 0.45.0 >/dev/null 2>&1
-          "$HOME"/.dprint/bin/dprint fmt --allow-no-files
+          mise run format:fix
       - uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: Apply dprint format changes and thumbnail generation
+          commit_message: Apply formatting changes and thumbnail generation
