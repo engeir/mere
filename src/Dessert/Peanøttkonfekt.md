@@ -49,8 +49,8 @@ up:
 ## Steg
 
 1. Rist kokosmassen gyllen i en tørr stekepanne.
-2. Smelt sammen [[peanøttsmør]], [[sirup]] og [[sukker]] i en kjele over svak varme. Hvis du får tak
-   i finkornet [[sukker]] er det lettere å smelte.
+2. Smelt sammen [[peanøttsmør]], [[sirup]] og [[sukker]] i en kjele over svak varme.
+   Hvis du får tak i finkornet [[sukker]] er det lettere å smelte.
 3. Trekk kjelen av platen og rør inn [[corn flakes]] og [[kokos]].
 4. Kle en langpanne med plastfolie og fordel massen jevnt utover. Tykkelsen bør være ca.
    1 cm. Noe slikt som dette (etter alt er i).

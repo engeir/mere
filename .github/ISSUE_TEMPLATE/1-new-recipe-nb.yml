@@ -47,7 +47,9 @@ body:
     id: filnavn
     attributes:
       label: Filnavn
-      description: Gi et filnavn med bindestrek istedetfor mellomrom, med kun små bokstaver, uten filendelse og uten æ, ø, å.
+      description:
+        Gi et filnavn med bindestrek istedetfor mellomrom, med kun små bokstaver, uten
+        filendelse og uten æ, ø, å.
       placeholder: f.eks. bananbrod
     validations:
       required: true
@@ -55,7 +57,9 @@ body:
     id: bilde
     attributes:
       label: Bilde
-      description: Dra og slipp et bilde av retten her (valgfritt). Bildet blir brukt som forsidebilde.
+      description:
+        Dra og slipp et bilde av retten her (valgfritt). Bildet blir brukt som
+        forsidebilde.
       placeholder: Dra og slipp bilde her...
     validations:
       required: false
@@ -63,7 +67,9 @@ body:
     id: tid
     attributes:
       label: Tid
-      description: Hvor lang tid tar det å lage retten? Svar med tre tider for forberedelse, steketid og total tid. Separer med komma som vist i boksen.
+      description:
+        Hvor lang tid tar det å lage retten? Svar med tre tider for forberedelse,
+        steketid og total tid. Separer med komma som vist i boksen.
       placeholder: 10 min, 35 min, 45 min
     validations:
       required: true
@@ -91,7 +97,8 @@ body:
     id: ingredienser
     attributes:
       label: Ingredienser
-      description: List opp alle ingrediensene, med en ingrediens per linje, som vist under.
+      description:
+        List opp alle ingrediensene, med en ingrediens per linje, som vist under.
       placeholder: |
         275 g hvetemel
         220 g sukker (evt. én Mumiekopp sukker)

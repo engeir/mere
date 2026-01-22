@@ -26,7 +26,7 @@ jobs:
       pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
         with:
           fetch-depth: 2
       # (Optional) GitHub Enterprise requires GHE_HOST variable set
@@ -44,13 +44,13 @@ jobs:
       - name: Detect and tag new version
         id: check-version
         if: steps.check-parent-commit.outputs.sha
-        uses: salsify/action-detect-and-tag-new-version@v2.0.3
+        uses: salsify/action-detect-and-tag-new-version@b1778166f13188a9d478e2d1198f993011ba9864 # v2.0.3
         with:
           version-command: |
             cat current-version.txt
 
       # Drafts your next Release notes as Pull Requests are merged into "master"
-      - uses: release-drafter/release-drafter@v6
+      - uses: release-drafter/release-drafter@6db134d15f3909ccc9eefd369f02bd1e9cffdf97 # v6.2.0
         # (Optional) specify config name to use, relative to .github/. Default: release-drafter.yml
         # with:
         #   config-name: my-config.yml

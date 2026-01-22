@@ -29,7 +29,7 @@ cd .quartz && npx quartz build --serve
 
 [tasks."format:check"]
 description = "Format files"
-run = ["prettier --check ." , "taplo format --check"]
+run = ["prettier --check .", "taplo format --check"]
 
 [tasks."format:fix"]
 description = "Format files"

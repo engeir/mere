@@ -4,13 +4,16 @@ on:
     types: [opened, edited, labeled]
 jobs:
   long-format-issue-to-pr-nb:
-    if: contains(github.event.issue.labels.*.name, 'nb') && contains(github.event.issue.labels.*.name, 'recipe') && contains(github.event.issue.labels.*.name, 'long-format')
+    if:
+      contains(github.event.issue.labels.*.name, 'nb') &&
+      contains(github.event.issue.labels.*.name, 'recipe') &&
+      contains(github.event.issue.labels.*.name, 'long-format')
     permissions:
       contents: write
       pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
       - name: Parse issue
         id: parse
         uses: onmax/issue-form-parser@v1.5
@@ -155,17 +158,20 @@ jobs:
         run: |
           git pull --rebase
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@c5a7806660adbe173f04e3e038b0ccdcd758773c # v6.1.0
         with:
           branch: "${{ fromJson(steps.parse.outputs.payload).Filnavn }}"
           add-paths: |
             ${{ env.FILE_REL_TO_ROOT }}
             src/Attachments/${{ env.FILENAME }}/${{ env.FILENAME }}.webp
           delete-branch: true
-          author: ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{ github.event.issue.user.login }}@users.noreply.github.com>
+          author:
+            ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{
+            github.event.issue.user.login }}@users.noreply.github.com>
           reviewers: ${{ github.repository_owner }}
           assignees: ${{ github.repository_owner }}
-          title: "feat(recipe): ${{ fromJson(steps.parse.outputs.payload).Oppskriftsnavn }}"
+          title:
+            "feat(recipe): ${{ fromJson(steps.parse.outputs.payload).Oppskriftsnavn }}"
           body: |
             :robot: Jeg lagde akkurat en PR for å legge til ${{ fromJson(steps.parse.outputs.payload).Oppskriftsnavn }} på vegne av [@${{ github.event.issue.user.login }}](${{ github.event.issue.user.html_url }}).
 
@@ -173,19 +179,22 @@ jobs:
           labels: |
             recipe
   url-issue-to-pr-nb:
-    if: contains(github.event.issue.labels.*.name, 'nb') && contains(github.event.issue.labels.*.name, 'recipe') && contains(github.event.issue.labels.*.name, 'recipe-scrapers')
+    if:
+      contains(github.event.issue.labels.*.name, 'nb') &&
+      contains(github.event.issue.labels.*.name, 'recipe') &&
+      contains(github.event.issue.labels.*.name, 'recipe-scrapers')
     permissions:
       contents: write
       pull-requests: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4.3.1
       - name: Parse issue
         id: parse
         uses: onmax/issue-form-parser@v1.5
         with:
           issue_number: ${{ github.event.issue.number }}
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
         with:
           python-version: "3.12"
       - name: Install scripts with mise
@@ -351,14 +360,16 @@ jobs:
         run: |
           git pull --rebase
       - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v6
+        uses: peter-evans/create-pull-request@c5a7806660adbe173f04e3e038b0ccdcd758773c # v6.1.0
         with:
           branch: "${{ env.PATTERN }}"
           add-paths: |
             ${{ env.FILE_REL_TO_ROOT }}
             src/Attachments/${{ env.PATTERN }}/${{ env.PATTERN }}.webp
           delete-branch: true
-          author: ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{ github.event.issue.user.login }}@users.noreply.github.com>
+          author:
+            ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{
+            github.event.issue.user.login }}@users.noreply.github.com>
           reviewers: ${{ github.repository_owner }}
           assignees: ${{ github.repository_owner }}
           title: "feat(recipe): ${{ fromJson(env.PARSED).name }}"
