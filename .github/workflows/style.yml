@@ -3,13 +3,17 @@ on:
     branches:
       - main
   pull_request:
-name: dprint check
+name: Check code style
 jobs:
   check-style:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Setup mise
+        uses: jdx/mise-action@v2
+        with:
+          experimental: true
       - name: Check formatting
         run: |
           mise run format:check
