@@ -4,7 +4,10 @@ on:
     types: [opened, edited, labeled]
 jobs:
   long-format-issue-to-pr-nb:
-    if: contains(github.event.issue.labels.*.name, 'nb') && contains(github.event.issue.labels.*.name, 'recipe') && contains(github.event.issue.labels.*.name, 'long-format')
+    if:
+      contains(github.event.issue.labels.*.name, 'nb') &&
+      contains(github.event.issue.labels.*.name, 'recipe') &&
+      contains(github.event.issue.labels.*.name, 'long-format')
     permissions:
       contents: write
       pull-requests: write
@@ -162,10 +165,13 @@ jobs:
             ${{ env.FILE_REL_TO_ROOT }}
             src/Attachments/${{ env.FILENAME }}/${{ env.FILENAME }}.webp
           delete-branch: true
-          author: ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{ github.event.issue.user.login }}@users.noreply.github.com>
+          author:
+            ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{
+            github.event.issue.user.login }}@users.noreply.github.com>
           reviewers: ${{ github.repository_owner }}
           assignees: ${{ github.repository_owner }}
-          title: "feat(recipe): ${{ fromJson(steps.parse.outputs.payload).Oppskriftsnavn }}"
+          title:
+            "feat(recipe): ${{ fromJson(steps.parse.outputs.payload).Oppskriftsnavn }}"
           body: |
             :robot: Jeg lagde akkurat en PR for å legge til ${{ fromJson(steps.parse.outputs.payload).Oppskriftsnavn }} på vegne av [@${{ github.event.issue.user.login }}](${{ github.event.issue.user.html_url }}).
 
@@ -173,7 +179,10 @@ jobs:
           labels: |
             recipe
   url-issue-to-pr-nb:
-    if: contains(github.event.issue.labels.*.name, 'nb') && contains(github.event.issue.labels.*.name, 'recipe') && contains(github.event.issue.labels.*.name, 'recipe-scrapers')
+    if:
+      contains(github.event.issue.labels.*.name, 'nb') &&
+      contains(github.event.issue.labels.*.name, 'recipe') &&
+      contains(github.event.issue.labels.*.name, 'recipe-scrapers')
     permissions:
       contents: write
       pull-requests: write
@@ -358,7 +367,9 @@ jobs:
             ${{ env.FILE_REL_TO_ROOT }}
             src/Attachments/${{ env.PATTERN }}/${{ env.PATTERN }}.webp
           delete-branch: true
-          author: ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{ github.event.issue.user.login }}@users.noreply.github.com>
+          author:
+            ${{ github.event.issue.user.login }} <${{ env.ISSUEUSER_ID }}+${{
+            github.event.issue.user.login }}@users.noreply.github.com>
           reviewers: ${{ github.repository_owner }}
           assignees: ${{ github.repository_owner }}
           title: "feat(recipe): ${{ fromJson(env.PARSED).name }}"

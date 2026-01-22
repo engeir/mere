@@ -24,7 +24,9 @@ body:
     id: bilde
     attributes:
       label: Bilde
-      description: Dra og slipp et bilde av retten her (valgfritt). Bildet blir brukt som forsidebilde.
+      description:
+        Dra og slipp et bilde av retten her (valgfritt). Bildet blir brukt som
+        forsidebilde.
       placeholder: Dra og slipp bilde her...
     validations:
       required: false
