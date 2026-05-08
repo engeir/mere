@@ -1,6 +1,8 @@
 ---
 id: fattig-student
-aliases:
-tags:
+aliases: []
+tags: []
 link: https://sulten.app/fattig-student/
 ---
+
+# fattig-student
