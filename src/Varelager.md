@@ -11,6 +11,8 @@ tags: []
 #ingredient
 
 - [x] Gelatin ^gelatin
+- [x] Gjær ^gjaer
+- [x] Sukker ^sukker
 
 ## Brødvarer
 
@@ -55,6 +57,7 @@ tags: []
 - [x] Mais ^mais
 - [x] Blåbærsyltetøy ^blabaersyltetoy
 - [x] Hapå ^hapa
+- [x] Kapers ^kapers
 - [x] Makrell i tomat ^makrell-i-tomat
 
 ## Hygiene
@@ -63,6 +66,10 @@ tags: []
 
 - [x] Dorens ^dorens
 - [x] Dopapir ^dopapir
+- [ ] Shampoo ^shampoo
+- [x] Tannkrem ^tannkrem
+- [x] Vaskemiddel farget ^vaskemiddel-farget
+- [x] Vaskemiddel ull ^vaskemiddel-ull
 
 ## I fryseren
 
@@ -114,8 +121,11 @@ tags: []
 - [x] Krem ^krem
 - [x] Majones ^majones
 - [x] Ost ^ost
+- [x] Mozzarella ^mozzarella
 - [x] Rømme ^romme
+- [x] Smør ^smor
 - [x] Tofu ^tofu
+- [x] Yoghurt ^yoghurt
 
 ## Snacks
 
@@ -143,7 +153,10 @@ tags: []
 #ingredient
 
 - [x] Kaffe ^kaffe
+- [x] Kaffefilter ^kaffefilter
 - [x] Kardemomme ^kardemomme
+- [x] Matolje ^matolje
+- [x] Olivenolje ^olivenolje
 - [x] [[Safran]] ^safran
 - [x] Soyasaus ^soyasaus
 - [x] Tacosalsa ^tacosalsa
@@ -168,3 +181,4 @@ tags: []
 - [x] Turmat ^turmat
 - [x] Vegansk ^vegansk
 - [x] Vegetar ^vegetar
+- [ ] Om natten er jeg i Kina — Erik Fosnes Hansen
