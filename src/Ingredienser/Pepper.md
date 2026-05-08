@@ -1,6 +1,7 @@
 ---
 permalink: pepper
-aliases: []
+aliases:
+  - pepperet
 id: Pepper
 tags: []
 ---

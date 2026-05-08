@@ -48,7 +48,8 @@ up:
 
 #ingredient
 
-- [x] 4 g [[hvitløksflørt]] (eller hvitløkspulver, persille, rosmarin, timian)
+- [x] 4 g [[hvitløksflørt]] (eller hvitløkspulver, [[Kruspersille|persille]],
+      [[rosmarin]], [[timian]])
 - [x] 150 ml [[Fløte|matfløte]]
 - [x] 300 g [[Kylling|kyllingbryst]]
 - [x] 500 g [[Potet|poteter]]
@@ -63,21 +64,23 @@ up:
 
 ## Steg
 
-1. Kok opp en kjele med saltet vann. Del poteter (uskrellet) i to. Grovhakk basilikum.
-2. Kok poteter i 10-15 min, til møre. Hell av vannet. Krydre med en klype pepper og
-   tilsett eventuelt en klatt smør. Bland godt. Skjær kylling i 3 cm tykke strimler på
-   et eget skjærebrett.
-3. Bland hvitløksflørt og en skvett olivenolje med kylling i en skål. Varm opp en skvett
-   olivenolje i en stekepanne på middels høy varme. Stek kylling i 3-4 min på hver side,
-   til brunet og gjennomstekt. Overfør til en tallerken.
-4. Skjær eple i tynne, halve skiver. Masser spisskål i 30 sek med hendene i en stor
-   skål. Tilsett eventuelt en skvett olivenolje om du ønsker. Tilsett eple, tranebær, en
-   klype salt og pepper og bland godt.
-5. Press eller finhakk hvitløk. Smelt smør med en skvett olivenolje i stekepannen på
-   middels høy varme. Stek hvitløk i 1-2 min. Tilsett matfløte, grønnsaksbuljong og
-   halvparten av basilikum. La putre i 1-2 min. Krydre med salt og en stor klype pepper.
-6. Anrett kokte poteter, kylling og tranebærsalat på tallerkener. Øs over basilikumsaus.
-   Topp med resterende basilikum.
+1. Kok opp en kjele med saltet [[vann]]. Del [[Potet|poteter]] (uskrellet) i to.
+   Grovhakk [[basilikum]].
+2. Kok [[Potet|poteter]] i 10-15 min, til møre. Hell av vannet. Krydre med en klype
+   [[pepper]] og tilsett eventuelt en klatt [[smør]]. Bland godt. Skjær [[kylling]] i 3
+   cm tykke strimler på et eget skjærebrett.
+3. Bland [[hvitløksflørt]] og en skvett [[olivenolje]] med [[kylling]] i en skål. Varm
+   opp en skvett [[olivenolje]] i en stekepanne på middels høy varme. Stek [[kylling]] i
+   3-4 min på hver side, til brunet og gjennomstekt. Overfør til en tallerken.
+4. Skjær [[eple]] i tynne, halve skiver. Masser [[spisskål]] i 30 sek med hendene i en
+   stor skål. Tilsett eventuelt en skvett [[olivenolje]] om du ønsker. Tilsett [[eple]],
+   [[tranebær]], en klype [[salt]] og [[pepper]] og bland godt.
+5. Press eller finhakk [[hvitløk]]. Smelt [[smør]] med en skvett [[olivenolje]] i
+   stekepannen på middels høy varme. Stek [[hvitløk]] i 1-2 min. Tilsett
+   [[Fløte|matfløte]], [[grønnsaksbuljong]] og halvparten av [[basilikum]]. La putre i
+   1-2 min. Krydre med [[salt]] og en stor klype [[pepper]].
+6. Anrett kokte [[Potet|poteter]], [[kylling]] og tranebærsalat på tallerkener. Øs over
+   basilikumsaus. Topp med resterende [[basilikum]].
 
 ## Notater
 

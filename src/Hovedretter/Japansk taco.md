@@ -40,7 +40,7 @@ up:
 > [!info]
 >
 > [Denne oppskriften](https://www.hellofresh.no/recipes/japansk-taco-65e08722acc901eff8e7bf02)
-> er originalt fra [[Hello Fresh]].
+> er originalt fra [[HelloFresh|Hello Fresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

@@ -1,6 +1,8 @@
 ---
 permalink: hakkede-tomater
-aliases: []
+aliases:
+  - Hermetiske tomater
+  - hermetiske tomater
 id: Hakkede tomater
 tags: []
 ---

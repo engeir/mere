@@ -1,6 +1,8 @@
 ---
 permalink: kruspersille
-aliases: []
+aliases:
+  - persille
+  - persillen
 id: Kruspersille
 tags: []
 ---

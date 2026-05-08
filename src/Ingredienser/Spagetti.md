@@ -1,6 +1,8 @@
 ---
 id: spagetti
-aliases: []
+aliases:
+  - Spaghetti
+  - spaghetti
 tags: []
 up:
   - "[[pasta]]"

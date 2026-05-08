@@ -1,6 +1,6 @@
 ---
 id: Gulrot
-aliases: [gulrøtter, gulrøttene]
+aliases: [gulrøtter, gulrøttene, Gulrøtter]
 tags: []
 permalink: gulrot
 ---

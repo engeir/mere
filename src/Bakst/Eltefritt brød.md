@@ -18,7 +18,7 @@ description: 20 min | Enkel
 ingredients:
   - "[[Vann|vann]]"
   - "[[Hvetemel|hvetemel]]"
-  - "[[.5 dl rugmel|.5 dl rugmel]]"
+  - "[[Rugmel|rugmel]]"
   - "[[Sammalt hvete|sammalt hvete]]"
   - "[[Tørrgjær|tørrgjær]]"
   - "[[Salt|salt]]"

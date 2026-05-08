@@ -1,6 +1,8 @@
 ---
 permalink: fetaost
-aliases: []
+aliases:
+  - Feta
+  - feta
 id: Fetaost
 tags: []
 ---

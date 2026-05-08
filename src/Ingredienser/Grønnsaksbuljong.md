@@ -1,6 +1,8 @@
 ---
 permalink: gronnsaksbuljong
-aliases: []
+aliases:
+  - grønsaksbuljong
+  - Grønsaksbuljong
 id: Grønnsaksbuljong
 tags: []
 ---

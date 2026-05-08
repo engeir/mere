@@ -39,7 +39,7 @@ up:
 > [!info]
 >
 > [Denne oppskriften](https://www.hellofresh.no/recipes/gresk-inspirert-laks-65c37bac600bb8e53d7519be)
-> er originalt fra [[Hello Fresh]].
+> er originalt fra [[HelloFresh|Hello Fresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

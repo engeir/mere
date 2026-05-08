@@ -30,7 +30,7 @@ den gikk i forma. Den var ikke helt konge, men smakte helt greit. Man kan nok he
 redusere mengden vann i glasuren ganske mye. Men aller best er det å lage en annen, for
 eksempel
 
-[!ref icon=":cake:"](/dessert/sjokoladekake-med-kaffeglasur.md)
+[[Sjokoladekake med kaffeglasur]]
 
 ![](Attachments/hello-world-kake/hello-world-prep.webp)
 

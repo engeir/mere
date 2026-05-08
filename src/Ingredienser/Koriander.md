@@ -1,6 +1,7 @@
 ---
 permalink: koriander
-aliases: []
+aliases:
+  - korianderen
 id: Koriander
 tags: []
 ---

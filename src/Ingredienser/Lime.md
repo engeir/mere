@@ -1,6 +1,7 @@
 ---
 permalink: lime
-aliases: []
+aliases:
+  - limesaft
 id: Lime
 tags: []
 ---

@@ -1,6 +1,7 @@
 ---
 id: Sitron
-aliases: []
+aliases:
+  - sitronsaft
 tags: []
 permalink: sitron
 ---

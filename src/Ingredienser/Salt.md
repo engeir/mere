@@ -1,6 +1,9 @@
 ---
 id: Salt
-aliases: []
+aliases:
+  - maldonsalt
+  - havsalt
+  - Havsalt
 tags: []
 permalink: salt
 ---

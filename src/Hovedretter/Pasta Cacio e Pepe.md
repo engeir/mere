@@ -55,7 +55,7 @@ up:
 > [!tip] Tilbehør
 >
 > Om du ønsker annet tilbehør ved siden av retten kan en
-> [tomatsalat](/enkel-servering/tomat-salat.md) være et godt alternativ.
+> [[Tomat- og mozzarellasalat|tomatsalat]] være et godt alternativ.
 
 <script type="application/ld+json">
 {

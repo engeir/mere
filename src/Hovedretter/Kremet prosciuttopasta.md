@@ -38,7 +38,7 @@ up:
 > [!info]
 >
 > [Denne oppskriften](https://www.hellofresh.no/recipes/kremet-prosciuttopasta-65f2f3ae1d9f403b835aee24)
-> er originalt fra [[Hello Fresh]].
+> er originalt fra [[HelloFresh|Hello Fresh]].
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
