@@ -14,14 +14,14 @@ ingredients:
   - "[[Reker]]"
   - "[[Basilikum]]"
   - "[[Calabresepesto]]"
-  - "[[Matfløte]]"
+  - "[[Fløte|Matfløte]]"
   - "[[Hvitløksflørt]]"
   - "[[Grønnsaksbuljong]]"
   - "[[Mamas Favoritt]]"
   - "[[Tomat]]"
   - "[[Hvitløk]]"
   - "[[Ris]]"
-  - "[[Chiliflak]]"
+  - "[[Chili|Chiliflak]]"
   - "[[Spinat]]"
   - "[[Salt]]"
   - "[[Vann]]"
@@ -58,7 +58,7 @@ up:
 - [x] 2 stk [[Tomat]]
 - [x] 1 stk [[Hvitløk|hvitløk]]
 - [x] 150 g Langkornet hvit [[Ris]]
-- [x] ½ g [[Chiliflak]]
+- [x] ½ g [[Chili|Chiliflak]]
 - [x] 30 g [[Spinat]]
 - [x] ½ ts [[Salt]] (steg 1)
 - [x] 3 dl [[Vann]] (steg 1)
@@ -77,16 +77,16 @@ up:
 
 > [!tip] Ikke fjern lokket mens risen hviler.
 
-2. I mellomtiden, grovhakk [[tomat]] og [[basilikumblader]]. Skyll [[spinat]].
+2. I mellomtiden, grovhakk [[tomat]] og [[Basilikum|basilikumblader]]. Skyll [[spinat]].
 
 3. Varm opp [[olivenolje]] [1 ss | 2 ss] i en stor stekepanne på middels høy varme.
-   Tilsett [[tomat]], [[Mamas Favoritt]], [[Hvitløksflørt]], [[chiliflak]] [1/2 pakke,
+   Tilsett [[tomat]], [[Mamas Favoritt]], [[Hvitløksflørt]], [[Chili|chiliflak]] [1/2 pakke,
    2P] og [[salt]] [1/2 ts | 1 ts], og stek videre i 2-3 min, til tomatene er myke.
 
 > [!tip] Tilsett chiliflak etter smak - det er sterkt.
 
 4. Krydre [[Reker]] med en klype [[salt]]. Tilsett [[calabresepesto]], [[Reker]],
-   [[matfløte]] [1/2 pakke, 2P], [[grønnsaksbuljong]] og [[vann]] [1 dl | 2 dl] til
+   [[Fløte|matfløte]] [1/2 pakke, 2P], [[grønnsaksbuljong]] og [[vann]] [1 dl | 2 dl] til
    stekepannen. Kok i 3-4 min, eller til sausen har tyknet og rekene er gjennomkokt.
    Smak til med en klype [[salt]] og [[pepper]].
 

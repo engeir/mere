@@ -49,7 +49,7 @@ up:
 - [x] 500 g [[laks]]
 - [x] 2 dl [[ris]]
 - [x] 1 ss [[olivenolje]]
-- [x] 1 ts [[maldonsalt]]
+- [x] 1 ts [[Salt|maldonsalt]]
 - [x] 1 ts hel [[pepper]]
 
 ### Mangosalsa
@@ -73,7 +73,7 @@ up:
 1. Sett ovnen på 200°C, og kok opp lettsaltet vann til [[Ris|risen]].
 2. Pensle/ringle litt [[olivenolje]] på [[laks|laksefiletene]].
 3. Støt [[pepper|pepperen]] grovt i en morter og strø over [[laks|laksen]] sammen med
-   litt [[maldonsalt]].
+   litt [[Salt|maldonsalt]].
 4. Stek [[laks|laksen]] i ovn i omlag 10 minutter til den såvidt faller fra hverandre.
    La heller fisken være litt rå enn for mye stekt.
 5. Kok opp [[ris]].

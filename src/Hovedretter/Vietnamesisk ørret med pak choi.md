@@ -14,7 +14,7 @@ ingredients:
   - "[[Ørret]]"
   - "[[Ris]]"
   - "[[Ginger Ninja]]"
-  - "[[Søt chilisaus]]"
+  - "[[Chilisaus, søt|Søt chilisaus]]"
   - "[[Soyasaus]]"
   - "[[Mynte]]"
   - "[[Koriander]]"
@@ -52,7 +52,7 @@ up:
 - [x] 250 g [[Ørret]]
 - [x] 150 g Langkornet hvit [[Ris]]
 - [x] 5 g [[Ginger Ninja]]
-- [x] 40 g [[Søt chilisaus]]
+- [x] 40 g [[Chilisaus, søt|Søt chilisaus]]
 - [x] 25 ml [[Soyasaus]]
 - [x] 1 pose [[Mynte]] & [[Koriander]]
 - [x] 1 stk [[Pak choi]]
@@ -90,7 +90,7 @@ up:
 > [!tip] Fisken er ferdig når kjøttet er matt.
 
 4. I mellomtiden, grovhakk [[Pak choi]], [[mynte]] og [[Koriander]]. Bland [[soyasaus]],
-   [[søt chilisaus]] og [[vann]] [1 ss | 2 ss] i en liten skål. Senk til lav varme, og
+   [[Chilisaus, søt|søt chilisaus]] og [[vann]] [1 ss | 2 ss] i en liten skål. Senk til lav varme, og
    tilsett soyaglaze når fisken er gjennomstekt. Vend fisken i glaze.
 
 5. Hell av væske fra [[gulrot]] og bland med [[Pak choi]], [[salt]] [1/4 ts | 1/2 ts],

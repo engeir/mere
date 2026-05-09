@@ -20,7 +20,7 @@ ingredients:
   - "[[Hvetemel|hvetemel]]"
   - "[[Rugmel|rugmel]]"
   - "[[Sammalt hvete|sammalt hvete]]"
-  - "[[Tørrgjær|tørrgjær]]"
+  - "[[Gjær|tørrgjær]]"
   - "[[Salt|salt]]"
   - "[[Sirup|sirup]]"
 permalink: eltefritt-brod

@@ -23,7 +23,7 @@ ingredients:
   - "[[Kikerter]]"
   - "[[Spinat]]"
   - "[[Koriander]]"
-  - "[[Chiliflak]]"
+  - "[[Chili|Chiliflak]]"
   - "[[Jasminris]]"
   - "[[Vann]]"
   - "[[Salt]]"
@@ -58,7 +58,7 @@ up:
 - [x] 1 pakke [[kikerter]]
 - [x] 60 g [[spinat]]
 - [x] 1 pose [[Koriander]]
-- [x] ½ g [[chiliflak]]
+- [x] ½ g [[Chili|chiliflak]]
 - [x] 150 g [[Ris|jasminris]]
 - [x] 3 dl [[vann]] (steg 1)
 - [x] ½ ts [[salt]] (steg 1)

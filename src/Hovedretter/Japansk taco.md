@@ -16,11 +16,11 @@ cover:
 description: 30 | Enkel
 ingredients:
   - "[[Hvitløk|hvitløk]]"
-  - "[[Rød chili]]"
+  - "[[Chili|Rød chili]]"
   - "[[majones]]"
   - "[[Woksaus|Asiatisk woksaus]]"
-  - "[[Små tortilla]]"
-  - "[[Strimlet salat]]"
+  - "[[Tortillabrød|Små tortilla]]"
+  - "[[Salat|Strimlet salat]]"
   - "[[Lime]]"
   - "[[Rødløk]]"
   - "[[Ingefær]]"
@@ -51,11 +51,11 @@ up:
 #ingredient
 
 - [x] 1 stk [[Hvitløk|hvitløk]]
-- [x] 1 stk [[rød chili]]
+- [x] 1 stk [[Chili|rød chili]]
 - [x] 50 g [[majones]]
 - [x] 37.5 g [[Woksaus|asiatisk woksaus]]
-- [x] 8 stk [[små tortilla]]
-- [x] 150 g [[strimlet salat]] (kål, savoy, gulrot)
+- [x] 8 stk [[Tortillabrød|små tortilla]]
+- [x] 150 g [[Salat|strimlet salat]] (kål, savoy, gulrot)
 - [x] 1 stk [[Lime]]
 - [x] 1 stk [[rødløk]]
 - [x] 1 stk [[ingefær]]

@@ -12,15 +12,15 @@ ingredients:
   - "[[Pasta]]"
   - "[[Grønnkål]]"
   - "[[Olivenolje]]"
-  - "[[Havsalt]]"
+  - "[[Salt|Havsalt]]"
   - "[[Chili]]"
   - "[[Hvitløk]]"
   - "[[Sjalottløk]]"
   - "[[Rosmarin]]"
-  - "[[Hermetiske tomater]]"
+  - "[[Hakkede tomater|Hermetiske tomater]]"
   - "[[Brunt sukker]]"
   - "[[Sherryeddik]]"
-  - "[[Chilikrydder]]"
+  - "[[Chili|Chilikrydder]]"
 permalink: spicy-pasta-med-gronnkal
 up:
   - Hovedretter
@@ -46,39 +46,39 @@ up:
 - [x] 200 g [[pasta]] tagliatelle
 - [x] 8 stk kvaster [[grønnkål]]
 - [x] 2 ss [[olivenolje]]
-- [x] [[havsalt]]
+- [x] [[Salt|havsalt]]
 - [x] 1 stk [[Chili]]
 - [x] 0,5 stk [[hvitløk]]
 - [x] 1 stk [[sjalottløk]]
 - [x] 1 stk kvast [[rosmarin]]
-- [x] 1 stk boks [[hermetiske tomater]]
+- [x] 1 stk boks [[Hakkede tomater|hermetiske tomater]]
 - [x] 1 ss [[brunt sukker]]
-- [x] 1 ss [[sherry-]] eller eplecidereddik
-- [x] 1 ts [[chilikrydder]]
+- [x] 1 ss [[Sherryeddik]] eller eplecidereddik
+- [x] 1 ts [[Chili|chilikrydder]]
 
 ## Steg
 
 1. Forvarm stekeovnen til 180°C.
 
-2. Kle et stekebrett med bakepapir. Dra bladene av [[grønnkålkvastene]], prøv å få med
-   så lite harde stilker som mulig. Fordel halvparten av [[grønnkålbladene]] på
-   stekebrettet. Dryss [[olivenolje]] og [[havsalt]] over. Stek i 8-10 minutter til
-   [[grønnkålen]] begynner å bli mørkere. Pass på at den ikke blir brent.
+2. Kle et stekebrett med bakepapir. Dra bladene av [[Grønnkål|grønnkålkvastene]], prøv å få med
+   så lite harde stilker som mulig. Fordel halvparten av [[Grønnkål|grønnkålbladene]] på
+   stekebrettet. Dryss [[olivenolje]] og [[Salt|havsalt]] over. Stek i 8-10 minutter til
+   [[Grønnkål|grønnkålen]] begynner å bli mørkere. Pass på at den ikke blir brent.
 
 3. Finhakk [[chipotle]], [[hvitløk]], [[rosmarin]] og [[sjalottløk]]. Varm opp litt mer
    [[olivenolje]] i en panne. Ha i [[chipotle]], [[hvitløk]] og [[sjalottløk]], la surre
    noen minutter. Tilsett [[rosmarin]], la det stå noen minutter til.
 
-4. Hell i [[tomatene]] og la det koke opp. Ha i [[sukker]] og [[eddik]], skru ned varmen
+4. Hell i [[Tomat|tomatene]] og la det koke opp. Ha i [[sukker]] og [[eddik]], skru ned varmen
    og la småkoke i fem min.
 
-5. Kok [[pastaen]] etter anvisning på pakken.
+5. Kok [[Pasta|pastaen]] etter anvisning på pakken.
 
-6. Hakk opp resten av [[grønnkålen]] og ha i. Kok det hele noen minutter til.
+6. Hakk opp resten av [[Grønnkål|grønnkålen]] og ha i. Kok det hele noen minutter til.
 
-7. Sil av pastavannet og vend [[pastaen]] inn i sausen.
+7. Sil av pastavannet og vend [[Pasta|pastaen]] inn i sausen.
 
-8. Server [[pastaen]] i dype skåler — topp med ovnsstekt [[grønnkål]].
+8. Server [[Pasta|pastaen]] i dype skåler — topp med ovnsstekt [[grønnkål]].
 
 <script type="application/ld+json">
 {

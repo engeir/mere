@@ -40,7 +40,7 @@ cover:
 - [x] 1 stk [[løk]]
 - [x] 3 stk [[gulrot]]
 - [x] 400 g [[hakkede tomater]]
-- [x] 1/4 ts [[chilikrydder]]
+- [x] 1/4 ts [[Chili|chilikrydder]]
 - [x] 1/2 stk [[sitron]]
 - [x] 2.5 dl [[vann]]
 - [x] 1/2 stk [[grønnsaksbuljong]]
@@ -58,7 +58,7 @@ cover:
 3. Tilsett [[Byggryn|byggrynet]] og én fjerdedel av grønnsakskraften i stekepannen. La
    [[Byggryn|byggrynet]] absorbere all væsken før du tilsetter en fjeredel til med
    grønnsakskraft. Gjenta til det ikke er noe mer grønnsakskraft igjen.
-4. Tilsett [[hakkede tomater]] og [[chilikrydder]], og gi det et lite oppkok.
+4. Tilsett [[hakkede tomater]] og [[Chili|chilikrydder]], og gi det et lite oppkok.
 5. Tilsett [[torskefilet]] i terninger helt til slutt, og la torsken trekke i cirka 5–10
    minutter. Smak til med [[salt]], [[Pepper]], sitronsaft og finhakket
    [[kruspersille]].

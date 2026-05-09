@@ -7,7 +7,8 @@ har:
 
 # Utforsk
 
-Legg til ingredienser i `har`. Valgfri vekt etter `|` — høyere = mer urgent (standard: 1).
+Legg til ingredienser i `har`. Valgfri vekt etter `|` — høyere = mer urgent (standard:
+1).
 
 ```yaml
 har:

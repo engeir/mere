@@ -21,7 +21,7 @@ ingredients:
   - "[[Rødløk]]"
   - "[[Pak choi]]"
   - "[[Ginger ninja]]"
-  - "[[Chiliflak]]"
+  - "[[Chili|Chiliflak]]"
   - "[[Ingefærpasta]]"
   - "[[Gulrot]]"
 permalink: char-siu-kjottdeig
@@ -54,7 +54,7 @@ up:
 - [x] 1 [[rødløk]]
 - [x] 1 [[Pak choi]]
 - [x] 1 ts [[ginger ninja]]
-- [x] 1 ts [[chiliflak]]
+- [x] 1 ts [[Chili|chiliflak]]
 - [x] 1 ss [[ingefærpasta]]
 - [x] 2 [[gulrot]]
 

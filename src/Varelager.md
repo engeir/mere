@@ -66,7 +66,7 @@ tags: []
 
 - [x] Dorens ^dorens
 - [x] Dopapir ^dopapir
-- [ ] Shampoo ^shampoo
+- [x] Shampoo ^shampoo
 - [x] Tannkrem ^tannkrem
 - [x] Vaskemiddel farget ^vaskemiddel-farget
 - [x] Vaskemiddel ull ^vaskemiddel-ull

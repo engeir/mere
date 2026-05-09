@@ -15,10 +15,10 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Løk]]"
   - "[[Hvitløk]]"
-  - "[[Gulrøtter]]"
-  - "[[Stilkselleri]]"
+  - "[[Gulrot|Gulrøtter]]"
+  - "[[Selleristang|Stilkselleri]]"
   - "[[Paprika]]"
-  - "[[Hermetiske tomater]]"
+  - "[[Hakkede tomater|Hermetiske tomater]]"
   - "[[Grønnsaksbuljong]]"
   - "[[Pasta]]"
   - "[[Kikerter]]"
@@ -46,10 +46,10 @@ up:
 - [x] 2 ss [[olivenolje]]
 - [x] 1 [[løk]]
 - [x] 2 [[Hvitløk]]
-- [x] 2 [[gulrøtter]]
-- [x] 2 [[stilkselleri]]
+- [x] 2 [[Gulrot|gulrøtter]]
+- [x] 2 [[Selleristang|stilkselleri]]
 - [x] 2 [[paprika]]
-- [x] 1 boks [[hermetiske tomater]]
+- [x] 1 boks [[Hakkede tomater|hermetiske tomater]]
 - [x] 1 L / 4 kopper [[grønnsaksbuljong]]
 - [x] 2.5 dl / 1 kopp [[pasta]], f.eks. makaroni
 - [x] 1 boks hermetiske [[kikerter]] eller bønner
@@ -62,12 +62,12 @@ up:
 1. Varm [[olivenolje]] i en stor gryte over middels varme. Tilsett [[løk]] og
    [[hvitløk]], og stek til de er myke og gjenomsiktige i ca. 5 minutter.
 
-2. Tilsett [[gulrøtter]], [[selleri]] og [[paprika]], og la det surre i ca. 5 minutter
+2. Tilsett [[Gulrot|gulrøtter]], [[Selleristang|selleri]] og [[paprika]], og la det surre i ca. 5 minutter
    til grønnsakene er litt myke.
 
 ![](Attachments/minestronesuppe/i-kjelen.webp)
 
-3. Tilsett [[hermetiske tomater]] og [[grønsaksbuljong]]. Kok opp suppen, reduser varmen
+3. Tilsett [[Hakkede tomater|hermetiske tomater]] og [[Grønnsaksbuljong|grønsaksbuljong]]. Kok opp suppen, reduser varmen
    og la det småkoke i hvertfall 10 minutter, avhengig av hvor myke grønnsaker du
    ønsker.
 

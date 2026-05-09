@@ -17,9 +17,9 @@ ingredients:
   - "[[Middelhavsdrøm]]"
   - "[[Couscous]]"
   - "[[Sitron]]"
-  - "[[Kyllingbryst]]"
+  - "[[Kylling|Kyllingbryst]]"
   - "[[Agurk]]"
-  - "[[Feta]]"
+  - "[[Fetaost|Feta]]"
   - "[[Tomat]]"
   - "[[Rødløk]]"
   - "[[Yoghurt]]"
@@ -51,9 +51,9 @@ up:
 - [x] 1 ss [[middelhavsdrøm]]
 - [x] 100 g [[couscous]]
 - [x] 1 stk [[sitron]]
-- [x] 300 g [[kyllingbryst]]
+- [x] 300 g [[Kylling|kyllingbryst]]
 - [x] 1 stk [[agurk]]
-- [x] 100 g [[feta]]
+- [x] 100 g [[Fetaost|feta]]
 - [x] 2 stk [[tomat]]
 - [x] 0.5 [[rødløk]]
 - [x] 75 g [[yoghurt]]
@@ -61,7 +61,7 @@ up:
 ## Steg
 
 1. Finhakk [[tomat]] og [[agurk]]. Skjær [[rødløk]] i tynne skiver. Skjær [[sitron]] i
-   båter. Skjær [[kyllingbryst]] i 3 cm tykke strimler på et eget skjærebrett. Bland
+   båter. Skjær [[Kylling|kyllingbryst]] i 3 cm tykke strimler på et eget skjærebrett. Bland
    [[Kylling]], [[Middelhavsdrøm]], en skvett [[olivenolje]], [[salt]] og en klype
    [[pepper]] i en skål.
 
@@ -79,9 +79,9 @@ up:
 4. Finhakk [[basilikum]]. Bland [[tomat]], [[agurk]], [[rødløk]] og en klype [[salt]] og
    [[pepper]] i en skål. Smuldre over gresk [[salatost]] og bland godt. Tilsett evt. en
    skvett [[olivenolje]] om du ønsker. Bland [[basilikum]], [[olivenolje]], en stor
-   skvett [[sitronsaft]] og en klype [[salt]] og [[pepper]] i en liten skål.
+   skvett [[Sitron|sitronsaft]] og en klype [[salt]] og [[pepper]] i en liten skål.
 
-5. Når [[couscousen]] er ferdig, bland inn en skvett [[sitronsaft]] og en klype [[salt]]
+5. Når [[Couscous|couscousen]] er ferdig, bland inn en skvett [[Sitron|sitronsaft]] og en klype [[salt]]
    og [[pepper]]. Rør med en gaffel.
 
 <script type="application/ld+json">

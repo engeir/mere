@@ -33,7 +33,7 @@ up:
 #ingredient
 
 - [x] 200 g fersk [[pasta]] tagliatelle
-- [x] Ca 1 dl [[kremfløte]] (kan sløyfes)
+- [x] Ca 1 dl [[Fløte|kremfløte]] (kan sløyfes)
 - [x] 50 g vellagret [[Ost]], gjerne Holtefjell
 - [x] 50 g [[parmesan]]
 - [x] 1 ss [[pepper]]
@@ -43,12 +43,12 @@ up:
 
 1. Kok opp godt saltet vann, og varm imens [[pepper]] i en panne.
 
-2. Ha nesten ferdig kokt [[pasta]] med litt pastavann i pannen sammen med [[pepperet]],
-   og ha i [[fløten]] om ønskelig.
+2. Ha nesten ferdig kokt [[pasta]] med litt pastavann i pannen sammen med [[Pepper|pepperet]],
+   og ha i [[Fløte|fløten]] om ønskelig.
 
 3. Rør inn revet [[Ost]] og la blandingen stå til den har en kremet konsistens.
 
-4. Peppre lett og ha eventuelt noen [[basilikumblader]] over før servering.
+4. Peppre lett og ha eventuelt noen [[Basilikum|basilikumblader]] over før servering.
 
 ## Notater
 

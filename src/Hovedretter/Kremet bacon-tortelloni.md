@@ -25,7 +25,7 @@ ingredients:
   - "[[Buljong|Kyllingbuljong]]"
   - "[[Mamas Favoritt]]"
   - "[[Finrevet ost]]"
-  - "[[Chiliflak]]"
+  - "[[Chili|Chiliflak]]"
   - "[[Basilikum]]"
   - "[[Vann]]"
   - "[[Salt]]"
@@ -59,7 +59,7 @@ up:
 - [x] 4 g [[kyllingbuljong]]
 - [x] 4 g [[mamas favoritt]]
 - [x] 20 g [[finrevet ost]]
-- [x] 1 g [[chiliflak]]
+- [x] 1 g [[Chili|chiliflak]]
 - [x] 1 pose [[basilikum]]
 - [x] 1 dl [[vann]] (steg 3)
 - [x] ¼ ts [[salt]] (steg 3)

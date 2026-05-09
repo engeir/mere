@@ -15,7 +15,7 @@ date: 2024-06-23
 description: 40 | Enkel
 ingredients:
   - "[[Brokkoli]]"
-  - "[[Chilisaus]]"
+  - "[[Chilisaus, søt|Chilisaus]]"
   - "[[Gulrot]]"
   - "[[Hoisinsaus]]"
   - "[[Hvetemel]]"

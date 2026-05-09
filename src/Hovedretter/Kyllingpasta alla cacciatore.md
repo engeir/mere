@@ -14,7 +14,7 @@ cover:
 description: 50 | Enkel
 ingredients:
   - "[[Kylling|Kyllingbryst]]"
-  - "[[Spaghetti]]"
+  - "[[Spagetti|Spaghetti]]"
   - "[[Gulrot]]"
   - "[[Løk]]"
   - "[[Tomat|Hakkede tomater]]"
@@ -50,7 +50,7 @@ up:
 #ingredient
 
 - [x] 300 g [[Kylling|strimlet kyllingbryst]]
-- [x] 1 pakke [[spaghetti]]
+- [x] 1 pakke [[Spagetti|spaghetti]]
 - [x] 1 stk [[gulrot]]
 - [x] 1 stk [[løk]]
 - [x] 0.5 pakke [[tomat|hakkede tomater]]
@@ -67,7 +67,7 @@ up:
 
 ## Steg
 
-1. Kok opp en stor kjele med saltet vann. Kok [[spaghetti|pasta]] i 8-9 min, til 'al
+1. Kok opp en stor kjele med saltet vann. Kok [[Spagetti|pasta]] i 8-9 min, til 'al
    dente'. Spar litt pastavann, og hell av resten. Kokevannet skal være like salt som
    sjøvann. 'Al dente' betyr at pastaen er myk med litt tyggemotstand.
 2. I mellomtiden, finhakk [[løk]]. Riv [[gulrot]] (uskrelt) grovt.

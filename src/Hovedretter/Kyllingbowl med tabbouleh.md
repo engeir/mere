@@ -10,9 +10,9 @@ cover:
   - Attachments/kyllingbowl-med-tabbouleh/kyllingbowl-med-tabbouleh.webp
 description: 30 | Enkel
 ingredients:
-  - "[[Kyllingbryst]]"
+  - "[[Kylling|Kyllingbryst]]"
   - "[[Hello Sunrise]]"
-  - "[[Chiliflak]]"
+  - "[[Chili|Chiliflak]]"
   - "[[Bulgur]]"
   - "[[Kyllingbuljong]]"
   - "[[Tranebær]]"
@@ -47,9 +47,9 @@ up:
 
 #ingredient
 
-- [x] 300 g Strimlet [[kyllingbryst]]
+- [x] 300 g Strimlet [[Kylling|kyllingbryst]]
 - [x] 4 g [[Hello Sunrise]]
-- [x] 1 g [[Chiliflak]]
+- [x] 1 g [[Chili|Chiliflak]]
 - [x] 85 g [[Bulgur]]
 - [x] 4 g [[Kyllingbuljong]]
 - [x] 20 g [[Tranebær]]
@@ -69,17 +69,17 @@ up:
 1. Kok opp en mellomstor kjele med [[vann]] [2,5 dl | 4,5 dl]. Tilsett [[bulgur]],
    [[kyllingbuljong]] og [[salt]] [1/4 ts | 1/2 ts], og senk til middels varme. La putre
    under lokk i 9-10 min, eller til mør. I mellomtiden, bland [[Kylling]],
-   [[Hello Sunrise]] og [[chiliflak]] i en mellomstor skål.
+   [[Hello Sunrise]] og [[Chili|chiliflak]] i en mellomstor skål.
 
 > [!tip] Reduser eller dropp chili, hvis du ikke liker sterk mat.
 
-2. Skyll [[spinat]]. Grovhakk [[tomat]], [[persille]] og [[agurk]]. Halver [[sitron]]
+2. Skyll [[spinat]]. Grovhakk [[tomat]], [[Kruspersille|persille]] og [[agurk]]. Halver [[sitron]]
    [1/2 stk, 2P].
 
 3. Varm opp en skvett [[olivenolje]] i en stor stekepanne på middels høy varme. Stek
    [[Kylling]] i 4-5 min, eller til gyllen og gjennomstekt. Snu [[Kylling]] iblant.
-   Bland inn [[agurk]], [[spinat]], [[tomat]], [[persille]], [[salt]] [1/2 ts | 1 ts],
-   [[sitronsaft]] [1 ss | 2 ss], [[olivenolje]] [1 ss | 2 ss] og [[tranebær]] i
+   Bland inn [[agurk]], [[spinat]], [[tomat]], [[Kruspersille|persille]], [[salt]] [1/2 ts | 1 ts],
+   [[Sitron|sitronsaft]] [1 ss | 2 ss], [[olivenolje]] [1 ss | 2 ss] og [[tranebær]] i
    [[bulgur]] rett før servering.
 
 > [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.

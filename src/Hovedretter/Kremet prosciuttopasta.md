@@ -49,7 +49,7 @@ up:
 #ingredient
 
 - [x] 50 g [[prosciutto]]
-- [x] 2 stk [[tomater]]
+- [x] 2 stk [[Tomat|tomater]]
 - [x] 1 klype [[kruspersille]]
 - [x] 1 fedd [[Hvitløk|hvitløk]]
 - [x] 0.5 stk [[agurk]]

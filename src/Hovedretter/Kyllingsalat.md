@@ -13,7 +13,7 @@ cover:
 description: 20 min | Enkel
 ingredients:
   - "[[Kylling]]"
-  - "[[Isbergssalat]]"
+  - "[[Salat|Isbergssalat]]"
   - "[[Ris]]"
   - "[[Paprika]]"
   - "[[Vårløk]]"
@@ -44,7 +44,7 @@ up:
 ### Salat
 
 - [x] 400 g [[Kylling]] (gjerne lår)
-- [x] 1/2 [[isbergssalat]]
+- [x] 1/2 [[Salat|isbergssalat]]
 - [x] 4 dl [[Ris]]
 - [x] 1 [[paprika]]
 - [x] 2 [[vårløk]]
@@ -67,13 +67,13 @@ up:
 1. Kok [[ris]] etter anvisning på pakken.
 2. Stek [[Kylling|kyllingen]] i en panne til den er ferdig stekt, og ha i [[tofu]] mot
    slutten av steketiden. Legg til side for avkjølning.
-3. Finsnitt [[isbergssalat|salat]] og [[vårløk]]. Skjær [[cherrytomater|tomat]],
+3. Finsnitt [[Salat|salat]] og [[vårløk]]. Skjær [[cherrytomater|tomat]],
    [[paprika]] og [[fetaost|ost]] i terninger.
 4. Riv [[Kylling|kyllingen]] og bland sammen med [[ris]] og grønnsaker.
 
 ### Dressing
 
-5. Bland sammen [[Pesto]], [[eddik]], [[olje]] og [[pepper]] til en dressing.
+5. Bland sammen [[Pesto]], [[eddik]], [[Olivenolje|olje]] og [[pepper]] til en dressing.
 6. Bland dressingen inn i salaten og server.
 
 <script type="application/ld+json">

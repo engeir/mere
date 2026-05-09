@@ -10,6 +10,8 @@ This is a recipe cookbook built around **Obsidian** as the primary editing envir
 Publish is a possible but non-primary publishing target. Claude maintains the wiki. The
 human curates sources, asks questions, and guides the analysis.
 
+Use the Obsidian CLI skill when working with the wiki.
+
 ## Workflow
 
 New recipes arrive in `src/raw/` — scraped, imported, or drafted externally. Claude
@@ -17,8 +19,9 @@ reads `src/raw/` but never edits it. After reviewing a raw file, Claude places t
 polished recipe in the correct wiki category under `src/`. All other files in `src/`
 (except `src/raw/`) are Claude's domain to create and edit.
 
-Append an entry to `src/CHANGELOG.md` with the date, source name, and what changed A
-single source may touch 10-15 wiki pages. That is normal.
+Prepend an entry to `src/CHANGELOG.md` with the date, source name, and what changed —
+newest entry goes at the top. A single source may touch 10-15 wiki pages. That is
+normal.
 
 ## Architecture
 
@@ -59,8 +62,8 @@ description: 120 min | Enkel
 
 > [!info]
 >
-> [Denne oppskriften](lenke-til-oppskrift-hvis-noen-finnes)
-> er originalt fra [[dejligbakst]].
+> [Denne oppskriften](lenke-til-oppskrift-hvis-noen-finnes) er originalt fra
+> [[dejligbakst]].
 
 | ⏲️ Tid  | 🍽️ Porsjoner  | 👨‍🍳 Vanskelighetsgrad |
 | ------- | ------------- | -------------------- |
@@ -93,8 +96,8 @@ be reused independently (doughs, creams, sauces, fillings).
 
 ## Lint
 
-When the user asks you to lint or audit the wiki,
-report findings as a numbered list with suggested fixes.
+When the user asks you to lint or audit the wiki, report findings as a numbered list
+with suggested fixes.
 
 `lint` covers three layers:
 
