@@ -51,18 +51,18 @@ up:
 
 1. Forvarm stekeovnen til 180°C.
 
-2. Kle et stekebrett med bakepapir. Dra bladene av [[Grønnkål|grønnkålkvastene]], prøv å få med
-   så lite harde stilker som mulig og fordel [[Grønnkål|grønnkålbladene]] på stekebrettet. Dryss
-   [[olivenolje]] og havsalt over. Stek i 8-10 minutter til [[Grønnkål|grønnkålen]] begynner å
-   bli mørkere. Pass på at den ikke blir brent.
+2. Kle et stekebrett med bakepapir. Dra bladene av [[Grønnkål|grønnkålkvastene]], prøv å
+   få med så lite harde stilker som mulig og fordel [[Grønnkål|grønnkålbladene]] på
+   stekebrettet. Dryss [[olivenolje]] og havsalt over. Stek i 8-10 minutter til
+   [[Grønnkål|grønnkålen]] begynner å bli mørkere. Pass på at den ikke blir brent.
 
-3. Kutt opp [[Potet|poteter]], [[Gulrot|gulrøtter]] og [[sjalottløk]]. Legg det i en ildfast form
-   eller på et stekebrett, dryss over [[salt]], [[pepper]] og [[timian]] og stek midt i
-   ovnen på 200°C i 25 minutter.
+3. Kutt opp [[Potet|poteter]], [[Gulrot|gulrøtter]] og [[sjalottløk]]. Legg det i en
+   ildfast form eller på et stekebrett, dryss over [[salt]], [[pepper]] og [[timian]] og
+   stek midt i ovnen på 200°C i 25 minutter.
 
-4. Brun [[smør]] i en panne og stek [[Nakkekotelett|nakkekotelettene]] i ca. 5 minutter på hver side
-   (husk å krydre med [[salt]] og [[pepper]]). Etter du har skrudd av varmen lar du den
-   fortsette å hvile i panna så den blir gjennomstekt.
+4. Brun [[smør]] i en panne og stek [[Nakkekotelett|nakkekotelettene]] i ca. 5 minutter
+   på hver side (husk å krydre med [[salt]] og [[pepper]]). Etter du har skrudd av
+   varmen lar du den fortsette å hvile i panna så den blir gjennomstekt.
 
 5. Ved servering toppes det med [[fetaost]].
 

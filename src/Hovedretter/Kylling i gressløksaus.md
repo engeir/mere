@@ -67,10 +67,10 @@ up:
 
 > [!tip] Tilsett en klatt smør om ønskelig.
 
-2. Skjær [[Kylling|kyllingbryst]] i tre skiver på eget skjærebrett. Finhakk [[gressløk]]. Varm
-   opp [[olivenolje]] [1/2 ss | 1 ss] i en stor stekepanne på middels høy varme. Tilsett
-   [[Kylling]] og krydre med [[salt]] [1/4 ts | 1/2 ts]. Stek i 3-4 min per side, eller
-   til brunet og gjennomstekt.
+2. Skjær [[Kylling|kyllingbryst]] i tre skiver på eget skjærebrett. Finhakk
+   [[gressløk]]. Varm opp [[olivenolje]] [1/2 ss | 1 ss] i en stor stekepanne på middels
+   høy varme. Tilsett [[Kylling]] og krydre med [[salt]] [1/4 ts | 1/2 ts]. Stek i 3-4
+   min per side, eller til brunet og gjennomstekt.
 
 > [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
 

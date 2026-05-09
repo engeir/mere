@@ -42,7 +42,7 @@ permalink: bondelapper
 - [x] 4 stk kokte poteter
 - [x] 1 ts salt
 - [x] 2 dl [[hvetemel]]
-- [x] 1 stk egg
+- [x] 1 stk [[egg]]
 - [x] 4 dl fløte eller rømme
 
 ## Steg

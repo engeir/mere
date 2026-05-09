@@ -37,7 +37,7 @@ up:
 - 2 ts bakepulver
 - 1 ts salt
 - 9 dl [[hvetemel]]
-- 4 egg
+- 4 [[egg]]
 - 2.5 dl rømme
 
 +++ Glasur
@@ -46,7 +46,7 @@ up:
 - 150 g smeltet smør
 - 2 ts vaniljesukker
 - 4 ss kaffe
-- 1 pisket egg
+- 1 pisket [[egg]]
 - 6 ss kreamfløte
 
 +++
@@ -61,7 +61,7 @@ up:
 - 2 ts bakepulver
 - 4.5 dl vann
 - 1 ts salt
-- 5 egg
+- 5 [[egg]]
 - 2.5 dl rømme
 - 500 g melis
 - 2 ts vaniljesukker

@@ -62,14 +62,14 @@ up:
 1. Varm [[olivenolje]] i en stor gryte over middels varme. Tilsett [[løk]] og
    [[hvitløk]], og stek til de er myke og gjenomsiktige i ca. 5 minutter.
 
-2. Tilsett [[Gulrot|gulrøtter]], [[Selleristang|selleri]] og [[paprika]], og la det surre i ca. 5 minutter
-   til grønnsakene er litt myke.
+2. Tilsett [[Gulrot|gulrøtter]], [[Selleristang|selleri]] og [[paprika]], og la det
+   surre i ca. 5 minutter til grønnsakene er litt myke.
 
 ![](Attachments/minestronesuppe/i-kjelen.webp)
 
-3. Tilsett [[Hakkede tomater|hermetiske tomater]] og [[Grønnsaksbuljong|grønsaksbuljong]]. Kok opp suppen, reduser varmen
-   og la det småkoke i hvertfall 10 minutter, avhengig av hvor myke grønnsaker du
-   ønsker.
+3. Tilsett [[Hakkede tomater|hermetiske tomater]] og
+   [[Grønnsaksbuljong|grønsaksbuljong]]. Kok opp suppen, reduser varmen og la det
+   småkoke i hvertfall 10 minutter, avhengig av hvor myke grønnsaker du ønsker.
 
 4. Tilsett [[pasta]] og hermetiske [[bønner]], og kok suppen videre til pastaen er al
    dente, gjerne 1-2 minutter kortere enn anvist på pakken.

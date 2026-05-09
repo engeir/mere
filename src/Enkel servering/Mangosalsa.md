@@ -11,8 +11,13 @@ author:
 cover: []
 description: 15 min | Enkel
 ingredients:
+  - "[[Mango]]"
+  - "[[Rødløk]]"
+  - "[[Avokado]]"
+  - "[[Chili]]"
   - "[[Olivenolje]]"
   - "[[Hvitvinseddik]]"
+  - "[[Lime]]"
   - "[[Koriander]]"
   - "[[Salt]]"
   - "[[Pepper]]"
@@ -31,15 +36,15 @@ up:
 
 #ingredient
 
-- [x] 1/2 mango
-- [x] 1/2 rødløk
-- [x] 1/2 avokado
-- [x] 1/4 chili
-- [x] 2 ss olivenolje
-- [x] 1 ss hvitvinseddik (ikke så viktig)
-- [x] 1/2 lime
-- [x] litt koriander
-- [x] salt og papper
+- [x] 1/2 [[mango]]
+- [x] 1/2 [[rødløk]]
+- [x] 1/2 [[avokado]]
+- [x] 1/4 [[chili]]
+- [x] 2 ss [[olivenolje]]
+- [x] 1 ss [[hvitvinseddik]] (ikke så viktig)
+- [x] 1/2 [[lime]]
+- [x] litt [[koriander]]
+- [x] [[salt]] og [[pepper]]
 
 ## Steg
 
@@ -73,7 +78,7 @@ up:
     "1 ss hvitvinseddik (ikke så viktig)",
     "1/2 lime",
     "litt koriander",
-    "salt og papper"
+    "salt og pepper"
   ],
   "recipeInstructions": [
     {

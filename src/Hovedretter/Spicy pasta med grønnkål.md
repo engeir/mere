@@ -60,17 +60,18 @@ up:
 
 1. Forvarm stekeovnen til 180°C.
 
-2. Kle et stekebrett med bakepapir. Dra bladene av [[Grønnkål|grønnkålkvastene]], prøv å få med
-   så lite harde stilker som mulig. Fordel halvparten av [[Grønnkål|grønnkålbladene]] på
-   stekebrettet. Dryss [[olivenolje]] og [[Salt|havsalt]] over. Stek i 8-10 minutter til
-   [[Grønnkål|grønnkålen]] begynner å bli mørkere. Pass på at den ikke blir brent.
+2. Kle et stekebrett med bakepapir. Dra bladene av [[Grønnkål|grønnkålkvastene]], prøv å
+   få med så lite harde stilker som mulig. Fordel halvparten av
+   [[Grønnkål|grønnkålbladene]] på stekebrettet. Dryss [[olivenolje]] og
+   [[Salt|havsalt]] over. Stek i 8-10 minutter til [[Grønnkål|grønnkålen]] begynner å
+   bli mørkere. Pass på at den ikke blir brent.
 
 3. Finhakk [[chipotle]], [[hvitløk]], [[rosmarin]] og [[sjalottløk]]. Varm opp litt mer
    [[olivenolje]] i en panne. Ha i [[chipotle]], [[hvitløk]] og [[sjalottløk]], la surre
    noen minutter. Tilsett [[rosmarin]], la det stå noen minutter til.
 
-4. Hell i [[Tomat|tomatene]] og la det koke opp. Ha i [[sukker]] og [[eddik]], skru ned varmen
-   og la småkoke i fem min.
+4. Hell i [[Tomat|tomatene]] og la det koke opp. Ha i [[sukker]] og [[eddik]], skru ned
+   varmen og la småkoke i fem min.
 
 5. Kok [[Pasta|pastaen]] etter anvisning på pakken.
 

@@ -28,7 +28,7 @@ up:
   - Hovedretter
 ---
 
-# Kyllingwok med egg og nudler
+# Kyllingwok med [[egg]] og nudler
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |

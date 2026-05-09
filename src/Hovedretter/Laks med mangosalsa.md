@@ -36,10 +36,6 @@ up:
 | ------ | ------------ | -------------------- |
 | 40 min | 2 porsjoner  | Enkel                |
 
-> [!info]
->
-> Se også oppskriften for [[Mangosalsa]].
-
 ## Ingredienser
 
 ### Laks
@@ -52,19 +48,9 @@ up:
 - [x] 1 ts [[Salt|maldonsalt]]
 - [x] 1 ts hel [[pepper]]
 
-### Mangosalsa
-
-#ingredient
-
-- [x] 1/2 [[mango]]
-- [x] 1/2 [[rødløk]]
-- [x] 1/2 [[avokado]]
-- [x] 1/4 [[chili]]
-- [x] 2 ss [[olivenolje]]
-- [x] 1 ss [[hvitvinseddik]] (ikke så viktig)
-- [x] 1/2 [[lime]]
-- [x] litt [[koriander]]
-- [x] [[salt]] og [[pepper]]
+> [!summary]+ Mangosalsa
+>
+> ![[Mangosalsa#Ingredienser]]
 
 ## Steg
 
@@ -80,9 +66,7 @@ up:
 
 ### Mangosalsa
 
-6. Hakk opp [[mango]], [[rødløk]] og [[avokado]] i små/medium store biter.
-7. Bland alt sammen, men smak til med [[salt]] og [[pepper]].
-8. La gjerne salsaen trekke i 15 minutter før servering.
+![[Mangosalsa#Steg]]
 
 <script type="application/ld+json">
 {

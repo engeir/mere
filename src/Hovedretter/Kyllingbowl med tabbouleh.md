@@ -73,14 +73,14 @@ up:
 
 > [!tip] Reduser eller dropp chili, hvis du ikke liker sterk mat.
 
-2. Skyll [[spinat]]. Grovhakk [[tomat]], [[Kruspersille|persille]] og [[agurk]]. Halver [[sitron]]
-   [1/2 stk, 2P].
+2. Skyll [[spinat]]. Grovhakk [[tomat]], [[Kruspersille|persille]] og [[agurk]]. Halver
+   [[sitron]] [1/2 stk, 2P].
 
 3. Varm opp en skvett [[olivenolje]] i en stor stekepanne på middels høy varme. Stek
    [[Kylling]] i 4-5 min, eller til gyllen og gjennomstekt. Snu [[Kylling]] iblant.
-   Bland inn [[agurk]], [[spinat]], [[tomat]], [[Kruspersille|persille]], [[salt]] [1/2 ts | 1 ts],
-   [[Sitron|sitronsaft]] [1 ss | 2 ss], [[olivenolje]] [1 ss | 2 ss] og [[tranebær]] i
-   [[bulgur]] rett før servering.
+   Bland inn [[agurk]], [[spinat]], [[tomat]], [[Kruspersille|persille]], [[salt]] [1/2
+   ts | 1 ts], [[Sitron|sitronsaft]] [1 ss | 2 ss], [[olivenolje]] [1 ss | 2 ss] og
+   [[tranebær]] i [[bulgur]] rett før servering.
 
 > [!tip] Kyllingen er ferdig når kjøttet er hvitt og uten antydninger av rødt.
 

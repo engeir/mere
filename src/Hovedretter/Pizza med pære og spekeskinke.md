@@ -49,7 +49,8 @@ up:
 2. Legg på [[spinat]], litt [[blåmuggost]] og [[Mozzarella|mozzarellaen]] mot slutten av
    steketiden, så blir osten litt fastere.
 
-3. Når pizzaen er ferdig stekt har du på litt mer [[blåmuggost]] og [[Spekeskinke|spekeskinken]].
+3. Når pizzaen er ferdig stekt har du på litt mer [[blåmuggost]] og
+   [[Spekeskinke|spekeskinken]].
 
 > [!tip] Prøv gjerne å flambere spekeskinken.
 

@@ -67,8 +67,8 @@ up:
 1. Kok [[ris]] etter anvisning på pakken.
 2. Stek [[Kylling|kyllingen]] i en panne til den er ferdig stekt, og ha i [[tofu]] mot
    slutten av steketiden. Legg til side for avkjølning.
-3. Finsnitt [[Salat|salat]] og [[vårløk]]. Skjær [[cherrytomater|tomat]],
-   [[paprika]] og [[fetaost|ost]] i terninger.
+3. Finsnitt [[Salat|salat]] og [[vårløk]]. Skjær [[cherrytomater|tomat]], [[paprika]] og
+   [[fetaost|ost]] i terninger.
 4. Riv [[Kylling|kyllingen]] og bland sammen med [[ris]] og grønnsaker.
 
 ### Dressing

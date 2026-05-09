@@ -90,8 +90,8 @@ up:
 > [!tip] Fisken er ferdig når kjøttet er matt.
 
 4. I mellomtiden, grovhakk [[Pak choi]], [[mynte]] og [[Koriander]]. Bland [[soyasaus]],
-   [[Chilisaus, søt|søt chilisaus]] og [[vann]] [1 ss | 2 ss] i en liten skål. Senk til lav varme, og
-   tilsett soyaglaze når fisken er gjennomstekt. Vend fisken i glaze.
+   [[Chilisaus, søt|søt chilisaus]] og [[vann]] [1 ss | 2 ss] i en liten skål. Senk til
+   lav varme, og tilsett soyaglaze når fisken er gjennomstekt. Vend fisken i glaze.
 
 5. Hell av væske fra [[gulrot]] og bland med [[Pak choi]], [[salt]] [1/4 ts | 1/2 ts],
    [[mynte]] og [[Koriander]] rett før servering. Tilsett en skvett [[olivenolje]] om

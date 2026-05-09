@@ -77,15 +77,16 @@ up:
    > Fisken er ferdig når kjøttet er melkehvitt og matt.
 
 4. Bland [[majones]], [[Ay Cajun-ba]] og en skvett [[vann]] i en liten skål. Bland
-   [[tomat]], [[rødløk]], en skvett [[Lime|limesaft]] og halvparten av [[Koriander|korianderen]] i en
-   skål. Krydre med en klype [[salt]] og [[pepper]].
+   [[tomat]], [[rødløk]], en skvett [[Lime|limesaft]] og halvparten av
+   [[Koriander|korianderen]] i en skål. Krydre med en klype [[salt]] og [[pepper]].
 
-5. Bland [[Salat|strimlet salat]] med en skvett [[Lime|limesaft]] og cajunmajones [1 ss | 2 ss] i
-   en skål. Legg [[tortillabrød]] på en tallerken og varm i mikrobølgeovnen i 30-60 sek,
-   eller pakk [[tortillabrød]] inn i folie og varm i ovnen i 4-5 min.
+5. Bland [[Salat|strimlet salat]] med en skvett [[Lime|limesaft]] og cajunmajones [1 ss
+   | 2 ss] i en skål. Legg [[tortillabrød]] på en tallerken og varm i mikrobølgeovnen i
+   30-60 sek, eller pakk [[tortillabrød]] inn i folie og varm i ovnen i 4-5 min.
 
-6. Smør [[Tortillabrød|tortilla]] med cajunmajones. Fyll hver [[Tortillabrød|tortilla]] med [[salat]], panert
-   [[sei]] og tomatsalat. Topp med [[jalapeño]] og resterende [[Koriander]].
+6. Smør [[Tortillabrød|tortilla]] med cajunmajones. Fyll hver [[Tortillabrød|tortilla]]
+   med [[salat]], panert [[sei]] og tomatsalat. Topp med [[jalapeño]] og resterende
+   [[Koriander]].
 
 <script type="application/ld+json">
 {

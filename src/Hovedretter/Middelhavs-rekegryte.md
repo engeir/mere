@@ -80,14 +80,15 @@ up:
 2. I mellomtiden, grovhakk [[tomat]] og [[Basilikum|basilikumblader]]. Skyll [[spinat]].
 
 3. Varm opp [[olivenolje]] [1 ss | 2 ss] i en stor stekepanne på middels høy varme.
-   Tilsett [[tomat]], [[Mamas Favoritt]], [[Hvitløksflørt]], [[Chili|chiliflak]] [1/2 pakke,
-   2P] og [[salt]] [1/2 ts | 1 ts], og stek videre i 2-3 min, til tomatene er myke.
+   Tilsett [[tomat]], [[Mamas Favoritt]], [[Hvitløksflørt]], [[Chili|chiliflak]] [1/2
+   pakke, 2P] og [[salt]] [1/2 ts | 1 ts], og stek videre i 2-3 min, til tomatene er
+   myke.
 
 > [!tip] Tilsett chiliflak etter smak - det er sterkt.
 
 4. Krydre [[Reker]] med en klype [[salt]]. Tilsett [[calabresepesto]], [[Reker]],
-   [[Fløte|matfløte]] [1/2 pakke, 2P], [[grønnsaksbuljong]] og [[vann]] [1 dl | 2 dl] til
-   stekepannen. Kok i 3-4 min, eller til sausen har tyknet og rekene er gjennomkokt.
+   [[Fløte|matfløte]] [1/2 pakke, 2P], [[grønnsaksbuljong]] og [[vann]] [1 dl | 2 dl]
+   til stekepannen. Kok i 3-4 min, eller til sausen har tyknet og rekene er gjennomkokt.
    Smak til med en klype [[salt]] og [[pepper]].
 
 > [!tip] Rekene er ferdige når de er rosa utenpå og matt i midten.

@@ -7,9 +7,9 @@ lyst:
 
 # Planlegg
 
-Legg til ønskede oppskrifter eller enkeltingredienser i `lyst`, i prioritert
-rekkefølge. Første får høyest vekt, siste får 1. Oppskrifter bidrar med alle sine
-ingredienser; enkeltingredienser brukes direkte.
+Legg til ønskede oppskrifter eller enkeltingredienser i `lyst`, i prioritert rekkefølge.
+Første får høyest vekt, siste får 1. Oppskrifter bidrar med alle sine ingredienser;
+enkeltingredienser brukes direkte.
 
 ```yaml
 lyst:

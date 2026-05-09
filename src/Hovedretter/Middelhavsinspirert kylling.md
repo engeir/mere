@@ -61,8 +61,8 @@ up:
 ## Steg
 
 1. Finhakk [[tomat]] og [[agurk]]. Skjær [[rødløk]] i tynne skiver. Skjær [[sitron]] i
-   båter. Skjær [[Kylling|kyllingbryst]] i 3 cm tykke strimler på et eget skjærebrett. Bland
-   [[Kylling]], [[Middelhavsdrøm]], en skvett [[olivenolje]], [[salt]] og en klype
+   båter. Skjær [[Kylling|kyllingbryst]] i 3 cm tykke strimler på et eget skjærebrett.
+   Bland [[Kylling]], [[Middelhavsdrøm]], en skvett [[olivenolje]], [[salt]] og en klype
    [[pepper]] i en skål.
 
 2. Kok opp en kjele med [[vann]] og [[kyllingbuljong]]. Tilsett [[couscous]] og
@@ -81,8 +81,8 @@ up:
    skvett [[olivenolje]] om du ønsker. Bland [[basilikum]], [[olivenolje]], en stor
    skvett [[Sitron|sitronsaft]] og en klype [[salt]] og [[pepper]] i en liten skål.
 
-5. Når [[Couscous|couscousen]] er ferdig, bland inn en skvett [[Sitron|sitronsaft]] og en klype [[salt]]
-   og [[pepper]]. Rør med en gaffel.
+5. Når [[Couscous|couscousen]] er ferdig, bland inn en skvett [[Sitron|sitronsaft]] og
+   en klype [[salt]] og [[pepper]]. Rør med en gaffel.
 
 <script type="application/ld+json">
 {

@@ -59,7 +59,7 @@ up:
 - [x] 1 stk Bladselleri
 - [x] 1 stk Eple
 - [x] 25 g Brødrasp
-- [x] 1 stk Egg (steg 2)
+- [x] 1 stk [[Egg]] (steg 2)
 - [x] 1 ss Ketchup (steg 2)
 - [x] ½ ts Salt (steg 2)
 - [x] 1 ss Olivenolje (steg 2)
@@ -71,7 +71,7 @@ up:
 1. Kok opp saltet vann i en kjele. Skjær poteter (uskrelt) i 3 cm biter. Kok poteter i
    12-15 min, eller til de lett kan stikkes i med en kniv. Hell ut vannet. Krydre med en
    klype salt og [[Pepper]]. Sett på lokk og sett til side.
-2. Riv løk [1/2 stk, 2P] grovt. Bland kjøttdeig, løk, egg [1 stk | 2 stk], brødrasp,
+2. Riv løk [1/2 stk, 2P] grovt. Bland kjøttdeig, løk, [[egg]] [1 stk | 2 stk], brødrasp,
    ketchup [1 ss | 2 ss] og salt [1/2 ts | 1 ts] i en skål. Varm opp olivenolje [1 ss |
    2 ss] i en stekepanne på middels høy varme. Form hakkebiffer (3 per person) med en
    skje. Legg direkte i pannen. Trykk dem litt flatere. Stek, snu hvert 2-3 min, til

@@ -23,7 +23,7 @@ tags: []
 - [x] 1 appelsiner
 - [x] 0.25 sitron
 - [x] 1 dl / 100 g sukker
-- [x] 1 egg
+- [x] 1 [[egg]]
 - [x] 2 eggeplummer
 - [x] 50 g [[smør]]
 - [x] 1/4 ts salt

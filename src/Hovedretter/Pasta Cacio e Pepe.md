@@ -43,8 +43,8 @@ up:
 
 1. Kok opp godt saltet vann, og varm imens [[pepper]] i en panne.
 
-2. Ha nesten ferdig kokt [[pasta]] med litt pastavann i pannen sammen med [[Pepper|pepperet]],
-   og ha i [[Fløte|fløten]] om ønskelig.
+2. Ha nesten ferdig kokt [[pasta]] med litt pastavann i pannen sammen med
+   [[Pepper|pepperet]], og ha i [[Fløte|fløten]] om ønskelig.
 
 3. Rør inn revet [[Ost]] og la blandingen stå til den har en kremet konsistens.
 
