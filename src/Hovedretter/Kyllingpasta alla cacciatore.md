@@ -28,7 +28,7 @@ ingredients:
   - "[[Sukker]]"
   - "[[Smør]]"
 permalink: kyllingpasta-alla-cacciatore
-up:
+category:
   - Hovedretter
 ---
 

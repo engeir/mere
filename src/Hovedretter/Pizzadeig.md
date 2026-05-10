@@ -16,7 +16,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Gjær|Fersk gjær]]"
 permalink: pizzadeig
-up:
+category:
   - Hovedretter
 ---
 

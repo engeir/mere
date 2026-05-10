@@ -25,7 +25,7 @@ ingredients:
   - "[[Rom]]"
   - "[[Rødvin]]"
 permalink: rodvinsglogg
-up:
+category:
   - Enkel servering
 ---
 
@@ -50,16 +50,16 @@ up:
 
 #ingredient
 
-- 2.5 dl vann
-- 1 dl sukker, kan bruke lys brunt sukker også
-- 1 stk kanelstang
-- 3 stk nellik
-- 1 stk stjerneanis
-- 3 skive(r) ingefær, ta 2-3 ferske skiver
-- 1 stk vaniljestang, kvistet
-- 1 stk appelsin
-- 0.5 - 1 dl rom, her velger du mengde selv
-- 7.5 dl rødvin
+- 2.5 dl [[Vann|vann]]
+- 1 dl [[Sukker|sukker]], kan bruke lys [[Sukker|brunt sukker]] også
+- 1 stk [[Kanelstang|kanelstang]]
+- 3 stk [[Nellik|nellik]]
+- 1 stk [[Stjerneanis|stjerneanis]]
+- 3 skive(r) [[Ingefær|ingefær]], ta 2-3 ferske skiver
+- 1 stk [[Vaniljestang|vaniljestang]], kvistet
+- 1 stk [[Appelsin|appelsin]]
+- 0.5 - 1 dl [[Rom|rom]], her velger du mengde selv
+- 7.5 dl [[Rødvin|rødvin]]
 
 ## Steg
 

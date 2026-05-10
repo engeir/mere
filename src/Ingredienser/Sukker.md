@@ -1,6 +1,8 @@
 ---
 id: Sukker
-aliases: []
+aliases:
+  - Brunt sukker
+  - brunt sukker
 tags: []
 permalink: sukker
 ---

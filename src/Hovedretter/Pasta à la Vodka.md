@@ -25,7 +25,7 @@ ingredients:
   - "[[Chili|Chilipulver]]"
   - "[[Tomatpuré]]"
 permalink: pasta-a-la-vodka
-up:
+category:
   - Hovedretter
 ---
 

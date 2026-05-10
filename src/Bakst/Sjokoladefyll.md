@@ -21,10 +21,10 @@ tags: []
 
 - [x] 100 g [[Sjokolade|mørk sjokolade]]
 - [x] 90 g smeltet [[smør]]
-- [x] 85 g melis
-- [x] 10 g bakekakao
+- [x] 85 g [[Melis|melis]]
+- [x] 10 g [[Bakekakao|bakekakao]]
 - [x] 1 klype havsalt
-- [x] 2 ss saft fra en appelsin
+- [x] 2 ss saft fra en [[Appelsin|appelsin]]
 
 ## Steg
 

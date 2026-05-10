@@ -14,7 +14,7 @@ ingredients:
   - "[[Smør|smør]]"
   - "[[Gjær|gjær]]"
 permalink: tante-wallys-hveteboller
-up:
+category:
   - Hovedretter
 ---
 

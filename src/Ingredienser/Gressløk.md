@@ -3,7 +3,7 @@ permalink: gresslok
 aliases:
   - gressløk
 id: Gressløk
-up:
+parent:
   - "[[Løk]]"
 tags: []
 ---

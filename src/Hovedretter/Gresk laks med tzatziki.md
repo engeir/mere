@@ -28,7 +28,7 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Salt]]"
 permalink: gresk-laks-med-tzatziki
-up:
+category:
   - Hovedretter
 ---
 

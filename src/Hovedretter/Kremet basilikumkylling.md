@@ -26,8 +26,11 @@ ingredients:
   - "[[Tranebær]]"
   - "[[Salt]]"
   - "[[Smør]]"
+  - "[[Kruspersille]]"
+  - "[[Rosmarin]]"
+  - "[[Timian]]"
 permalink: kremet-basilikumkylling
-up:
+category:
   - Hovedretter
 ---
 

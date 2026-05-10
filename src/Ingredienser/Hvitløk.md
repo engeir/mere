@@ -5,7 +5,7 @@ aliases:
   - hvitløksfedd
   - hvitløken
 id: Hvitløk
-up:
+parent:
   - "[[Løk]]"
 tags: []
 ---

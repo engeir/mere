@@ -6,6 +6,34 @@ tags: []
 
 # CHANGELOG
 
+## 2026-05-10 — Ingredient hierarchy, field renames, body wikification (Category B)
+
+- `Planlegg.md`: dataview updated — `score()` now traverses `parent:` and `ingredients:` on ingredient files recursively; searching `[[Pasta]]` finds recipes using `[[Tagliatelle]]`, `[[Rigatoni]]`, `[[Spagetti]]`, `[[Tortelloni]]` etc.
+- All `Ingredienser/` files: renamed `up:` → `parent:` (taxonomic hierarchy)
+- All recipe / other files: renamed `up:` → `category:` (navigation breadcrumb)
+- `Ingredienser/Sukker.md`: added aliases `Brunt sukker` / `brunt sukker`; deleted `Ingredienser/Brunt sukker.md`
+- `Ingredienser/Torsk.md`: added alias `Torskefilet`; deleted `Ingredienser/Torskefilet.md`
+- `Ingredienser/Sopptortelloni.md`: set `ingredients: ["[[Tortelloni]]"]` (product hierarchy, not subtype)
+- `Ingredienser/Tortelloni.md`: added `parent: ["[[Pasta]]"]`
+- `Ingredienser/Spagetti.md`: fixed `[[pasta]]` → `[[Pasta]]` (case)
+- `Dessert/Hello, World!.md`: fixed `category: Hoofdretter` → `category: Dessert`
+- `Dessert/Oreokake.md`: fixed `category: Hoofdretter` → `category: Dessert`
+- `Enkel servering/Rødvinsglogg.md`: fixed nested wikilink bug → `[[Sukker|brunt sukker]]`
+- `Enkel servering/Maisstuing.md`: added `[[Fløte|kremfløte]]` wikilink (compound word)
+- `Hoofdretter/Spicy pasta med grønnkål.md`: `[[Brunt sukker]]` → `[[Sukker|Brunt sukker]]`
+- 21 recipe files (Bakst, Dessert, Enkel servering, Hoofdretter): auto-wikified plain-text ingredient lines
+
+## 2026-05-10 — Audit: fix FM ingredients gaps (Category A)
+
+- `Bakst/Bananpannekaker.md`: populated empty `ingredients` FM (Havregryn, Banan, Egg, Melk)
+- `Bakst/Appelsinboller.md`: added missing `Vann`
+- `Dessert/Sjokoladekake med kaffeglasur.md`: populated empty `ingredients` FM (Egg, Hvetemel)
+- `Kremet basilikumkylling.md`: added missing Kruspersille, Rosmarin, Timian
+- `Kylling teriyaki-bowl.md`: added missing `Vann`
+- `Vegetar-lasagne.md`: populated empty `ingredients` FM (Pepper, Hvetemel)
+- `Paella med byggryn og risotto.md`: updated links to `[[Torsk|Torskefilet]]`; added Hvitløk, Løk, Gulrot, Hakkede tomater, Chili, Sitron, Vann, Grønnsaksbuljong, Kruspersille; deleted `Ingredienser/Torskefilet.md` (merged as alias on `Torsk.md`)
+- `Kikertkarri med spinatris.md`: replaced `[[Jasminris]]` → `[[Ris]]` (body links `[[Ris|jasminris]]`)
+
 ## 2026-05-09 — Lint: Laks med mangosalsa / Mangosalsa
 
 - `Enkel servering/Mangosalsa.md`: added missing wiki-links on all ingredient lines;

@@ -25,7 +25,7 @@ ingredients:
   - "[[Sukker]]"
   - "[[Olivenolje]]"
 permalink: kjottdeigbowl-med-ris
-up:
+category:
   - Hovedretter
 ---
 
@@ -46,21 +46,21 @@ up:
 
 #ingredient
 
-- [x] 1 stk Hvitløk
-- [x] 150 g Jasminris
-- [x] 1 stk Agurk
-- [x] 1 stk Gulrot
-- [x] 1 stk Pak choi
-- [x] 4 g Ga-Laksa
-- [x] 12.5 ml Soyasaus
-- [x] 50 g Svart sesammajones
-- [x] 250 g Svinekjøttdeig
-- [x] ½ ss Olivenolje (steg 1)
-- [x] 3 dl Vann (steg 1)
-- [x] ½ ts Salt (steg 1)
-- [x] ¼ ts Salt (steg 4)
-- [x] 1 ts Sukker (steg 5)
-- [x] ½ ss Olivenolje (steg 3)
+- [x] 1 stk [[Hvitløk]]
+- [x] 150 g [[Jasminris]]
+- [x] 1 stk [[Agurk]]
+- [x] 1 stk [[Gulrot]]
+- [x] 1 stk [[Pak choi]]
+- [x] 4 g [[Ga-Laksa]]
+- [x] 12.5 ml [[Soyasaus]]
+- [x] 50 g [[Svart sesammajones]]
+- [x] 250 g [[Svinekjøttdeig]]
+- [x] ½ ss [[Olivenolje]] (steg 1)
+- [x] 3 dl [[Vann]] (steg 1)
+- [x] ½ ts [[Salt]] (steg 1)
+- [x] ¼ ts [[Salt]] (steg 4)
+- [x] 1 ts [[Sukker]] (steg 5)
+- [x] ½ ss [[Olivenolje]] (steg 3)
 
 ## Steg
 

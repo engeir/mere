@@ -16,7 +16,7 @@ ingredients:
   - "[[Pepper]]"
   - "[[Basilikum]]"
 permalink: pasta-cacio-e-pepe
-up:
+category:
   - Hovedretter
 ---
 

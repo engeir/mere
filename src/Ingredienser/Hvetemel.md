@@ -2,7 +2,7 @@
 id: Hvetemel
 aliases: []
 permalink: hvetemel
-up:
+parent:
   - "[[Mel]]"
 tags: []
 ---

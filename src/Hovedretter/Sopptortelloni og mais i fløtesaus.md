@@ -27,7 +27,7 @@ ingredients:
   - "[[Smør]]"
   - "[[Salt]]"
 permalink: sopptortelloni-og-mais-i-flotesaus
-up:
+category:
   - Hovedretter
 ---
 
@@ -48,19 +48,19 @@ up:
 
 #ingredient
 
-- [x] 2 stk Hvitløk
-- [x] 1 boks Mais
-- [x] 60 g Spinat
-- [x] 4 g Grønnsaksbuljong
+- [x] 2 stk [[Hvitløk]]
+- [x] 1 boks [[Mais]]
+- [x] 60 g [[Spinat]]
+- [x] 4 g [[Grønnsaksbuljong]]
 - [x] ½ g Chiliflak
-- [x] 300 g Sopptortelloni
-- [x] 1 pose Basilikum
-- [x] 40 g Finrevet ost
-- [x] 1 stk Løk
+- [x] 300 g [[Sopptortelloni]]
+- [x] 1 pose [[Basilikum]]
+- [x] 40 g [[Finrevet ost]]
+- [x] 1 stk [[Løk]]
 - [x] 150 ml Matfløte
-- [x] 1 pakke Gresskarkjerner
-- [x] 1 ss Smør (steg 2)
-- [x] ½ ts Salt (steg 3)
+- [x] 1 pakke [[Gresskarkjerner]]
+- [x] 1 ss [[Smør]] (steg 2)
+- [x] ½ ts [[Salt]] (steg 3)
 
 ## Steg
 

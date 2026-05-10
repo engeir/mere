@@ -2,7 +2,7 @@
 permalink: rodlok
 aliases: []
 id: Rødløk
-up:
+parent:
   - "[[Løk]]"
 tags: []
 ---

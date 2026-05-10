@@ -3,7 +3,7 @@ permalink: sprostekt-lok
 aliases:
   - sprøstekt løk
 id: Sprøstekt løk
-up:
+parent:
   - "[[Løk]]"
 tags: []
 ---

@@ -26,7 +26,7 @@ ingredients:
   - "[[Ost|Finrevet ost]]"
   - "[[Olivenolje|Trøffelolje]]"
 permalink: sjampinjong-og-portobellopasta
-up:
+category:
   - Hovedretter
 ---
 
@@ -47,17 +47,17 @@ up:
 
 #ingredient
 
-- [x] 200 g pasta
-- [x] 200 g sjampinjong
-- [x] 150 g portobello
-- [x] 1 neve spinat
-- [x] 1 løk
-- [x] 100 g mornaysaus eller majones
-- [x] 0.5 pakke grønnsaksbuljong
-- [x] 2 fedd hvitløk
-- [x] 25 g panko paneringsmel
-- [x] Gressløk
-- [x] Finrevet ost
+- [x] 200 g [[Pasta|pasta]]
+- [x] 200 g [[Sjampinjong|sjampinjong]]
+- [x] 150 g [[Portobello|portobello]]
+- [x] 1 neve [[Spinat|spinat]]
+- [x] 1 [[Løk|løk]]
+- [x] 100 g mornaysaus eller [[Majones|majones]]
+- [x] 0.5 pakke [[Grønnsaksbuljong|grønnsaksbuljong]]
+- [x] 2 fedd [[Hvitløk|hvitløk]]
+- [x] 25 g [[Panko paneringsmel|panko paneringsmel]]
+- [x] [[Gressløk]]
+- [x] [[Finrevet ost]]
 - [x] Trøffelolje
 
 ## Steg

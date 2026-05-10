@@ -28,7 +28,7 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Smør]]"
 permalink: hakkebiff-med-kremet-soppsaus
-up:
+category:
   - Hovedretter
 ---
 
@@ -49,22 +49,22 @@ up:
 
 #ingredient
 
-- [x] 250 g Kjøttdeig av storfe
-- [x] ½ stk Løk
+- [x] 250 g [[Kjøttdeig]] av storfe
+- [x] ½ stk [[Løk]]
 - [x] 150 ml Matfløte
-- [x] 12.5 ml Soyasaus
-- [x] 200 g Sjampinjong
+- [x] 12.5 ml [[Soyasaus]]
+- [x] 200 g [[Sjampinjong]]
 - [x] 500 g Poteter
-- [x] 1 pose Bladpersille
-- [x] 1 stk Bladselleri
-- [x] 1 stk Eple
-- [x] 25 g Brødrasp
+- [x] 1 pose [[Bladpersille]]
+- [x] 1 stk [[Bladselleri]]
+- [x] 1 stk [[Eple]]
+- [x] 25 g [[Brødrasp]]
 - [x] 1 stk [[Egg]] (steg 2)
-- [x] 1 ss Ketchup (steg 2)
-- [x] ½ ts Salt (steg 2)
-- [x] 1 ss Olivenolje (steg 2)
-- [x] ¼ ts Salt (steg 5)
-- [x] 1 ss Smør (steg 5)
+- [x] 1 ss [[Ketchup]] (steg 2)
+- [x] ½ ts [[Salt]] (steg 2)
+- [x] 1 ss [[Olivenolje]] (steg 2)
+- [x] ¼ ts [[Salt]] (steg 5)
+- [x] 1 ss [[Smør]] (steg 5)
 
 ## Steg
 

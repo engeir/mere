@@ -17,8 +17,8 @@ ingredients:
   - "[[Egg|Eggeplommer]]"
   - "[[Sjokolade|Kokesjokolade]]"
 permalink: oreokake
-up:
-  - Hovedretter
+category:
+  - Dessert
 ---
 
 # Oreokake

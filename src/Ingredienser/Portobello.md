@@ -3,7 +3,7 @@ permalink: portobello
 aliases:
   - portobello sopp
 id: Portobello
-up:
+parent:
   - "[[Sopp]]"
 tags: []
 ---

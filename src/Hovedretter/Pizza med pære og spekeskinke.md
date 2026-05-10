@@ -19,7 +19,7 @@ ingredients:
   - "[[Blåmuggost]]"
   - "[[Spinat]]"
 permalink: pizza-med-paere-og-spekeskinke
-up:
+category:
   - Hovedretter
 ---
 

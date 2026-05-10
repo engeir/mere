@@ -12,9 +12,11 @@ author:
 cover:
   - Attachments/vegetar-lasagne/vegetar-lasagne.webp
 description: 65 min | Enkel
-ingredients: []
+ingredients:
+  - "[[Pepper]]"
+  - "[[Hvetemel]]"
 permalink: vegetar-lasagne
-up:
+category:
   - Hovedretter
 ---
 

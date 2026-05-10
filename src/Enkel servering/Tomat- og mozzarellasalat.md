@@ -20,7 +20,7 @@ ingredients:
   - "[[Pepper]]"
   - "[[Olivenolje]]"
 permalink: tomat-og-mozzarellasalat
-up:
+category:
   - Enkel servering
 ---
 
@@ -37,9 +37,9 @@ up:
 #ingredient
 
 - [x] 2 store eller en håndfull små tomater
-- [x] 2 mozzarella
-- [x] basilikum
-- [x] salt og papper
+- [x] 2 [[Mozzarella|mozzarella]]
+- [x] [[Basilikum|basilikum]]
+- [x] [[Salt|salt]] og papper
 - [x] litt olje
 
 ## Steg

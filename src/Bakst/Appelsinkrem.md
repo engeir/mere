@@ -21,16 +21,16 @@ tags: []
 #ingredient
 
 - [x] 1 appelsiner
-- [x] 0.25 sitron
-- [x] 1 dl / 100 g sukker
+- [x] 0.25 [[Sitron|sitron]]
+- [x] 1 dl / 100 g [[Sukker|sukker]]
 - [x] 1 [[egg]]
 - [x] 2 eggeplummer
 - [x] 50 g [[smør]]
-- [x] 1/4 ts salt
-- [x] 1 dl saft fra en appelsin
-- [x] 1 ss saft fra en sitron
-- [x] 1 ss maisstivelse
-- [x] 0.5 ts vaniljeekstrakt eller 0.5 stk vaniljestang
+- [x] 1/4 ts [[Salt|salt]]
+- [x] 1 dl saft fra en [[Appelsin|appelsin]]
+- [x] 1 ss saft fra en [[Sitron|sitron]]
+- [x] 1 ss [[Maisstivelse|maisstivelse]]
+- [x] 0.5 ts [[Vaniljeekstrakt|vaniljeekstrakt]] eller 0.5 stk [[Vaniljestang|vaniljestang]]
 
 ## Steg
 

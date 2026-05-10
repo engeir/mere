@@ -28,8 +28,9 @@ ingredients:
   - "[[Sukker]]"
   - "[[Vaniljeekstrakt]]"
   - "[[Vaniljestang]]"
+  - "[[Vann]]"
 permalink: appelsinboller
-up:
+category:
   - Bakst
 ---
 

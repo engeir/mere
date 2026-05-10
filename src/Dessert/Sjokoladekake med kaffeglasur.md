@@ -10,9 +10,11 @@ author:
 cover:
   - Attachments/sjokoladekake-med-kaffeglasur/sjokoladekake-med-kaffeglasur.webp
 description: 60 min | Middels
-ingredients: []
+ingredients:
+  - "[[Egg]]"
+  - "[[Hvetemel]]"
 permalink: sjokoladakake-med-kaffeglasur
-up:
+category:
   - Bakst
 ---
 

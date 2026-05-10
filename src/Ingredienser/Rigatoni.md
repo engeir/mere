@@ -3,7 +3,7 @@ permalink: rigatoni
 aliases:
   - rigatoni pasta
 id: Rigatoni
-up:
+parent:
   - "[[Pasta]]"
 tags: []
 ---

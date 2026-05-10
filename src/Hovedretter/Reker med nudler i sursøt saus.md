@@ -25,7 +25,7 @@ ingredients:
   - "[[Løk]]"
   - "[[Salt]]"
 permalink: reker-med-nudler-i-sursot-saus
-up:
+category:
   - Hovedretter
 ---
 
@@ -46,19 +46,19 @@ up:
 
 #ingredient
 
-- [x] 150 g Reker
+- [x] 150 g [[Reker]]
 - [x] 80 g Søt chilisaus
-- [x] 50 ml Soyasaus
-- [x] 150 g Udon nudler
-- [x] 200 g Wokblanding
-- [x] 12 ml Hvitvinseddik
-- [x] 1 stk Hvitløk
-- [x] 20 g Saltede peanøtter
+- [x] 50 ml [[Soyasaus]]
+- [x] 150 g [[Udon nudler]]
+- [x] 200 g [[Wokblanding]]
+- [x] 12 ml [[Hvitvinseddik]]
+- [x] 1 stk [[Hvitløk]]
+- [x] 20 g [[Saltede peanøtter]]
 - [x] 1 g Chiliflak
-- [x] 1 stk Vårløk
-- [x] 10 g Sesamfrø
-- [x] 1 stk Løk
-- [x] ¼ ts Salt (steg 3)
+- [x] 1 stk [[Vårløk]]
+- [x] 10 g [[Sesamfrø]]
+- [x] 1 stk [[Løk]]
+- [x] ¼ ts [[Salt]] (steg 3)
 
 ## Steg
 

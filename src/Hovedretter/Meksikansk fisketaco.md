@@ -24,7 +24,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Hvetemel]]"
 permalink: meksikansk-fisketaco
-up:
+category:
   - Hovedretter
 ---
 

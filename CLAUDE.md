@@ -3,6 +3,8 @@
 This file provides guidance to Claude Code (claude.ai/code) when working with code in
 this repository.
 
+For any file search or grep in the current git-indexed directory, use fff tools.
+
 ## Project Overview
 
 This is a recipe cookbook built around **Obsidian** as the primary editing environment.

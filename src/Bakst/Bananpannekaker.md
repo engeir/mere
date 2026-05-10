@@ -8,9 +8,13 @@ author:
   - "[[Eirik Rolland Enger]]"
 cover: []
 description: 20 min | Enkel
-ingredients: []
+ingredients:
+  - "[[Havregryn]]"
+  - "[[Banan]]"
+  - "[[Egg]]"
+  - "[[Melk]]"
 permalink: bananpannekaker
-up:
+category:
   - Hovedretter
 ---
 

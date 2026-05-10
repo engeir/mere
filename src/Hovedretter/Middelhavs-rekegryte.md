@@ -27,7 +27,7 @@ ingredients:
   - "[[Vann]]"
   - "[[Olivenolje]]"
 permalink: middelhavs-rekegryte
-up:
+category:
   - Hovedretter
 ---
 

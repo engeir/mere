@@ -3,7 +3,7 @@ permalink: sjampinjong
 aliases:
   - sjampinjong
 id: Sjampinjong
-up:
+parent:
   - "[[Sopp]]"
 tags: []
 ---

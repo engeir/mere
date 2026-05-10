@@ -3,7 +3,7 @@ permalink: creme-fraiche
 aliases:
   - creme fraiche
 id: Creme fraiche
-up:
+parent:
   - "[[Rømme]]"
 tags: []
 ---

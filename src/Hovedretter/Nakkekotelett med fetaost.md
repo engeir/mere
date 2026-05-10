@@ -22,7 +22,7 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Smør]]"
 permalink: nakkekotelett-med-fetaost
-up:
+category:
   - Hovedretter
 ---
 

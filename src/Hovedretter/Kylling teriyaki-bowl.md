@@ -23,8 +23,9 @@ ingredients:
   - "[[Hvitløk]]"
   - "[[Smør]]"
   - "[[Majones]]"
+  - "[[Vann]]"
 permalink: kylling-teriyaki-bowl
-up:
+category:
   - Hovedretter
 ---
 

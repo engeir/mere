@@ -21,7 +21,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Pepper]]"
 permalink: avokadokrem
-up:
+category:
   - Enkel servering
 ---
 
@@ -42,11 +42,11 @@ up:
 
 #ingredient
 
-- [x] 2 stk avokado
-- [x] 1/2 stk saften av sitron (eller 2x så mange lime)
-- [x] 100 g majones
-- [x] 1 dl rømme
-- [x] salt
+- [x] 2 stk [[Avokado|avokado]]
+- [x] 1/2 stk saften av [[Sitron|sitron]] (eller 2x så mange [[Lime|lime]])
+- [x] 100 g [[Majones|majones]]
+- [x] 1 dl [[Rømme|rømme]]
+- [x] [[Salt|salt]]
 - [x] [[Pepper]]
 
 ## Steg

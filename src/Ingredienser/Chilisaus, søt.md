@@ -5,7 +5,7 @@ aliases:
   - Søt chilisaus
   - Chilisaus
   - chilisaus
-up:
+parent:
   - "[[Chili]]"
 permalink: sot-chilisaus
 tags: []

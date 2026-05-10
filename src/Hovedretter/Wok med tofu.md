@@ -29,7 +29,7 @@ ingredients:
   - "[[Gulrot]]"
   - "[[Brokkoli]]"
 permalink: wok-med-tofu
-up:
+category:
   - Hovedretter
 ---
 
@@ -49,16 +49,16 @@ up:
 
 #ingredient
 
-- [x] 130 g tofu
-- [x] 2 ts rød curry paste (eller Sriracha majones-dressing)
-- [x] 2 ss soyasaus
-- [x] 100 g pasta tagliatelle eller nudler
-- [x] 1 fedd hvitløk
-- [x] 1/2 stk rødløk
-- [x] 1 ss ingefær
-- [x] 1 stk selleristang
-- [x] 1 stk gulrot
-- [x] 1/2 stk brokkoli
+- [x] 130 g [[Tofu|tofu]]
+- [x] 2 ts [[Rød curry paste|rød curry paste]] (eller [[Sriracha]] [[Majones|majones]]-dressing)
+- [x] 2 ss [[Soyasaus|soyasaus]]
+- [x] 100 g [[Pasta|pasta]] [[Tagliatelle|tagliatelle]] eller [[Nudler|nudler]]
+- [x] 1 fedd [[Hvitløk|hvitløk]]
+- [x] 1/2 stk [[Rødløk|rødløk]]
+- [x] 1 ss [[Ingefær|ingefær]]
+- [x] 1 stk [[Selleristang|selleristang]]
+- [x] 1 stk [[Gulrot|gulrot]]
+- [x] 1/2 stk [[Brokkoli|brokkoli]]
 
 ## Steg
 

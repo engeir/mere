@@ -32,7 +32,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Sukker]]"
 permalink: tomat-rigatoni-med-pangrattato
-up:
+category:
   - Hovedretter
 ---
 
@@ -52,21 +52,21 @@ up:
 
 #ingredient
 
-- [x] 1 pakke Rigatoni
-- [x] 50 g Soltørkede tomater
-- [x] 125 g Cherrytomater
-- [x] 1 stk Squash
+- [x] 1 pakke [[Rigatoni]]
+- [x] 50 g [[Soltørkede tomater]]
+- [x] 125 g [[Cherrytomater]]
+- [x] 1 stk [[Squash]]
 - [x] 150 ml Matfløte
-- [x] 4 g Mamas Favoritt (eller paprikakrydder)
-- [x] 4 g Grønnsaksbuljong
-- [x] 40 g Ruccola
-- [x] 20 g Finrevet ost
-- [x] 1 pose Oregano
-- [x] 12.5 g Panko paneringsmel
-- [x] 1 ss Smør (steg 2)
-- [x] 0.5 ss Olivenolje (steg 3)
-- [x] 0.5 ts Salt (steg 3)
-- [x] 0.25 ts Sukker (steg 3)
+- [x] 4 g [[Mamas Favoritt]] (eller paprikakrydder)
+- [x] 4 g [[Grønnsaksbuljong]]
+- [x] 40 g [[Ruccola]]
+- [x] 20 g [[Finrevet ost]]
+- [x] 1 pose [[Oregano]]
+- [x] 12.5 g [[Panko paneringsmel]]
+- [x] 1 ss [[Smør]] (steg 2)
+- [x] 0.5 ss [[Olivenolje]] (steg 3)
+- [x] 0.5 ts [[Salt]] (steg 3)
+- [x] 0.25 ts [[Sukker]] (steg 3)
 
 ## Steg
 

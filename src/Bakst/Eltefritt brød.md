@@ -24,7 +24,7 @@ ingredients:
   - "[[Salt|salt]]"
   - "[[Sirup|sirup]]"
 permalink: eltefritt-brod
-up:
+category:
   - Bakst
 ---
 
@@ -40,13 +40,13 @@ up:
 
 #ingredient
 
-- [x] 10 dl vann
+- [x] 10 dl [[Vann|vann]]
 - [x] 10 dl [[hvetemel]]
-- [x] 2.5 dl rugmel
-- [x] 4 dl sammalt hvete
+- [x] 2.5 dl [[Rugmel|rugmel]]
+- [x] 4 dl [[Sammalt hvete|sammalt hvete]]
 - [x] 1 ts tørrgjær
-- [x] 2 ts salt
-- [x] 2 ts sirup (kan sløyfes)
+- [x] 2 ts [[Salt|salt]]
+- [x] 2 ts [[Sirup|sirup]] (kan sløyfes)
 
 ## Steg
 

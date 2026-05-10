@@ -24,7 +24,7 @@ ingredients:
   - "[[Vårløk]]"
   - "[[Pepper]]"
 permalink: kyllingwok-med-egg-og-nudler
-up:
+category:
   - Hovedretter
 ---
 

@@ -3,7 +3,7 @@ permalink: panko-paneringsmel
 aliases:
   - panko paneringsmel
 id: Panko paneringsmel
-up:
+parent:
   - "[[Mel]]"
 tags: []
 ---

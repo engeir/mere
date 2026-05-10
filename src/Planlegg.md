@@ -1,8 +1,8 @@
 ---
 lyst:
+  - "[[Torsk]]"
   - "[[Potet]]"
-  - "[[Laks]]"
-  - "[[Pasta]]"
+  - "[[Løk]]"
 ---
 
 # Planlegg
@@ -33,28 +33,44 @@ for (let idx = 0; idx < lyst.length; idx++) {
   const linked = dv.page(lyst[idx].path)
   const recipeIngredients = linked ? [].concat(linked.ingredients ?? []) : []
   if (recipeIngredients.length > 0) {
-    // It's a recipe — add all its ingredients
     for (const ing of recipeIngredients) {
       if (!ing?.path) continue
       ingredientMap.set(ing.path, (ingredientMap.get(ing.path) ?? 0) + weight)
     }
   } else {
-    // It's a bare ingredient — add it directly
     ingredientMap.set(lyst[idx].path, (ingredientMap.get(lyst[idx].path) ?? 0) + weight)
   }
 }
 
 const lystPaths = new Set(lyst.map(r => r.path))
 
+// Walk up: and ingredients: on ingredient files to collect all ancestor paths
+function getAncestorPaths(ingPath, visited = new Set()) {
+  if (visited.has(ingPath)) return visited
+  visited.add(ingPath)
+  const ingPage = dv.page(ingPath)
+  if (!ingPage) return visited
+  for (const u of [].concat(ingPage.parent ?? []))
+    if (u?.path) getAncestorPaths(u.path, visited)
+  for (const i of [].concat(ingPage.ingredients ?? []))
+    if (i?.path) getAncestorPaths(i.path, visited)
+  return visited
+}
+
 function score(r) {
   return [].concat(r.ingredients ?? [])
-    .filter(i => i?.path && ingredientMap.has(i.path))
-    .reduce((s, i) => s + ingredientMap.get(i.path), 0)
+    .filter(i => i?.path)
+    .reduce((s, i) => {
+      let maxWeight = 0
+      for (const p of getAncestorPaths(i.path))
+        if (ingredientMap.has(p)) maxWeight = Math.max(maxWeight, ingredientMap.get(p))
+      return s + maxWeight
+    }, 0)
 }
 
 function matchList(r) {
   return [].concat(r.ingredients ?? [])
-    .filter(i => i?.path && ingredientMap.has(i.path))
+    .filter(i => i?.path && [...getAncestorPaths(i.path)].some(p => ingredientMap.has(p)))
     .map(i => i.path.split('/').pop().replace('.md', ''))
     .join(', ')
 }

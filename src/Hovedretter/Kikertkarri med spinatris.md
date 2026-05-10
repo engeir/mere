@@ -24,12 +24,12 @@ ingredients:
   - "[[Spinat]]"
   - "[[Koriander]]"
   - "[[Chili|Chiliflak]]"
-  - "[[Jasminris]]"
+  - "[[Ris]]"
   - "[[Vann]]"
   - "[[Salt]]"
   - "[[Olivenolje]]"
 permalink: kikertkarri-med-spinatris
-up:
+category:
   - Hovedretter
 ---
 

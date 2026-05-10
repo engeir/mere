@@ -22,7 +22,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Pepper]]"
 permalink: mangosalsa
-up:
+category:
   - Enkel servering
 ---
 

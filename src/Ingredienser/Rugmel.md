@@ -3,7 +3,7 @@ permalink: rugmel
 aliases:
   - rugmel
 id: Rugmel
-up:
+parent:
   - "[[Mel]]"
 ---
 

@@ -18,11 +18,11 @@ ingredients:
   - "[[Sjalottløk]]"
   - "[[Rosmarin]]"
   - "[[Hakkede tomater|Hermetiske tomater]]"
-  - "[[Brunt sukker]]"
+  - "[[Sukker|Brunt sukker]]"
   - "[[Sherryeddik]]"
   - "[[Chili|Chilikrydder]]"
 permalink: spicy-pasta-med-gronnkal
-up:
+category:
   - Hovedretter
 ---
 
@@ -52,7 +52,7 @@ up:
 - [x] 1 stk [[sjalottløk]]
 - [x] 1 stk kvast [[rosmarin]]
 - [x] 1 stk boks [[Hakkede tomater|hermetiske tomater]]
-- [x] 1 ss [[brunt sukker]]
+- [x] 1 ss [[Sukker|brunt sukker]]
 - [x] 1 ss [[Sherryeddik]] eller eplecidereddik
 - [x] 1 ts [[Chili|chilikrydder]]
 

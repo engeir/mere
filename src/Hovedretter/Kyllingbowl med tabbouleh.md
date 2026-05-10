@@ -26,7 +26,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Olivenolje]]"
 permalink: kyllingbowl-med-tabbouleh
-up:
+category:
   - Hovedretter
 ---
 

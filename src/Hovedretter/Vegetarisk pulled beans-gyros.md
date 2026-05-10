@@ -28,7 +28,7 @@ ingredients:
   - "[[Rømme]]"
   - "[[Salt]]"
 permalink: vegetarisk-pulled-beans-gyros
-up:
+category:
   - Hovedretter
 ---
 
@@ -49,17 +49,17 @@ up:
 
 #ingredient
 
-- [x] 1 stk Rødløk
-- [x] 1 stk Salat
-- [x] 1 stk Tomat
-- [x] 1 pose Bladpersille
-- [x] 240 g Pulled beans
-- [x] 4 g Hvitløksflørt
-- [x] 4 stk Tortillabrød
-- [x] 50 g Majones
-- [x] ½ stk Hvitløk
-- [x] ½ pakke Rømme
-- [x] ¼ ts Salt (steg 2)
+- [x] 1 stk [[Rødløk]]
+- [x] 1 stk [[Salat]]
+- [x] 1 stk [[Tomat]]
+- [x] 1 pose [[Bladpersille]]
+- [x] 240 g [[Pulled beans]]
+- [x] 4 g [[Hvitløksflørt]]
+- [x] 4 stk [[Tortillabrød]]
+- [x] 50 g [[Majones]]
+- [x] ½ stk [[Hvitløk]]
+- [x] ½ pakke [[Rømme]]
+- [x] ¼ ts [[Salt]] (steg 2)
 
 ## Steg
 

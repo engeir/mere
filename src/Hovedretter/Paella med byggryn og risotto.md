@@ -7,9 +7,18 @@ tags:
   - fisk
 category: middag
 ingredients:
-  - "[[Torsk]]"
+  - "[[Torsk|Torskefilet]]"
   - "[[Risotto]]"
   - "[[Byggryn]]"
+  - "[[Hvitløk]]"
+  - "[[Løk]]"
+  - "[[Gulrot]]"
+  - "[[Hakkede tomater]]"
+  - "[[Chili]]"
+  - "[[Sitron]]"
+  - "[[Vann]]"
+  - "[[Grønnsaksbuljong]]"
+  - "[[Kruspersille]]"
 permalink: paella-med-byggryn-og-risotto
 authors:
   - "[[fattig-student]]"
@@ -46,7 +55,7 @@ cover:
 - [x] 1/2 stk [[grønnsaksbuljong]]
 - [x] 1 dl [[byggryn]] (eventuelt risotto)
 - [x] 1 dl [[Risotto|risotto]]
-- [x] 150 g [[torskefilet]]
+- [x] 150 g [[Torsk|torskefilet]]
 - [x] 1/3 pk [[kruspersille]]
 
 ## Steg
@@ -59,7 +68,7 @@ cover:
    [[Byggryn|byggrynet]] absorbere all væsken før du tilsetter en fjeredel til med
    grønnsakskraft. Gjenta til det ikke er noe mer grønnsakskraft igjen.
 4. Tilsett [[hakkede tomater]] og [[Chili|chilikrydder]], og gi det et lite oppkok.
-5. Tilsett [[torskefilet]] i terninger helt til slutt, og la torsken trekke i cirka 5–10
+5. Tilsett [[Torsk|torskefilet]] i terninger helt til slutt, og la torsken trekke i cirka 5–10
    minutter. Smak til med [[salt]], [[Pepper]], sitronsaft og finhakket
    [[kruspersille]].
 

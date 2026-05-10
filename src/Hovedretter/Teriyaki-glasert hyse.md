@@ -26,7 +26,7 @@ ingredients:
   - "[[Vann]]"
   - "[[Salt]]"
 permalink: teriyaki-glasert-hyse
-up:
+category:
   - Hovedretter
 ---
 
@@ -47,23 +47,23 @@ up:
 
 #ingredient
 
-- [x] 250 g Hyse
-- [x] ½ stk Sprøstekt løk
-- [x] 150 g Jasminris
-- [x] 2 stk Hvitløk
-- [x] 250 g Brokkoli
+- [x] 250 g [[Hyse]]
+- [x] ½ stk [[Sprøstekt løk]]
+- [x] 150 g [[Jasminris]]
+- [x] 2 stk [[Hvitløk]]
+- [x] 250 g [[Brokkoli]]
 - [x] ½ g Chiliflak
-- [x] ½ stk Lime
-- [x] 75 g Teriyakisaus
-- [x] ½ ss Smør (steg 1)
-- [x] 3 dl Vann (steg 1)
-- [x] ½ ts Salt (steg 1)
+- [x] ½ stk [[Lime]]
+- [x] 75 g [[Teriyakisaus]]
+- [x] ½ ss [[Smør]] (steg 1)
+- [x] 3 dl [[Vann]] (steg 1)
+- [x] ½ ts [[Salt]] (steg 1)
 - [x] 2 ss [[Hvetemel]] (steg 3)
-- [x] ½ ts Salt (steg 3)
-- [x] 1 ss Olivenolje (steg 4)
-- [x] 1 ss Smør (steg 5)
-- [x] 1 dl Vann (steg 5)
-- [x] ¼ ts Salt (steg 5)
+- [x] ½ ts [[Salt]] (steg 3)
+- [x] 1 ss [[Olivenolje]] (steg 4)
+- [x] 1 ss [[Smør]] (steg 5)
+- [x] 1 dl [[Vann]] (steg 5)
+- [x] ¼ ts [[Salt]] (steg 5)
 
 ## Steg
 

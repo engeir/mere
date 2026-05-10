@@ -25,7 +25,7 @@ ingredients:
   - "[[Vann]]"
   - "[[Olivenolje]]"
 permalink: malaysisk-kyllinglaksa
-up:
+category:
   - Hovedretter
 ---
 

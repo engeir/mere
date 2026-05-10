@@ -27,7 +27,7 @@ ingredients:
   - "[[Pepper]]"
   - "[[Parmesan]]"
 permalink: minestronesuppe
-up:
+category:
   - Hovedretter
 ---
 

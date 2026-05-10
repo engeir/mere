@@ -22,7 +22,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Pepper]]"
 permalink: loksuppe
-up:
+category:
   - Hovedretter
 ---
 

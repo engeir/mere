@@ -10,8 +10,8 @@ cover:
 description: Hello, World in Chef
 ingredients: []
 permalink: hello-world
-up:
-  - Hovedretter
+category:
+  - Dessert
 ---
 
 # Hello, World!

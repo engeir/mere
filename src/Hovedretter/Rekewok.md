@@ -23,7 +23,7 @@ ingredients:
   - "[[Soyasaus]]"
   - "[[Pepper]]"
 permalink: rekewok
-up:
+category:
   - Hovedretter
 ---
 
@@ -37,15 +37,15 @@ up:
 
 #ingredient
 
-- [x] 500 g reker
-- [x] 2 dl ris (eller en pk nudler)
-- [x] 1 pk wokgrønnsaker
-- [x] woksaus
-- [x] 1 chili
-- [x] 1 ss revet ingefær
-- [x] 3 ss soyasaus
-- [x] 1/2 lime
-- [x] 1 vårløk
+- [x] 500 g [[Reker|reker]]
+- [x] 2 dl [[Ris|ris]] (eller en pk [[Nudler|nudler]])
+- [x] 1 pk [[Wokgrønnsaker|wokgrønnsaker]]
+- [x] [[Woksaus|woksaus]]
+- [x] 1 [[Chili|chili]]
+- [x] 1 ss revet [[Ingefær|ingefær]]
+- [x] 3 ss [[Soyasaus|soyasaus]]
+- [x] 1/2 [[Lime|lime]]
+- [x] 1 [[Vårløk|vårløk]]
 - [x] [[Pepper]]
 
 ## Steg

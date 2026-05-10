@@ -1,7 +1,7 @@
 ---
 id: Vårløk
 aliases: []
-up:
+parent:
   - "[[Løk]]"
 permalink: varlok
 tags: []

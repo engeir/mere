@@ -32,18 +32,18 @@ ingredients:
 
 #ingredient
 
-- [x] 2 dl couscous
-- [x] 2 ss olivenolje
+- [x] 2 dl [[Couscous|couscous]]
+- [x] 2 ss [[Olivenolje|olivenolje]]
 - [x] 1/2 ts gurkemeie
 - [x] 1 ts spisskummen
 - [x] 1/2 pk persille
-- [x] 200 g halloumi
-- [x] 1/2 stk agurk
-- [x] 1/2 stk rødløk
-- [x] 2/3 pk cherrytomater
-- [x] 1/2 pk spinat
-- [x] 1 pk kikerter
-- [x] 200 g fetaost
+- [x] 200 g [[Halloumi|halloumi]]
+- [x] 1/2 stk [[Agurk|agurk]]
+- [x] 1/2 stk [[Rødløk|rødløk]]
+- [x] 2/3 pk [[Cherrytomater|cherrytomater]]
+- [x] 1/2 pk [[Spinat|spinat]]
+- [x] 1 pk [[Kikerter|kikerter]]
+- [x] 200 g [[Fetaost|fetaost]]
 
 ## Steg
 

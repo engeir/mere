@@ -24,7 +24,7 @@ ingredients:
   - "[[Rødløk]]"
   - "[[Yoghurt]]"
 permalink: middelhavsinspirert-kylling
-up:
+category:
   - Hovedretter
 ---
 

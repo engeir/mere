@@ -4,8 +4,8 @@ aliases:
   - Spaghetti
   - spaghetti
 tags: []
-up:
-  - "[[pasta]]"
+parent:
+  - "[[Pasta]]"
 ---
 
 # Spagetti

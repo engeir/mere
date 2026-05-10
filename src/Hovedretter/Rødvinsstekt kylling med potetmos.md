@@ -28,7 +28,7 @@ ingredients:
   - "[[Smør]]"
   - "[[Vann]]"
 permalink: rodvinsstekt-kylling-med-potetmos
-up:
+category:
   - Hovedretter
 ---
 
@@ -49,22 +49,22 @@ up:
 
 #ingredient
 
-- [x] 12.5 g Honning
-- [x] 12 g Grov sennep
-- [x] 75 g Rødkål
+- [x] 12.5 g [[Honning]]
+- [x] 12 g [[Grov sennep]]
+- [x] 75 g [[Rødkål]]
 - [x] 300 g Kyllingbryst
-- [x] 60 g Rødvinssaus
-- [x] 4 g Kyllingbuljong
-- [x] ½ g Tørket timian
-- [x] 1 stk Hvitløk
-- [x] 50 g Grønnkål
-- [x] 400 g Bakepotet
-- [x] 3 ss Melk (steg 1)
-- [x] ½ ts Salt (steg 1)
-- [x] 1 ss Olivenolje (steg 2)
-- [x] 1 ss Olivenolje (steg 4)
-- [x] 1 ss Smør (steg 5)
-- [x] ½ dl Vann (steg 5)
+- [x] 60 g [[Rødvinssaus]]
+- [x] 4 g [[Kyllingbuljong]]
+- [x] ½ g Tørket [[Timian|timian]]
+- [x] 1 stk [[Hvitløk]]
+- [x] 50 g [[Grønnkål]]
+- [x] 400 g [[Bakepotet]]
+- [x] 3 ss [[Melk]] (steg 1)
+- [x] ½ ts [[Salt]] (steg 1)
+- [x] 1 ss [[Olivenolje]] (steg 2)
+- [x] 1 ss [[Olivenolje]] (steg 4)
+- [x] 1 ss [[Smør]] (steg 5)
+- [x] ½ dl [[Vann]] (steg 5)
 
 ## Steg
 

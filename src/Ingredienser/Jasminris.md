@@ -1,7 +1,7 @@
 ---
 id: Jasminris
 aliases: []
-up:
+parent:
   - "[[Ris]]"
 tags: []
 ---

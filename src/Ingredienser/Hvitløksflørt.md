@@ -3,7 +3,7 @@ permalink: hvitloksflort
 aliases:
   - hvitløksflørt
 id: Hvitløksflørt
-up:
+parent:
   - "[[Løk]]"
   - "[[Hvitløk]]"
 tags: []

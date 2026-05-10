@@ -20,7 +20,7 @@ ingredients:
   - "[[Bakepulver]]"
   - "[[Natron]]"
 permalink: bananbrod
-up:
+category:
   - Dessert
 ---
 

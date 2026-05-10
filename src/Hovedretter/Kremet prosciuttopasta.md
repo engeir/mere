@@ -27,7 +27,7 @@ ingredients:
   - "[[Honning- og sennepssaus]]"
   - "[[Gresskarkjerner]]"
 permalink: kremet-prosciuttopasta
-up:
+category:
   - Hovedretter
 ---
 

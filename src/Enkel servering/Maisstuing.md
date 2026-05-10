@@ -18,7 +18,7 @@ ingredients:
   - "[[Pepper]]"
   - "[[Smør]]"
 permalink: maisstuing
-up:
+category:
   - Enkel servering
 ---
 
@@ -38,11 +38,11 @@ up:
 
 #ingredient
 
-- [x] 2 små eller 1 stor boks mais
-- [x] 1 dl kremfløte
-- [x] 2 fedd hvitløk
-- [x] salt og papper
-- [x] 2 ss smør
+- [x] 2 små eller 1 stor boks [[Mais|mais]]
+- [x] 1 dl [[Fløte|kremfløte]]
+- [x] 2 fedd [[Hvitløk|hvitløk]]
+- [x] [[Salt|salt]] og papper
+- [x] 2 ss [[Smør|smør]]
 
 ## Steg
 

@@ -2,7 +2,7 @@
 permalink: tagliatelle
 aliases:
   - tagliatelle pasta
-up:
+parent:
   - "[[Pasta]]"
 id: Tagliatelle
 tags: []
