@@ -165,6 +165,11 @@ Good answers should be filed back into the wiki so they compound over time.
 
 ## Content Conventions
 
+- **Recipe titles**: short and descriptive. Strip marketing subtitles, flavor adjectives,
+  and source branding. If the dish has a known name, use it. If not, use
+  `[Adjective] [main ingredient] med [key accompaniment]`. Max ~5 words.
+  Example: HelloFresh "Gresk-inspirert laks med sitron-tzatziki og sprø grønnsaker"
+  → `Gresk laks med tzatziki`.
 - YAML frontmatter: `id`, `aliases`, `tags`, `author`, `cover`, `description`,
   `ingredients` (as `[[WikiLinks]]`), `permalink`, `up`
 - Ingredient links: always `[[Ingredient]]` — creates graph edges Obsidian can traverse
