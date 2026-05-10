@@ -168,6 +168,11 @@ Good answers should be filed back into the wiki so they compound over time.
 - YAML frontmatter: `id`, `aliases`, `tags`, `author`, `cover`, `description`,
   `ingredients` (as `[[WikiLinks]]`), `permalink`, `up`
 - Ingredient links: always `[[Ingredient]]` — creates graph edges Obsidian can traverse
+- **Ingredient hierarchy**: ingredient files use `parent: ["[[ParentIngredient]]"]` to
+  express category membership. Example: `Hyse → Hvit fisk → Fisk`, `Laks → Fisk`.
+  `Planlegg.md`'s Dataview query walks this hierarchy so searching `[[Fisk]]` matches
+  all fish dishes, `[[Hvit fisk]]` matches only white fish, and `[[Hyse]]` matches only
+  haddock. The same traversal powers `mangler` exclusions.
 - Images: `Attachments/[recipe-slug]/filename.webp`
 - Language: Norwegian
 

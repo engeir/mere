@@ -5,6 +5,8 @@ tags:
 aliases:
   - laksefilet
 id: Laks
+parent:
+  - "[[Fisk]]"
 ---
 
 # Laks
