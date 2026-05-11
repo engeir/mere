@@ -3,6 +3,13 @@ id: CHANGELOG
 aliases: []
 tags: []
 ---
+## 2026-05-11 — Ny oppskrift: Ostegratinert kyllingfilet (HelloFresh)
+
+- `Hovedretter/Ostegratinert kyllingfilet.md`: ny oppskrift fra HelloFresh — ovnsbakt ostegratinert kyllingfilet med sesampoteter, brokkoli og balsamicosalat
+- `Ingredienser/Aioli.md`: ny ingrediensfil opprettet
+- `Attachments/ostegratinert-kyllingfilet/`: mappe opprettet for bilder
+
+
 
 # CHANGELOG
 
