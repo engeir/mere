@@ -5,6 +5,8 @@ aliases:
 tags:
   - frukt
 permalink: appelsin
+parent:
+  - "[[Frukt]]"
 ---
 
 # Appelsin

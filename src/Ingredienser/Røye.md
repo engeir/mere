@@ -1,10 +1,10 @@
 ---
-id: Ørret
+id: Røye
 aliases:
-  - ørret
+  - røye
 tags: []
 parent:
   - "[[Rød fisk]]"
 ---
 
-# Ørret
+# Røye

@@ -3,6 +3,46 @@ id: CHANGELOG
 aliases: []
 tags: []
 ---
+## 2026-05-12 — Ingredienshierarki: Korn
+
+- `Ingredienser/Korn.md`: ny kategorinode (top-level)
+- `Ingredienser/Byggryn.md`: lagt til `parent: [[Korn]]`, ryddet frontmatter
+- `Ingredienser/Havregryn.md`: lagt til `parent: [[Korn]]`
+- `Ingredienser/Couscous.md`: standalone (semolina — passer ikke under Korn)
+
+## 2026-05-12 — Ingredienshierarki: Ris
+
+- `Ingredienser/Basmatiris.md`: ny ingrediensfil, `parent: [[Ris]]`
+- `Ingredienser/Jasminris.md`: lagt til alias `jasminris`
+- `Ingredienser/Risotto.md`: lagt til `parent: [[Ris]]`, alias `risottoris`
+- `Hovedretter/Kylling teriyaki-bowl.md`: fikset `[[Ris|Jasminris]]` → `[[Jasminris]]`
+- `Hovedretter/Vegetarwok med kebab og ris.md`: fikset `[[Ris|Jasminris]]` → `[[Jasminris]]`
+- `Hovedretter/Kikertkarri med spinatris.md`: fikset frontmatter og ingrediens til `[[Jasminris]]`
+
+## 2026-05-12 — Ingredienshierarki: Ost
+
+- `Ingredienser/Hard ost.md`: ny kategorinode, `parent: [[Ost]]`
+- `Ingredienser/Fersk ost.md`: ny kategorinode, `parent: [[Ost]]`
+- `Ingredienser/Parmesan.md`: ny ingrediensfil, `parent: [[Hard ost]]`
+- `Ingredienser/Mozzarella.md`: ny ingrediensfil, `parent: [[Fersk ost]]`
+- `Ingredienser/Ricotta.md`: ny ingrediensfil, `parent: [[Fersk ost]]`
+- `Ingredienser/Finrevet ost.md`: lagt til `parent: [[Hard ost]]`, aliases gulost/norvegia
+- `Ingredienser/Blåmuggost.md`: lagt til `parent: [[Ost]]`, aliases gorgonzola/roquefort
+- `Ingredienser/Salatost.md`: lagt til `parent: [[Ost]]`
+- `Ingredienser/Fetaost.md`: lagt til `parent: [[Salatost]]`
+- `Ingredienser/Smøreost.md`: lagt til `parent: [[Ost]]`, aliases smøreost/kremost
+- `Ingredienser/Ost.md`: fjernet aliases som overlappet med Finrevet ost
+
+## 2026-05-12 — Ingredienshierarki: Rød fisk
+
+- `Ingredienser/Rød fisk.md`: ny kategorinode, `parent: [[Fisk]]`
+- `Ingredienser/Laks.md`: oppdatert parent `[[Fisk]]` → `[[Rød fisk]]`
+- `Ingredienser/Ørret.md`: lagt til `parent: [[Rød fisk]]`
+- `Ingredienser/Røye.md`: ny ingrediensfil, `parent: [[Rød fisk]]`
+- `Ingredienser/Regnbueørret.md`: ny ingrediensfil, `parent: [[Rød fisk]]`
+- `Ingredienser/Fjellørret.md`: ny ingrediensfil, `parent: [[Ørret]]`
+- `Ingredienser/Sjøørret.md`: ny ingrediensfil, `parent: [[Ørret]]`
+
 ## 2026-05-11 — Ny oppskrift: Ostegratinert kyllingfilet (HelloFresh)
 
 - `Hovedretter/Ostegratinert kyllingfilet.md`: ny oppskrift fra HelloFresh — ovnsbakt ostegratinert kyllingfilet med sesampoteter, brokkoli og balsamicosalat

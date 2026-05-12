@@ -20,7 +20,7 @@ ingredients:
   - "[[Chili|Chiliflak]]"
   - "[[Sopptortelloni]]"
   - "[[Basilikum]]"
-  - "[[Ost|finrevet ost]]"
+  - "[[Finrevet ost]]"
   - "[[Løk]]"
   - "[[Fløte|Matfløte]]"
   - "[[Gresskarkjerner]]"

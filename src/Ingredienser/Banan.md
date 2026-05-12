@@ -3,7 +3,10 @@ permalink: banan
 aliases:
   - bananer
 id: Banan
-tags: []
+tags:
+  - frukt
+parent:
+  - "[[Frukt]]"
 ---
 
 # Banan

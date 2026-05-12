@@ -1,10 +1,10 @@
 ---
-id: Salatost
+id: Hard ost
 aliases:
-  - salatost
+  - hard ost
 tags: []
 parent:
   - "[[Ost]]"
 ---
 
-# Salatost
+# Hard ost

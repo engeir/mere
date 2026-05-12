@@ -1,8 +1,11 @@
 ---
 permalink: havregryn
-aliases: []
+aliases:
+  - havregryn
 id: Havregryn
 tags: []
+parent:
+  - "[[Korn]]"
 ---
 
 # Havregryn

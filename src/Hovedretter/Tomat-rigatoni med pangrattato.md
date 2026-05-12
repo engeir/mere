@@ -24,7 +24,7 @@ ingredients:
   - "[[Mamas Favoritt]]"
   - "[[Grønnsaksbuljong]]"
   - "[[Ruccola]]"
-  - "[[Ost|Finrevet ost]]"
+  - "[[Finrevet ost]]"
   - "[[Oregano]]"
   - "[[Panko paneringsmel]]"
   - "[[Smør]]"

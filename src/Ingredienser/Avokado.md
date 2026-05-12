@@ -2,7 +2,10 @@
 permalink: avokado
 aliases: []
 id: Avokado
-tags: []
+tags:
+  - frukt
+parent:
+  - "[[Frukt]]"
 ---
 
 # Avokado

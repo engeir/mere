@@ -3,7 +3,10 @@ permalink: lime
 aliases:
   - limesaft
 id: Lime
-tags: []
+tags:
+  - frukt
+parent:
+  - "[[Frukt]]"
 ---
 
 # Lime

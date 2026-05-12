@@ -1,10 +1,10 @@
 ---
-id: Ørret
+id: Regnbueørret
 aliases:
-  - ørret
+  - regnbueørret
 tags: []
 parent:
   - "[[Rød fisk]]"
 ---
 
-# Ørret
+# Regnbueørret

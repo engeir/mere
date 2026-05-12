@@ -13,7 +13,7 @@ cover:
   - Attachments/kylling-teriyaki-bowl/kylling-teriyaki-bowl.webp
 description: 20 min | Enkel
 ingredients:
-  - "[[Ris|Jasminris]]"
+  - "[[Jasminris]]"
   - "[[Kylling]]"
   - "[[Teriyakisaus]]"
   - "[[Agurk]]"
@@ -47,7 +47,7 @@ category:
 #ingredient
 
 - [x] 3 dl [[vann]]
-- [x] 150 g [[Ris|jasminris]]
+- [x] 150 g [[Jasminris|jasminris]]
 - [x] 300 g [[Kylling|kyllingstrimler]]
 - [x] 2 ss [[Teriyakisaus]]
 - [x] 1 liten eller 0.5 stor [[agurk]]

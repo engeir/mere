@@ -1,10 +1,7 @@
 ---
 permalink: ost
 aliases:
-  - finrevet ost
-  - revet ost
-  - gulost
-  - hvitost
+  - ost
 id: Ost
 tags: []
 ---

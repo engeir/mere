@@ -6,7 +6,7 @@ aliases:
   - laksefilet
 id: Laks
 parent:
-  - "[[Fisk]]"
+  - "[[Rød fisk]]"
 ---
 
 # Laks

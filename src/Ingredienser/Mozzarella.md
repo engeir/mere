@@ -2,9 +2,9 @@
 id: Mozzarella
 aliases:
   - mozzarella
-  - mozzarellaen
-
 tags: []
+parent:
+  - "[[Fersk ost]]"
 ---
 
 # Mozzarella

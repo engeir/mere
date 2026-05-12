@@ -2,7 +2,10 @@
 permalink: mango
 aliases: []
 id: Mango
-tags: []
+tags:
+  - frukt
+parent:
+  - "[[Frukt]]"
 ---
 
 # Mango

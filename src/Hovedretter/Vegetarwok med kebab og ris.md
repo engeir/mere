@@ -19,7 +19,7 @@ ingredients:
   - "[[Gulrot]]"
   - "[[Hoisinsaus]]"
   - "[[Hvetemel]]"
-  - "[[Ris|Jasminris]]"
+  - "[[Jasminris]]"
   - "[[Olivenolje]]"
   - "[[Salt]]"
   - "[[Saltede peanøtter]]"

@@ -22,7 +22,7 @@ ingredients:
   - "[[Hvitløksflørt]]"
   - "[[Oliven|Kalamataoliven]]"
   - "[[Basilikum]]"
-  - "[[Ost|Finrevet ost]]"
+  - "[[Finrevet ost]]"
   - "[[Olivenolje]]"
   - "[[Salt]]"
   - "[[Sukker]]"
@@ -58,7 +58,7 @@ category:
 - [x] 4 g [[hvitløksflørt]] (eller hvitløkspulver, persille, rosmarin, timian)
 - [x] 35 g [[oliven|kalamataoliven]]
 - [x] 1 pose [[basilikum]]
-- [x] 20 g [[Ost|finrevet ost]]
+- [x] 20 g [[Finrevet ost|finrevet ost]]
 - [x] 1 ss [[olivenolje]] (steg 3)
 - [x] 0.25 ts [[salt]] (steg 3)
 - [x] 0.5 ts [[sukker]] (steg 5)
@@ -79,7 +79,7 @@ category:
    [[sukker]] og [[smør]] i pannen med [[Kylling]]. Krydre med [[salt]] og en klype
    pepper. La putre i 3-4 min, eller til sausen tykner. Bland inn [[pasta]]. Tilsett mer
    pastavann om pastaen virker tørr.
-6. Fordel [[pasta]] i skåler. Topp med [[Ost|finrevet ost]], [[oliven]] og
+6. Fordel [[pasta]] i skåler. Topp med [[Finrevet ost|finrevet ost]], [[oliven]] og
    [[basilikum]]. Reduser eller dropp [[oliven]], hvis du ikke liker det.
 
 ## Notater

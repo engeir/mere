@@ -1,10 +1,10 @@
 ---
-id: Salatost
+id: Fersk ost
 aliases:
-  - salatost
+  - fersk ost
 tags: []
 parent:
   - "[[Ost]]"
 ---
 
-# Salatost
+# Fersk ost

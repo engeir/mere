@@ -5,6 +5,8 @@ aliases:
   - feta
 id: Fetaost
 tags: []
+parent:
+  - "[[Salatost]]"
 ---
 
 # Fetaost

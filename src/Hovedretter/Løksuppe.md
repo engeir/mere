@@ -18,7 +18,7 @@ ingredients:
   - "[[Smør]]"
   - "[[Grønnsaksbuljong]]"
   - "[[Brød|Ristet brød]]"
-  - "[[Ost|Revet ost]]"
+  - "[[Finrevet ost|Revet ost]]"
   - "[[Salt]]"
   - "[[Pepper]]"
 permalink: loksuppe
@@ -48,7 +48,7 @@ category:
 - [x] 7.5 dl vann
 - [x] 1 pk [[grønnsaksbuljong]] (se også [notater](#notater))
 - [x] 2 skiver [[Brød|ristet brød]]
-- [x] 150 g [[Ost|revet ost]]
+- [x] 150 g [[Finrevet ost|revet ost]]
 - [x] [[salt]] og [[pepper]]
 
 ## Steg
@@ -56,7 +56,7 @@ category:
 1. Forvarm stekeovnen til 250°C.
 2. Fres [[løk]] blank i smeltet [[smør]]. Ha i varmt vann og
    [[grønnsaksbuljong|buljongterning]] og la suppen koke i ca. 5 minutter.
-3. Fordel suppen i suppebollene. Legg [[Brød|loffskive]] på toppen. Dryss på [[Ost]] og
+3. Fordel suppen i suppebollene. Legg [[Brød|loffskive]] på toppen. Dryss på [[Finrevet ost]] og
    gratiner suppen under grillen i stekeovnen i ca. 5 minutter.
 
 ## Notater

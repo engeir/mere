@@ -23,7 +23,7 @@ ingredients:
   - "[[Hvitløk]]"
   - "[[Panko paneringsmel]]"
   - "[[Gressløk]]"
-  - "[[Ost|Finrevet ost]]"
+  - "[[Finrevet ost]]"
   - "[[Olivenolje|Trøffelolje]]"
 permalink: sjampinjong-og-portobellopasta
 category:

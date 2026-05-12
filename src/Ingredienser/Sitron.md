@@ -2,7 +2,10 @@
 id: Sitron
 aliases:
   - sitronsaft
-tags: []
+tags:
+  - frukt
+parent:
+  - "[[Frukt]]"
 permalink: sitron
 ---
 

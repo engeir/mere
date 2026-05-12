@@ -24,7 +24,7 @@ ingredients:
   - "[[Spinat]]"
   - "[[Koriander]]"
   - "[[Chili|Chiliflak]]"
-  - "[[Ris]]"
+  - "[[Jasminris]]"
   - "[[Vann]]"
   - "[[Salt]]"
   - "[[Olivenolje]]"
@@ -59,7 +59,7 @@ category:
 - [x] 60 g [[spinat]]
 - [x] 1 pose [[Koriander]]
 - [x] ½ g [[Chili|chiliflak]]
-- [x] 150 g [[Ris|jasminris]]
+- [x] 150 g [[Jasminris|jasminris]]
 - [x] 3 dl [[vann]] (steg 1)
 - [x] ½ ts [[salt]] (steg 1)
 - [x] 1 dl [[vann]] (steg 3)

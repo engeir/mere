@@ -3,7 +3,10 @@ id: Tranebær
 aliases:
   - tranebær
 
-tags: []
+tags:
+  - frukt
+parent:
+  - "[[Frukt]]"
 ---
 
 # Tranebær

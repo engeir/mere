@@ -1,8 +1,11 @@
 ---
 id: Parmesan
-aliases: []
+aliases:
+  - parmesan
+  - parmigiano
 tags: []
-permalink: parmesan
+parent:
+  - "[[Hard ost]]"
 ---
 
 # Parmesan

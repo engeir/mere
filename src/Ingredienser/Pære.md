@@ -4,7 +4,10 @@ aliases:
   - pære
   - pæren
 
-tags: []
+tags:
+  - frukt
+parent:
+  - "[[Frukt]]"
 ---
 
 # Pære
