@@ -5,6 +5,8 @@ aliases:
   - hermetiske tomater
 id: Hakkede tomater
 tags: []
+parent:
+  - "[[Tomat]]"
 ---
 
 # Hakkede tomater

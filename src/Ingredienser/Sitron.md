@@ -5,7 +5,7 @@ aliases:
 tags:
   - frukt
 parent:
-  - "[[Frukt]]"
+  - "[[Sitrus]]"
 permalink: sitron
 ---
 

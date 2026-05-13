@@ -6,6 +6,8 @@ aliases:
   - plommetomatene
   - bokstomatene
   - Plommetomater
+id: Tomat
+tags: []
 ---
 
 # Tomat

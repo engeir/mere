@@ -6,7 +6,7 @@ aliases:
   - kremost
 tags: []
 parent:
-  - "[[Ost]]"
+  - "[[Fersk ost]]"
 ---
 
 # Smøreost

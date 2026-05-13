@@ -6,7 +6,7 @@ tags:
   - frukt
 permalink: appelsin
 parent:
-  - "[[Frukt]]"
+  - "[[Sitrus]]"
 ---
 
 # Appelsin

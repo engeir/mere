@@ -6,7 +6,7 @@ id: Lime
 tags:
   - frukt
 parent:
-  - "[[Frukt]]"
+  - "[[Sitrus]]"
 ---
 
 # Lime

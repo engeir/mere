@@ -5,6 +5,8 @@ aliases:
   - couscousen
 
 tags: []
+parent:
+  - "[[Korn]]"
 ---
 
 # Couscous

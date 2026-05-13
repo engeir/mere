@@ -4,6 +4,8 @@ aliases:
   - sjalottløk
 
 tags: []
+parent:
+  - "[[Løk]]"
 ---
 
 # Sjalottløk

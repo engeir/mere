@@ -3,6 +3,26 @@ id: CHANGELOG
 aliases: []
 tags: []
 ---
+## 2026-05-12 — Ingredienshierarki: utvidelse
+
+- `Ingredienser/Sei.md`: `parent: [[Hvit fisk]]`
+- `Ingredienser/Bulgur.md`: `parent: [[Korn]]`
+- `Ingredienser/Couscous.md`: `parent: [[Korn]]`
+- `Ingredienser/Sjalottløk.md`: `parent: [[Løk]]`
+- `Ingredienser/Sammalt hvete.md`: `parent: [[Mel]]`
+- `Ingredienser/Tipo 00 mel.md`: `parent: [[Mel]]`
+- `Ingredienser/Halloumi.md`: `parent: [[Ost]]`
+- `Ingredienser/Smøreost.md`: `parent: [[Ost]]` → `[[Fersk ost]]`
+- `Ingredienser/Udon nudler.md`: `parent: [[Nudler]]`, lagt til `id`
+- `Ingredienser/Plommetomater.md`: `parent: [[Tomat]]`
+- `Ingredienser/Hakkede tomater.md`: `parent: [[Tomat]]`
+- `Ingredienser/Tomat.md`: lagt til `id: Tomat`
+- `Ingredienser/Pasta.md`: lagt til `id: Pasta`
+- `Ingredienser/Sitrus.md`: ny kategorinode, `parent: [[Frukt]]`
+- `Ingredienser/Appelsin.md`: `parent: [[Frukt]]` → `[[Sitrus]]`
+- `Ingredienser/Sitron.md`: `parent: [[Frukt]]` → `[[Sitrus]]`
+- `Ingredienser/Lime.md`: `parent: [[Frukt]]` → `[[Sitrus]]`
+
 ## 2026-05-12 — Ingredienshierarki: Korn
 
 - `Ingredienser/Korn.md`: ny kategorinode (top-level)
