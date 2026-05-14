@@ -202,6 +202,10 @@ mise run migrate:dry-run
 mise run migrate:execute
 ```
 
+## Git
+
+Never commit without explicit user instruction.
+
 ## Automated Workflows
 
 - **Formatting**: dprint + thumbnail generation on PRs

@@ -25,6 +25,8 @@ html5lib==1.1
     # via pyrdfa3
 idna==3.7
     # via requests
+iniconfig==2.3.0
+    # via pytest
 isodate==0.6.1
     # via rdflib
     # via recipe-scrapers
@@ -39,10 +41,17 @@ lxml-html-clean==0.1.1
     # via html-text
 mf2py==2.0.1
     # via extruct
+packaging==26.2
+    # via pytest
+pluggy==1.6.0
+    # via pytest
+pygments==2.20.0
+    # via pytest
 pyparsing==3.1.2
     # via rdflib
 pyrdfa3==3.6.2
     # via extruct
+pytest==9.0.3
 pyyaml==6.0.3
 rdflib==7.0.0
     # via extruct

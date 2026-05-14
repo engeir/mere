@@ -5,8 +5,11 @@ _.python.venv = { path = ".venv", create = false }
 experimental = true
 
 [tools]
+"github:yshavit/mdq" = "latest"
+hk = "latest"
 "jq" = "latest"
 "npm:cwebp-bin" = "latest"
+pkl = "latest"
 prettier = "latest"
 rye = "latest"
 taplo = "latest"

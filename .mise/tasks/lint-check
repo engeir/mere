@@ -1,0 +1,195 @@
+#!/usr/bin/env python3
+# fmt: off
+#MISE description="Check the syntax of recipes."
+# fmt: on
+
+import re
+import sys
+from pathlib import Path
+
+import yaml
+
+DEFAULT_VAULT_ROOT = Path(__file__).parent.parent.parent / "src"
+
+RECIPE_DIRS = {"Bakst", "Dessert", "Enkel servering", "Hovedretter"}
+INGREDIENT_DIR = "Ingredienser"
+SKIP_DIRS = {"raw", "Attachments", "templates", "_includes"}
+
+RECIPE_REQUIRED_FIELDS = {"id", "permalink", "ingredients", "description"}
+RECIPE_KNOWN_FIELDS = {
+    "id",
+    "permalink",
+    "ingredients",
+    "description",
+    "author",
+    "cover",
+    "aliases",
+    "tags",
+    "up",
+}
+INGREDIENT_REQUIRED_FIELDS = {"id", "permalink"}
+INGREDIENT_KNOWN_FIELDS = {"id", "permalink", "aliases", "tags", "parent"}
+
+WIKILINK_RE = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]+)?\]\]")
+
+
+def parse_file(path: Path) -> tuple[dict, str]:
+    text = path.read_text(encoding="utf-8")
+    if not text.startswith("---"):
+        return {}, text
+    match = re.search(r"\n---(?:\n|$)", text)
+    if not match:
+        return {}, text
+    fm = yaml.safe_load(text[3 : match.start()])
+    body = text[match.end() :]
+    return fm or {}, body
+
+
+def categorize(path: Path, vault_root: Path) -> str:
+    try:
+        parts = path.relative_to(vault_root).parts
+    except ValueError:
+        return "skip"
+    if not parts:
+        return "skip"
+    top = parts[0]
+    if top in SKIP_DIRS:
+        return "skip"
+    if top in RECIPE_DIRS:
+        return "recipe"
+    if top == INGREDIENT_DIR:
+        return "ingredient"
+    return "skip"
+
+
+def _extract_wikilinks(value) -> list[str]:
+    if value is None:
+        return []
+    if isinstance(value, list):
+        return [m.strip() for v in value for m in WIKILINK_RE.findall(str(v))]
+    return [m.strip() for m in WIKILINK_RE.findall(str(value))]
+
+
+def check_recipe(path: Path, fm: dict, body: str, vault_root: Path) -> list[str]:
+    errors = []
+
+    for field in RECIPE_REQUIRED_FIELDS:
+        if field not in fm:
+            errors.append(f"frontmatter: missing required field '{field}'")
+
+    if "authors" in fm:
+        errors.append("frontmatter: use 'author' not 'authors'")
+    if "category" in fm:
+        errors.append("frontmatter: unexpected field 'category'")
+    for key in fm:
+        if key not in RECIPE_KNOWN_FIELDS and key not in ("authors", "category"):
+            errors.append(f"frontmatter: unknown field '{key}'")
+
+    ingredients = fm.get("ingredients") or []
+    if not isinstance(ingredients, list):
+        errors.append("frontmatter: 'ingredients' must be a list")
+    else:
+        for item in ingredients:
+            links = WIKILINK_RE.findall(str(item))
+            if not links:
+                errors.append(f"frontmatter: ingredient '{item}' is not a [[WikiLink]]")
+            else:
+                for link in links:
+                    link = link.strip()
+                    target = vault_root / "Ingredienser" / f"{link}.md"
+                    if not target.exists():
+                        errors.append(
+                            f"link: ingredient '[[{link}]]' has no file in Ingredienser/"
+                        )
+
+    cover = fm.get("cover")
+    if cover:
+        if isinstance(cover, list):
+            cover = cover[0] if cover else None
+        if cover:
+            if not (vault_root / cover).exists():
+                errors.append(f"cover: path '{cover}' does not exist")
+
+    if "## Ingredienser" not in body:
+        errors.append("body: missing '## Ingredienser' section")
+    if "## Steg" not in body:
+        errors.append("body: missing '## Steg' section")
+
+    ing_match = re.search(r"## Ingredienser\s*\n(.*?)(?=\n##|\Z)", body, re.DOTALL)
+    if ing_match and "#ingredient" not in ing_match.group(1):
+        errors.append("body: '#ingredient' tag missing from '## Ingredienser' section")
+
+    return errors
+
+
+def check_ingredient(path: Path, fm: dict, body: str, vault_root: Path) -> list[str]:
+    errors = []
+    for field in INGREDIENT_REQUIRED_FIELDS:
+        if field not in fm:
+            errors.append(f"frontmatter: missing required field '{field}'")
+    parent = fm.get("parent")
+    if parent:
+        for link in _extract_wikilinks(parent):
+            target = vault_root / "Ingredienser" / f"{link}.md"
+            if not target.exists():
+                errors.append(f"link: parent '[[{link}]]' has no file in Ingredienser/")
+    return errors
+
+
+def check_file(path: Path, vault_root: Path) -> list[str]:
+    category = categorize(path, vault_root)
+    if category == "skip":
+        return []
+    fm, body = parse_file(path)
+    if category == "recipe":
+        return check_recipe(path, fm, body, vault_root)
+    if category == "ingredient":
+        return check_ingredient(path, fm, body, vault_root)
+    return []
+
+
+def main():
+    import argparse
+
+    parser = argparse.ArgumentParser(description="Vault static checker")
+    parser.add_argument("files", nargs="*", help="Files to check")
+    parser.add_argument(
+        "--vault-root",
+        type=Path,
+        default=DEFAULT_VAULT_ROOT,
+        help="Path to vault src/ directory (default: repo src/)",
+    )
+    args = parser.parse_args()
+
+    vault_root: Path = args.vault_root.resolve()
+
+    paths: list[Path] = (
+        [Path(f).resolve() for f in args.files if f.endswith(".md")]
+        if args.files
+        else sorted(vault_root.rglob("*.md"))
+    )
+
+    total_errors = 0
+    files_with_errors = 0
+
+    for path in paths:
+        if not path.exists():
+            continue
+        errors = check_file(path, vault_root)
+        if errors:
+            files_with_errors += 1
+            total_errors += len(errors)
+            print(path)
+            for e in errors:
+                print(f"  [ERROR] {e}")
+            print()
+
+    if total_errors:
+        noun = "error" if total_errors == 1 else "errors"
+        files_noun = "file" if files_with_errors == 1 else "files"
+        print(f"{total_errors} {noun} in {files_with_errors} {files_noun}")
+        sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
