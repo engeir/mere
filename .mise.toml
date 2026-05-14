@@ -9,11 +9,13 @@ experimental = true
 hk = "latest"
 "jq" = "latest"
 "npm:cwebp-bin" = "latest"
+"pipx:uvrs" = "latest"
 pkl = "latest"
 prettier = "latest"
 rye = "latest"
 taplo = "latest"
 usage = "latest"
+uv = "latest"
 
 [tasks.serve]
 description = "Serve the site locally with Quartz"
