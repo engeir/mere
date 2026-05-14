@@ -1,7 +1,7 @@
 #!/usr/bin/env uvrs
 # /// script
 # requires-python = ">3.13"
-# dependencies = []
+# dependencies = ["pyyaml"]
 #
 # [tool.uv]
 # exclude-newer = "2026-05-14T18:41:43Z"
@@ -16,13 +16,14 @@ import importlib.util
 import os
 import re
 import sys
+from importlib.machinery import SourceFileLoader
 from pathlib import Path
 
 # Load shared logic from lint-check
+_loader = SourceFileLoader("lint_check", str(Path(__file__).parent / "lint-check"))
 _spec = importlib.util.spec_from_file_location(
-    "lint_check", Path(__file__).parent / "lint-check"
+    "lint_check", Path(__file__).parent / "lint-check", loader=_loader
 )
-print(Path(__file__).parent)
 _mod = importlib.util.module_from_spec(_spec)
 _spec.loader.exec_module(_mod)
 

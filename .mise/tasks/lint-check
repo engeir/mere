@@ -1,4 +1,11 @@
-#!/usr/bin/env python3
+#!/usr/bin/env uvrs
+# /// script
+# requires-python = ">3.13"
+# dependencies = ["pyyaml"]
+#
+# [tool.uv]
+# exclude-newer = "2026-05-14T18:41:43Z"
+# ///
 # fmt: off
 #MISE description="Check the syntax of recipes."
 #USAGE flag "-p --vault-root <path>" help="Vault src/ directory (default: repo src/)"
