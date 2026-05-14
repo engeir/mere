@@ -51,7 +51,7 @@ def fix_file(path: Path, vault_root: Path) -> list[str]:
         new_text = re.sub(r"^authors:", "author:", new_text, flags=re.MULTILINE)
         fixes.append("renamed 'authors' → 'author'")
     if "category" in fm:
-        new_text = re.sub(r"^category:.*\n?", "", new_text, flags=re.MULTILINE)
+        new_text = re.sub(r"^category:.*(?:\n[ \t]+.*)*\n?", "", new_text, flags=re.MULTILINE)
         fixes.append("removed 'category' field")
 
     ing_match = re.search(r"## Ingredienser\s*\n(.*?)(?=\n##|\Z)", new_text, re.DOTALL)

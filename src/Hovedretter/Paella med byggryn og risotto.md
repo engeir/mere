@@ -5,7 +5,6 @@ tags:
   - byggryn
   - sunn
   - fisk
-category: middag
 ingredients:
   - "[[Torsk|Torskefilet]]"
   - "[[Risotto]]"
@@ -20,7 +19,7 @@ ingredients:
   - "[[Grønnsaksbuljong]]"
   - "[[Kruspersille]]"
 permalink: paella-med-byggryn-og-risotto
-authors:
+author:
   - "[[fattig-student]]"
 aliases: []
 id: Paella med byggryn og risotto

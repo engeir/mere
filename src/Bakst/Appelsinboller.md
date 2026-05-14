@@ -30,8 +30,6 @@ ingredients:
   - "[[Vaniljestang]]"
   - "[[Vann]]"
 permalink: appelsinboller
-category:
-  - Bakst
 ---
 
 # Appelsinboller
