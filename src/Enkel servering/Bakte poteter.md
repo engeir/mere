@@ -13,8 +13,6 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Parmesan]]"
 permalink: ovnsbakte-potetpoteter
-category:
-  - Enkel servering
 ---
 
 # Ovnsbakte [[Potet|poteter]]

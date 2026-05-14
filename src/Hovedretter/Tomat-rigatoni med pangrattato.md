@@ -32,8 +32,6 @@ ingredients:
   - "[[Salt]]"
   - "[[Sukker]]"
 permalink: tomat-rigatoni-med-pangrattato
-category:
-  - Hovedretter
 ---
 
 # Tomat-rigatoni med pangrattato

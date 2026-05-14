@@ -27,8 +27,6 @@ ingredients:
   - "[[Smør]]"
   - "[[Salt]]"
 permalink: sopptortelloni-og-mais-i-flotesaus
-category:
-  - Hovedretter
 ---
 
 # Sopptortelloni og mais i fløtesaus

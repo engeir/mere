@@ -28,8 +28,6 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Smør]]"
 permalink: hakkebiff-med-kremet-soppsaus
-category:
-  - Hovedretter
 ---
 
 # Hakkebiff med kremet soppsaus

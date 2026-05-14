@@ -16,8 +16,6 @@ ingredients:
   - "[[Pepper]]"
   - "[[Hvetemel]]"
 permalink: vegetar-lasagne
-category:
-  - Hovedretter
 ---
 
 # Vegetar-lasagne

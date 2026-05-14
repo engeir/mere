@@ -22,8 +22,6 @@ ingredients:
   - "[[Salt]]"
   - "[[Pepper]]"
 permalink: mangosalsa
-category:
-  - Enkel servering
 ---
 
 # Mangosalsa

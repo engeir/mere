@@ -7,10 +7,8 @@ tags:
   - hvetemel
   - egg
   - fløte
-authors:
+author:
   - Eirik Enger
-category:
-  - tilbehør
 description: 35 min | Enkel
 ingredients:
   - "[[Potet]]"

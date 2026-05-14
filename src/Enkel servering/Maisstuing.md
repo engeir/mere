@@ -18,8 +18,6 @@ ingredients:
   - "[[Pepper]]"
   - "[[Smør]]"
 permalink: maisstuing
-category:
-  - Enkel servering
 ---
 
 # Maisstuing

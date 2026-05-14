@@ -25,8 +25,6 @@ ingredients:
   - "[[Ingefærpasta]]"
   - "[[Gulrot]]"
 permalink: char-siu-kjottdeig
-category:
-  - Hovedretter
 ---
 
 # Char siu-kjøttdeig

@@ -21,8 +21,6 @@ ingredients:
   - "[[Salt]]"
   - "[[Pepper]]"
 permalink: avokadokrem
-category:
-  - Enkel servering
 ---
 
 # Avokadokrem

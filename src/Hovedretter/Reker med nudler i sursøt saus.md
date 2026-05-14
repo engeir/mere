@@ -25,8 +25,6 @@ ingredients:
   - "[[Løk]]"
   - "[[Salt]]"
 permalink: reker-med-nudler-i-sursot-saus
-category:
-  - Hovedretter
 ---
 
 # Reker med nudler i sursøt saus

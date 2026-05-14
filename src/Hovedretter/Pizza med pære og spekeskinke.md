@@ -19,8 +19,6 @@ ingredients:
   - "[[Blåmuggost]]"
   - "[[Spinat]]"
 permalink: pizza-med-paere-og-spekeskinke
-category:
-  - Hovedretter
 ---
 
 # Pizza med pære og spekeskinke

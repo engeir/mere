@@ -26,8 +26,6 @@ ingredients:
   - "[[Finrevet ost]]"
   - "[[Olivenolje|Trøffelolje]]"
 permalink: sjampinjong-og-portobellopasta
-category:
-  - Hovedretter
 ---
 
 # Sjampinjong- og portobellopasta

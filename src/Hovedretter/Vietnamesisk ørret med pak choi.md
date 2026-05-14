@@ -28,8 +28,6 @@ ingredients:
   - "[[Sukker]]"
   - "[[Olivenolje]]"
 permalink: vietnamesisk-orret-med-pak-choi
-category:
-  - Hovedretter
 ---
 
 # Vietnamesisk ørret med pak choi

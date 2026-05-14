@@ -29,8 +29,6 @@ ingredients:
   - "[[Salt]]"
   - "[[Olivenolje]]"
 permalink: kikertkarri-med-spinatris
-category:
-  - Hovedretter
 ---
 
 # Kikertkarri med spinatris

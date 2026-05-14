@@ -24,8 +24,6 @@ ingredients:
   - "[[Salt|salt]]"
   - "[[Sirup|sirup]]"
 permalink: eltefritt-brod
-category:
-  - Bakst
 ---
 
 # Eltefritt brød

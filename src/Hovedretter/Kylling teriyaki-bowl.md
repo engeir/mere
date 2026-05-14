@@ -25,8 +25,6 @@ ingredients:
   - "[[Majones]]"
   - "[[Vann]]"
 permalink: kylling-teriyaki-bowl
-category:
-  - Hovedretter
 ---
 
 # Kylling teriyaki-bowl

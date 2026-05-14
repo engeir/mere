@@ -25,8 +25,6 @@ ingredients:
   - "[[Rom]]"
   - "[[Rødvin]]"
 permalink: rodvinsglogg
-category:
-  - Enkel servering
 ---
 
 # Rødvinsgløgg

@@ -20,8 +20,6 @@ ingredients:
   - "[[Pepper]]"
   - "[[Olivenolje]]"
 permalink: tomat-og-mozzarellasalat
-category:
-  - Enkel servering
 ---
 
 # Tomat- og mozzarellasalat

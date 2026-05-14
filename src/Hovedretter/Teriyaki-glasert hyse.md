@@ -26,8 +26,6 @@ ingredients:
   - "[[Vann]]"
   - "[[Salt]]"
 permalink: teriyaki-glasert-hyse
-category:
-  - Hovedretter
 ---
 
 # Teriyaki-glasert hyse

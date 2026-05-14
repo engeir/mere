@@ -30,8 +30,6 @@ ingredients:
   - "[[Vann]]"
   - "[[Salt]]"
 permalink: kremet-bacon-tortelloni
-category:
-  - Hovedretter
 ---
 
 # Kremet bacon-tortelloni

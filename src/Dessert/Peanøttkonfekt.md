@@ -19,8 +19,6 @@ ingredients:
   - "[[Kokos|kokos]]"
   - "[[Sjokolade|lys kokesjokolade]]"
 permalink: peanottkonfekt
-category:
-  - Dessert
 ---
 
 # Peanøttkonfekt

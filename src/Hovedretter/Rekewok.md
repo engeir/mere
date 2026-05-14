@@ -23,8 +23,6 @@ ingredients:
   - "[[Soyasaus]]"
   - "[[Pepper]]"
 permalink: rekewok
-category:
-  - Hovedretter
 ---
 
 # Rekewok

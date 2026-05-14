@@ -20,8 +20,6 @@ ingredients:
   - "[[Fløte|Kremfløte]]"
   - "[[Sjokolade|Kokesjokolade]]"
 permalink: dronning-maud-fromasj
-category:
-  - Dessert
 ---
 
 # Dronning Maud-fromasj

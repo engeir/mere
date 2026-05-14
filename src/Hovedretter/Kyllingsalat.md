@@ -27,8 +27,6 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Pepper]]"
 permalink: kyllingsalat
-category:
-  - Hovedretter
 ---
 
 # Kyllingsalat

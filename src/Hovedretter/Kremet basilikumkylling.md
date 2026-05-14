@@ -30,8 +30,6 @@ ingredients:
   - "[[Rosmarin]]"
   - "[[Timian]]"
 permalink: kremet-basilikumkylling
-category:
-  - Hovedretter
 ---
 
 # Kremet basilikumkylling

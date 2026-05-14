@@ -6,12 +6,8 @@ tags:
   - sjømat
   - tomat
   - taco
-authors:
+author:
   - "[[Eirik Rolland Enger]]"
-category:
-  - Eirik Rolland Enger
-  - HelloFresh
-  - hovedrett
 cover:
   - Attachments/asiatiske-reketaco/asiatiske-reketaco.webp
 date: 2024-06-23

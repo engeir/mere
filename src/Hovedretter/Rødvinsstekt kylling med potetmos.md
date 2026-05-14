@@ -28,8 +28,6 @@ ingredients:
   - "[[Smør]]"
   - "[[Vann]]"
 permalink: rodvinsstekt-kylling-med-potetmos
-category:
-  - Hovedretter
 ---
 
 # Rødvinsstekt kylling med potetmos

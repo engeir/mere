@@ -22,8 +22,6 @@ ingredients:
   - "[[Salt]]"
   - "[[Olivenolje]]"
 permalink: kylling-i-gressloksaus
-category:
-  - Hovedretter
 ---
 
 # Kylling i gressløksaus

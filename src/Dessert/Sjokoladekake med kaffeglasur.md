@@ -14,8 +14,6 @@ ingredients:
   - "[[Egg]]"
   - "[[Hvetemel]]"
 permalink: sjokoladakake-med-kaffeglasur
-category:
-  - Bakst
 ---
 
 # Sjokoladakake med kaffeglasur

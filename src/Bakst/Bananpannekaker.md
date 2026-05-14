@@ -14,8 +14,6 @@ ingredients:
   - "[[Egg]]"
   - "[[Melk]]"
 permalink: bananpannekaker
-category:
-  - Hovedretter
 ---
 
 # Bananpannekaker

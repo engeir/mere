@@ -29,8 +29,6 @@ ingredients:
   - "[[Olivenolje]]"
   - "[[Salt]]"
 permalink: japansk-taco
-category:
-  - Hovedretter
 ---
 
 # Japansk taco

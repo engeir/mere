@@ -5,11 +5,7 @@ tags:
   - halloumi
   - enkel
   - rask
-category:
-  - middag
-  - salat
-  - vegetar
-authors:
+author:
   - "[[fattig-student]]"
 ingredients:
   - "[[Halloumi]]"

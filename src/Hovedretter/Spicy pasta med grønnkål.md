@@ -22,8 +22,6 @@ ingredients:
   - "[[Sherryeddik]]"
   - "[[Chili|Chilikrydder]]"
 permalink: spicy-pasta-med-gronnkal
-category:
-  - Hovedretter
 ---
 
 # Spicy pasta med grønnkål

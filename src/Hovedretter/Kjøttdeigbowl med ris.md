@@ -25,8 +25,6 @@ ingredients:
   - "[[Sukker]]"
   - "[[Olivenolje]]"
 permalink: kjottdeigbowl-med-ris
-category:
-  - Hovedretter
 ---
 
 # Kjøttdeigbowl med ris

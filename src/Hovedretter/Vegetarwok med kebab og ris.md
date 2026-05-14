@@ -5,12 +5,8 @@ tags:
   - ris
   - vegansk
   - vegetar
-authors:
+author:
   - "[[Eirik Rolland Enger]]"
-category:
-  - Eirik Rolland Enger
-  - HelloFresh
-  - hovedrett
 date: 2024-06-23
 description: 40 | Enkel
 ingredients:

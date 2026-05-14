@@ -24,8 +24,6 @@ ingredients:
   - "[[Rødløk]]"
   - "[[Yoghurt]]"
 permalink: middelhavsinspirert-kylling
-category:
-  - Hovedretter
 ---
 
 # Middelhavsinspirert kylling

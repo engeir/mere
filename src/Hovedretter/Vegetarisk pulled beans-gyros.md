@@ -28,8 +28,6 @@ ingredients:
   - "[[Rømme]]"
   - "[[Salt]]"
 permalink: vegetarisk-pulled-beans-gyros
-category:
-  - Hovedretter
 ---
 
 # Vegetarisk pulled beans-gyros

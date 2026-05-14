@@ -24,8 +24,6 @@ ingredients:
   - "[[Balsamico]]"
   - "[[Jorda Rundt]]"
 permalink: ostegratinert-kyllingfilet
-category:
-  - Hovedretter
 ---
 
 # Ostegratinert kyllingfilet

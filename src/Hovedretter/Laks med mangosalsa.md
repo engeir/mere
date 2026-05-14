@@ -26,8 +26,6 @@ ingredients:
   - "[[Salt|Maldonsalt]]"
   - "[[Pepper]]"
 permalink: laks-med-mangosalsa
-category:
-  - Hovedretter
 ---
 
 # Laks med mangosalsa

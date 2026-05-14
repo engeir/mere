@@ -29,8 +29,6 @@ ingredients:
   - "[[Gulrot]]"
   - "[[Brokkoli]]"
 permalink: wok-med-tofu
-category:
-  - Hovedretter
 ---
 
 # Wok med Tofu
