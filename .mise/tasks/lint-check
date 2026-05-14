@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 # fmt: off
 #MISE description="Check the syntax of recipes."
+#USAGE flag "--vault-root <path>" help="Vault src/ directory (default: repo src/)"
+#USAGE arg "files" nargs="*" help="Markdown files to check (default: all in vault)"
 # fmt: on
 
+import os
 import re
 import sys
 from pathlib import Path
@@ -149,23 +152,15 @@ def check_file(path: Path, vault_root: Path) -> list[str]:
 
 
 def main():
-    import argparse
-
-    parser = argparse.ArgumentParser(description="Vault static checker")
-    parser.add_argument("files", nargs="*", help="Files to check")
-    parser.add_argument(
-        "--vault-root",
-        type=Path,
-        default=DEFAULT_VAULT_ROOT,
-        help="Path to vault src/ directory (default: repo src/)",
+    vault_root_str = os.environ.get("usage_vault_root", "")
+    vault_root = (
+        Path(vault_root_str).resolve() if vault_root_str else DEFAULT_VAULT_ROOT.resolve()
     )
-    args = parser.parse_args()
 
-    vault_root: Path = args.vault_root.resolve()
-
+    file_args = [a for a in sys.argv[1:] if a.endswith(".md")]
     paths: list[Path] = (
-        [Path(f).resolve() for f in args.files if f.endswith(".md")]
-        if args.files
+        [Path(f).resolve() for f in file_args]
+        if file_args
         else sorted(vault_root.rglob("*.md"))
     )
 

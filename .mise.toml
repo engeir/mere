@@ -13,6 +13,7 @@ pkl = "latest"
 prettier = "latest"
 rye = "latest"
 taplo = "latest"
+usage = "latest"
 
 [tasks.serve]
 description = "Serve the site locally with Quartz"

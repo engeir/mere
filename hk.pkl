@@ -4,7 +4,8 @@ import "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Builtin
 local linters = new Mapping<String, Step> {
     ["lint-check"] {
         glob = List("src/**/*.md")
-        check = "mise run lint-check -- {{ files }}"
+        check = "mise run lint-check {{files}}"
+        fix = "mise run lint-fix {{files}}"
     }
 }
 

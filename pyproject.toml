@@ -7,10 +7,6 @@ readme = "README.md"
 requires-python = ">= 3.12"
 version = "0.1.0"
 
-[tool.pytest.ini_options]
-testpaths = ["tests"]
-
 [tool.rye]
-dev-dependencies = ["pytest>=8.0"]
 managed = true
 virtual = true
