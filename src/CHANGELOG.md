@@ -3,6 +3,17 @@ id: CHANGELOG
 aliases: []
 tags: []
 ---
+## 2026-05-15 — Brasiliansk seigryte + nye ingredienskategorier
+
+- `Hovedretter/Brasiliansk seigryte.md`: ny oppskrift fra HelloFresh
+- `Ingredienser/Panamat.md`: ny ingrediens (HelloFresh-krydderblanding)
+- `Ingredienser/Grønnsaker.md`, `Urter.md`, `Nøtter.md`, `Olje.md`: nye kategorier
+- `Ingredienser/Gulrot.md`, `Spinat.md`: `parent: [[Grønnsaker]]`
+- `Ingredienser/Koriander.md`: `parent: [[Urter]]`
+- `Ingredienser/Saltede peanøtter.md`, `Peanøttsmør.md`: `parent: [[Nøtter]]`
+- `Ingredienser/Olivenolje.md`: `parent: [[Olje]]`
+- `Ingredienser/Kokosmelk.md`: `parent: [[Kokos]]`
+
 ## 2026-05-12 — Ingredienshierarki: utvidelse
 
 - `Ingredienser/Sei.md`: `parent: [[Hvit fisk]]`

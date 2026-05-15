@@ -1,9 +1,9 @@
 ---
 id: Olivenolje
-aliases:
-  - trøffelolje
-  - olje
+aliases: []
 tags: []
+parent:
+  - "[[Olje]]"
 permalink: olivenolje
 ---
 
