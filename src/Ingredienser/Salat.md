@@ -8,6 +8,8 @@ aliases:
   - isbergssalat
 id: Salat
 tags: []
+parent:
+  - "[[Grønnsaker]]"
 ---
 
 # Salat

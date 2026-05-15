@@ -4,6 +4,8 @@ aliases:
   - spisskål
 
 tags: []
+parent:
+  - "[[Grønnsaker]]"
 ---
 
 # Spisskål

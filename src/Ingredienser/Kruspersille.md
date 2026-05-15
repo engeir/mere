@@ -5,6 +5,8 @@ aliases:
   - persillen
 id: Kruspersille
 tags: []
+parent:
+  - "[[Urter]]"
 ---
 
 # Kruspersille

@@ -8,6 +8,8 @@ aliases:
   - Selleri
 id: Selleristang
 tags: []
+parent:
+  - "[[Grønnsaker]]"
 ---
 
 # Selleristang

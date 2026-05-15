@@ -7,6 +7,8 @@ aliases:
   - grønnkålkvastene
 id: Grønnkål
 tags: []
+parent:
+  - "[[Grønnsaker]]"
 ---
 
 # Grønnkål

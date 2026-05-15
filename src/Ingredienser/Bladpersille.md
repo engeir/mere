@@ -4,6 +4,8 @@ aliases:
   - bladpersille
 id: Bladpersille
 tags: []
+parent:
+  - "[[Urter]]"
 ---
 
 # Bladpersille

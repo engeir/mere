@@ -4,6 +4,8 @@ aliases:
   - rosmarin
 
 tags: []
+parent:
+  - "[[Urter]]"
 ---
 
 # Rosmarin

@@ -4,6 +4,8 @@ aliases:
   - sesamfrø
 id: Sesamfrø
 tags: []
+parent:
+  - "[[Nøtter]]"
 ---
 
 # Sesamfrø

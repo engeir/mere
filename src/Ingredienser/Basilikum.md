@@ -6,6 +6,8 @@ aliases:
   - basilikumen
 id: Basilikum
 tags: []
+parent:
+  - "[[Urter]]"
 ---
 
 # Basilikum

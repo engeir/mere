@@ -4,6 +4,8 @@ aliases:
   - kanelstang
 
 tags: []
+parent:
+  - "[[Krydder]]"
 ---
 
 # Kanelstang

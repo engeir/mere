@@ -4,6 +4,8 @@ aliases:
   - nellik
 
 tags: []
+parent:
+  - "[[Krydder]]"
 ---
 
 # Nellik

@@ -4,6 +4,8 @@ aliases:
   - rødkål
 id: Rødkål
 tags: []
+parent:
+  - "[[Grønnsaker]]"
 ---
 
 # Rødkål

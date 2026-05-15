@@ -4,6 +4,8 @@ aliases:
   - mynte
 
 tags: []
+parent:
+  - "[[Urter]]"
 ---
 
 # Mynte

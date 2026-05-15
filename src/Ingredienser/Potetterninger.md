@@ -4,6 +4,8 @@ aliases:
   - potetterninger
 
 tags: []
+parent:
+  - "[[Potet]]"
 ---
 
 # Potetterninger

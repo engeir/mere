@@ -3,6 +3,16 @@ id: CHANGELOG
 aliases: []
 tags: []
 ---
+## 2026-05-15 — Ingredienshierarki: bulk-oppdatering
+
+- `Ingredienser/Krydder.md`: ny kategori
+- `parent: [[Grønnsaker]]`: Agurk, Bladselleri, Brokkoli, Grønnkål, Mais, Pak choi, Paprika, Potet, Rødkål, Ruccola, Salat, Selleristang, Spisskål, Squash
+- `parent: [[Urter]]`: Basilikum, Bladpersille, Ingefær, Kruspersille, Mynte, Oregano, Rosmarin, Timian
+- `parent: [[Nøtter]]`: Gresskarkjerner, Sesamfrø
+- `parent: [[Krydder]]`: Kanelstang, Kardemomme, Nellik, Safran, Stjerneanis
+- `parent: [[Chili]]`: Jalapeño
+- `parent: [[Potet]]`: Potetterninger
+
 ## 2026-05-15 — Brasiliansk seigryte + nye ingredienskategorier
 
 - `Hovedretter/Brasiliansk seigryte.md`: ny oppskrift fra HelloFresh

@@ -4,6 +4,8 @@ aliases:
   - timian
 
 tags: []
+parent:
+  - "[[Urter]]"
 ---
 
 # Timian
