@@ -48,7 +48,8 @@ permalink: wok-med-tofu
 #ingredient
 
 - [x] 130 g [[Tofu|tofu]]
-- [x] 2 ts [[Rød curry paste|rød curry paste]] (eller [[Sriracha]] [[Majones|majones]]-dressing)
+- [x] 2 ts [[Rød curry paste|rød curry paste]] (eller [[Sriracha]]
+      [[Majones|majones]]-dressing)
 - [x] 2 ss [[Soyasaus|soyasaus]]
 - [x] 100 g [[Pasta|pasta]] [[Tagliatelle|tagliatelle]] eller [[Nudler|nudler]]
 - [x] 1 fedd [[Hvitløk|hvitløk]]

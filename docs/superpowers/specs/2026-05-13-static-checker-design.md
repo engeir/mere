@@ -4,14 +4,15 @@ Date: 2026-05-13
 
 ## Overview
 
-Python script that validates Obsidian vault files against the project's schema conventions. Runs as a pre-commit hook via hk, exits nonzero on violations.
+Python script that validates Obsidian vault files against the project's schema
+conventions. Runs as a pre-commit hook via hk, exits nonzero on violations.
 
 ## Files Touched
 
-| File | Action |
-|---|---|
-| `.mise/tasks/lint-check` | Create — Python checker script |
-| `hk.pkl` | Modify — add lint-check step to linters mapping |
+| File                     | Action                                          |
+| ------------------------ | ----------------------------------------------- |
+| `.mise/tasks/lint-check` | Create — Python checker script                  |
+| `hk.pkl`                 | Modify — add lint-check step to linters mapping |
 
 ## CLI
 
@@ -27,6 +28,7 @@ Python script that validates Obsidian vault files against the project's schema c
 ### Recipe files (`src/Bakst/`, `src/Dessert/`, `src/Enkel servering/`, `src/Hovedretter/`)
 
 **Frontmatter:**
+
 - Required fields: `id`, `permalink`, `ingredients`, `description`
 - Field `author` allowed; `authors` (plural) flagged as error (stale field name)
 - No unknown/stale fields (e.g. `category`, `authors`)
@@ -35,6 +37,7 @@ Python script that validates Obsidian vault files against the project's schema c
 - `cover` path (if present) exists under `src/Attachments/`
 
 **Body:**
+
 - Contains `## Ingredienser` section
 - Contains `## Steg` section
 - `#ingredient` tag present in `## Ingredienser` section
@@ -42,8 +45,10 @@ Python script that validates Obsidian vault files against the project's schema c
 ### Ingredient files (`src/Ingredienser/`)
 
 **Frontmatter:**
+
 - Required fields: `id`, `permalink`
-- `parent` values (if present) match `[[Link]]` pattern and resolve to `src/Ingredienser/`
+- `parent` values (if present) match `[[Link]]` pattern and resolve to
+  `src/Ingredienser/`
 
 ### Skipped paths
 
@@ -78,6 +83,7 @@ src/Hovedretter/Paella med byggryn og risotto.md
 ```
 
 Workflows:
+
 - `git commit` → hk pre-commit hook → passes staged `.md` files as args
 - `hk check --all` → passes all vault `.md` files as args
 - `hk install` → run once to wire up git hooks

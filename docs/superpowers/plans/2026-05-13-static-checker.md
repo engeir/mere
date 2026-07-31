@@ -1,18 +1,26 @@
 # Static Checker Implementation Plan
 
-> **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
+> **For agentic workers:** REQUIRED SUB-SKILL: Use
+> superpowers:subagent-driven-development (recommended) or superpowers:executing-plans
+> to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Python script at `.mise/tasks/lint-check` that validates Obsidian vault `.md` files against schema conventions and runs as an hk pre-commit hook.
+**Goal:** Python script at `.mise/tasks/lint-check` that validates Obsidian vault `.md`
+files against schema conventions and runs as an hk pre-commit hook.
 
-**Architecture:** Single executable Python script. Accepts file list as positional args (hk staged mode) or scans full `src/` vault when called with no args. All validation logic is in plain functions. hk.pkl routes staged `.md` files to the checker via `mise run lint-check -- {{ files }}`.
+**Architecture:** Single executable Python script. Accepts file list as positional args
+(hk staged mode) or scans full `src/` vault when called with no args. All validation
+logic is in plain functions. hk.pkl routes staged `.md` files to the checker via
+`mise run lint-check -- {{ files }}`.
 
-**Tech Stack:** Python 3.12+, pyyaml (already in deps), pytest (dev dep to add), hk, mise
+**Tech Stack:** Python 3.12+, pyyaml (already in deps), pytest (dev dep to add), hk,
+mise
 
 ---
 
 ### Task 1: Test infrastructure + checker stub
 
 **Files:**
+
 - Modify: `pyproject.toml`
 - Create: `tests/__init__.py`
 - Create: `tests/test_lint_check.py`
@@ -25,13 +33,15 @@ rye add --dev pytest
 rye sync
 ```
 
-Expected: `pyproject.toml` `[tool.rye] dev-dependencies` gains `pytest`, `.venv` updated.
+Expected: `pyproject.toml` `[tool.rye] dev-dependencies` gains `pytest`, `.venv`
+updated.
 
 - [ ] **Step 2: Create test file with shared helpers**
 
 Create `tests/__init__.py` — empty file.
 
 Create `tests/test_lint_check.py`:
+
 ```python
 import importlib.util
 import subprocess
@@ -65,6 +75,7 @@ def run_checker(*args):
 - [ ] **Step 3: Create checker stub**
 
 Create `.mise/tasks/lint-check`:
+
 ```python
 #!/usr/bin/env python3
 import re
@@ -115,12 +126,14 @@ Expected: 0 tests collected, no import errors.
 ### Task 2: Frontmatter parser
 
 **Files:**
+
 - Modify: `.mise/tasks/lint-check`
 - Modify: `tests/test_lint_check.py`
 
 - [ ] **Step 1: Write failing tests**
 
 Append to `tests/test_lint_check.py`:
+
 ```python
 def test_parse_file_with_frontmatter(tmp_path):
     f = tmp_path / "test.md"
@@ -156,6 +169,7 @@ Expected: FAIL — `AttributeError: module 'lint_check' has no attribute 'parse_
 - [ ] **Step 3: Implement parse_file**
 
 Add to `.mise/tasks/lint-check` before `main()`:
+
 ```python
 def parse_file(path: Path) -> tuple[dict, str]:
     text = path.read_text(encoding="utf-8")
@@ -180,12 +194,14 @@ Expected: 3 PASSED.
 ### Task 3: File categorizer
 
 **Files:**
+
 - Modify: `.mise/tasks/lint-check`
 - Modify: `tests/test_lint_check.py`
 
 - [ ] **Step 1: Write failing tests**
 
 Append to `tests/test_lint_check.py`:
+
 ```python
 def test_categorize_recipe(tmp_path):
     vault = tmp_path / "src"
@@ -228,6 +244,7 @@ Expected: FAIL — `AttributeError: module 'lint_check' has no attribute 'catego
 - [ ] **Step 3: Implement categorize**
 
 Add to `.mise/tasks/lint-check` after `parse_file`, before `main()`:
+
 ```python
 def categorize(path: Path, vault_root: Path) -> str:
     try:
@@ -259,12 +276,14 @@ Expected: 5 PASSED.
 ### Task 4: Recipe checks (frontmatter + links + body)
 
 **Files:**
+
 - Modify: `.mise/tasks/lint-check`
 - Modify: `tests/test_lint_check.py`
 
 - [ ] **Step 1: Write failing tests**
 
 Append to `tests/test_lint_check.py`:
+
 ```python
 VALID_RECIPE_BODY = (
     "\n## Ingredienser\n\n#ingredient\n\n"
@@ -384,9 +403,10 @@ def test_recipe_missing_ingredient_tag(tmp_path):
 
 Expected: FAIL — `AttributeError: module 'lint_check' has no attribute 'check_recipe'`
 
-- [ ] **Step 3: Implement _extract_wikilinks and check_recipe**
+- [ ] **Step 3: Implement \_extract_wikilinks and check_recipe**
 
 Add to `.mise/tasks/lint-check` after `categorize`, before `main()`:
+
 ```python
 def _extract_wikilinks(value) -> list[str]:
     if value is None:
@@ -460,12 +480,14 @@ Expected: all recipe tests PASSED.
 ### Task 5: Ingredient file checks
 
 **Files:**
+
 - Modify: `.mise/tasks/lint-check`
 - Modify: `tests/test_lint_check.py`
 
 - [ ] **Step 1: Write failing tests**
 
 Append to `tests/test_lint_check.py`:
+
 ```python
 def test_ingredient_valid(tmp_path):
     vault = tmp_path / "src"
@@ -513,11 +535,13 @@ def test_ingredient_parent_missing(tmp_path):
 .venv/bin/pytest tests/test_lint_check.py -k "ingredient" -v
 ```
 
-Expected: FAIL — `AttributeError: module 'lint_check' has no attribute 'check_ingredient'`
+Expected: FAIL —
+`AttributeError: module 'lint_check' has no attribute 'check_ingredient'`
 
 - [ ] **Step 3: Implement check_ingredient**
 
 Add to `.mise/tasks/lint-check` after `check_recipe`, before `main()`:
+
 ```python
 def check_ingredient(path: Path, fm: dict, body: str, vault_root: Path) -> list[str]:
     errors = []
@@ -546,12 +570,14 @@ Expected: all ingredient tests PASSED.
 ### Task 6: Wire CLI + output formatting
 
 **Files:**
+
 - Modify: `.mise/tasks/lint-check`
 - Modify: `tests/test_lint_check.py`
 
 - [ ] **Step 1: Write failing CLI tests**
 
 Append to `tests/test_lint_check.py`:
+
 ```python
 def _make_vault(tmp_path):
     vault = tmp_path / "src"
@@ -614,11 +640,13 @@ def test_cli_nonexistent_file_skipped(tmp_path):
 .venv/bin/pytest tests/test_lint_check.py -k "cli" -v
 ```
 
-Expected: `test_cli_clean_file_exits_0` and `test_cli_violations_exit_1` FAIL (main() is a no-op).
+Expected: `test_cli_clean_file_exits_0` and `test_cli_violations_exit_1` FAIL (main() is
+a no-op).
 
 - [ ] **Step 3: Implement check_file and main()**
 
 Replace the `main()` stub in `.mise/tasks/lint-check` with:
+
 ```python
 def check_file(path: Path, vault_root: Path) -> list[str]:
     category = categorize(path, vault_root)
@@ -689,18 +717,21 @@ Expected: all tests PASSED.
 mise run lint-check
 ```
 
-Expected: output listing known violations — at minimum Paella's `category` and `authors` fields.
+Expected: output listing known violations — at minimum Paella's `category` and `authors`
+fields.
 
 ---
 
 ### Task 7: Wire up hk.pkl + install hooks
 
 **Files:**
+
 - Modify: `hk.pkl`
 
 - [ ] **Step 1: Add lint-check step to hk.pkl**
 
 Edit `hk.pkl`. Replace the empty `linters` mapping with:
+
 ```pkl
 local linters = new Mapping<String, Step> {
     ["lint-check"] {

@@ -165,11 +165,11 @@ Good answers should be filed back into the wiki so they compound over time.
 
 ## Content Conventions
 
-- **Recipe titles**: short and descriptive. Strip marketing subtitles, flavor adjectives,
-  and source branding. If the dish has a known name, use it. If not, use
-  `[Adjective] [main ingredient] med [key accompaniment]`. Max ~5 words.
-  Example: HelloFresh "Gresk-inspirert laks med sitron-tzatziki og sprø grønnsaker"
-  → `Gresk laks med tzatziki`.
+- **Recipe titles**: short and descriptive. Strip marketing subtitles, flavor
+  adjectives, and source branding. If the dish has a known name, use it. If not, use
+  `[Adjective] [main ingredient] med [key accompaniment]`. Max ~5 words. Example:
+  HelloFresh "Gresk-inspirert laks med sitron-tzatziki og sprø grønnsaker" →
+  `Gresk laks med tzatziki`.
 - YAML frontmatter: `id`, `aliases`, `tags`, `author`, `cover`, `description`,
   `ingredients` (as `[[WikiLinks]]`), `permalink`, `up`
 - Ingredient links: always `[[Ingredient]]` — creates graph edges Obsidian can traverse
@@ -178,10 +178,11 @@ Good answers should be filed back into the wiki so they compound over time.
   `Planlegg.md`'s Dataview query walks this hierarchy so searching `[[Fisk]]` matches
   all fish dishes, `[[Hvit fisk]]` matches only white fish, and `[[Hyse]]` matches only
   haddock. The same traversal powers `mangler` exclusions.
-- Images: `Attachments/[recipe-slug]/filename.webp` — format `webp`, target size ~500 kB,
-  ratio `2:1` (e.g. 4000x2000). Convert with `cwebp -size 500000 in.jpg -o out.webp`.
-  Crop first if needed: `cwebp -crop <x> <y> <width> <height> in.jpg -o out.webp`.
-  For 4000x3000 source, center crop to 2:1: `cwebp -crop 0 500 4000 2000 -size 500000 in.webp -o out.webp`.
+- Images: `Attachments/[recipe-slug]/filename.webp` — format `webp`, target size ~500
+  kB, ratio `2:1` (e.g. 4000x2000). Convert with
+  `cwebp -size 500000 in.jpg -o out.webp`. Crop first if needed:
+  `cwebp -crop <x> <y> <width> <height> in.jpg -o out.webp`. For 4000x3000 source,
+  center crop to 2:1: `cwebp -crop 0 500 4000 2000 -size 500000 in.webp -o out.webp`.
 - Language: Norwegian
 
 ## Development Commands

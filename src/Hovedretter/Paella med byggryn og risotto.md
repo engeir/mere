@@ -67,8 +67,8 @@ cover:
    [[Byggryn|byggrynet]] absorbere all væsken før du tilsetter en fjeredel til med
    grønnsakskraft. Gjenta til det ikke er noe mer grønnsakskraft igjen.
 4. Tilsett [[hakkede tomater]] og [[Chili|chilikrydder]], og gi det et lite oppkok.
-5. Tilsett [[Torsk|torskefilet]] i terninger helt til slutt, og la torsken trekke i cirka 5–10
-   minutter. Smak til med [[salt]], [[Pepper]], sitronsaft og finhakket
+5. Tilsett [[Torsk|torskefilet]] i terninger helt til slutt, og la torsken trekke i
+   cirka 5–10 minutter. Smak til med [[salt]], [[Pepper]], sitronsaft og finhakket
    [[kruspersille]].
 
 <script type="application/ld+json">

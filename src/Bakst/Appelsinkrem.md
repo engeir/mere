@@ -30,7 +30,8 @@ tags: []
 - [x] 1 dl saft fra en [[Appelsin|appelsin]]
 - [x] 1 ss saft fra en [[Sitron|sitron]]
 - [x] 1 ss [[Maisstivelse|maisstivelse]]
-- [x] 0.5 ts [[Vaniljeekstrakt|vaniljeekstrakt]] eller 0.5 stk [[Vaniljestang|vaniljestang]]
+- [x] 0.5 ts [[Vaniljeekstrakt|vaniljeekstrakt]] eller 0.5 stk
+      [[Vaniljestang|vaniljestang]]
 
 ## Steg
 

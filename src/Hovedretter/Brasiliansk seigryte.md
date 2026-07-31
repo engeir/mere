@@ -36,9 +36,9 @@ permalink: brasiliansk-seigryte
 > [Denne oppskriften](https://www.hellofresh.no/recipes/brasiliansk-krydret-seigryte-666199f35fb32512350b4d57)
 > er originalt fra [[HelloFresh]].
 
-| ⏲️ Tid  | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
-| ------- | ------------ | -------------------- |
-| 25 min  | 2 porsjoner  | Enkel                |
+| ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
+| ------ | ------------ | -------------------- |
+| 25 min | 2 porsjoner  | Enkel                |
 
 ## Ingredienser
 
@@ -64,9 +64,9 @@ permalink: brasiliansk-seigryte
    **Tips:** Ikke fjern lokket — risen skal dampes.
 2. I mellomtiden, grovhakk koriander og peanøtter. Skjær sitrusfrukt i båter.
 3. Skjær gulrot (uskrelt) i tynne halvmåner. Skyll spinat.
-4. Tørk fisk med kjøkkenpapir og krydre med salt og pepper. Varm opp olivenolje i en stor
-   stekepanne på middels høy varme. Stek gulrot og sei i 1–2 min på hver side, eller til
-   gulrot har myknet.
+4. Tørk fisk med kjøkkenpapir og krydre med salt og pepper. Varm opp olivenolje i en
+   stor stekepanne på middels høy varme. Stek gulrot og sei i 1–2 min på hver side,
+   eller til gulrot har myknet.
 5. Tilsett kokosmelk, hakkede tomater, Panamat, chiliflak, litt vann, salt og pepper. La
    putre i 2–3 min, eller til sausen tykner og fisken er gjennomstekt. Vend spinat i
    sausen. **Tips:** Fisken er ferdig når kjøttet er melkehvitt og matt. Tilsett

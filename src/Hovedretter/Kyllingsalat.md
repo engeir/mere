@@ -37,9 +37,9 @@ permalink: kyllingsalat
 
 ## Ingredienser
 
-#ingredient
-
 ### Salat
+
+#ingredient
 
 - [x] 400 g [[Kylling]] (gjerne lår)
 - [x] 1/2 [[Salat|isbergssalat]]
@@ -52,6 +52,8 @@ permalink: kyllingsalat
 - [x] [[fetaost]]
 
 ### Dressing
+
+#ingredient
 
 - [x] [[Pesto]]
 - [x] 2 ss [[eddik]]

@@ -54,8 +54,8 @@ permalink: loksuppe
 1. Forvarm stekeovnen til 250°C.
 2. Fres [[løk]] blank i smeltet [[smør]]. Ha i varmt vann og
    [[grønnsaksbuljong|buljongterning]] og la suppen koke i ca. 5 minutter.
-3. Fordel suppen i suppebollene. Legg [[Brød|loffskive]] på toppen. Dryss på [[Finrevet ost]] og
-   gratiner suppen under grillen i stekeovnen i ca. 5 minutter.
+3. Fordel suppen i suppebollene. Legg [[Brød|loffskive]] på toppen. Dryss på
+   [[Finrevet ost]] og gratiner suppen under grillen i stekeovnen i ca. 5 minutter.
 
 ## Notater
 
