@@ -11,6 +11,7 @@ tags: []
 #ingredient
 
 - [x] Gelatin ^gelatin
+- [x] Bakepapir ^bakepapir
 - [x] Gjær ^gjaer
 - [x] Sukker ^sukker
 
@@ -66,6 +67,7 @@ tags: []
 
 - [x] Dorens ^dorens
 - [x] Dopapir ^dopapir
+- [x] Leppepomade ^leppepomade
 - [x] Shampoo ^shampoo
 - [x] Tannkrem ^tannkrem
 - [x] Vaskemiddel farget ^vaskemiddel-farget
@@ -162,6 +164,8 @@ tags: []
 - [x] Tacosalsa ^tacosalsa
 
 ---
+
+#ingredient
 
 - [x] Drink ^drink
 - [x] Frisk ^frisk
