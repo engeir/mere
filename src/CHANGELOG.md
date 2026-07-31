@@ -3,6 +3,14 @@ id: CHANGELOG
 aliases: []
 tags: []
 ---
+
+## 2026-07-31 — Sprø bbq-kylling med kålsalat
+
+- `Hovedretter/Sprø bbq-kylling med kålsalat.md`: ny oppskrift fra HelloFresh
+  (src/raw/Sprø bbq-kylling _s oppskrift.md)
+- `Attachments/spro-bbq-kylling-med-kalsalat/`: hero-bilde hentet fra HelloFresh og
+  konvertert til webp
+
 ## 2026-05-15 — Ingredienshierarki: bulk-oppdatering
 
 - `Ingredienser/Krydder.md`: ny kategori
