@@ -40,7 +40,7 @@ permalink: malaysisk-svinekarri
 
 | ⏲️ Tid | 🍽️ Porsjoner | 👨‍🍳 Vanskelighetsgrad |
 | ------ | ------------ | -------------------- |
-| 20 min | 2 porsjoner  | Middels               |
+| 20 min | 2 porsjoner  | Middels              |
 
 ## Ingredienser
 
@@ -92,8 +92,8 @@ permalink: malaysisk-svinekarri
    ts], [[Sukker]] og en klype [[Pepper]]. Kok i 2-3 min, eller til sausen blir kremet.
    Tilsett pak choi og kok i ytterligere 1 min.
 
-5. I mellomtiden, skjær [[Sitrus|sitrusfrukt]] i båter. Tilsett en skvett sitrusfruktsaft
-   i stekepannen.
+5. I mellomtiden, skjær [[Sitrus|sitrusfrukt]] i båter. Tilsett en skvett
+   sitrusfruktsaft i stekepannen.
 
 6. Anrett ris i dype tallerkener og topp med svinekjøtt og grønnsaker. Strø resterende
    chili over og press en skvett sitrusfruktsaft over.
