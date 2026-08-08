@@ -1,4 +1,5 @@
 ---
+permalink: ginger-ninja
 id: Ginger Ninja
 aliases:
   - Ginger ninja

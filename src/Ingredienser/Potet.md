@@ -1,4 +1,5 @@
 ---
+permalink: potet
 aliases:
   - poteter
   - Poteter

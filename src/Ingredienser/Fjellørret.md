@@ -1,4 +1,5 @@
 ---
+permalink: fjellorret
 id: Fjellørret
 aliases:
   - fjellørret

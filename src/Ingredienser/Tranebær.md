@@ -1,4 +1,5 @@
 ---
+permalink: tranebaer
 id: Tranebær
 aliases:
   - tranebær

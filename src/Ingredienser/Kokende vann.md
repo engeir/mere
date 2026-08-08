@@ -1,4 +1,5 @@
 ---
+permalink: kokende-vann
 id: Kokende vann
 aliases:
   - kokende vann

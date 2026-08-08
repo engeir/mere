@@ -1,4 +1,5 @@
 ---
+permalink: spisskal
 id: Spisskål
 aliases:
   - spisskål

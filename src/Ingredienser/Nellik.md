@@ -1,4 +1,5 @@
 ---
+permalink: nellik
 id: Nellik
 aliases:
   - nellik

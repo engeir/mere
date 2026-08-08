@@ -1,4 +1,5 @@
 ---
+permalink: bolledeig
 id: Bolledeig
 aliases:
   - Hveteboller

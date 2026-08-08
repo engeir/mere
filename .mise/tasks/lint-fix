@@ -19,6 +19,8 @@ import sys
 from importlib.machinery import SourceFileLoader
 from pathlib import Path
 
+import yaml
+
 # Load shared logic from lint-check
 _loader = SourceFileLoader("lint_check", str(Path(__file__).parent / "lint-check"))
 _spec = importlib.util.spec_from_file_location(
@@ -31,10 +33,18 @@ categorize = _mod.categorize
 parse_file = _mod.parse_file
 DEFAULT_VAULT_ROOT = _mod.DEFAULT_VAULT_ROOT
 
+SLUG_TRANSLATION = str.maketrans({"æ": "ae", "ø": "o", "å": "a"})
+
+
+def slugify(name: str) -> str:
+    slug = name.strip().lower().translate(SLUG_TRANSLATION)
+    slug = re.sub(r"[^a-z0-9]+", "-", slug)
+    return slug.strip("-")
+
 
 def fix_file(path: Path, vault_root: Path) -> list[str]:
     category = categorize(path, vault_root)
-    if category != "recipe":
+    if category not in ("recipe", "ingredient"):
         return []
     text = path.read_text(encoding="utf-8")
     if not text.startswith("---"):
@@ -42,23 +52,41 @@ def fix_file(path: Path, vault_root: Path) -> list[str]:
     match = re.search(r"\n---(?:\n|$)", text)
     if not match:
         return []
-    fm = __import__("yaml").safe_load(text[3 : match.start()]) or {}
+    fm = yaml.safe_load(text[3 : match.start()]) or {}
 
     fixes = []
     new_text = text
 
-    if "authors" in fm:
-        new_text = re.sub(r"^authors:", "author:", new_text, flags=re.MULTILINE)
-        fixes.append("renamed 'authors' → 'author'")
-    if "category" in fm:
-        new_text = re.sub(r"^category:.*(?:\n[ \t]+.*)*\n?", "", new_text, flags=re.MULTILINE)
-        fixes.append("removed 'category' field")
+    if category == "recipe":
+        if "authors" in fm:
+            new_text = re.sub(r"^authors:", "author:", new_text, flags=re.MULTILINE)
+            fixes.append("renamed 'authors' → 'author'")
+        if "category" in fm:
+            new_text = re.sub(
+                r"^category:.*(?:\n[ \t]+.*)*\n?", "", new_text, flags=re.MULTILINE
+            )
+            fixes.append("removed 'category' field")
 
-    ing_match = re.search(r"## Ingredienser\s*\n(.*?)(?=\n##|\Z)", new_text, re.DOTALL)
-    if ing_match and "#ingredient" not in ing_match.group(1):
-        insert_at = ing_match.start(1)
-        new_text = new_text[:insert_at] + "#ingredient\n\n" + new_text[insert_at:]
-        fixes.append("added '#ingredient' tag")
+        ing_match = re.search(r"## Ingredienser\s*\n(.*?)(?=\n##|\Z)", new_text, re.DOTALL)
+        if ing_match and "#ingredient" not in ing_match.group(1):
+            insert_at = ing_match.start(1)
+            new_text = new_text[:insert_at] + "#ingredient\n\n" + new_text[insert_at:]
+            fixes.append("added '#ingredient' tag")
+
+    frontmatter_start = re.match(r"^---\r?\n", new_text)
+    insert_lines = []
+    new_id = fm.get("id")
+    if "id" not in fm:
+        new_id = path.stem
+        insert_lines.append(yaml.safe_dump({"id": new_id}, allow_unicode=True))
+        fixes.append(f"added 'id: {new_id}'")
+    if "permalink" not in fm:
+        slug = slugify(str(new_id) if new_id else path.stem)
+        insert_lines.append(yaml.safe_dump({"permalink": slug}, allow_unicode=True))
+        fixes.append(f"added 'permalink: {slug}'")
+    if insert_lines:
+        insert_at = frontmatter_start.end()
+        new_text = new_text[:insert_at] + "".join(insert_lines) + new_text[insert_at:]
 
     if fixes:
         path.write_text(new_text, encoding="utf-8")

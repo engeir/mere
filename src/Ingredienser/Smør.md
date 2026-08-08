@@ -1,4 +1,5 @@
 ---
+permalink: smor
 id: Smør
 aliases:
   - smør

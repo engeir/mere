@@ -1,4 +1,5 @@
 ---
+permalink: sjalottlok
 id: Sjalottløk
 aliases:
   - sjalottløk

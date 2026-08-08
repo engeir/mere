@@ -1,4 +1,5 @@
 ---
+permalink: hard-ost
 id: Hard ost
 aliases:
   - hard ost

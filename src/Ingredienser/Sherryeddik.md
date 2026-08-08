@@ -1,4 +1,5 @@
 ---
+permalink: sherryeddik
 id: Sherryeddik
 aliases:
   - sherry-

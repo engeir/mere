@@ -1,4 +1,6 @@
 ---
+id: Couscoussalat med halloumi
+permalink: couscoussalat-med-halloumi
 description: 30 min | Enkel
 tags:
   - couscous

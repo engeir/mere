@@ -1,4 +1,5 @@
 ---
+permalink: sjoorret
 id: Sjøørret
 aliases:
   - sjøørret

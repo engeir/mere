@@ -1,4 +1,5 @@
 ---
+id: Squash
 permalink: squash
 aliases:
   - squash

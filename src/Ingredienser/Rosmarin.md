@@ -1,4 +1,5 @@
 ---
+permalink: rosmarin
 id: Rosmarin
 aliases:
   - rosmarin

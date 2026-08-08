@@ -1,4 +1,5 @@
 ---
+permalink: mynte
 id: Mynte
 aliases:
   - mynte

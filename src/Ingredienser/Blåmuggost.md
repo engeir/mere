@@ -1,4 +1,5 @@
 ---
+permalink: blamuggost
 id: Blåmuggost
 aliases:
   - blåmuggost

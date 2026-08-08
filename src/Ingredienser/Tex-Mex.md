@@ -1,4 +1,5 @@
 ---
+permalink: tex-mex
 id: Tex-Mex
 aliases:
   - tex-mex

@@ -1,4 +1,5 @@
 ---
+permalink: bonner
 id: Bønner
 aliases:
   - bønner

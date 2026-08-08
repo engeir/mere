@@ -1,4 +1,5 @@
 ---
+permalink: hvit-fisk
 id: Hvit fisk
 aliases:
   - hvit fisk

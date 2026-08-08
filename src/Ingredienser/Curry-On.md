@@ -1,4 +1,5 @@
 ---
+permalink: curry-on
 id: Curry-On
 aliases:
   - curry-on

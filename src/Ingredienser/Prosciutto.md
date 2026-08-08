@@ -1,4 +1,5 @@
 ---
+permalink: prosciutto
 id: Prosciutto
 aliases:
   - prosciutto

@@ -1,4 +1,5 @@
 ---
+permalink: kjottdeig
 id: Kjøttdeig
 aliases:
   - kjøttdeig

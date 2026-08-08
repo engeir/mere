@@ -1,4 +1,5 @@
 ---
+permalink: gronn-karripasta
 id: Grønn karripasta
 aliases:
   - grønn karripasta

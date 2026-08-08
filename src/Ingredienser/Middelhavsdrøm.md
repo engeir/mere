@@ -1,4 +1,5 @@
 ---
+permalink: middelhavsdrom
 id: Middelhavsdrøm
 aliases:
   - middelhavsdrøm

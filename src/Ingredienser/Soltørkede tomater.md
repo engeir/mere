@@ -1,4 +1,5 @@
 ---
+id: Soltørkede tomater
 permalink: soltorkede-tomater
 aliases:
   - soltørkede tomater

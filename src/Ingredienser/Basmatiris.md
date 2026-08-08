@@ -1,4 +1,5 @@
 ---
+permalink: basmatiris
 id: Basmatiris
 aliases:
   - basmatiris

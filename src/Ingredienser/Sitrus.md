@@ -1,4 +1,5 @@
 ---
+permalink: sitrus
 id: Sitrus
 aliases:
   - sitrus

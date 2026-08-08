@@ -1,4 +1,5 @@
 ---
+permalink: spagetti
 id: spagetti
 aliases:
   - Spaghetti

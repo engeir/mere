@@ -1,4 +1,5 @@
 ---
+permalink: fisk
 id: Fisk
 aliases:
   - fisk

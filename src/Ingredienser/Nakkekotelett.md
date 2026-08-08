@@ -1,4 +1,5 @@
 ---
+permalink: nakkekotelett
 id: Nakkekotelett
 aliases:
   - nakkekotelett

@@ -1,4 +1,5 @@
 ---
+permalink: fersk-ost
 id: Fersk ost
 aliases:
   - fersk ost

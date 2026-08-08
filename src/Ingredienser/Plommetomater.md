@@ -1,4 +1,5 @@
 ---
+permalink: plommetomater
 id: Plommetomater
 aliases:
   - plommetomater

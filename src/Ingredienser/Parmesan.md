@@ -1,4 +1,5 @@
 ---
+permalink: parmesan
 id: Parmesan
 aliases:
   - parmesan

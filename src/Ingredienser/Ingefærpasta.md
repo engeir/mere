@@ -1,4 +1,5 @@
 ---
+permalink: ingefaerpasta
 id: Ingefærpasta
 aliases:
   - ingefærpasta

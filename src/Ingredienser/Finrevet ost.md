@@ -1,4 +1,5 @@
 ---
+permalink: finrevet-ost
 id: Finrevet ost
 aliases:
   - finrevet ost

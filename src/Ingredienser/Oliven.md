@@ -1,4 +1,5 @@
 ---
+permalink: oliven
 id: Oliven
 aliases:
   - oliven

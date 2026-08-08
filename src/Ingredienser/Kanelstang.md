@@ -1,4 +1,5 @@
 ---
+permalink: kanelstang
 id: Kanelstang
 aliases:
   - kanelstang

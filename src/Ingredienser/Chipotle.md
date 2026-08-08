@@ -1,4 +1,5 @@
 ---
+permalink: chipotle
 id: Chipotle
 aliases:
   - chipotle

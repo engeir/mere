@@ -1,4 +1,5 @@
 ---
+permalink: bulgur
 id: Bulgur
 aliases: []
 tags: []

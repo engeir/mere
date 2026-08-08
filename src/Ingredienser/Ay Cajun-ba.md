@@ -1,4 +1,5 @@
 ---
+permalink: ay-cajun-ba
 id: Ay Cajun-ba
 aliases:
   - ay cajun-ba

@@ -1,4 +1,5 @@
 ---
+permalink: srirachamajones
 id: Srirachamajones
 aliases:
   - srirachamajones

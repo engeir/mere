@@ -1,4 +1,5 @@
 ---
+permalink: rodvin
 id: Rødvin
 aliases:
   - rødvin

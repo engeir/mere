@@ -1,4 +1,5 @@
 ---
+permalink: jalape-o
 id: Jalapeño
 aliases:
   - jalapeño

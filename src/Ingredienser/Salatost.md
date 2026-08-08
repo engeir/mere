@@ -1,4 +1,5 @@
 ---
+permalink: salatost
 id: Salatost
 aliases:
   - salatost

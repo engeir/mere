@@ -1,4 +1,5 @@
 ---
+permalink: nudler
 id: Nudler
 aliases:
   - nudler

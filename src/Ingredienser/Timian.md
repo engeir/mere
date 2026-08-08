@@ -1,4 +1,5 @@
 ---
+permalink: timian
 id: Timian
 aliases:
   - timian

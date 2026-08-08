@@ -1,4 +1,5 @@
 ---
+permalink: potetterninger
 id: Potetterninger
 aliases:
   - potetterninger

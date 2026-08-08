@@ -1,4 +1,5 @@
 ---
+permalink: yoghurt
 id: Yoghurt
 aliases:
   - yoghurt

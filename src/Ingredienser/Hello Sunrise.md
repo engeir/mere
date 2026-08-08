@@ -1,4 +1,5 @@
 ---
+permalink: hello-sunrise
 id: Hello Sunrise
 aliases:
   - hello sunrise

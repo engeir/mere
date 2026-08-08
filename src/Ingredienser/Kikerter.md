@@ -1,4 +1,5 @@
 ---
+permalink: kikerter
 id: Kikerter
 aliases:
   - kikerter

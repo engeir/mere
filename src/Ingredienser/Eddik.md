@@ -1,4 +1,5 @@
 ---
+permalink: eddik
 id: Eddik
 aliases:
   - eddik

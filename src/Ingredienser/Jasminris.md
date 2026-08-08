@@ -1,4 +1,5 @@
 ---
+permalink: jasminris
 id: Jasminris
 aliases:
   - jasminris

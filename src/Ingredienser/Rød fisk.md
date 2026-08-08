@@ -1,4 +1,5 @@
 ---
+permalink: rod-fisk
 id: Rød fisk
 aliases:
   - rød fisk

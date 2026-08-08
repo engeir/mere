@@ -1,4 +1,5 @@
 ---
+permalink: buljong
 id: Buljong
 aliases:
   - buljong

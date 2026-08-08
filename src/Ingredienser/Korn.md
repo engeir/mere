@@ -1,4 +1,5 @@
 ---
+permalink: korn
 id: Korn
 aliases:
   - korn

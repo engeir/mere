@@ -1,4 +1,5 @@
 ---
+permalink: mozzarella
 id: Mozzarella
 aliases:
   - mozzarella

@@ -1,4 +1,5 @@
 ---
+permalink: regnbueorret
 id: Regnbueørret
 aliases:
   - regnbueørret

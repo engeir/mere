@@ -1,4 +1,5 @@
 ---
+permalink: kokosmelk
 id: Kokosmelk
 aliases:
   - kokosmelk

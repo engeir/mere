@@ -1,4 +1,5 @@
 ---
+permalink: ricotta
 id: Ricotta
 aliases:
   - ricotta

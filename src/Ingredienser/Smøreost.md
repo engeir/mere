@@ -1,4 +1,5 @@
 ---
+permalink: smoreost
 id: Smøreost
 aliases:
   - Philadelphiaost

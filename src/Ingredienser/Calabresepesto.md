@@ -1,4 +1,5 @@
 ---
+permalink: calabresepesto
 id: Calabresepesto
 aliases:
   - calabresepesto

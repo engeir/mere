@@ -1,4 +1,5 @@
 ---
+permalink: tipo-00-mel
 id: Tipo 00 mel
 aliases:
   - tipo 00 mel

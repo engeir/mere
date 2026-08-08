@@ -1,4 +1,5 @@
 ---
+permalink: paere
 id: Pære
 aliases:
   - pære

@@ -1,4 +1,5 @@
 ---
+permalink: roye
 id: Røye
 aliases:
   - røye

@@ -1,4 +1,5 @@
 ---
+permalink: stjerneanis
 id: Stjerneanis
 aliases:
   - stjerneanis
