@@ -1,5 +1,8 @@
 ---
-permalink: appelsinkrem
+id: Appelsinkrem
+aliases: []
+tags: []
+description: Søt krem med smak av syrlig appelsin
 ingredients:
   - "[[Appelsin]]"
   - "[[Sitron]]"
@@ -9,9 +12,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Maisstivelse]]"
   - "[[Vaniljestang]]"
-aliases: []
-id: Appelsinkrem
-tags: []
+permalink: appelsinkrem
 ---
 
 # Appelsinkrem

@@ -1,6 +1,9 @@
 ---
-permalink: sjokoladefyll
+id: Sjokoladefyll
+aliases: []
+tags: []
 cover: appelsinboller/sjokoladefyll.webp
+description: Sjokolade slår aldri feil
 ingredients:
   - "[[Smør]]"
   - "[[Melis]]"
@@ -8,9 +11,7 @@ ingredients:
   - "[[Salt]]"
   - "[[Appelsin]]"
   - "[[Sjokolade|Sjokolade, mørk]]"
-aliases: []
-id: Sjokoladefyll
-tags: []
+permalink: sjokoladefyll
 ---
 
 # Sjokoladefyll

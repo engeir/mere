@@ -1,5 +1,4 @@
 ---
-permalink: bolledeig
 id: Bolledeig
 aliases:
   - Hveteboller
@@ -7,6 +6,7 @@ aliases:
 tags:
   - bakst/bolledeig
 cover: appelsinboller/deig.webp
+description: En fin base å starte ethvert bolleeventyr med
 ingredients:
   - "[[Hvetemel]]"
   - "[[Gjær]]"
@@ -17,6 +17,7 @@ ingredients:
   - "[[Melk]]"
   - "[[Smør]]"
   - "[[Safran]]"
+permalink: bolledeig
 ---
 
 # Bolledeig
