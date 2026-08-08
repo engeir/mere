@@ -110,6 +110,10 @@ mise run format:check   # check only
 mise run format:fix     # fix in place
 ```
 
+For fixing files Claude just authored/edited, prefer `hk fix -- <files>` over calling
+`prettier`/`taplo` directly — `hk.pkl` wraps `mise run lint-fix` (prettier + taplo +
+repo lint rules) via its `lint-check` step, and calling prettier directly bypasses that.
+
 Also check that all pages follow the page format above.
 
 ### 2. Link hygiene (manual review)
@@ -183,6 +187,14 @@ Good answers should be filed back into the wiki so they compound over time.
   `cwebp -size 500000 in.jpg -o out.webp`. Crop first if needed:
   `cwebp -crop <x> <y> <width> <height> in.jpg -o out.webp`. For 4000x3000 source,
   center crop to 2:1: `cwebp -crop 0 500 4000 2000 -size 500000 in.webp -o out.webp`.
+  **Before cropping a raw phone photo**, check EXIF orientation
+  (`identify -format "%[EXIF:Orientation]\n" in.jpg` or `exiftool -Orientation in.jpg`).
+  If it isn't 1/blank, bake the rotation into the pixels first with
+  `magick in.jpg -auto-orient corrected.jpg` and crop `corrected.jpg`, never the
+  original — `cwebp -crop` reads the raw stored pixel grid and ignores the EXIF
+  orientation tag, and webp carries no orientation metadata for Obsidian to correct
+  afterward, so skipping this ships a rotated cover with no visual warning (a round bowl
+  of food can look "right" rotated 90° too).
 - Language: Norwegian
 
 ## Development Commands
