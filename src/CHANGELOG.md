@@ -4,6 +4,15 @@ aliases: []
 tags: []
 ---
 
+## 2026-08-08 — Rask kjøttdeig-arrabiata
+
+- `Hovedretter/Rask kjøttdeig-arrabiata.md`: ny oppskrift fra HelloFresh
+  (src/raw/Rask kjøttdeig-arrabiata _s oppskrift.md); ingrediensmengder (4 porsjoner)
+  hentet fra kilde-URL siden rå-scrapen manglet ingredienslisten
+- `Attachments/rask-kjottdeig-arrabiata/`: hero-bilde EXIF-korrigert (kilden var
+  liggende med `Orientation: Rotate 90 CW`), deretter beskåret til 2:1 og konvertert til
+  webp
+
 ## 2026-07-31 — Sprø bbq-kylling med kålsalat
 
 - `Hovedretter/Sprø bbq-kylling med kålsalat.md`: ny oppskrift fra HelloFresh
