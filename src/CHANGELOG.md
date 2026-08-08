@@ -4,6 +4,18 @@ aliases: []
 tags: []
 ---
 
+## 2026-08-08 — Malaysisk svinekarri
+
+- `Hovedretter/Malaysisk svinekarri.md`: ny oppskrift fra HelloFresh
+  (src/raw/Malaysisk svinekarri _s oppskrift.md); ingrediensmengder (2 porsjoner) hentet
+  fra kilde-URL siden rå-scrapen manglet ingredienslisten
+- `Ingredienser/Svin.md`: ny overordnet ingrediens; `Svin ytrefilet.md` og
+  `Svinekjøttdeig.md` satt som barn av denne
+- `Ingredienser/Svin ytrefilet.md`: ny ingrediens for oppskriften
+- `Attachments/malaysisk-svinekarri/`: hero-bilde fra src/raw/20260807_192735.jpg
+  (brukerens eget bilde), EXIF-korrigert (kilden var liggende med
+  `Orientation: Rotate 90 CW`), deretter beskåret til 2:1 og konvertert til webp
+
 ## 2026-08-08 — Rask kjøttdeig-arrabiata
 
 - `Hovedretter/Rask kjøttdeig-arrabiata.md`: ny oppskrift fra HelloFresh
