@@ -52,11 +52,11 @@ permalink: bondelapper
    stikkes ut med glass", men som man kan se av bildet ble min en røre og ikke en deig.
    Så jeg hoppet over dette steget og brukte en skje til å ha røra over i panna.
 
-   ![[bondelapper/rore.webp]]
+   ![[Attachments/bondelapper/rore.webp]]
 
 4. Stekes på takke eller panne som smøres.
 
-   ![[bondelapper/steking.webp]]
+   ![[Attachments/bondelapper/steking.webp]]
 
 ## Notater
 

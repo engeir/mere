@@ -106,10 +106,17 @@ def check_recipe(path: Path, fm: dict, body: str, vault_root: Path) -> list[str]
             else:
                 for link in links:
                     link = link.strip()
-                    target = vault_root / "Ingredienser" / f"{link}.md"
-                    if not target.exists():
+                    ingredient_target = vault_root / "Ingredienser" / f"{link}.md"
+                    recipe_targets = [
+                        vault_root / recipe_dir / f"{link}.md"
+                        for recipe_dir in RECIPE_DIRS
+                    ]
+                    if not ingredient_target.exists() and not any(
+                        t.exists() for t in recipe_targets
+                    ):
                         errors.append(
-                            f"link: ingredient '[[{link}]]' has no file in Ingredienser/"
+                            f"link: ingredient '[[{link}]]' has no file in "
+                            "Ingredienser/ or a recipe dir"
                         )
 
     cover = fm.get("cover")

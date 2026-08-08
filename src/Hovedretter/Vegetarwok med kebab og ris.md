@@ -7,7 +7,6 @@ tags:
   - vegetar
 author:
   - "[[Eirik Rolland Enger]]"
-date: 2024-06-23
 description: 40 | Enkel
 ingredients:
   - "[[Brokkoli]]"
@@ -24,7 +23,6 @@ ingredients:
   - "[[Vann]]"
   - "[[Vegansk kebab]]"
   - "[[Vårløk]]"
-lastmod: 2025-08-31T12:07:42+0200
 permalink: vegetarwok-med-kebab-og-ris
 ---
 

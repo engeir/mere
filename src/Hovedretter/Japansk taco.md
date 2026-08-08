@@ -17,7 +17,7 @@ description: 30 | Enkel
 ingredients:
   - "[[Hvitløk|hvitløk]]"
   - "[[Chili|Rød chili]]"
-  - "[[majones]]"
+  - "[[Majones]]"
   - "[[Woksaus|Asiatisk woksaus]]"
   - "[[Tortillabrød|Små tortilla]]"
   - "[[Salat|Strimlet salat]]"
@@ -50,7 +50,7 @@ permalink: japansk-taco
 
 - [x] 1 stk [[Hvitløk|hvitløk]]
 - [x] 1 stk [[Chili|rød chili]]
-- [x] 50 g [[majones]]
+- [x] 50 g [[Majones|majones]]
 - [x] 37.5 g [[Woksaus|asiatisk woksaus]]
 - [x] 8 stk [[Tortillabrød|små tortilla]]
 - [x] 150 g [[Salat|strimlet salat]] (kål, savoy, gulrot)

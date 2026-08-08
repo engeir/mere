@@ -33,7 +33,7 @@ permalink: tante-wallys-hveteboller
 - [x] 150 g [[smør]] (evt margarin hvis du ikke er #noseedoils)
 - [x] 50 g [[Gjær|fersk gjær]]
 
-## Fremgangsmåte
+## Steg
 
 1. Sikt og bland alt det tørre.
 2. Smelt [[smør]] og avkjøl den til omtrent 37 grader.

@@ -10,13 +10,11 @@ author:
   - "[[fattig-student]]"
 description: 10 min | Enkel
 ingredients:
-  - "[[spagetti]]"
+  - "[[Spagetti]]"
   - "[[Chorizo]]"
   - "[[Fetaost]]"
   - "[[Tomat- og paprika-suppe]]"
 permalink: hovedretter/spagetti-med-chorizo
-title: Spagetti med chorizo
-visibility: hidden
 ---
 
 # [[Spagetti]] med [[Chorizo]]
@@ -41,7 +39,7 @@ visibility: hidden
 
 #ingredient
 
-- [x] 100 g [[spagetti]]
+- [x] 100 g [[Spagetti]]
 - [x] 40 g [[Chorizo]]
 - [x] 50 g [[Fetaost]]
 - [x] 2 dl [[Tomat- og paprika-suppe|gårsdagens supperester]]
@@ -50,8 +48,8 @@ visibility: hidden
 
 1. I denne middagen bruker vi tomat– og paprikasuppe som ble laget tidligere i
    ukemenyen.
-2. Kok opp [[spagetti]] etter anvisning på pakken, men la det være igjen et par minutter
-   av koketiden.
+2. Kok opp [[Spagetti|spagetti]] etter anvisning på pakken, men la det være igjen et par
+   minutter av koketiden.
 3. Kutt opp [[Chorizo]] i terninger og stek i ei stekepanne. Tilsett paprikasuppen, og
    la det putre i noen minutter til spagettien er ferdig.
 4. Tilsett spagettien i sausen og topp med [[Fetaost]].

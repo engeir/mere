@@ -2,6 +2,8 @@ amends "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Config.
 import "package://github.com/jdx/hk/releases/download/v1.45.0/hk@1.45.0#/Builtins.pkl"
 
 local linters = new Mapping<String, Step> {
+    ["prettier"] = Builtins.prettier
+    ["taplo"] = Builtins.taplo_format
     ["lint-check"] {
         glob = List("src/**/*.md")
         check = "mise run lint-check {{files}}"

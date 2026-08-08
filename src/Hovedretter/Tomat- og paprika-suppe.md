@@ -18,7 +18,7 @@ ingredients:
   - "[[Rødløk]]"
   - "[[Hakkede tomater]]"
   - "[[Grønnsaksbuljong]]"
-  - "[[vann]]"
+  - "[[Vann]]"
   - "[[Pizzakrydder]]"
   - "[[Salt]]"
   - "[[Pepper]]"
@@ -47,7 +47,7 @@ ingredients:
 - [x] 1 [[Rødløk]]
 - [x] 1 pk [[Hakkede tomater]]
 - [x] 1 [[Grønnsaksbuljong]]
-- [x] 5 dl [[vann]]
+- [x] 5 dl [[Vann|vann]]
 - [x] 1 ss [[Pizzakrydder]]
 - [x] [[Salt]] & [[Pepper]]
 - [x] 1 neve [[Spinat]]
@@ -61,8 +61,8 @@ ingredients:
    sammen med litt olje eller [[smør]] til løken har blitt blank.
 3. Ta paprikaene ut av ovnen, kutt av stilkene med frøene og dra av skinnet langs hele
    paprikaen (bruk gjerne papir). Kutt paprikaene opp i biter og legg til side.
-4. Tilsett [[Paprika]], [[Pizzakrydder]], hahakkede tomater, [[vann]] og buljong. La
-   suppen koke i ca. 10–15 minutter.
+4. Tilsett [[Paprika]], [[Pizzakrydder]], hahakkede tomater, [[Vann|vann]] og buljong.
+   La suppen koke i ca. 10–15 minutter.
 5. I mellomtiden kan du kutte opp [[Chorizo]] i terninger og steke dette i ei panne,
    først alene (gjerne opp mot 10 min. på lav varme), og så mot slutten sammen med
    [[Spinat]] til spinaten har krympet sammen. Når chorizoen steker passer det også fint
@@ -82,7 +82,7 @@ ingredients:
   "@context": "https://schema.org/",
   "@type": "Recipe",
   "name": "tomat-paprika-suppe",
-  "image": "Attachments/[[tomat-paprika-suppe.webp]]",
+  "image": "Attachments/tomat-og-paprikasuppe/tomat-og-paprikasuppe.webp",
   "author": {
     "@type": "Person",
     "name": "fattig-student"

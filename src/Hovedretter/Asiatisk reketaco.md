@@ -10,7 +10,6 @@ author:
   - "[[Eirik Rolland Enger]]"
 cover:
   - Attachments/asiatiske-reketaco/asiatiske-reketaco.webp
-date: 2024-06-23
 description: 40 | Enkel
 ingredients:
   - "[[Agurk]]"
@@ -25,7 +24,6 @@ ingredients:
   - "[[Srirachamajones]]"
   - "[[Chilisaus, søt|Søt chilisaus]]"
   - "[[Rødkål]]"
-lastmod: 2025-08-29T23:01:09+0200
 permalink: asiatiske-reketaco
 ---
 
